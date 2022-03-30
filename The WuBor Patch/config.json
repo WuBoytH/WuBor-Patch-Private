@@ -8,6 +8,38 @@
 			"effect/fighter/shulk/trail/tex_shulk_swordred3.nutexb",
 			"effect/fighter/shulk/trail/tex_shulk_swordred4.nutexb"
 		],
+		"fighter/demon/c00": [
+			"fighter/demon/motion/body/c00/j01appealhilloop.nuanmb",
+			"fighter/demon/motion/body/c00/j01appealhirloop.nuanmb"
+		],
+		"fighter/demon/c01": [
+			"fighter/demon/motion/body/c01/j01appealhilloop.nuanmb",
+			"fighter/demon/motion/body/c01/j01appealhirloop.nuanmb"
+		],
+		"fighter/demon/c02": [
+			"fighter/demon/motion/body/c02/j01appealhilloop.nuanmb",
+			"fighter/demon/motion/body/c02/j01appealhirloop.nuanmb"
+		],
+		"fighter/demon/c03": [
+			"fighter/demon/motion/body/c03/j01appealhilloop.nuanmb",
+			"fighter/demon/motion/body/c03/j01appealhirloop.nuanmb"
+		],
+		"fighter/demon/c04": [
+			"fighter/demon/motion/body/c04/j01appealhilloop.nuanmb",
+			"fighter/demon/motion/body/c04/j01appealhirloop.nuanmb"
+		],
+		"fighter/demon/c05": [
+			"fighter/demon/motion/body/c05/j01appealhilloop.nuanmb",
+			"fighter/demon/motion/body/c05/j01appealhirloop.nuanmb"
+		],
+		"fighter/demon/c06": [
+			"fighter/demon/motion/body/c06/j01appealhilloop.nuanmb",
+			"fighter/demon/motion/body/c06/j01appealhirloop.nuanmb"
+		],
+		"fighter/demon/c07": [
+			"fighter/demon/motion/body/c07/j01appealhilloop.nuanmb",
+			"fighter/demon/motion/body/c07/j01appealhirloop.nuanmb"
+		],
 		"fighter/dolly/c00": [
 			"fighter/dolly/motion/body/c00/c01attacks3hi.nuanmb",
 			"fighter/dolly/motion/body/c00/c01attacks3lw.nuanmb",
