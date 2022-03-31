@@ -119,6 +119,30 @@
 			"fighter/edge/motion/body/c07/j01appeallwloop.nuanmb",
 			"fighter/edge/motion/body/c07/j01appealsloop.nuanmb",
 			"fighter/edge/motion/body/c07/j01appealsattack.nuanmb"
+		],
+		"fighter/kirby/c00": [
+			"fighter/kirby/motion/body/c00/j01appealsloop.nuanmb"
+		],
+		"fighter/kirby/c01": [
+			"fighter/kirby/motion/body/c01/j01appealsloop.nuanmb"
+		],
+		"fighter/kirby/c02": [
+			"fighter/kirby/motion/body/c02/j01appealsloop.nuanmb"
+		],
+		"fighter/kirby/c03": [
+			"fighter/kirby/motion/body/c03/j01appealsloop.nuanmb"
+		],
+		"fighter/kirby/c04": [
+			"fighter/kirby/motion/body/c04/j01appealsloop.nuanmb"
+		],
+		"fighter/kirby/c05": [
+			"fighter/kirby/motion/body/c05/j01appealsloop.nuanmb"
+		],
+		"fighter/kirby/c06": [
+			"fighter/kirby/motion/body/c06/j01appealsloop.nuanmb"
+		],
+		"fighter/kirby/c07": [
+			"fighter/kirby/motion/body/c07/j01appealsloop.nuanmb"
 		]
 	}
 }
