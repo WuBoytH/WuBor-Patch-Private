@@ -143,6 +143,30 @@
 		],
 		"fighter/kirby/c07": [
 			"fighter/kirby/motion/body/c07/j01appealsloop.nuanmb"
+		],
+		"fighter/robot/c00": [
+			"fighter/robot/motion/body/c00/j01appealhiloop.nuanmb"
+		],
+		"fighter/robot/c01": [
+			"fighter/robot/motion/body/c01/j01appealhiloop.nuanmb"
+		],
+		"fighter/robot/c02": [
+			"fighter/robot/motion/body/c02/j01appealhiloop.nuanmb"
+		],
+		"fighter/robot/c03": [
+			"fighter/robot/motion/body/c03/j01appealhiloop.nuanmb"
+		],
+		"fighter/robot/c04": [
+			"fighter/robot/motion/body/c04/j01appealhiloop.nuanmb"
+		],
+		"fighter/robot/c05": [
+			"fighter/robot/motion/body/c05/j01appealhiloop.nuanmb"
+		],
+		"fighter/robot/c06": [
+			"fighter/robot/motion/body/c06/j01appealhiloop.nuanmb"
+		],
+		"fighter/robot/c07": [
+			"fighter/robot/motion/body/c07/j01appealhiloop.nuanmb"
 		]
 	}
 }
