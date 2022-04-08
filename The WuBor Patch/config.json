@@ -167,6 +167,38 @@
 		],
 		"fighter/robot/c07": [
 			"fighter/robot/motion/body/c07/j01appealhiloop.nuanmb"
+		],
+		"fighter/szerosuit/c00": [
+			"fighter/szerosuit/motion/body/c00/d02specialhi2.nuanmb",
+			"fighter/szerosuit/motion/body/c00/d02specialairhi2.nuanmb"
+		],
+		"fighter/szerosuit/c01": [
+			"fighter/szerosuit/motion/body/c01/d02specialhi2.nuanmb",
+			"fighter/szerosuit/motion/body/c01/d02specialairhi2.nuanmb"
+		],
+		"fighter/szerosuit/c02": [
+			"fighter/szerosuit/motion/body/c02/d02specialhi2.nuanmb",
+			"fighter/szerosuit/motion/body/c02/d02specialairhi2.nuanmb"
+		],
+		"fighter/szerosuit/c03": [
+			"fighter/szerosuit/motion/body/c03/d02specialhi2.nuanmb",
+			"fighter/szerosuit/motion/body/c03/d02specialairhi2.nuanmb"
+		],
+		"fighter/szerosuit/c04": [
+			"fighter/szerosuit/motion/body/c04/d02specialhi2.nuanmb",
+			"fighter/szerosuit/motion/body/c04/d02specialairhi2.nuanmb"
+		],
+		"fighter/szerosuit/c05": [
+			"fighter/szerosuit/motion/body/c05/d02specialhi2.nuanmb",
+			"fighter/szerosuit/motion/body/c05/d02specialairhi2.nuanmb"
+		],
+		"fighter/szerosuit/c06": [
+			"fighter/szerosuit/motion/body/c06/d02specialhi2.nuanmb",
+			"fighter/szerosuit/motion/body/c06/d02specialairhi2.nuanmb"
+		],
+		"fighter/szerosuit/c07": [
+			"fighter/szerosuit/motion/body/c07/d02specialhi2.nuanmb",
+			"fighter/szerosuit/motion/body/c07/d02specialairhi2.nuanmb"
 		]
 	}
 }
