@@ -147,6 +147,9 @@
 		"fighter/marth/c00": [
 			"fighter/marth/motion/body/c00/d03speciallwenter.nuanmb",
 			"fighter/marth/motion/body/c00/d03speciallwwait.nuanmb",
+			"fighter/marth/motion/body/c00/d03speciallwsquat.nuanmb",
+			"fighter/marth/motion/body/c00/d03speciallwsquatwait.nuanmb",
+			"fighter/marth/motion/body/c00/d03speciallwsquatrv.nuanmb",
 			"fighter/marth/motion/body/c00/d03speciallwexit.nuanmb",
 			"fighter/marth/motion/body/c00/d03speciallwattack11.nuanmb",
 			"fighter/marth/motion/body/c00/d03speciallwattacklw3.nuanmb"
@@ -154,6 +157,9 @@
 		"fighter/marth/c01": [
 			"fighter/marth/motion/body/c01/d03speciallwenter.nuanmb",
 			"fighter/marth/motion/body/c01/d03speciallwwait.nuanmb",
+			"fighter/marth/motion/body/c01/d03speciallwsquat.nuanmb",
+			"fighter/marth/motion/body/c01/d03speciallwsquatwait.nuanmb",
+			"fighter/marth/motion/body/c01/d03speciallwsquatrv.nuanmb",
 			"fighter/marth/motion/body/c01/d03speciallwexit.nuanmb",
 			"fighter/marth/motion/body/c01/d03speciallwattack11.nuanmb",
 			"fighter/marth/motion/body/c01/d03speciallwattacklw3.nuanmb"
@@ -161,6 +167,9 @@
 		"fighter/marth/c02": [
 			"fighter/marth/motion/body/c02/d03speciallwenter.nuanmb",
 			"fighter/marth/motion/body/c02/d03speciallwwait.nuanmb",
+			"fighter/marth/motion/body/c02/d03speciallwsquat.nuanmb",
+			"fighter/marth/motion/body/c02/d03speciallwsquatwait.nuanmb",
+			"fighter/marth/motion/body/c02/d03speciallwsquatrv.nuanmb",
 			"fighter/marth/motion/body/c02/d03speciallwexit.nuanmb",
 			"fighter/marth/motion/body/c02/d03speciallwattack11.nuanmb",
 			"fighter/marth/motion/body/c02/d03speciallwattacklw3.nuanmb"
@@ -168,6 +177,9 @@
 		"fighter/marth/c03": [
 			"fighter/marth/motion/body/c03/d03speciallwenter.nuanmb",
 			"fighter/marth/motion/body/c03/d03speciallwwait.nuanmb",
+			"fighter/marth/motion/body/c03/d03speciallwsquat.nuanmb",
+			"fighter/marth/motion/body/c03/d03speciallwsquatwait.nuanmb",
+			"fighter/marth/motion/body/c03/d03speciallwsquatrv.nuanmb",
 			"fighter/marth/motion/body/c03/d03speciallwexit.nuanmb",
 			"fighter/marth/motion/body/c03/d03speciallwattack11.nuanmb",
 			"fighter/marth/motion/body/c03/d03speciallwattacklw3.nuanmb"
@@ -175,6 +187,9 @@
 		"fighter/marth/c04": [
 			"fighter/marth/motion/body/c04/d03speciallwenter.nuanmb",
 			"fighter/marth/motion/body/c04/d03speciallwwait.nuanmb",
+			"fighter/marth/motion/body/c04/d03speciallwsquat.nuanmb",
+			"fighter/marth/motion/body/c04/d03speciallwsquatwait.nuanmb",
+			"fighter/marth/motion/body/c04/d03speciallwsquatrv.nuanmb",
 			"fighter/marth/motion/body/c04/d03speciallwexit.nuanmb",
 			"fighter/marth/motion/body/c04/d03speciallwattack11.nuanmb",
 			"fighter/marth/motion/body/c04/d03speciallwattacklw3.nuanmb"
@@ -182,6 +197,9 @@
 		"fighter/marth/c05": [
 			"fighter/marth/motion/body/c05/d03speciallwenter.nuanmb",
 			"fighter/marth/motion/body/c05/d03speciallwwait.nuanmb",
+			"fighter/marth/motion/body/c05/d03speciallwsquat.nuanmb",
+			"fighter/marth/motion/body/c05/d03speciallwsquatwait.nuanmb",
+			"fighter/marth/motion/body/c05/d03speciallwsquatrv.nuanmb",
 			"fighter/marth/motion/body/c05/d03speciallwexit.nuanmb",
 			"fighter/marth/motion/body/c05/d03speciallwattack11.nuanmb",
 			"fighter/marth/motion/body/c05/d03speciallwattacklw3.nuanmb"
@@ -189,6 +207,9 @@
 		"fighter/marth/c06": [
 			"fighter/marth/motion/body/c06/d03speciallwenter.nuanmb",
 			"fighter/marth/motion/body/c06/d03speciallwwait.nuanmb",
+			"fighter/marth/motion/body/c06/d03speciallwsquat.nuanmb",
+			"fighter/marth/motion/body/c06/d03speciallwsquatwait.nuanmb",
+			"fighter/marth/motion/body/c06/d03speciallwsquatrv.nuanmb",
 			"fighter/marth/motion/body/c06/d03speciallwexit.nuanmb",
 			"fighter/marth/motion/body/c06/d03speciallwattack11.nuanmb",
 			"fighter/marth/motion/body/c05/d03speciallwattacklw3.nuanmb"
@@ -196,6 +217,9 @@
 		"fighter/marth/c07": [
 			"fighter/marth/motion/body/c07/d03speciallwenter.nuanmb",
 			"fighter/marth/motion/body/c07/d03speciallwwait.nuanmb",
+			"fighter/marth/motion/body/c07/d03speciallwsquat.nuanmb",
+			"fighter/marth/motion/body/c07/d03speciallwsquatwait.nuanmb",
+			"fighter/marth/motion/body/c07/d03speciallwsquatrv.nuanmb",
 			"fighter/marth/motion/body/c07/d03speciallwexit.nuanmb",
 			"fighter/marth/motion/body/c07/d03speciallwattack11.nuanmb",
 			"fighter/marth/motion/body/c07/d03speciallwattacklw3.nuanmb"
