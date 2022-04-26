@@ -158,7 +158,8 @@
 			"fighter/marth/motion/body/c00/d03speciallwattacklw4.nuanmb",
 			"fighter/marth/motion/body/c00/d03speciallwattacklw4f.nuanmb",
 			"fighter/marth/motion/body/c00/d03speciallwattacklw4b.nuanmb",
-			"fighter/marth/motion/body/c00/d03speciallwattackhi3.nuanmb"
+			"fighter/marth/motion/body/c00/d03speciallwattackhi3.nuanmb",
+			"fighter/marth/motion/body/c00/d03speciallwattackhi4.nuanmb"
 		],
 		"fighter/marth/c01": [
 			"fighter/marth/motion/body/c01/d03speciallwenter.nuanmb",
@@ -174,7 +175,8 @@
 			"fighter/marth/motion/body/c01/d03speciallwattacklw4.nuanmb",
 			"fighter/marth/motion/body/c01/d03speciallwattacklw4f.nuanmb",
 			"fighter/marth/motion/body/c01/d03speciallwattacklw4b.nuanmb",
-			"fighter/marth/motion/body/c01/d03speciallwattackhi3.nuanmb"
+			"fighter/marth/motion/body/c01/d03speciallwattackhi3.nuanmb",
+			"fighter/marth/motion/body/c01/d03speciallwattackhi4.nuanmb"
 		],
 		"fighter/marth/c02": [
 			"fighter/marth/motion/body/c02/d03speciallwenter.nuanmb",
@@ -190,7 +192,8 @@
 			"fighter/marth/motion/body/c02/d03speciallwattacklw4.nuanmb",
 			"fighter/marth/motion/body/c02/d03speciallwattacklw4f.nuanmb",
 			"fighter/marth/motion/body/c02/d03speciallwattacklw4b.nuanmb",
-			"fighter/marth/motion/body/c02/d03speciallwattackhi3.nuanmb"
+			"fighter/marth/motion/body/c02/d03speciallwattackhi3.nuanmb",
+			"fighter/marth/motion/body/c02/d03speciallwattackhi4.nuanmb"
 		],
 		"fighter/marth/c03": [
 			"fighter/marth/motion/body/c03/d03speciallwenter.nuanmb",
@@ -206,7 +209,8 @@
 			"fighter/marth/motion/body/c03/d03speciallwattacklw4.nuanmb",
 			"fighter/marth/motion/body/c03/d03speciallwattacklw4f.nuanmb",
 			"fighter/marth/motion/body/c03/d03speciallwattacklw4b.nuanmb",
-			"fighter/marth/motion/body/c03/d03speciallwattackhi3.nuanmb"
+			"fighter/marth/motion/body/c03/d03speciallwattackhi3.nuanmb",
+			"fighter/marth/motion/body/c03/d03speciallwattackhi4.nuanmb"
 		],
 		"fighter/marth/c04": [
 			"fighter/marth/motion/body/c04/d03speciallwenter.nuanmb",
@@ -222,7 +226,8 @@
 			"fighter/marth/motion/body/c04/d03speciallwattacklw4.nuanmb",
 			"fighter/marth/motion/body/c04/d03speciallwattacklw4f.nuanmb",
 			"fighter/marth/motion/body/c04/d03speciallwattacklw4b.nuanmb",
-			"fighter/marth/motion/body/c04/d03speciallwattackhi3.nuanmb"
+			"fighter/marth/motion/body/c04/d03speciallwattackhi3.nuanmb",
+			"fighter/marth/motion/body/c04/d03speciallwattackhi4.nuanmb"
 		],
 		"fighter/marth/c05": [
 			"fighter/marth/motion/body/c05/d03speciallwenter.nuanmb",
@@ -238,7 +243,8 @@
 			"fighter/marth/motion/body/c05/d03speciallwattacklw4.nuanmb",
 			"fighter/marth/motion/body/c05/d03speciallwattacklw4f.nuanmb",
 			"fighter/marth/motion/body/c05/d03speciallwattacklw4b.nuanmb",
-			"fighter/marth/motion/body/c05/d03speciallwattackhi3.nuanmb"
+			"fighter/marth/motion/body/c05/d03speciallwattackhi3.nuanmb",
+			"fighter/marth/motion/body/c05/d03speciallwattackhi4.nuanmb"
 		],
 		"fighter/marth/c06": [
 			"fighter/marth/motion/body/c06/d03speciallwenter.nuanmb",
@@ -254,7 +260,8 @@
 			"fighter/marth/motion/body/c06/d03speciallwattacklw4.nuanmb",
 			"fighter/marth/motion/body/c06/d03speciallwattacklw4f.nuanmb",
 			"fighter/marth/motion/body/c06/d03speciallwattacklw4b.nuanmb",
-			"fighter/marth/motion/body/c06/d03speciallwattackhi3.nuanmb"
+			"fighter/marth/motion/body/c06/d03speciallwattackhi3.nuanmb",
+			"fighter/marth/motion/body/c06/d03speciallwattackhi4.nuanmb"
 		],
 		"fighter/marth/c07": [
 			"fighter/marth/motion/body/c07/d03speciallwenter.nuanmb",
@@ -270,7 +277,8 @@
 			"fighter/marth/motion/body/c07/d03speciallwattacklw4.nuanmb",
 			"fighter/marth/motion/body/c07/d03speciallwattacklw4f.nuanmb",
 			"fighter/marth/motion/body/c07/d03speciallwattacklw4b.nuanmb",
-			"fighter/marth/motion/body/c07/d03speciallwattackhi3.nuanmb"
+			"fighter/marth/motion/body/c07/d03speciallwattackhi3.nuanmb",
+			"fighter/marth/motion/body/c07/d03speciallwattackhi4.nuanmb"
 		],
 		"fighter/robot/c00": [
 			"fighter/robot/motion/body/c00/j01appealhiloop.nuanmb"
