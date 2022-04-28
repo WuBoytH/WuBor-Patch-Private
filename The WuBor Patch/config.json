@@ -1,13 +1,5 @@
 {
 	"new-dir-files": {
-		"fighter/shulk/cmn/effect": [
-			"effect/fighter/shulk/trail/tex_shulk_swordgreen1.nutexb",
-			"effect/fighter/shulk/trail/tex_shulk_swordgreen2.nutexb",
-			"effect/fighter/shulk/trail/tex_shulk_swordpurple1.nutexb",
-			"effect/fighter/shulk/trail/tex_shulk_swordpurple2.nutexb",
-			"effect/fighter/shulk/trail/tex_shulk_swordred3.nutexb",
-			"effect/fighter/shulk/trail/tex_shulk_swordred4.nutexb"
-		],
 		"fighter/demon/c00": [
 			"fighter/demon/motion/body/c00/j01appealhilloop.nuanmb",
 			"fighter/demon/motion/body/c00/j01appealhirloop.nuanmb"
@@ -143,6 +135,10 @@
 		],
 		"fighter/kirby/c07": [
 			"fighter/kirby/motion/body/c07/j01appealsloop.nuanmb"
+		],
+		"fighter/marth/cmn/effect": [
+			"effect/fighter/marth/trail/tex_marth_stance_sword1.nutexb",
+			"effect/fighter/marth/trail/tex_marth_stance_sword2.nutexb"
 		],
 		"fighter/marth/c00": [
 			"fighter/marth/motion/body/c00/d03speciallwenter.nuanmb",
@@ -303,6 +299,14 @@
 		],
 		"fighter/robot/c07": [
 			"fighter/robot/motion/body/c07/j01appealhiloop.nuanmb"
+		],
+		"fighter/shulk/cmn/effect": [
+			"effect/fighter/shulk/trail/tex_shulk_swordgreen1.nutexb",
+			"effect/fighter/shulk/trail/tex_shulk_swordgreen2.nutexb",
+			"effect/fighter/shulk/trail/tex_shulk_swordpurple1.nutexb",
+			"effect/fighter/shulk/trail/tex_shulk_swordpurple2.nutexb",
+			"effect/fighter/shulk/trail/tex_shulk_swordred3.nutexb",
+			"effect/fighter/shulk/trail/tex_shulk_swordred4.nutexb"
 		],
 		"fighter/szerosuit/c00": [
 			"fighter/szerosuit/motion/body/c00/d02specialhi2.nuanmb",
