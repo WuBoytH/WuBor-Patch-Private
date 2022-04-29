@@ -138,7 +138,9 @@
 		],
 		"fighter/marth/cmn/effect": [
 			"effect/fighter/marth/trail/tex_marth_stance_sword1.nutexb",
-			"effect/fighter/marth/trail/tex_marth_stance_sword2.nutexb"
+			"effect/fighter/marth/trail/tex_marth_stance_sword2.nutexb",
+			"effect/fighter/marth/trail/tex_marth_unstance_sword1.nutexb",
+			"effect/fighter/marth/trail/tex_marth_unstance_sword2.nutexb"
 		],
 		"fighter/marth/c00": [
 			"fighter/marth/motion/body/c00/d03speciallwenter.nuanmb",
