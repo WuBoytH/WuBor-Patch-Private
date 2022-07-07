@@ -136,6 +136,38 @@
 		"fighter/kirby/c07": [
 			"fighter/kirby/motion/body/c07/j01appealsloop.nuanmb"
 		],
+		"fighter/lucario/c00": [
+			"fighter/lucario/motion/body/c00/d03speciallwcancel.nuanmb",
+			"fighter/lucario/motion/body/c00/d03specialairlwcancel.nuanmb"
+		],
+		"fighter/lucario/c01": [
+			"fighter/lucario/motion/body/c01/d03speciallwcancel.nuanmb",
+			"fighter/lucario/motion/body/c01/d03specialairlwcancel.nuanmb"
+		],
+		"fighter/lucario/c02": [
+			"fighter/lucario/motion/body/c02/d03speciallwcancel.nuanmb",
+			"fighter/lucario/motion/body/c02/d03specialairlwcancel.nuanmb"
+		],
+		"fighter/lucario/c03": [
+			"fighter/lucario/motion/body/c03/d03speciallwcancel.nuanmb",
+			"fighter/lucario/motion/body/c03/d03specialairlwcancel.nuanmb"
+		],
+		"fighter/lucario/c04": [
+			"fighter/lucario/motion/body/c04/d03speciallwcancel.nuanmb",
+			"fighter/lucario/motion/body/c04/d03specialairlwcancel.nuanmb"
+		],
+		"fighter/lucario/c05": [
+			"fighter/lucario/motion/body/c05/d03speciallwcancel.nuanmb",
+			"fighter/lucario/motion/body/c05/d03specialairlwcancel.nuanmb"
+		],
+		"fighter/lucario/c06": [
+			"fighter/lucario/motion/body/c06/d03speciallwcancel.nuanmb",
+			"fighter/lucario/motion/body/c06/d03specialairlwcancel.nuanmb"
+		],
+		"fighter/lucario/c07": [
+			"fighter/lucario/motion/body/c07/d03speciallwcancel.nuanmb",
+			"fighter/lucario/motion/body/c07/d03specialairlwcancel.nuanmb"
+		],
 		"fighter/marth/cmn/effect": [
 			"effect/fighter/marth/trail/tex_marth_stance_sword1.nutexb",
 			"effect/fighter/marth/trail/tex_marth_stance_sword2.nutexb",
