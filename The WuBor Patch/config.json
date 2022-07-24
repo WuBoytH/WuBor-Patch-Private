@@ -470,6 +470,38 @@
 			"fighter/marth/motion/body/c07/d03speciallwspecialairs2landing.nuanmb",
 			"fighter/marth/motion/body/c07/d03speciallwspecialhi.nuanmb"
 		],
+		"fighter/pikachu/c00": [
+			"fighter/pikachu/motion/body/c00/d03speciallwjump.nuanmb",
+			"fighter/pikachu/motion/body/c00/d03speciallwstrike.nuanmb"
+		],
+		"fighter/pikachu/c01": [
+			"fighter/pikachu/motion/body/c01/d03speciallwjump.nuanmb",
+			"fighter/pikachu/motion/body/c01/d03speciallwstrike.nuanmb"
+		],
+		"fighter/pikachu/c02": [
+			"fighter/pikachu/motion/body/c02/d03speciallwjump.nuanmb",
+			"fighter/pikachu/motion/body/c02/d03speciallwstrike.nuanmb"
+		],
+		"fighter/pikachu/c03": [
+			"fighter/pikachu/motion/body/c03/d03speciallwjump.nuanmb",
+			"fighter/pikachu/motion/body/c03/d03speciallwstrike.nuanmb"
+		],
+		"fighter/pikachu/c04": [
+			"fighter/pikachu/motion/body/c04/d03speciallwjump.nuanmb",
+			"fighter/pikachu/motion/body/c04/d03speciallwstrike.nuanmb"
+		],
+		"fighter/pikachu/c05": [
+			"fighter/pikachu/motion/body/c05/d03speciallwjump.nuanmb",
+			"fighter/pikachu/motion/body/c05/d03speciallwstrike.nuanmb"
+		],
+		"fighter/pikachu/c06": [
+			"fighter/pikachu/motion/body/c06/d03speciallwjump.nuanmb",
+			"fighter/pikachu/motion/body/c06/d03speciallwstrike.nuanmb"
+		],
+		"fighter/pikachu/c07": [
+			"fighter/pikachu/motion/body/c07/d03speciallwjump.nuanmb",
+			"fighter/pikachu/motion/body/c07/d03speciallwstrike.nuanmb"
+		],
 		"fighter/robot/c00": [
 			"fighter/robot/motion/body/c00/j01appealhiloop.nuanmb"
 		],
