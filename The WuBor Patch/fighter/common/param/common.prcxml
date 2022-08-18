@@ -21,7 +21,9 @@
     <hash40 index="5">dummy</hash40>
     <hash40 index="6">dummy</hash40>
   </list>
+  <int hash="cliff_wait_air_xlu_max_frame">30</int>
   <int hash="cliff_wait_damage_xlu_max_frame">30</int>
+  <int hash="cliff_wait_xlu_min_frame">11</int>
   <list hash="cliff_catch_motion_rate">
     <hash40 index="0">dummy</hash40>
     <hash40 index="1">dummy</hash40>
