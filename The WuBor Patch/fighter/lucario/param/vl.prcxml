@@ -126,6 +126,10 @@
       <float hash="attack_mul">1</float>
       <float hash="charge_max_scale_mid">2.5</float>
       <float hash="charge_max_scale_shoot">2</float>
+      <int hash="cnt">1</int>
+      <float hash="spd">1</float>
+      <float hash="flicker_scale_min">1</float>
+      <float hash="flicker_scale_max">1</float>
     </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
