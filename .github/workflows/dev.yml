@@ -1,7 +1,7 @@
-name: nightly_build
+name: Dev
 on: 
   push:
-    branches: [ main ]
+    branches: [ dev ]
 
 jobs:
   plugin_build:
@@ -36,9 +36,9 @@ jobs:
         repo_name: WuBoytH/WuBor-Romfs
         repo_token: ${{ secrets.RELEASE_TOKEN }}
         file: 'romfs*.zip'
-        prerelease: false
+        prerelease: true
         file_glob: true
         asset_name: the_asset
-        release_name: latest
-        tag: latest
+        release_name: dev
+        tag: dev
         overwrite: true
