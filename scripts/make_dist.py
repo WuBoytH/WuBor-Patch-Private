@@ -10,7 +10,7 @@ if not os.path.exists("../romfs"):
 if "build" in os.listdir('..'):
   shutil.rmtree('../build')
 os.makedirs('../build/ultimate/')
-shutil.copytree("../romfs", "../build/ultimate/mods")
+shutil.copytree("../romfs", "../build/ultimate/mods/The WuBor Patch")
 
 
 # zip each folder in the staging dir
