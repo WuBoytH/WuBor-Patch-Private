@@ -4,7 +4,7 @@ on:
     branches: [ dev ]
 
 jobs:
-  plugin_build:
+  build_romfs_dev:
     env:
       PLUGIN_NAME: the_wubor_patch
     runs-on: ubuntu-latest
