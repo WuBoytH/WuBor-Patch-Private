@@ -136,7 +136,10 @@
     <hash40 index="3">dummy</hash40>
   </list>
   <list hash="param_special_s">
-    <hash40 index="0">dummy</hash40>
+    <struct index="0">
+      <float hash="offset_x">14</float>
+      <float hash="offset_y">6</float>
+    </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
