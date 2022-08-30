@@ -138,6 +138,8 @@
   <list hash="param_auraball">
     <struct index="0">
       <float hash="attack_mul">1</float>
+      <float hash="scale_mul">3.5</float>
+      <float hash="scale_add">0</float>
       <float hash="charge_max_scale_mid">2.5</float>
       <float hash="charge_max_scale_shoot">2</float>
       <int hash="cnt">1</int>
@@ -149,7 +151,6 @@
     <struct index="1">
       <float hash="attack_mul">1</float>
       <float hash="scale_mul">3.5</float>
-      <float hash="scale_add">0.5</float>
       <float hash="original_size">3.5</float>
       <float hash="charge_min_scale">1</float>
       <float hash="charge_max_scale_mid">3.5</float>
@@ -157,8 +158,8 @@
       <float hash="charge_min_scale_shoot">1</float>
       <float hash="charge_max_scale_shoot">3.5</float>
       <int hash="life">600</int>
-      <float hash="min_speed">0.8</float>
-      <float hash="max_speed">0.8</float>
+      <float hash="min_speed">1</float>
+      <float hash="max_speed">1</float>
       <float hash="deactivate_angle">20</float>
       <int hash="cnt">1</int>
       <float hash="spd">1</float>
@@ -169,7 +170,6 @@
     <struct index="2">
       <float hash="attack_mul">1</float>
       <float hash="scale_mul">3.5</float>
-      <float hash="scale_add">0.5</float>
       <float hash="original_size">3.5</float>
       <float hash="charge_min_scale">1</float>
       <float hash="charge_max_scale_mid">3.5</float>
@@ -178,8 +178,8 @@
       <float hash="charge_max_scale_shoot">3.5</float>
       <int hash="life">600</int>
       <float hash="angle">-60</float>
-      <float hash="min_speed">0.8</float>
-      <float hash="max_speed">0.8</float>
+      <float hash="min_speed">1</float>
+      <float hash="max_speed">1</float>
       <float hash="deactivate_angle">20</float>
       <int hash="cnt">1</int>
       <float hash="spd">1</float>
