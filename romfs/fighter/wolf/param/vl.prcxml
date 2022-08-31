@@ -77,7 +77,9 @@
     <hash40 index="3">dummy</hash40>
   </list>
   <list hash="param_blaster_bullet">
-    <hash40 index="0">dummy</hash40>
+    <struct index="0">
+      <int hash="life">45</int>
+    </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
