@@ -212,7 +212,7 @@
       <float hash="landing_attack_air_frame_lw">18</float>
     </struct>
     <struct index="38">
-      <float hash="dash_speed">1.208</float>
+      <float hash="dash_speed">1.704</float>
       <float hash="run_accel_mul">0.135</float>
       <int hash="jump_squat_frame">4</int>
       <float hash="jump_aerial_speed_x_mul">0.5</float>
