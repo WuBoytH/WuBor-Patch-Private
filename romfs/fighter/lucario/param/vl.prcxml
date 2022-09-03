@@ -119,19 +119,19 @@
     </struct>
     <struct index="1">
       <float hash="max_charge_frame">20</float>
-      <float hash="recoil_min">1.05</float>
-      <float hash="recoil_max">2</float>
-      <float hash="recoil_air_min">1.05</float>
-      <float hash="recoil_air_max">2</float>
-      <float hash="brake_air">0.1</float>
+      <float hash="recoil_min">1.2</float>
+      <float hash="recoil_max">1.2</float>
+      <float hash="recoil_air_min">1.2</float>
+      <float hash="recoil_air_max">1.2</float>
+      <float hash="brake_air">0.04</float>
     </struct>
     <struct index="2">
       <float hash="max_charge_frame">20</float>
-      <float hash="recoil_min">1.05</float>
-      <float hash="recoil_max">2</float>
-      <float hash="recoil_air_min">1.05</float>
-      <float hash="recoil_air_max">2</float>
-      <float hash="brake_air">0.1</float>
+      <float hash="recoil_min">1.2</float>
+      <float hash="recoil_max">1.2</float>
+      <float hash="recoil_air_min">1.2</float>
+      <float hash="recoil_air_max">1.2</float>
+      <float hash="brake_air">0.04</float>
     </struct>
     <hash40 index="3">dummy</hash40>
   </list>
