@@ -40,6 +40,7 @@
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
   </list>
+  <float hash="invalid_passive_speed">5</float>
   <list hash="0x2873df4aed">
     <hash40 index="0">dummy</hash40>
     <hash40 index="1">dummy</hash40>
