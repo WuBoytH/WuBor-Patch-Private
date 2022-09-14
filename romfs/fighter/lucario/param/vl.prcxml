@@ -146,7 +146,6 @@
       <float hash="spd">1</float>
       <float hash="flicker_scale_min">1</float>
       <float hash="flicker_scale_max">1</float>
-      <int hash="is_penetration">1</int>
     </struct>
     <struct index="1">
       <float hash="attack_mul">1</float>
