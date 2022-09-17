@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
   <float hash="squat_damage_reaction_mul">1</float>
+  <float hash="shield_setoff_speed_mul">0.135</float>
+  <float hash="shield_setoff_speed_max">1.95</float>
   <float hash="hit_stop_squat_mul">1</float>
   <list hash="pattern_power_mul">
     <hash40 index="0">dummy</hash40>
