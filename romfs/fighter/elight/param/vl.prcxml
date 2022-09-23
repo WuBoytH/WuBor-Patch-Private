@@ -50,6 +50,7 @@
   </list>
   <struct hash="param_private">
     <int hash="foresight_target_pre_slow_frame">24</int>
+    <int hash="foresight_escape_air_slide_pre_frame">0</int>
   </struct>
   <list hash="0x212d64186f">
     <hash40 index="0">dummy</hash40>
