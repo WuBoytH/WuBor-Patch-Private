@@ -157,8 +157,8 @@
       <float hash="charge_min_scale_shoot">1</float>
       <float hash="charge_max_scale_shoot">3.5</float>
       <int hash="life">600</int>
-      <float hash="min_speed">1</float>
-      <float hash="max_speed">1</float>
+      <float hash="min_speed">0.9</float>
+      <float hash="max_speed">0.9</float>
       <float hash="deactivate_angle">20</float>
       <int hash="cnt">1</int>
       <float hash="spd">1</float>
@@ -176,9 +176,9 @@
       <float hash="charge_min_scale_shoot">1</float>
       <float hash="charge_max_scale_shoot">3.5</float>
       <int hash="life">600</int>
-      <float hash="angle">-60</float>
-      <float hash="min_speed">1</float>
-      <float hash="max_speed">1</float>
+      <float hash="angle">-45</float>
+      <float hash="min_speed">0.8</float>
+      <float hash="max_speed">0.8</float>
       <float hash="deactivate_angle">20</float>
       <int hash="cnt">1</int>
       <float hash="spd">1</float>
