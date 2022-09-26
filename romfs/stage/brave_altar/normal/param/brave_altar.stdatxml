@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<struct>
+  <list hash="floors">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+    <hash40 index="5">dummy</hash40>
+    <hash40 index="6">dummy</hash40>
+    <hash40 index="7">dummy</hash40>
+    <hash40 index="8">dummy</hash40>
+    <hash40 index="9">dummy</hash40>
+    <hash40 index="10">dummy</hash40>
+    <hash40 index="11">dummy</hash40>
+    <hash40 index="12">dummy</hash40>
+  </list>
+  <list hash="floor_entry_delay">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+  </list>
+  <list hash="floor_exit_delay">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+  </list>
+  <list hash="camera_param">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+  </list>
+  <struct hash="scaffold_settings">
+    <int hash="first_interval_min">120</int>
+    <int hash="first_interval_max">120</int>
+    <int hash="after_interval_min">10</int>
+    <int hash="after_interval_max">10</int>
+    <int hash="entry_frame">300</int>
+    <int hash="stay_frame">2147483647</int>
+  </struct>
+  <uint hash="weight_scaffold1">100</uint>
+  <uint hash="weight_scaffold2">0</uint>
+  <uint hash="weight_scaffold3">0</uint>
+  <uint hash="weight_scaffold4">0</uint>
+  <list hash="yotchi_param">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+  </list>
+  <list hash="normal_damage_param">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+    <hash40 index="5">dummy</hash40>
+    <hash40 index="6">dummy</hash40>
+    <hash40 index="7">dummy</hash40>
+  </list>
+  <list hash="final_damage_param">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+    <hash40 index="5">dummy</hash40>
+    <hash40 index="6">dummy</hash40>
+    <hash40 index="7">dummy</hash40>
+  </list>
+  <list hash="mimic_shake_data">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+    <hash40 index="5">dummy</hash40>
+    <hash40 index="6">dummy</hash40>
+    <hash40 index="7">dummy</hash40>
+  </list>
+  <list hash="mimic_blend_motion_data">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+  </list>
+  <list hash="mimic_flashing">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+    <hash40 index="5">dummy</hash40>
+    <hash40 index="6">dummy</hash40>
+    <hash40 index="7">dummy</hash40>
+    <hash40 index="8">dummy</hash40>
+    <hash40 index="9">dummy</hash40>
+    <hash40 index="10">dummy</hash40>
+    <hash40 index="11">dummy</hash40>
+    <hash40 index="12">dummy</hash40>
+  </list>
+  <list hash="item_appear_rule">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+  </list>
+  <list hash="mimic_motion_rate">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+  </list>
+  <list hash="retire_max">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+    <hash40 index="5">dummy</hash40>
+    <hash40 index="6">dummy</hash40>
+    <hash40 index="7">dummy</hash40>
+  </list>
+  <list hash="mimic_attack_frame">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+  </list>
+  <list hash="0x10f30439e2">
+    <hash40 index="0">dummy</hash40>
+  </list>
+  <list hash="quake_param">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+  </list>
+  <list hash="rumble_param">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+  </list>
+  <list hash="effect_line_common_param">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+  </list>
+  <list hash="effect_line_circle">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+  </list>
+  <list hash="effect_line_target">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+  </list>
+  <list hash="0x16ab6f9bc4">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+  </list>
+  <list hash="0x125991a991">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+  </list>
+  <list hash="0x136327d71a">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+  </list>
+  <list hash="0x13635259f8">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+    <hash40 index="5">dummy</hash40>
+    <hash40 index="6">dummy</hash40>
+    <hash40 index="7">dummy</hash40>
+  </list>
+  <list hash="spirits_yotchi_wait_frame">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+  </list>
+</struct>
