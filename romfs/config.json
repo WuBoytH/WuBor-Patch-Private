@@ -172,6 +172,8 @@
 			"fighter/lucario/motion/body/c00/d01specialairsthrow2.nuanmb",
 			"fighter/lucario/motion/body/c00/d03speciallwcharge.nuanmb",
 			"fighter/lucario/motion/body/c00/d03specialairlwcharge.nuanmb",
+			"fighter/lucario/motion/body/c00/d03speciallwattack.nuanmb",
+			"fighter/lucario/motion/body/c00/d03specialairlwattack.nuanmb",
 			"fighter/lucario/motion/body/c00/d03speciallwcancel.nuanmb",
 			"fighter/lucario/motion/body/c00/d03specialairlwcancel.nuanmb"
 		],
@@ -187,6 +189,8 @@
 			"fighter/lucario/motion/body/c01/d01specialairsthrow2.nuanmb",
 			"fighter/lucario/motion/body/c01/d03speciallwcharge.nuanmb",
 			"fighter/lucario/motion/body/c01/d03specialairlwcharge.nuanmb",
+			"fighter/lucario/motion/body/c01/d03speciallwattack.nuanmb",
+			"fighter/lucario/motion/body/c01/d03specialairlwattack.nuanmb",
 			"fighter/lucario/motion/body/c01/d03speciallwcancel.nuanmb",
 			"fighter/lucario/motion/body/c01/d03specialairlwcancel.nuanmb"
 		],
@@ -202,6 +206,8 @@
 			"fighter/lucario/motion/body/c02/d01specialairsthrow2.nuanmb",
 			"fighter/lucario/motion/body/c02/d03speciallwcharge.nuanmb",
 			"fighter/lucario/motion/body/c02/d03specialairlwcharge.nuanmb",
+			"fighter/lucario/motion/body/c02/d03speciallwattack.nuanmb",
+			"fighter/lucario/motion/body/c02/d03specialairlwattack.nuanmb",
 			"fighter/lucario/motion/body/c02/d03speciallwcancel.nuanmb",
 			"fighter/lucario/motion/body/c02/d03specialairlwcancel.nuanmb"
 		],
@@ -217,6 +223,8 @@
 			"fighter/lucario/motion/body/c03/d01specialairsthrow2.nuanmb",
 			"fighter/lucario/motion/body/c03/d03speciallwcharge.nuanmb",
 			"fighter/lucario/motion/body/c03/d03specialairlwcharge.nuanmb",
+			"fighter/lucario/motion/body/c03/d03speciallwattack.nuanmb",
+			"fighter/lucario/motion/body/c03/d03specialairlwattack.nuanmb",
 			"fighter/lucario/motion/body/c03/d03speciallwcancel.nuanmb",
 			"fighter/lucario/motion/body/c03/d03specialairlwcancel.nuanmb"
 		],
@@ -232,6 +240,8 @@
 			"fighter/lucario/motion/body/c04/d01specialairsthrow2.nuanmb",
 			"fighter/lucario/motion/body/c04/d03speciallwcharge.nuanmb",
 			"fighter/lucario/motion/body/c04/d03specialairlwcharge.nuanmb",
+			"fighter/lucario/motion/body/c04/d03speciallwattack.nuanmb",
+			"fighter/lucario/motion/body/c04/d03specialairlwattack.nuanmb",
 			"fighter/lucario/motion/body/c04/d03speciallwcancel.nuanmb",
 			"fighter/lucario/motion/body/c04/d03specialairlwcancel.nuanmb"
 		],
@@ -247,6 +257,8 @@
 			"fighter/lucario/motion/body/c05/d01specialairsthrow2.nuanmb",
 			"fighter/lucario/motion/body/c05/d03speciallwcharge.nuanmb",
 			"fighter/lucario/motion/body/c05/d03specialairlwcharge.nuanmb",
+			"fighter/lucario/motion/body/c05/d03speciallwattack.nuanmb",
+			"fighter/lucario/motion/body/c05/d03specialairlwattack.nuanmb",
 			"fighter/lucario/motion/body/c05/d03speciallwcancel.nuanmb",
 			"fighter/lucario/motion/body/c05/d03specialairlwcancel.nuanmb"
 		],
@@ -262,6 +274,8 @@
 			"fighter/lucario/motion/body/c06/d01specialairsthrow2.nuanmb",
 			"fighter/lucario/motion/body/c06/d03speciallwcharge.nuanmb",
 			"fighter/lucario/motion/body/c06/d03specialairlwcharge.nuanmb",
+			"fighter/lucario/motion/body/c06/d03speciallwattack.nuanmb",
+			"fighter/lucario/motion/body/c06/d03specialairlwattack.nuanmb",
 			"fighter/lucario/motion/body/c06/d03speciallwcancel.nuanmb",
 			"fighter/lucario/motion/body/c06/d03specialairlwcancel.nuanmb"
 		],
@@ -277,6 +291,8 @@
 			"fighter/lucario/motion/body/c07/d01specialairsthrow2.nuanmb",
 			"fighter/lucario/motion/body/c07/d03speciallwcharge.nuanmb",
 			"fighter/lucario/motion/body/c07/d03specialairlwcharge.nuanmb",
+			"fighter/lucario/motion/body/c07/d03speciallwattack.nuanmb",
+			"fighter/lucario/motion/body/c07/d03specialairlwattack.nuanmb",
 			"fighter/lucario/motion/body/c07/d03speciallwcancel.nuanmb",
 			"fighter/lucario/motion/body/c07/d03specialairlwcancel.nuanmb"
 		],
