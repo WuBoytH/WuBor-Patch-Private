@@ -45,7 +45,6 @@
     <hash40 index="3">dummy</hash40>
   </list>
   <float hash="passive_fb_cont_value">0.7</float>
-  <float hash="invalid_passive_speed">3</float>
   <float hash="damage_fly_reflect_speed_mul">0.8</float>
   <list hash="0x2873df4aed">
     <hash40 index="0">dummy</hash40>
