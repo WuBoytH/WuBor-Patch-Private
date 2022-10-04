@@ -3,6 +3,7 @@ on:
   push:
     branches-ignore:
       - "main"
+      - "dev"
 
 jobs:
   build_romfs_dev:
@@ -17,6 +18,9 @@ jobs:
       
       - name: checkout version
         uses: actions/checkout@v2
+      - name: Get Branch Name
+        id: branch-name
+        uses: tj-actions/branch-names@v6
       # build the zip
       - name: build distribution
         shell: bash
@@ -39,6 +43,6 @@ jobs:
           prerelease: true
           file_glob: true
           asset_name: the_asset
-          release_name: dev
-          tag: dev
+          release_name: ${{ steps.branch-name.outputs.current_branch }}
+          tag: ${{ steps.branch-name.outputs.current_branch }}
           overwrite: true
