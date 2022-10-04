@@ -6,14 +6,11 @@ jobs:
   delete-romfs:
     runs-on: ubuntu-latest
     steps:
-      - name: Get Branch Name
-        id: branch-name
-        uses: tj-actions/branch-names@v6
       - name: Delete Version Dev Build
         uses: dev-drprasad/delete-tag-and-release@v0.2.0
         with:
           repo: WuBoytH/WuBor-Romfs
           delete_release: true
-          tag_name: ${{ steps.branch-name.outputs.current_branch }}
+          tag_name: github.event.ref
         env:
           GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
