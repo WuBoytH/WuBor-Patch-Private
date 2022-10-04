@@ -11,6 +11,6 @@ jobs:
         with:
           repo: WuBoytH/WuBor-Romfs
           delete_release: true
-          tag_name: github.event.ref
+          tag_name: ${{ github.event.ref }}
         env:
           GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
