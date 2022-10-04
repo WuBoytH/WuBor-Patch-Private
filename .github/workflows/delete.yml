@@ -6,7 +6,7 @@ jobs:
   delete-romfs:
     runs-on: ubuntu-latest
     steps:
-      - name: Delete Version Dev Build
+      - name: Delete ROMFS Build
         uses: dev-drprasad/delete-tag-and-release@v0.2.0
         with:
           repo: WuBoytH/WuBor-Romfs
