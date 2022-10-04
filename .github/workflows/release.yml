@@ -6,7 +6,7 @@ on:
 jobs:
   build_romfs_main:
     runs-on: ubuntu-latest
-      steps:
+    steps:
       - name: setup python
         uses: actions/setup-python@v2
         with:
