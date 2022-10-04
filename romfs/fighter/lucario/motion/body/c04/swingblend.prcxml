@@ -696,4 +696,150 @@
       </struct>
     </list>
   </struct>
+  <struct hash="d03speciallwattack.nuanmb">
+    <hash40 hash="name">d03speciallwattack.nuanmb</hash40>
+    <list hash="bones">
+      <struct index="0">
+        <hash40 hash="name">s_hairbl1</hash40>
+        <float hash="blend_rate">0.2</float>
+        <float hash="first_duration">0</float>
+        <float hash="second_duration">0</float>
+        <float hash="final_rate">0</float>
+        <bool hash="enable_length_limit">true</bool>
+        <bool hash="enable_gravity">true</bool>
+        <bool hash="enable_angle_limit">true</bool>
+        <bool hash="enable_wind">true</bool>
+        <bool hash="enable_collision">true</bool>
+        <bool hash="enable_connection">true</bool>
+        <bool hash="enable_inertia">true</bool>
+      </struct>
+      <struct index="1">
+        <hash40 hash="name">s_hairbr1</hash40>
+        <float hash="blend_rate">0.2</float>
+        <float hash="first_duration">0</float>
+        <float hash="second_duration">0</float>
+        <float hash="final_rate">0</float>
+        <bool hash="enable_length_limit">true</bool>
+        <bool hash="enable_gravity">true</bool>
+        <bool hash="enable_angle_limit">true</bool>
+        <bool hash="enable_wind">true</bool>
+        <bool hash="enable_collision">true</bool>
+        <bool hash="enable_connection">true</bool>
+        <bool hash="enable_inertia">true</bool>
+      </struct>
+      <struct index="2">
+        <hash40 hash="name">s_hairl1</hash40>
+        <float hash="blend_rate">0.2</float>
+        <float hash="first_duration">0</float>
+        <float hash="second_duration">0</float>
+        <float hash="final_rate">0</float>
+        <bool hash="enable_length_limit">true</bool>
+        <bool hash="enable_gravity">true</bool>
+        <bool hash="enable_angle_limit">true</bool>
+        <bool hash="enable_wind">true</bool>
+        <bool hash="enable_collision">true</bool>
+        <bool hash="enable_connection">true</bool>
+        <bool hash="enable_inertia">true</bool>
+      </struct>
+      <struct index="3">
+        <hash40 hash="name">s_hairr1</hash40>
+        <float hash="blend_rate">0.2</float>
+        <float hash="first_duration">0</float>
+        <float hash="second_duration">0</float>
+        <float hash="final_rate">0</float>
+        <bool hash="enable_length_limit">true</bool>
+        <bool hash="enable_gravity">true</bool>
+        <bool hash="enable_angle_limit">true</bool>
+        <bool hash="enable_wind">true</bool>
+        <bool hash="enable_collision">true</bool>
+        <bool hash="enable_connection">true</bool>
+        <bool hash="enable_inertia">true</bool>
+      </struct>
+    </list>
+    <list hash="connections">
+      <struct index="0">
+        <hash40 hash="name">0x0d3d790172</hash40>
+        <bool hash="enable">false</bool>
+      </struct>
+    </list>
+    <list hash="collisions">
+      <struct index="0">
+        <hash40 hash="name">dummycollision</hash40>
+        <bool hash="enable">false</bool>
+      </struct>
+    </list>
+  </struct>
+  <struct hash="d03specialairlwattack.nuanmb">
+    <hash40 hash="name">d03specialairlwattack.nuanmb</hash40>
+    <list hash="bones">
+      <struct index="0">
+        <hash40 hash="name">s_hairbl1</hash40>
+        <float hash="blend_rate">0.2</float>
+        <float hash="first_duration">0</float>
+        <float hash="second_duration">0</float>
+        <float hash="final_rate">0</float>
+        <bool hash="enable_length_limit">true</bool>
+        <bool hash="enable_gravity">true</bool>
+        <bool hash="enable_angle_limit">true</bool>
+        <bool hash="enable_wind">true</bool>
+        <bool hash="enable_collision">true</bool>
+        <bool hash="enable_connection">true</bool>
+        <bool hash="enable_inertia">true</bool>
+      </struct>
+      <struct index="1">
+        <hash40 hash="name">s_hairbr1</hash40>
+        <float hash="blend_rate">0.2</float>
+        <float hash="first_duration">0</float>
+        <float hash="second_duration">0</float>
+        <float hash="final_rate">0</float>
+        <bool hash="enable_length_limit">true</bool>
+        <bool hash="enable_gravity">true</bool>
+        <bool hash="enable_angle_limit">true</bool>
+        <bool hash="enable_wind">true</bool>
+        <bool hash="enable_collision">true</bool>
+        <bool hash="enable_connection">true</bool>
+        <bool hash="enable_inertia">true</bool>
+      </struct>
+      <struct index="2">
+        <hash40 hash="name">s_hairl1</hash40>
+        <float hash="blend_rate">0.2</float>
+        <float hash="first_duration">0</float>
+        <float hash="second_duration">0</float>
+        <float hash="final_rate">0</float>
+        <bool hash="enable_length_limit">true</bool>
+        <bool hash="enable_gravity">true</bool>
+        <bool hash="enable_angle_limit">true</bool>
+        <bool hash="enable_wind">true</bool>
+        <bool hash="enable_collision">true</bool>
+        <bool hash="enable_connection">true</bool>
+        <bool hash="enable_inertia">true</bool>
+      </struct>
+      <struct index="3">
+        <hash40 hash="name">s_hairr1</hash40>
+        <float hash="blend_rate">0.2</float>
+        <float hash="first_duration">0</float>
+        <float hash="second_duration">0</float>
+        <float hash="final_rate">0</float>
+        <bool hash="enable_length_limit">true</bool>
+        <bool hash="enable_gravity">true</bool>
+        <bool hash="enable_angle_limit">true</bool>
+        <bool hash="enable_wind">true</bool>
+        <bool hash="enable_collision">true</bool>
+        <bool hash="enable_connection">true</bool>
+        <bool hash="enable_inertia">true</bool>
+      </struct>
+    </list>
+    <list hash="connections">
+      <struct index="0">
+        <hash40 hash="name">0x0d3d790172</hash40>
+        <bool hash="enable">false</bool>
+      </struct>
+    </list>
+    <list hash="collisions">
+      <struct index="0">
+        <hash40 hash="name">dummycollision</hash40>
+        <bool hash="enable">false</bool>
+      </struct>
+    </list>
+  </struct>
 </struct>
