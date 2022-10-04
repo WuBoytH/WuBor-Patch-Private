@@ -1,13 +1,10 @@
 name: Dev
 on: 
   push:
-    branches-ignore:
-      - "main"
+    branches: [ dev ]
 
 jobs:
   build_romfs_dev:
-    env:
-      PLUGIN_NAME: the_wubor_patch
     runs-on: ubuntu-latest
     steps:
       - name: setup python
@@ -23,12 +20,6 @@ jobs:
         run: |
           ls && cd scripts && python3 make_dist.py && cd ..
           mv build.zip romfs.zip
-      ## mock upload files
-      #- run: |
-      #    mkdir distributions
-      #    echo lol > distributions/hdr-switch.zip
-      #    echo lol > distributions/hdr-ryujinx.zip
-
       # upload asset
       - name: Upload binaries to release
         uses: svenstaro/upload-release-action@v2
@@ -42,3 +33,4 @@ jobs:
           release_name: dev
           tag: dev
           overwrite: true
+          body: "This is a ROMFS build with all of the latest files for a WuBor Patch Dev build."
