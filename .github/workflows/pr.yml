@@ -1,4 +1,4 @@
-name: Dev
+name: PR
 on: 
   push:
     branches-ignore:
