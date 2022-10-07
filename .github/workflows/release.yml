@@ -42,4 +42,4 @@ jobs:
           release_name: main
           tag: main
           overwrite: true
-          body: "This is a ROMFS build created for the PR of the same name for The WuBor Patch."
+          body: "This is a ROMFS build created for the latest public release of The WuBor Patch."
