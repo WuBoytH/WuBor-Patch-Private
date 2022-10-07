@@ -26,7 +26,7 @@ jobs:
         with:
           repo: WuBoytH/WuBor-Romfs
           delete_release: true
-          tag_name: latest
+          tag_name: main
         env:
           GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
       # upload asset
@@ -39,7 +39,7 @@ jobs:
           prerelease: false
           file_glob: true
           asset_name: the_asset
-          release_name: latest
-          tag: latest
+          release_name: main
+          tag: main
           overwrite: true
           body: "This is a ROMFS build created for the PR of the same name for The WuBor Patch."
