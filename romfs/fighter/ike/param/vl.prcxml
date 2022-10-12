@@ -72,7 +72,11 @@
     <hash40 index="3">dummy</hash40>
   </list>
   <list hash="param_special_s">
-    <hash40 index="0">dummy</hash40>
+    <struct index="0">
+      <float hash="special_s_hit_offset_x">0</float>
+      <float hash="special_s_hit_offset_y">0</float>
+      <float hash="special_s_hit_size">-1</float>
+    </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
