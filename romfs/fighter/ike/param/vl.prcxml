@@ -73,6 +73,10 @@
   </list>
   <list hash="param_special_s">
     <struct index="0">
+      <float hash="special_s_ground_dash_spd_min">4</float>
+      <float hash="special_s_ground_dash_spd_mul">0.03</float>
+      <float hash="special_s_air_dash_spd_mul">0.03</float>
+      <int hash="special_s_dash_frame">18</int>
       <float hash="special_s_hit_offset_x">0</float>
       <float hash="special_s_hit_offset_y">0</float>
       <float hash="special_s_hit_size">-1</float>
