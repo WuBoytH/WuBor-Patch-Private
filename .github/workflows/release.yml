@@ -21,17 +21,17 @@ jobs:
         run: |
           ls && cd scripts && python3 make_dist.py && cd ..
           mv build.zip romfs.zip
-      - name: Delete ROMFS Build
-        uses: dev-drprasad/delete-tag-and-release@v0.2.0
-        with:
-          repo: WuBoytH/WuBor-Romfs
-          delete_release: true
-          tag_name: latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+      # - name: Delete ROMFS Build
+      #   uses: dev-drprasad/delete-tag-and-release@v0.2.0
+      #   with:
+      #     repo: WuBoytH/WuBor-Romfs
+      #     delete_release: true
+      #     tag_name: main
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
       # upload asset
       - name: Upload binaries to release
-        uses: svenstaro/upload-release-action@v2
+        uses: svenstaro/upload-release-action@2.3.0
         with:
           repo_name: WuBoytH/WuBor-Romfs
           repo_token: ${{ secrets.RELEASE_TOKEN }}
@@ -39,7 +39,7 @@ jobs:
           prerelease: false
           file_glob: true
           asset_name: the_asset
-          release_name: latest
-          tag: latest
+          release_name: main
+          tag: main
           overwrite: true
-          body: "This is a ROMFS build created for the PR of the same name for The WuBor Patch."
+          body: "This is a ROMFS build created for the latest public release of The WuBor Patch."
