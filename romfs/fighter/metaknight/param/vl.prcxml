@@ -51,11 +51,11 @@
     <hash40 index="3">dummy</hash40>
   </list>
   <list hash="fly_speed_y">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
+    <float index="0">2.86</float>
+    <float index="1">2.73</float>
+    <float index="2">2.6</float>
+    <float index="3">2.444</float>
+    <float index="4">2.275</float>
   </list>
   <list hash="fly_turn_angle">
     <hash40 index="0">dummy</hash40>
