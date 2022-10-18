@@ -574,6 +574,10 @@
 			"fighter/marth/motion/body/c07/d03speciallwspecialairs2landing.nuanmb",
 			"fighter/marth/motion/body/c07/d03speciallwspecialhi.nuanmb"
 		],
+		"fighter/metaknight/cmn/effect": [
+			"effect/fighter/metaknight/trail/tex_metaknight_sword1.nutexb",
+			"effect/fighter/metaknight/trail/tex_metaknight_sword2.nutexb"
+		],
 		"fighter/pikachu/c00": [
 			"fighter/pikachu/motion/body/c00/d03speciallwjump.nuanmb",
 			"fighter/pikachu/motion/body/c00/d03speciallwstrike.nuanmb"
