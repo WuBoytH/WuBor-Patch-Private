@@ -58,6 +58,8 @@
   </list>
   <list hash="param_special_n">
     <struct index="0">
+      <float hash="special_n_start_spd_x_mul">1</float>
+      <float hash="special_n_brake_spd_x">0.01</float>
       <int hash="special_n_charge_count_max">4</int>
       <int hash="special_n_charge_count_mdl">2</int>
     </struct>
