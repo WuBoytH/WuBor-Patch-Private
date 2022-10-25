@@ -578,6 +578,46 @@
 			"effect/fighter/metaknight/trail/tex_metaknight_sword1.nutexb",
 			"effect/fighter/metaknight/trail/tex_metaknight_sword2.nutexb"
 		],
+		"fighter/metaknight/c00": [
+			"fighter/metaknight/motion/body/c00/c00attack11.nuanmb",
+			"fighter/metaknight/motion/body/c00/c00attack12.nuanmb",
+			"fighter/metaknight/motion/body/c00/c00attack13.nuanmb"
+		],
+		"fighter/metaknight/c01": [
+			"fighter/metaknight/motion/body/c01/c00attack11.nuanmb",
+			"fighter/metaknight/motion/body/c01/c00attack12.nuanmb",
+			"fighter/metaknight/motion/body/c01/c00attack13.nuanmb"
+		],
+		"fighter/metaknight/c02": [
+			"fighter/metaknight/motion/body/c02/c00attack11.nuanmb",
+			"fighter/metaknight/motion/body/c02/c00attack12.nuanmb",
+			"fighter/metaknight/motion/body/c02/c00attack13.nuanmb"
+		],
+		"fighter/metaknight/c03": [
+			"fighter/metaknight/motion/body/c03/c00attack11.nuanmb",
+			"fighter/metaknight/motion/body/c03/c00attack12.nuanmb",
+			"fighter/metaknight/motion/body/c03/c00attack13.nuanmb"
+		],
+		"fighter/metaknight/c04": [
+			"fighter/metaknight/motion/body/c04/c00attack11.nuanmb",
+			"fighter/metaknight/motion/body/c04/c00attack12.nuanmb",
+			"fighter/metaknight/motion/body/c04/c00attack13.nuanmb"
+		],
+		"fighter/metaknight/c05": [
+			"fighter/metaknight/motion/body/c05/c00attack11.nuanmb",
+			"fighter/metaknight/motion/body/c05/c00attack12.nuanmb",
+			"fighter/metaknight/motion/body/c05/c00attack13.nuanmb"
+		],
+		"fighter/metaknight/c06": [
+			"fighter/metaknight/motion/body/c06/c00attack11.nuanmb",
+			"fighter/metaknight/motion/body/c06/c00attack12.nuanmb",
+			"fighter/metaknight/motion/body/c06/c00attack13.nuanmb"
+		],
+		"fighter/metaknight/c07": [
+			"fighter/metaknight/motion/body/c07/c00attack11.nuanmb",
+			"fighter/metaknight/motion/body/c07/c00attack12.nuanmb",
+			"fighter/metaknight/motion/body/c07/c00attack13.nuanmb"
+		],
 		"fighter/pikachu/c00": [
 			"fighter/pikachu/motion/body/c00/d03speciallwjump.nuanmb",
 			"fighter/pikachu/motion/body/c00/d03speciallwstrike.nuanmb"
