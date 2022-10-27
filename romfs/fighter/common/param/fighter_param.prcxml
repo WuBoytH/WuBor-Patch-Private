@@ -399,12 +399,19 @@
     </struct>
     <struct index="71">
       <float hash="walk_accel_add">1.06</float>
-      <float hash="walk_speed_max">0.797</float>
+      <float hash="walk_speed_max">0.76</float>
       <float hash="dash_speed">1.72</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="air_accel_x_mul">0.04</float>
+      <float hash="air_accel_x_add">0</float>
+      <float hash="air_speed_x_stable">0.977</float>
+      <float hash="air_accel_y">0.095</float>
+      <float hash="air_speed_y_stable">1.5</float>
       <float hash="damage_fly_top_air_accel_y">0.07728</float>
-      <float hash="weight">105</float>
-      <float hash="landing_attack_air_frame_f">8</float>
+      <float hash="dive_speed_y">2.4</float>
+      <float hash="weight">104</float>
+      <float hash="landing_attack_air_frame_f">10</float>
+      <float hash="landing_attack_air_frame_hi">10</float>
     </struct>
     <struct index="72">
       <float hash="run_speed_max">1.46</float>
