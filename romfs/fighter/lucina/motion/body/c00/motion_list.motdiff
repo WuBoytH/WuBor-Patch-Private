@@ -1,0 +1,900 @@
+---
+motion_path: ~
+altered:
+  attack_11:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 247
+        no_stop_intp: ~
+  attack_12:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 250
+        no_stop_intp: ~
+  attack_dash:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 241
+        no_stop_intp: ~
+  attack_air_n:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 229
+        no_stop_intp: ~
+  attack_air_f:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 2
+        no_stop_intp: ~
+  attack_air_b:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 248
+        no_stop_intp: ~
+  attack_air_hi:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 244
+        no_stop_intp: ~
+  attack_air_lw:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 15
+        no_stop_intp: ~
+  special_n_loop:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: false
+      move: true
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra: NoChange
+  special_n_end:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts:
+      - Altered:
+          index: 2
+          changes:
+            - effect_attacks4
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 16
+        no_stop_intp: ~
+  special_n_end_hi:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts:
+      - Altered:
+          index: 2
+          changes:
+            - effect_attacks4
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 16
+        no_stop_intp: ~
+  special_n_end_lw:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts:
+      - Altered:
+          index: 2
+          changes:
+            - effect_attacks4
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 16
+        no_stop_intp: ~
+  special_n_end_max:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts:
+      - Altered:
+          index: 2
+          changes:
+            - effect_attacks4
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 16
+        no_stop_intp: ~
+  special_n_end_max_hi:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts:
+      - Altered:
+          index: 2
+          changes:
+            - effect_attacks4
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 16
+        no_stop_intp: ~
+  special_n_end_max_lw:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts:
+      - Altered:
+          index: 2
+          changes:
+            - effect_attacks4
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 16
+        no_stop_intp: ~
+  special_air_n_loop:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: false
+      move: true
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra: NoChange
+  special_air_n_end:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts:
+      - Altered:
+          index: 2
+          changes:
+            - effect_attacks4
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 16
+        no_stop_intp: ~
+  special_air_n_end_hi:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts:
+      - Altered:
+          index: 2
+          changes:
+            - effect_attacks4
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 16
+        no_stop_intp: ~
+  special_air_n_end_lw:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts:
+      - Altered:
+          index: 2
+          changes:
+            - effect_attacks4
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 16
+        no_stop_intp: ~
+  special_air_n_end_max:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts:
+      - Altered:
+          index: 2
+          changes:
+            - effect_attacks4
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 16
+        no_stop_intp: ~
+  special_air_n_end_max_hi:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts:
+      - Altered:
+          index: 2
+          changes:
+            - effect_attacks4
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 16
+        no_stop_intp: ~
+  special_air_n_end_max_lw:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts:
+      - Altered:
+          index: 2
+          changes:
+            - effect_attacks4
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 16
+        no_stop_intp: ~
+  special_s1:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 216
+        no_stop_intp: ~
+  special_s2_hi:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 241
+        no_stop_intp: ~
+  special_s2_lw:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 233
+        no_stop_intp: ~
+  special_air_s1:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: true
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 249
+        no_stop_intp: ~
+  special_hi:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 252
+        xlu_end: 250
+        cancel_frame: 0
+        no_stop_intp: ~
+  special_air_hi:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 255
+        xlu_end: 250
+        cancel_frame: 0
+        no_stop_intp: ~
+  special_lw:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 251
+        xlu_end: 249
+        cancel_frame: 215
+        no_stop_intp: ~
+  special_lw_hit:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 21
+        cancel_frame: 234
+        no_stop_intp: ~
+  special_air_lw:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 215
+        no_stop_intp: ~
+  special_air_lw_hit:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 21
+        cancel_frame: 234
+        no_stop_intp: ~
+  throw_lw:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 251
+        no_stop_intp: ~
+removed: []
