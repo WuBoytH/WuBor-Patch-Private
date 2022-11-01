@@ -51,11 +51,11 @@
     <hash40 index="3">dummy</hash40>
   </list>
   <list hash="fly_speed_y">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
+    <float index="0">2.64</float>
+    <float index="1">2.52</float>
+    <float index="2">2.4</float>
+    <float index="3">2.256</float>
+    <float index="4">2.1</float>
   </list>
   <list hash="fly_turn_angle">
     <hash40 index="0">dummy</hash40>
@@ -74,11 +74,11 @@
   <list hash="fly_data">
     <struct index="0">
       <list hash="speed_y_table">
-        <hash40 index="0">dummy</hash40>
-        <hash40 index="1">dummy</hash40>
-        <hash40 index="2">dummy</hash40>
-        <hash40 index="3">dummy</hash40>
-        <hash40 index="4">dummy</hash40>
+        <float index="0">2.64</float>
+        <float index="1">2.52</float>
+        <float index="2">2.4</float>
+        <float index="3">2.256</float>
+        <float index="4">2.1</float>
       </list>
       <list hash="turn_param">
         <hash40 index="0">dummy</hash40>

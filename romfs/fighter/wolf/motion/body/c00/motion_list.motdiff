@@ -1,0 +1,6 @@
+---
+motion_path: ~
+altered: {}
+removed:
+  - attack_s3_hi
+  - attack_s3_lw
