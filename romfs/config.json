@@ -1,51 +1,4 @@
 {
-    "share-to-added": {
-        "fighter/lucario/motion/body/c00/d00specialnhold2.nuanmb": [
-            "fighter/lucario/motion/body/c08/d00specialnhold2.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d00specialnshoot2.nuanmb": [
-            "fighter/lucario/motion/body/c08/d00specialnshoot2.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d00specialairnhold2.nuanmb": [
-            "fighter/lucario/motion/body/c08/d00specialairnhold2.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d00specialairnshoot2.nuanmb": [
-            "fighter/lucario/motion/body/c08/d00specialairnshoot2.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d01specials2.nuanmb": [
-            "fighter/lucario/motion/body/c08/d01specials2.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d01specialairs2.nuanmb": [
-            "fighter/lucario/motion/body/c08/d01specialairs2.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d01specialsthrow2.nuanmb": [
-            "fighter/lucario/motion/body/c08/d01specialsthrow2.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d01specialairsthrow.nuanmb": [
-            "fighter/lucario/motion/body/c08/d01specialairsthrow.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d01specialairsthrow2.nuanmb": [
-            "fighter/lucario/motion/body/c08/d01specialairsthrow2.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d03speciallwcharge.nuanmb": [
-            "fighter/lucario/motion/body/c08/d03speciallwcharge.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d03specialairlwcharge.nuanmb": [
-            "fighter/lucario/motion/body/c08/d03specialairlwcharge.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d03speciallwattack.nuanmb": [
-            "fighter/lucario/motion/body/c08/d03speciallwattack.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d03specialairlwattack.nuanmb": [
-            "fighter/lucario/motion/body/c08/d03specialairlwattack.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d03speciallwcancel.nuanmb": [
-            "fighter/lucario/motion/body/c08/d03speciallwcancel.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d03specialairlwcancel.nuanmb": [
-            "fighter/lucario/motion/body/c08/d03specialairlwcancel.nuanmb"
-        ]
-    },
     "new-dir-files": {
         "fighter/demon/c00": [
             "fighter/demon/motion/body/c00/j01appealhilloop.nuanmb",
@@ -637,48 +590,6 @@
             "fighter/marth/motion/body/c07/d03speciallwspecialairs2end.nuanmb",
             "fighter/marth/motion/body/c07/d03speciallwspecialairs2landing.nuanmb",
             "fighter/marth/motion/body/c07/d03speciallwspecialhi.nuanmb"
-        ],
-        "fighter/metaknight/cmn/effect": [
-            "effect/fighter/metaknight/trail/tex_metaknight_sword1.nutexb",
-            "effect/fighter/metaknight/trail/tex_metaknight_sword2.nutexb"
-        ],
-        "fighter/metaknight/c00": [
-            "fighter/metaknight/motion/body/c00/c00attack11.nuanmb",
-            "fighter/metaknight/motion/body/c00/c00attack12.nuanmb",
-            "fighter/metaknight/motion/body/c00/c00attack13.nuanmb"
-        ],
-        "fighter/metaknight/c01": [
-            "fighter/metaknight/motion/body/c01/c00attack11.nuanmb",
-            "fighter/metaknight/motion/body/c01/c00attack12.nuanmb",
-            "fighter/metaknight/motion/body/c01/c00attack13.nuanmb"
-        ],
-        "fighter/metaknight/c02": [
-            "fighter/metaknight/motion/body/c02/c00attack12.nuanmb",
-            "fighter/metaknight/motion/body/c02/c00attack13.nuanmb"
-        ],
-        "fighter/metaknight/c03": [
-            "fighter/metaknight/motion/body/c03/c00attack11.nuanmb",
-            "fighter/metaknight/motion/body/c03/c00attack12.nuanmb",
-            "fighter/metaknight/motion/body/c03/c00attack13.nuanmb"
-        ],
-        "fighter/metaknight/c04": [
-            "fighter/metaknight/motion/body/c04/c00attack11.nuanmb",
-            "fighter/metaknight/motion/body/c04/c00attack12.nuanmb",
-            "fighter/metaknight/motion/body/c04/c00attack13.nuanmb"
-        ],
-        "fighter/metaknight/c05": [
-            "fighter/metaknight/motion/body/c05/c00attack11.nuanmb",
-            "fighter/metaknight/motion/body/c05/c00attack12.nuanmb",
-            "fighter/metaknight/motion/body/c05/c00attack13.nuanmb"
-        ],
-        "fighter/metaknight/c06": [
-            "fighter/metaknight/motion/body/c06/c00attack11.nuanmb",
-            "fighter/metaknight/motion/body/c06/c00attack12.nuanmb",
-            "fighter/metaknight/motion/body/c06/c00attack13.nuanmb"
-        ],
-            "fighter/metaknight/motion/body/c07/c00attack11.nuanmb",
-            "fighter/metaknight/motion/body/c07/c00attack12.nuanmb",
-            "fighter/metaknight/motion/body/c07/c00attack13.nuanmb"
         ],
         "fighter/pikachu/c00": [
             "fighter/pikachu/motion/body/c00/d03speciallwjump.nuanmb",
