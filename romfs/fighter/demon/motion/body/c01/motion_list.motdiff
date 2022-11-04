@@ -51,7 +51,7 @@ altered:
       Some:
         xlu_start: 0
         xlu_end: 0
-        cancel_frame: 218
+        cancel_frame: 206
         no_stop_intp: ~
   "0x0bb4a23fd1":
     game_script: ~
