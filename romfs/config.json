@@ -667,6 +667,38 @@
             "fighter/pikachu/motion/body/c07/d03speciallwjump.nuanmb",
             "fighter/pikachu/motion/body/c07/d03speciallwstrike.nuanmb"
         ],
+        "fighter/pikmin/c00": [
+            "fighter/pikmin/motion/body/c00/c01attacks3sloop.nuanmb",
+            "fighter/pikmin/motion/body/c00/c01attacks3send.nuanmb"
+        ],
+        "fighter/pikmin/c01": [
+            "fighter/pikmin/motion/body/c01/c01attacks3sloop.nuanmb",
+            "fighter/pikmin/motion/body/c01/c01attacks3send.nuanmb"
+        ],
+        "fighter/pikmin/c02": [
+            "fighter/pikmin/motion/body/c02/c01attacks3sloop.nuanmb",
+            "fighter/pikmin/motion/body/c02/c01attacks3send.nuanmb"
+        ],
+        "fighter/pikmin/c03": [
+            "fighter/pikmin/motion/body/c03/c01attacks3sloop.nuanmb",
+            "fighter/pikmin/motion/body/c03/c01attacks3send.nuanmb"
+        ],
+        "fighter/pikmin/c04": [
+            "fighter/pikmin/motion/body/c04/c01attacks3sloop.nuanmb",
+            "fighter/pikmin/motion/body/c04/c01attacks3send.nuanmb"
+        ],
+        "fighter/pikmin/c05": [
+            "fighter/pikmin/motion/body/c05/c01attacks3sloop.nuanmb",
+            "fighter/pikmin/motion/body/c05/c01attacks3send.nuanmb"
+        ],
+        "fighter/pikmin/c06": [
+            "fighter/pikmin/motion/body/c06/c01attacks3sloop.nuanmb",
+            "fighter/pikmin/motion/body/c06/c01attacks3send.nuanmb"
+        ],
+        "fighter/pikmin/c07": [
+            "fighter/pikmin/motion/body/c07/c01attacks3sloop.nuanmb",
+            "fighter/pikmin/motion/body/c07/c01attacks3send.nuanmb"
+        ],
         "fighter/robot/c00": [
             "fighter/robot/motion/body/c00/j01appealhiloop.nuanmb"
         ],
