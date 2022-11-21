@@ -112,6 +112,36 @@
             "fighter/edge/motion/body/c07/j01appealsloop.nuanmb",
             "fighter/edge/motion/body/c07/j01appealsattack.nuanmb"
         ],
+        "fighter/edge/c08": [
+            "fighter/edge/motion/body/c08/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c08/j01appealsloop.nuanmb",
+            "fighter/edge/motion/body/c08/j01appealsattack.nuanmb"
+        ],
+        "fighter/edge/c09": [
+            "fighter/edge/motion/body/c09/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c09/j01appealsloop.nuanmb",
+            "fighter/edge/motion/body/c09/j01appealsattack.nuanmb"
+        ],
+        "fighter/edge/c10": [
+            "fighter/edge/motion/body/c10/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c10/j01appealsloop.nuanmb",
+            "fighter/edge/motion/body/c10/j01appealsattack.nuanmb"
+        ],
+        "fighter/edge/c11": [
+            "fighter/edge/motion/body/c11/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c11/j01appealsloop.nuanmb",
+            "fighter/edge/motion/body/c11/j01appealsattack.nuanmb"
+        ],
+        "fighter/edge/c12": [
+            "fighter/edge/motion/body/c12/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c12/j01appealsloop.nuanmb",
+            "fighter/edge/motion/body/c12/j01appealsattack.nuanmb"
+        ],
+        "fighter/edge/c13": [
+            "fighter/edge/motion/body/c13/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c13/j01appealsloop.nuanmb",
+            "fighter/edge/motion/body/c13/j01appealsattack.nuanmb"
+        ],
         "fighter/ken/c00": [
             "fighter/ken/motion/body/c00/d02specialhireppa.nuanmb"
         ],
