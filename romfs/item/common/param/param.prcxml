@@ -158,7 +158,15 @@
     <hash40 index="152">dummy</hash40>
     <hash40 index="153">dummy</hash40>
     <hash40 index="154">dummy</hash40>
-    <hash40 index="155">dummy</hash40>
+    <struct index="155">
+      <float hash="scale">1.2</float>
+      <float hash="hitsize">1.2</float>
+      <float hash="shadow_size">7.6</float>
+      <float hash="throw_speed_mul">0.7</float>
+      <float hash="gravity_accel">0.053</float>
+      <float hash="gravity_accel_max">2.5</float>
+      <float hash="air_brake_x">0.0025</float>
+    </struct>
     <hash40 index="156">dummy</hash40>
     <hash40 index="157">dummy</hash40>
     <hash40 index="158">dummy</hash40>
