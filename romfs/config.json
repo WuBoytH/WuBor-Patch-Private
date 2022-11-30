@@ -142,6 +142,48 @@
             "fighter/edge/motion/body/c13/j01appealsloop.nuanmb",
             "fighter/edge/motion/body/c13/j01appealsattack.nuanmb"
         ],
+        "fighter/elight/c00": [
+            "fighter/elight/motion/body/c00/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c01": [
+            "fighter/elight/motion/body/c01/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c02": [
+            "fighter/elight/motion/body/c02/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c03": [
+            "fighter/elight/motion/body/c03/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c04": [
+            "fighter/elight/motion/body/c04/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c05": [
+            "fighter/elight/motion/body/c05/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c06": [
+            "fighter/elight/motion/body/c06/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c07": [
+            "fighter/elight/motion/body/c07/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c08": [
+            "fighter/elight/motion/body/c08/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c09": [
+            "fighter/elight/motion/body/c09/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c10": [
+            "fighter/elight/motion/body/c10/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c11": [
+            "fighter/elight/motion/body/c11/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c12": [
+            "fighter/elight/motion/body/c12/c05attackairlwelight.nuanmb"
+        ],
+        "fighter/elight/c13": [
+            "fighter/elight/motion/body/c13/c05attackairlwelight.nuanmb"
+        ],
         "fighter/ken/c00": [
             "fighter/ken/motion/body/c00/d02specialhireppa.nuanmb"
         ],

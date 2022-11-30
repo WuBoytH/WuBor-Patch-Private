@@ -1,0 +1,30 @@
+---
+motion_path: ~
+altered:
+  attack_air_lw:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations:
+      - Altered:
+          index: 0
+          changes:
+            - name: "0x1b7c301b51"
+              unk: 0
+    scripts: []
+    extra: NoChange
+removed: []
