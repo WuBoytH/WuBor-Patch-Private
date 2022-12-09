@@ -144,59 +144,87 @@
         ],
         "fighter/eflame/c00": [
             "fighter/eflame/motion/body/c00/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c00/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c00/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c00/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c00/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c01": [
             "fighter/eflame/motion/body/c01/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c01/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c01/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c01/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c01/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c02": [
             "fighter/eflame/motion/body/c02/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c02/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c02/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c02/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c02/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c03": [
             "fighter/eflame/motion/body/c03/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c03/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c03/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c03/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c03/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c04": [
             "fighter/eflame/motion/body/c04/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c04/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c04/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c04/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c04/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c05": [
             "fighter/eflame/motion/body/c05/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c05/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c05/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c05/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c05/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c06": [
             "fighter/eflame/motion/body/c06/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c06/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c06/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c06/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c06/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c07": [
             "fighter/eflame/motion/body/c07/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c07/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c07/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c07/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c07/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c08": [
             "fighter/eflame/motion/body/c08/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c08/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c08/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c08/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c08/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c09": [
             "fighter/eflame/motion/body/c09/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c09/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c09/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c09/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c09/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c10": [
             "fighter/eflame/motion/body/c10/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c10/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c10/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c10/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c10/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c11": [
             "fighter/eflame/motion/body/c11/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c11/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c11/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c11/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c11/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c12": [
             "fighter/eflame/motion/body/c12/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c12/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c12/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c12/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c12/d03specialairlwattack.nuanmb"
         ],
         "fighter/eflame/c13": [
             "fighter/eflame/motion/body/c13/c05attackairneflame.nuanmb",
-            "fighter/eflame/motion/body/c13/c05landingairneflame.nuanmb"
+            "fighter/eflame/motion/body/c13/c05landingairneflame.nuanmb",
+            "fighter/eflame/motion/body/c13/d03speciallwattack.nuanmb",
+            "fighter/eflame/motion/body/c13/d03specialairlwattack.nuanmb"
         ],
         "fighter/elight/c00": [
             "fighter/elight/motion/body/c00/c05attackairnelight.nuanmb",

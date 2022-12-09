@@ -370,4 +370,78 @@ altered:
         xlu_end: 0
         cancel_frame: 242
         no_stop_intp: ~
+  "0x15c8f0497f":
+    game_script: game_speciallwattack
+    flags:
+      turn: ~
+      loop: ~
+      move: true
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: true
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations:
+      - Inserted:
+          index: 0
+          changes:
+            - name: d03speciallwattack.nuanmb
+              unk: 0
+    scripts:
+      - Inserted:
+          index: 0
+          changes:
+            - expression_speciallwattack
+            - sound_speciallwattack
+            - effect_speciallwattack
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 88
+        no_stop_intp: ~
+  "0x19c43422aa":
+    game_script: game_specialairlwattack
+    flags:
+      turn: ~
+      loop: ~
+      move: true
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: true
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations:
+      - Inserted:
+          index: 0
+          changes:
+            - name: d03specialairlwattack.nuanmb
+              unk: 0
+    scripts:
+      - Inserted:
+          index: 0
+          changes:
+            - expression_specialairlwattack
+            - sound_specialairlwattack
+            - effect_specialairlwattack
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 88
+        no_stop_intp: ~
 removed: []
