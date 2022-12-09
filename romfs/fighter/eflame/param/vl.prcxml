@@ -68,14 +68,7 @@
     <hash40 index="3">dummy</hash40>
   </list>
   <list hash="param_esword">
-    <struct index="0">
-      <float hash="back_speed">2.2</float>
-      <float hash="back_accel">0.2</float>
-      <float hash="back_speed_min">2.2</float>
-      <float hash="back_speed_max">6</float>
-      <float hash="esword_catch_radius">8</float>
-      <float hash="eflame_catch_radius">8</float>
-    </struct>
+    <hash40 index="0">dummy</hash40>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
