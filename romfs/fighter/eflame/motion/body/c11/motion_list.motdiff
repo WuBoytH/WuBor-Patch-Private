@@ -370,7 +370,7 @@ altered:
         xlu_end: 0
         cancel_frame: 242
         no_stop_intp: ~
-  "0x15c8f0497f":
+  special_lw_out_attack:
     game_script: game_speciallwattack
     flags:
       turn: ~
@@ -407,7 +407,7 @@ altered:
         xlu_end: 0
         cancel_frame: 88
         no_stop_intp: ~
-  "0x19c43422aa":
+  special_air_lw_out_attack:
     game_script: game_specialairlwattack
     flags:
       turn: ~
