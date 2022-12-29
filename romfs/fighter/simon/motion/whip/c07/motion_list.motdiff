@@ -1,0 +1,66 @@
+---
+motion_path: ~
+altered:
+  attack_lw3:
+    game_script: game_attacklw3
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations:
+      - Inserted:
+          index: 0
+          changes:
+            - name: c02attacklw3.nuanmb
+              unk: 0
+    scripts:
+      - Inserted:
+          index: 0
+          changes:
+            - sound_attacklw3
+            - effect_attacklw3
+    extra: NoChange
+  attack_air_lw:
+    game_script: game_attackairlw
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations:
+      - Inserted:
+          index: 0
+          changes:
+            - name: c05attackairlw.nuanmb
+              unk: 0
+    scripts:
+      - Inserted:
+          index: 0
+          changes:
+            - sound_attackairlw
+            - effect_attackairlw
+    extra: NoChange
+removed: []

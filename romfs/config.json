@@ -761,6 +761,38 @@
             "effect/fighter/shulk/trail/tex_shulk_swordred3.nutexb",
             "effect/fighter/shulk/trail/tex_shulk_swordred4.nutexb"
         ],
+        "fighter/simon/c00": [
+            "fighter/simon/motion/whip/c00/c02attacklw3.nuanmb",
+            "fighter/simon/motion/whip/c00/c05attackairlw.nuanmb"
+        ],
+        "fighter/simon/c01": [
+            "fighter/simon/motion/whip/c01/c02attacklw3.nuanmb",
+            "fighter/simon/motion/whip/c01/c05attackairlw.nuanmb"
+        ],
+        "fighter/simon/c02": [
+            "fighter/simon/motion/whip/c02/c02attacklw3.nuanmb",
+            "fighter/simon/motion/whip/c02/c05attackairlw.nuanmb"
+        ],
+        "fighter/simon/c03": [
+            "fighter/simon/motion/whip/c03/c02attacklw3.nuanmb",
+            "fighter/simon/motion/whip/c03/c05attackairlw.nuanmb"
+        ],
+        "fighter/simon/c04": [
+            "fighter/simon/motion/whip/c04/c02attacklw3.nuanmb",
+            "fighter/simon/motion/whip/c04/c05attackairlw.nuanmb"
+        ],
+        "fighter/simon/c05": [
+            "fighter/simon/motion/whip/c05/c02attacklw3.nuanmb",
+            "fighter/simon/motion/whip/c05/c05attackairlw.nuanmb"
+        ],
+        "fighter/simon/c06": [
+            "fighter/simon/motion/whip/c06/c02attacklw3.nuanmb",
+            "fighter/simon/motion/whip/c06/c05attackairlw.nuanmb"
+        ],
+        "fighter/simon/c07": [
+            "fighter/simon/motion/whip/c07/c02attacklw3.nuanmb",
+            "fighter/simon/motion/whip/c07/c05attackairlw.nuanmb"
+        ],
         "fighter/szerosuit/c00": [
             "fighter/szerosuit/motion/body/c00/d02specialhi2.nuanmb",
             "fighter/szerosuit/motion/body/c00/d02specialairhi2.nuanmb"
