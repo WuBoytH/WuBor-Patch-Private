@@ -309,7 +309,7 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1730028050"
+            - name: d00specialnhold2.nuanmb
               unk: 0
     scripts:
       - Inserted:
@@ -346,7 +346,7 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x18bfea8bc7"
+            - name: d00specialnshoot2.nuanmb
               unk: 0
     scripts:
       - Inserted:
@@ -383,7 +383,7 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1a9bac8587"
+            - name: d00specialairnhold2.nuanmb
               unk: 0
     scripts:
       - Inserted:
@@ -420,7 +420,7 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1ba7f662b5"
+            - name: d00specialairnshoot2.nuanmb
               unk: 0
     scripts:
       - Inserted:
@@ -470,7 +470,7 @@ altered:
       Some:
         xlu_start: 0
         xlu_end: 0
-        cancel_frame: 48
+        cancel_frame: 0
         no_stop_intp: ~
   special_air_s2:
     game_script: game_specialairs2
@@ -507,7 +507,7 @@ altered:
       Some:
         xlu_start: 0
         xlu_end: 0
-        cancel_frame: 48
+        cancel_frame: 0
         no_stop_intp: ~
   "0x117557f263":
     game_script: "0x137187c84f"
@@ -531,7 +531,7 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1858161061"
+            - name: d01specialsthrow2.nuanmb
               unk: 0
     scripts:
       - Inserted:
@@ -605,7 +605,7 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1bf2a90ddd"
+            - name: d01specialairsthrow2.nuanmb
               unk: 0
     scripts:
       - Inserted:
