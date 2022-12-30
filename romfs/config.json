@@ -112,36 +112,6 @@
             "fighter/edge/motion/body/c07/j01appealsloop.nuanmb",
             "fighter/edge/motion/body/c07/j01appealsattack.nuanmb"
         ],
-        "fighter/edge/c08": [
-            "fighter/edge/motion/body/c08/j01appeallwloop.nuanmb",
-            "fighter/edge/motion/body/c08/j01appealsloop.nuanmb",
-            "fighter/edge/motion/body/c08/j01appealsattack.nuanmb"
-        ],
-        "fighter/edge/c09": [
-            "fighter/edge/motion/body/c09/j01appeallwloop.nuanmb",
-            "fighter/edge/motion/body/c09/j01appealsloop.nuanmb",
-            "fighter/edge/motion/body/c09/j01appealsattack.nuanmb"
-        ],
-        "fighter/edge/c10": [
-            "fighter/edge/motion/body/c10/j01appeallwloop.nuanmb",
-            "fighter/edge/motion/body/c10/j01appealsloop.nuanmb",
-            "fighter/edge/motion/body/c10/j01appealsattack.nuanmb"
-        ],
-        "fighter/edge/c11": [
-            "fighter/edge/motion/body/c11/j01appeallwloop.nuanmb",
-            "fighter/edge/motion/body/c11/j01appealsloop.nuanmb",
-            "fighter/edge/motion/body/c11/j01appealsattack.nuanmb"
-        ],
-        "fighter/edge/c12": [
-            "fighter/edge/motion/body/c12/j01appeallwloop.nuanmb",
-            "fighter/edge/motion/body/c12/j01appealsloop.nuanmb",
-            "fighter/edge/motion/body/c12/j01appealsattack.nuanmb"
-        ],
-        "fighter/edge/c13": [
-            "fighter/edge/motion/body/c13/j01appeallwloop.nuanmb",
-            "fighter/edge/motion/body/c13/j01appealsloop.nuanmb",
-            "fighter/edge/motion/body/c13/j01appealsattack.nuanmb"
-        ],
         "fighter/ken/c00": [
             "fighter/ken/motion/body/c00/d02specialhireppa.nuanmb"
         ],
@@ -325,23 +295,6 @@
             "fighter/lucario/motion/body/c07/d03specialairlwattack.nuanmb",
             "fighter/lucario/motion/body/c07/d03speciallwcancel.nuanmb",
             "fighter/lucario/motion/body/c07/d03specialairlwcancel.nuanmb"
-        ],
-        "fighter/lucario/c08": [
-            "fighter/lucario/motion/body/c08/d00specialnhold2.nuanmb",
-            "fighter/lucario/motion/body/c08/d00specialnshoot2.nuanmb",
-            "fighter/lucario/motion/body/c08/d00specialairnhold2.nuanmb",
-            "fighter/lucario/motion/body/c08/d00specialairnshoot2.nuanmb",
-            "fighter/lucario/motion/body/c08/d01specials2.nuanmb",
-            "fighter/lucario/motion/body/c08/d01specialairs2.nuanmb",
-            "fighter/lucario/motion/body/c08/d01specialsthrow2.nuanmb",
-            "fighter/lucario/motion/body/c08/d01specialairsthrow.nuanmb",
-            "fighter/lucario/motion/body/c08/d01specialairsthrow2.nuanmb",
-            "fighter/lucario/motion/body/c08/d03speciallwcharge.nuanmb",
-            "fighter/lucario/motion/body/c08/d03specialairlwcharge.nuanmb",
-            "fighter/lucario/motion/body/c08/d03speciallwattack.nuanmb",
-            "fighter/lucario/motion/body/c08/d03specialairlwattack.nuanmb",
-            "fighter/lucario/motion/body/c08/d03speciallwcancel.nuanmb",
-            "fighter/lucario/motion/body/c08/d03specialairlwcancel.nuanmb"
         ],
         "fighter/marth/cmn/effect": [
             "effect/fighter/marth/trail/tex_marth_stance_sword1.nutexb",
