@@ -109,9 +109,7 @@
     <hash40 index="102">dummy</hash40>
     <hash40 index="103">dummy</hash40>
     <hash40 index="104">dummy</hash40>
-    <struct index="105">
-      <hash40 hash="skill_kind">down_2</hash40>
-    </struct>
+    <hash40 index="105">dummy</hash40>
     <hash40 index="106">dummy</hash40>
     <hash40 index="107">dummy</hash40>
     <hash40 index="108">dummy</hash40>
@@ -551,9 +549,7 @@
     <hash40 index="535">dummy</hash40>
     <hash40 index="536">dummy</hash40>
     <hash40 index="537">dummy</hash40>
-    <struct index="538">
-      <hash40 hash="skill_kind">down_2</hash40>
-    </struct>
+    <hash40 index="538">dummy</hash40>
     <hash40 index="539">dummy</hash40>
     <hash40 index="540">dummy</hash40>
     <hash40 index="541">dummy</hash40>
@@ -1309,9 +1305,7 @@
     <hash40 index="1246">dummy</hash40>
     <hash40 index="1247">dummy</hash40>
     <hash40 index="1248">dummy</hash40>
-    <struct index="1249">
-      <hash40 hash="skill_kind">down_3</hash40>
-    </struct>
+    <hash40 index="1249">dummy</hash40>
     <hash40 index="1250">dummy</hash40>
     <hash40 index="1251">dummy</hash40>
     <hash40 index="1252">dummy</hash40>
@@ -2521,6 +2515,33 @@
       <uint hash="disp_order">1164</uint>
       <hash40 hash="type_0">relation_chara</hash40>
       <hash40 hash="key_0">ui_chara_lucina</hash40>
+      <hash40 hash="type_1"></hash40>
+      <hash40 hash="key_1"></hash40>
+      <hash40 hash="type_2"></hash40>
+      <hash40 hash="key_2"></hash40>
+      <hash40 hash="type_3"></hash40>
+      <hash40 hash="key_3"></hash40>
+      <hash40 hash="type_4"></hash40>
+      <hash40 hash="key_4"></hash40>
+      <hash40 hash="type_5"></hash40>
+      <hash40 hash="key_5"></hash40>
+      <hash40 hash="type_6"></hash40>
+      <hash40 hash="key_6"></hash40>
+      <hash40 hash="type_7"></hash40>
+      <hash40 hash="key_7"></hash40>
+      <hash40 hash="type_8"></hash40>
+      <hash40 hash="key_8"></hash40>
+    </struct>
+    <struct index="2213">
+      <hash40 hash="ui_tips_id">0x0c85cabbab</hash40>
+      <uint hash="save_no">2510</uint>
+      <hash40 hash="level">level_beginner</hash40>
+      <hash40 hash="topic">topic_technic</hash40>
+      <hash40 hash="skill_kind"></hash40>
+      <hash40 hash="ui_tips_unlock_id"></hash40>
+      <uint hash="disp_order">207</uint>
+      <hash40 hash="type_0">relation_chara</hash40>
+      <hash40 hash="key_0">ui_chara_samusd</hash40>
       <hash40 hash="type_1"></hash40>
       <hash40 hash="key_1"></hash40>
       <hash40 hash="type_2"></hash40>
