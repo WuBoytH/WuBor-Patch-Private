@@ -133,6 +133,8 @@
       <float hash="rot_speed">20</float>
       <float hash="throw_angle_stick_back">71.42</float>
       <float hash="throw_angle_stick_front">67.42</float>
+      <float hash="throw_speed_stick_back">11</float>
+      <float hash="fortitudo_reflect_limit">11</float>
       <float hash="stick_angle_limit">100</float>
     </struct>
     <hash40 index="1">dummy</hash40>
