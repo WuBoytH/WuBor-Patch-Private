@@ -1,6 +1,68 @@
 ---
 motion_path: ~
 altered:
+  attack_s3_hi:
+    game_script: game_attacks3hi
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations:
+      - Inserted:
+          index: 0
+          changes:
+            - name: c01attacks3hi.nuanmb
+              unk: 0
+    scripts:
+      - Inserted:
+          index: 0
+          changes:
+            - sound_attacks3hi
+            - effect_attacks3hi
+    extra: NoChange
+  attack_s3_lw:
+    game_script: game_attacks3lw
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations:
+      - Inserted:
+          index: 0
+          changes:
+            - name: c01attacks3lw.nuanmb
+              unk: 0
+    scripts:
+      - Inserted:
+          index: 0
+          changes:
+            - sound_attacks3lw
+            - effect_attacks3lw
+    extra: NoChange
   attack_lw3:
     game_script: game_attacklw3
     flags:
