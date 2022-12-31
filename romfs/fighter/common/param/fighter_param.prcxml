@@ -363,6 +363,7 @@
       <float hash="dive_speed_y">3.056</float>
       <float hash="weight">110</float>
       <float hash="landing_attack_air_frame_lw">23</float>
+      <bool hash="ladder_attack_lw_fall">false</bool>
     </struct>
     <struct index="64">
       <float hash="walk_speed_max">1.25</float>
@@ -453,6 +454,7 @@
     <struct index="76">
       <int hash="jump_squat_frame">4</int>
       <float hash="dive_speed_y">2.736</float>
+      <bool hash="ladder_attack_lw_fall">false</bool>
     </struct>
     <struct index="77">
       <float hash="run_speed_max">1.41</float>
@@ -537,6 +539,7 @@
       <float hash="landing_attack_air_frame_hi">10</float>
       <float hash="landing_attack_air_frame_lw">8</float>
       <float hash="combo_attack_12_end">11</float>
+      <bool hash="ladder_attack_lw_fall">true</bool>
       <hash40 hash="attack_combo_type">fighter_combo_type_hit</hash40>
     </struct>
     <struct index="86">
