@@ -183,8 +183,10 @@
   </list>
   <list hash="param_special_lw">
     <struct index="0">
-      <float hash="throw_speed_ground">2.7</float>
-      <float hash="throw_angle_air">-24</float>
+      <float hash="throw_angle_ground">60</float>
+      <float hash="throw_speed_ground">2</float>
+      <float hash="throw_angle_air">60</float>
+      <float hash="throw_speed_air">2</float>
     </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
@@ -192,10 +194,12 @@
   </list>
   <list hash="param_holywater">
     <struct index="0">
+      <float hash="rot_speed">-14</float>
       <float hash="hp">15</float>
       <float hash="hit_dec_hp">15</float>
       <int hash="life_frame">240</int>
       <float hash="fire_pillar_scale_min">1</float>
+      <float hash="throw_angle_side">60</float>
     </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
