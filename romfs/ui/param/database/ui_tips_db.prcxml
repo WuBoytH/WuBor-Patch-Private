@@ -2157,7 +2157,10 @@
     <hash40 index="2095">dummy</hash40>
     <hash40 index="2096">dummy</hash40>
     <hash40 index="2097">dummy</hash40>
-    <hash40 index="2098">dummy</hash40>
+    <struct index="2098">
+      <uint hash="disp_order">4406</uint>
+      <hash40 hash="key_0">ui_chara_flame_only</hash40>
+    </struct>
     <hash40 index="2099">dummy</hash40>
     <hash40 index="2100">dummy</hash40>
     <hash40 index="2101">dummy</hash40>
@@ -2168,8 +2171,14 @@
     <hash40 index="2106">dummy</hash40>
     <hash40 index="2107">dummy</hash40>
     <hash40 index="2108">dummy</hash40>
-    <hash40 index="2109">dummy</hash40>
-    <hash40 index="2110">dummy</hash40>
+    <struct index="2109">
+      <hash40 hash="type_1">relation_chara</hash40>
+      <hash40 hash="key_1">ui_chara_light_first</hash40>
+    </struct>
+    <struct index="2110">
+      <hash40 hash="type_1">relation_chara</hash40>
+      <hash40 hash="key_1">ui_chara_light_first</hash40>
+    </struct>
     <hash40 index="2111">dummy</hash40>
     <hash40 index="2112">dummy</hash40>
     <hash40 index="2113">dummy</hash40>
@@ -2542,6 +2551,33 @@
       <uint hash="disp_order">207</uint>
       <hash40 hash="type_0">relation_chara</hash40>
       <hash40 hash="key_0">ui_chara_samusd</hash40>
+      <hash40 hash="type_1"></hash40>
+      <hash40 hash="key_1"></hash40>
+      <hash40 hash="type_2"></hash40>
+      <hash40 hash="key_2"></hash40>
+      <hash40 hash="type_3"></hash40>
+      <hash40 hash="key_3"></hash40>
+      <hash40 hash="type_4"></hash40>
+      <hash40 hash="key_4"></hash40>
+      <hash40 hash="type_5"></hash40>
+      <hash40 hash="key_5"></hash40>
+      <hash40 hash="type_6"></hash40>
+      <hash40 hash="key_6"></hash40>
+      <hash40 hash="type_7"></hash40>
+      <hash40 hash="key_7"></hash40>
+      <hash40 hash="type_8"></hash40>
+      <hash40 hash="key_8"></hash40>
+    </struct>
+    <struct index="2214">
+      <hash40 hash="ui_tips_id">0x0cf2cd8b3d</hash40>
+      <uint hash="save_no">2511</uint>
+      <hash40 hash="level">level_beginner</hash40>
+      <hash40 hash="topic"></hash40>
+      <hash40 hash="skill_kind"></hash40>
+      <hash40 hash="ui_tips_unlock_id"></hash40>
+      <uint hash="disp_order">3707</uint>
+      <hash40 hash="type_0">relation_chara</hash40>
+      <hash40 hash="key_0">ui_chara_richter</hash40>
       <hash40 hash="type_1"></hash40>
       <hash40 hash="key_1"></hash40>
       <hash40 hash="type_2"></hash40>
