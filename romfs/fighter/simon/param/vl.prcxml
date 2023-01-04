@@ -198,7 +198,7 @@
       <float hash="hp">15</float>
       <float hash="hit_dec_hp">15</float>
       <int hash="life_frame">240</int>
-      <float hash="fire_pillar_scale_min">1</float>
+      <int hash="fire_pillar_life_frame">70</int>
       <float hash="throw_angle_side">60</float>
     </struct>
     <hash40 index="1">dummy</hash40>
