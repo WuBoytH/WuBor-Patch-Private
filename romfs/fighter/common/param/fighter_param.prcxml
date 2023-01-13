@@ -437,6 +437,7 @@
       <float hash="dive_speed_y">2.736</float>
     </struct>
     <struct index="77">
+      <float hash="dash_speed">1.72</float>
       <float hash="run_speed_max">1.41</float>
       <int hash="jump_squat_frame">4</int>
       <float hash="damage_fly_top_air_accel_y">0.075264</float>
@@ -448,6 +449,7 @@
       <int hash="jump_squat_frame">4</int>
       <float hash="damage_fly_top_air_accel_y">0.071904</float>
       <float hash="weight">89</float>
+      <float hash="landing_attack_air_frame_n">7</float>
     </struct>
     <struct index="79">
       <int hash="jump_squat_frame">4</int>
