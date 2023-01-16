@@ -53,6 +53,32 @@ altered:
         xlu_end: 0
         cancel_frame: 250
         no_stop_intp: ~
+  attack_air_n:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: true
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 11
+        no_stop_intp: ~
   special_n:
     game_script: ~
     flags:
