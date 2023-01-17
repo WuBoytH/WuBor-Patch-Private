@@ -131,10 +131,18 @@
       <float hash="brake_x">0</float>
       <float hash="limit_gravity">3</float>
       <float hash="rot_speed">20</float>
+      <int hash="life">120</int>
       <float hash="throw_angle_stick_back">71.42</float>
       <float hash="throw_angle_stick_front">67.42</float>
       <float hash="throw_speed_stick_back">11</float>
       <float hash="fortitudo_reflect_limit">11</float>
+      <float hash="hop_angle">130</float>
+      <float hash="hop_random_angle">15</float>
+      <float hash="hop_speed">1.4</float>
+      <int hash="hop_life">120</int>
+      <float hash="hop_speed_mul_x">0.7</float>
+      <float hash="hop_speed_mul_y">0.7</float>
+      <float hash="hop_h_landing_brake_x">0.005</float>
       <float hash="stick_angle_limit">100</float>
     </struct>
     <hash40 index="1">dummy</hash40>
