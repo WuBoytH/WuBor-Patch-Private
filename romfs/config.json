@@ -280,6 +280,15 @@
             "fighter/dolly/motion/body/c06/d01specialsbs.nuanmb",
             "fighter/dolly/motion/body/c07/d01specialsbs.nuanmb"
         ],
+        "fighter/dolly/motion/body/c00/d03speciallwstart.nuanmb": [
+            "fighter/dolly/motion/body/c01/d03speciallwstart.nuanmb",
+            "fighter/dolly/motion/body/c02/d03speciallwstart.nuanmb",
+            "fighter/dolly/motion/body/c03/d03speciallwstart.nuanmb",
+            "fighter/dolly/motion/body/c04/d03speciallwstart.nuanmb",
+            "fighter/dolly/motion/body/c05/d03speciallwstart.nuanmb",
+            "fighter/dolly/motion/body/c06/d03speciallwstart.nuanmb",
+            "fighter/dolly/motion/body/c07/d03speciallwstart.nuanmb"
+        ],
         "fighter/dolly/motion/body/c00/j01appealhir.nuanmb": [
             "fighter/dolly/motion/body/c01/j01appealhir.nuanmb",
             "fighter/dolly/motion/body/c02/j01appealhir.nuanmb",
