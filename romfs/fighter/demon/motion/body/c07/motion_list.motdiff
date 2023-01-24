@@ -1,0 +1,282 @@
+---
+motion_path: ~
+altered:
+  "0x11cca4f779":
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 1
+        xlu_end: 9
+        cancel_frame: 0
+        no_stop_intp: ~
+  landing_air_lw:
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 206
+        no_stop_intp: ~
+  "0x0bb4a23fd1":
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 255
+        xlu_end: 252
+        cancel_frame: 0
+        no_stop_intp: ~
+  "0x0e3d4d97c8":
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 253
+        xlu_end: 245
+        cancel_frame: 0
+        no_stop_intp: ~
+  "0x0edd987ed6":
+    game_script: ~
+    flags:
+      turn: ~
+      loop: ~
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations: []
+    scripts: []
+    extra:
+      Some:
+        xlu_start: 243
+        xlu_end: 234
+        cancel_frame: 0
+        no_stop_intp: ~
+  "0x0b485edc62":
+    game_script: "0x0ee8c3a7a9"
+    flags:
+      turn: ~
+      loop: ~
+      move: true
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations:
+      - Inserted:
+          index: 0
+          changes:
+            - name: c06attackstand4.nuanmb
+              unk: 0
+    scripts:
+      - Inserted:
+          index: 0
+          changes:
+            - "0x1484928a2b"
+            - "0x0f087db216"
+            - "0x102de0174e"
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 39
+        no_stop_intp: ~
+  "0x0f1ee2f883":
+    game_script: "0x12fdef8446"
+    flags:
+      turn: ~
+      loop: ~
+      move: true
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: ~
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations:
+      - Inserted:
+          index: 0
+          changes:
+            - name: c06attackstand5.nuanmb
+              unk: 0
+    scripts:
+      - Inserted:
+          index: 0
+          changes:
+            - "0x186d8e6e23"
+            - "0x13785fda5f"
+            - "0x1426be4289"
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 34
+        no_stop_intp: ~
+  "0x10a46b99ea":
+    game_script: "0x12c3a4c85f"
+    flags:
+      turn: ~
+      loop: true
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: true
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations:
+      - Inserted:
+          index: 0
+          changes:
+            - name: j01appealhirloop.nuanmb
+              unk: 0
+    scripts:
+      - Inserted:
+          index: 0
+          changes:
+            - "0x1853c5223a"
+            - "0x1346149646"
+            - "0x1418f50e90"
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 0
+        no_stop_intp: ~
+  "0x109db7fa01":
+    game_script: "0x121c74e1bc"
+    flags:
+      turn: ~
+      loop: true
+      move: ~
+      fix_trans: ~
+      fix_rot: ~
+      fix_scale: ~
+      unk_40: ~
+      unk_80: true
+      unk_100: ~
+      unk_200: ~
+      unk_400: ~
+      unk_800: ~
+      unk_1000: ~
+      unk_2000: ~
+    blend_frames: 0
+    animations:
+      - Inserted:
+          index: 0
+          changes:
+            - name: j01appealhilloop.nuanmb
+              unk: 0
+    scripts:
+      - Inserted:
+          index: 0
+          changes:
+            - "0x188c150bd9"
+            - "0x1399c4bfa5"
+            - "0x14c7252773"
+    extra:
+      Some:
+        xlu_start: 0
+        xlu_end: 0
+        cancel_frame: 0
+        no_stop_intp: ~
+removed: []

@@ -1,0 +1,6 @@
+---
+motion_path: ~
+altered: {}
+removed:
+  - landing_air_n
+  - attack_air_n
