@@ -632,6 +632,15 @@
             "fighter/kirby/motion/body/c06/j01appealsr.nuanmb",
             "fighter/kirby/motion/body/c07/j01appealsr.nuanmb"
         ],
+        "fighter/kirby/motion/body/c00/j01appealsloop.nuanmb": [
+            "fighter/kirby/motion/body/c01/j01appealsloop.nuanmb",
+            "fighter/kirby/motion/body/c02/j01appealsloop.nuanmb",
+            "fighter/kirby/motion/body/c03/j01appealsloop.nuanmb",
+            "fighter/kirby/motion/body/c04/j01appealsloop.nuanmb",
+            "fighter/kirby/motion/body/c05/j01appealsloop.nuanmb",
+            "fighter/kirby/motion/body/c06/j01appealsloop.nuanmb",
+            "fighter/kirby/motion/body/c07/j01appealsloop.nuanmb"
+        ],
         "fighter/koopa/motion/body/c00/motion_list.bin": [
             "fighter/koopa/motion/body/c01/motion_list.bin",
             "fighter/koopa/motion/body/c02/motion_list.bin",
