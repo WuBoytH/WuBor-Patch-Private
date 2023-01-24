@@ -2366,6 +2366,33 @@
             "fighter/richter/motion/body/c06/motion_list.bin",
             "fighter/richter/motion/body/c07/motion_list.bin"
         ],
+        "fighter/richter/motion/body/c00/c00attack11.nuanmb": [
+            "fighter/richter/motion/body/c01/c00attack11.nuanmb",
+            "fighter/richter/motion/body/c02/c00attack11.nuanmb",
+            "fighter/richter/motion/body/c03/c00attack11.nuanmb",
+            "fighter/richter/motion/body/c04/c00attack11.nuanmb",
+            "fighter/richter/motion/body/c05/c00attack11.nuanmb",
+            "fighter/richter/motion/body/c06/c00attack11.nuanmb",
+            "fighter/richter/motion/body/c07/c00attack11.nuanmb"
+        ],
+        "fighter/richter/motion/body/c00/c00attack12.nuanmb": [
+            "fighter/richter/motion/body/c01/c00attack12.nuanmb",
+            "fighter/richter/motion/body/c02/c00attack12.nuanmb",
+            "fighter/richter/motion/body/c03/c00attack12.nuanmb",
+            "fighter/richter/motion/body/c04/c00attack12.nuanmb",
+            "fighter/richter/motion/body/c05/c00attack12.nuanmb",
+            "fighter/richter/motion/body/c06/c00attack12.nuanmb",
+            "fighter/richter/motion/body/c07/c00attack12.nuanmb"
+        ],
+        "fighter/richter/motion/body/c00/c00attack12f.nuanmb": [
+            "fighter/richter/motion/body/c01/c00attack12f.nuanmb",
+            "fighter/richter/motion/body/c02/c00attack12f.nuanmb",
+            "fighter/richter/motion/body/c03/c00attack12f.nuanmb",
+            "fighter/richter/motion/body/c04/c00attack12f.nuanmb",
+            "fighter/richter/motion/body/c05/c00attack12f.nuanmb",
+            "fighter/richter/motion/body/c06/c00attack12f.nuanmb",
+            "fighter/richter/motion/body/c07/c00attack12f.nuanmb"
+        ],
         "fighter/richter/motion/body/c00/c05attackairn.nuanmb": [
             "fighter/richter/motion/body/c01/c05attackairn.nuanmb",
             "fighter/richter/motion/body/c02/c05attackairn.nuanmb",
@@ -3800,6 +3827,30 @@
         "fighter/pikmin/c07": [
             "fighter/pikmin/motion/body/c07/c01attacks3sloop.nuanmb",
             "fighter/pikmin/motion/body/c07/c01attacks3send.nuanmb"
+        ],
+        "fighter/richter/c00": [
+            "fighter/richter/motion/body/c00/c00attack12f.nuanmb"
+        ],
+        "fighter/richter/c01": [
+            "fighter/richter/motion/body/c01/c00attack12f.nuanmb"
+        ],
+        "fighter/richter/c02": [
+            "fighter/richter/motion/body/c02/c00attack12f.nuanmb"
+        ],
+        "fighter/richter/c03": [
+            "fighter/richter/motion/body/c03/c00attack12f.nuanmb"
+        ],
+        "fighter/richter/c04": [
+            "fighter/richter/motion/body/c04/c00attack12f.nuanmb"
+        ],
+        "fighter/richter/c05": [
+            "fighter/richter/motion/body/c05/c00attack12f.nuanmb"
+        ],
+        "fighter/richter/c06": [
+            "fighter/richter/motion/body/c06/c00attack12f.nuanmb"
+        ],
+        "fighter/richter/c07": [
+            "fighter/richter/motion/body/c07/c00attack12f.nuanmb"
         ],
         "fighter/robot/c00": [
             "fighter/robot/motion/body/c00/j01appealhiloop.nuanmb"

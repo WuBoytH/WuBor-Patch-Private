@@ -617,6 +617,8 @@
       <float hash="landing_attack_air_frame_b">14</float>
       <float hash="landing_attack_air_frame_lw">29</float>
       <float hash="cliff_jump_y">22</float>
+      <bool hash="attack100_type">false</bool>
+      <int hash="attack_100_enable_cnt">0</int>
       <bool hash="wall_jump_type">true</bool>
     </struct>
     <hash40 index="90">dummy</hash40>
