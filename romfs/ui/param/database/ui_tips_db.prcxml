@@ -969,11 +969,7 @@
       <hash40 hash="type_2">relation_chara</hash40>
       <hash40 hash="key_2">ui_chara_ryu</hash40>
       <hash40 hash="type_3">relation_chara</hash40>
-      <hash40 hash="key_3">ui_chara_simon</hash40>
-      <hash40 hash="type_4">relation_chara</hash40>
-      <hash40 hash="key_4">ui_chara_richter</hash40>
-      <hash40 hash="type_5">relation_chara</hash40>
-      <hash40 hash="key_5">ui_chara_packun</hash40>
+      <hash40 hash="key_3">ui_chara_richter</hash40>
     </struct>
     <hash40 index="930">dummy</hash40>
     <hash40 index="931">dummy</hash40>
