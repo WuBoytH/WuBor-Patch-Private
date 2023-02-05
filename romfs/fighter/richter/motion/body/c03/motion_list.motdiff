@@ -51,7 +51,7 @@ altered:
       Some:
         xlu_start: 0
         xlu_end: 0
-        cancel_frame: 7
+        cancel_frame: 6
         no_stop_intp: ~
   attack_lw3:
     game_script: ~
@@ -322,6 +322,6 @@ altered:
       Some:
         xlu_start: 0
         xlu_end: 0
-        cancel_frame: 34
+        cancel_frame: 33
         no_stop_intp: ~
 removed: []
