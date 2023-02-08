@@ -1,8 +1,8 @@
 ---
 motion_path: ~
 altered:
-  "0x10c99e62fe":
-    game_script: "0x139a810782"
+  special_lw_enter:
+    game_script: game_speciallwenter
     flags:
       turn: ~
       loop: ~
@@ -23,23 +23,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x18b50cb852"
+            - name: d03speciallwenter.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x19a7c9f3bf"
-            - "0x14fe6f1f1c"
-            - "0x1591818965"
+            - expression_speciallwenter
+            - sound_speciallwenter
+            - effect_speciallwenter
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 4
         no_stop_intp: ~
-  "0x146c8cb17e":
-    game_script: "0x16b00c4727"
+  special_lw_air_enter:
+    game_script: game_speciallwairenter
     flags:
       turn: ~
       loop: ~
@@ -60,23 +60,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1bb90d095c"
+            - name: d03speciallwairenter.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1c9468dcc2"
-            - "0x178228859f"
-            - "0x18b9a134cc"
+            - expression_speciallwairenter
+            - sound_speciallwairenter
+            - effect_speciallwairenter
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 4
         no_stop_intp: ~
-  "0x0ff9b89ce0":
-    game_script: "0x12554ed012"
+  special_lw_wait:
+    game_script: game_speciallwwait
     flags:
       turn: ~
       loop: true
@@ -103,17 +103,17 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - "0x18c52f3a77"
-            - "0x13d0fe8e0b"
-            - "0x148e1f16dd"
+            - expression_speciallwwait
+            - sound_speciallwwait
+            - effect_speciallwwait
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x13e1de77c7":
-    game_script: "0x15b725e1e9"
+  special_lw_air_wait:
+    game_script: game_speciallwairwait
     flags:
       turn: ~
       loop: true
@@ -134,23 +134,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1a1d1071bd"
+            - name: d03speciallwairwait.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1b671da21a"
-            - "0x164b8bbac5"
-            - "0x17ac1a21e5"
+            - expression_speciallwairwait
+            - sound_speciallwairwait
+            - effect_speciallwairwait
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x10a2894d13":
-    game_script: "0x13f196286f"
+  special_lw_squat:
+    game_script: game_speciallwsquat
     flags:
       turn: ~
       loop: ~
@@ -171,23 +171,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x181f66f3f6"
+            - name: d03speciallwsquat.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x19ccdedc52"
-            - "0x14957830f1"
-            - "0x15fa96a688"
+            - expression_speciallwsquat
+            - sound_speciallwsquat
+            - effect_speciallwsquat
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x151c206028":
-    game_script: "0x17c5549cfe"
+  special_lw_squat_wait:
+    game_script: game_speciallwsquatwait
     flags:
       turn: ~
       loop: true
@@ -208,23 +208,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1ca55083ab"
+            - name: d03speciallwsquatwait.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1d1510ee92"
-            - "0x1800dc8382"
-            - "0x19f2850a7d"
+            - expression_speciallwsquatwait
+            - sound_speciallwsquatwait
+            - effect_speciallwsquatwait
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x13f31d68a5":
-    game_script: "0x153266f386"
+  special_lw_squat_rv:
+    game_script: game_speciallwsquatrv
     flags:
       turn: ~
       loop: ~
@@ -245,23 +245,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1aeb248ab1"
+            - name: d03speciallwsquatrv.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1be25eb075"
-            - "0x16cec8a8aa"
-            - "0x172959338a"
+            - expression_speciallwsquatrv
+            - sound_speciallwsquatrv
+            - effect_speciallwsquatrv
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x11d036dfe8":
-    game_script: "0x1355b982d1"
+  special_lw_dash_f:
+    game_script: game_speciallwdashf
     flags:
       turn: ~
       loop: ~
@@ -282,23 +282,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x185633c304"
+            - name: d03speciallwdashf.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1968f176ec"
-            - "0x1431579a4f"
-            - "0x155eb90c36"
+            - expression_speciallwdashf
+            - sound_speciallwdashf
+            - effect_speciallwdashf
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 15
         no_stop_intp: ~
-  "0x11d75b1bf1":
-    game_script: "0x1352d446c8"
+  special_lw_dash_b:
+    game_script: game_speciallwdashb
     flags:
       turn: ~
       loop: ~
@@ -319,23 +319,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x18d279cdfe"
+            - name: d03speciallwdashb.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x196f9cb2f5"
-            - "0x14363a5e56"
-            - "0x1559d4c82f"
+            - expression_speciallwdashb
+            - sound_speciallwdashb
+            - effect_speciallwdashb
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 15
         no_stop_intp: ~
-  "0x0f105f9b0b":
-    game_script: "0x12bca9d7f9"
+  special_lw_exit:
+    game_script: game_speciallwexit
     flags:
       turn: ~
       loop: ~
@@ -356,23 +356,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x17879b905e"
+            - name: d03speciallwexit.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x182cc83d9c"
-            - "0x13391989e0"
-            - "0x1467f81136"
+            - expression_speciallwexit
+            - sound_speciallwexit
+            - effect_speciallwexit
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 4
         no_stop_intp: ~
-  "0x130839702c":
-    game_script: "0x155ec2e602"
+  special_lw_air_exit:
+    game_script: game_speciallwairexit
     flags:
       turn: ~
       loop: ~
@@ -393,15 +393,15 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1a3031a695"
+            - name: d03speciallwairexit.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1b8efaa5f1"
-            - "0x16a26cbd2e"
-            - "0x1745fd260e"
+            - expression_speciallwairexit
+            - sound_speciallwairexit
+            - effect_speciallwairexit
     extra:
       Some:
         xlu_start: 0
@@ -445,8 +445,8 @@ altered:
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x146b16e28a":
-    game_script: "0x1641ce4b1e"
+  special_lw_attack_11:
+    game_script: game_speciallwattack11
     flags:
       turn: ~
       loop: ~
@@ -467,23 +467,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1b5e3be3df"
+            - name: d03speciallwattack11.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1c65aad0fb"
-            - "0x1773ea89a6"
-            - "0x18486338f5"
+            - expression_speciallwattack11
+            - sound_speciallwattack11
+            - effect_speciallwattack11
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x15a293a727":
-    game_script: "0x1755db28d3"
+  special_lw_attack_lw3:
+    game_script: game_speciallwattacklw3
     flags:
       turn: ~
       loop: ~
@@ -504,23 +504,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1c04974c73"
+            - name: d03speciallwattacklw3.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1d859f5abf"
-            - "0x18905337af"
-            - "0x19620abe50"
+            - expression_speciallwattacklw3
+            - sound_speciallwattacklw3
+            - effect_speciallwattacklw3
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x153cf73284":
-    game_script: "0x17cbbfbd70"
+  special_lw_attack_lw4:
+    game_script: game_speciallwattacklw4
     flags:
       turn: ~
       loop: ~
@@ -541,15 +541,15 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1c0e52456a"
+            - name: d03speciallwattacklw4.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1d1bfbcf1c"
-            - "0x180e37a20c"
-            - "0x19fc6e2bf3"
+            - expression_speciallwattacklw4
+            - sound_speciallwattacklw4
+            - effect_speciallwattacklw4
     extra:
       Some:
         xlu_start: 0
@@ -557,7 +557,7 @@ altered:
         cancel_frame: 40
         no_stop_intp: ~
   "0x174f13a731":
-    game_script: "0x18261de561"
+    game_script: game_speciallwattacklw4f
     flags:
       turn: ~
       loop: ~
@@ -578,15 +578,15 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1d4368e801"
+            - name: d03speciallwattacklw4f.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1e62c98c60"
-            - "0x197f6b5069"
-            - "0x1a529be66d"
+            - expression_speciallwattacklw4f
+            - sound_speciallwattacklw4f
+            - effect_speciallwattacklw4f
     extra:
       Some:
         xlu_start: 0
@@ -594,7 +594,7 @@ altered:
         cancel_frame: 40
         no_stop_intp: ~
   "0x17487e6328":
-    game_script: "0x1821702178"
+    game_script: game_speciallwattacklw4b
     flags:
       turn: ~
       loop: ~
@@ -615,23 +615,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1dc722e6fb"
+            - name: d03speciallwattacklw4b.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1e65a44879"
-            - "0x1978069470"
-            - "0x1a55f62274"
+            - expression_speciallwattacklw4b
+            - sound_speciallwattacklw4b
+            - effect_speciallwattacklw4b
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 40
         no_stop_intp: ~
-  "0x1571db3024":
-    game_script: "0x178693bfd0"
+  special_lw_attack_hi3:
+    game_script: game_speciallwattackhi3
     flags:
       turn: ~
       loop: ~
@@ -652,23 +652,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1c697e75ea"
+            - name: d03speciallwattackhi3.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1d56d7cdbc"
-            - "0x18431ba0ac"
-            - "0x19b1422953"
+            - expression_speciallwattackhi3
+            - sound_speciallwattackhi3
+            - effect_speciallwattackhi3
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x15efbfa587":
-    game_script: "0x1718f72a73"
+  special_lw_attack_hi4:
+    game_script: game_speciallwattackhi4
     flags:
       turn: ~
       loop: ~
@@ -689,23 +689,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1c63bb7cf3"
+            - name: d03speciallwattackhi4.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1dc8b3581f"
-            - "0x18dd7f350f"
-            - "0x192f26bcf0"
+            - expression_speciallwattackhi4
+            - sound_speciallwattackhi4
+            - effect_speciallwattackhi4
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x1470e24835":
-    game_script: "0x165a3ae1a1"
+  special_lw_attack_f3:
+    game_script: game_speciallwattackf3
     flags:
       turn: ~
       loop: ~
@@ -726,23 +726,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1b0a2dc81d"
+            - name: d03speciallwattackf3.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1c7e5e7a44"
-            - "0x17681e2319"
-            - "0x185397924a"
+            - expression_speciallwattackf3
+            - sound_speciallwattackf3
+            - effect_speciallwattackf3
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x14148e8d31":
-    game_script: "0x163e5624a5"
+  special_lw_attack_b3:
+    game_script: game_speciallwattackb3
     flags:
       turn: ~
       loop: ~
@@ -763,23 +763,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1b57c19911"
+            - name: d03speciallwattackb3.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1c1a32bf40"
-            - "0x170c72e61d"
-            - "0x1837fb574e"
+            - expression_speciallwattackb3
+            - sound_speciallwattackb3
+            - effect_speciallwattackb3
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x148187756f":
-    game_script: "0x16ccb8bd12"
+  special_lw_special_s:
+    game_script: game_speciallwspecials
     flags:
       turn: ~
       loop: ~
@@ -800,23 +800,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1b33f10826"
+            - name: d03speciallwspecials.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1ce8dc26f7"
-            - "0x17fe9c7faa"
-            - "0x18c515cef9"
+            - expression_speciallwspecials
+            - sound_speciallwspecials
+            - effect_speciallwspecials
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 48
         no_stop_intp: ~
-  "0x1801128e80":
-    game_script: "0x191d2111c2"
+  special_lw_special_air_s:
+    game_script: game_speciallwspecialairs
     flags:
       turn: ~
       loop: ~
@@ -837,23 +837,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1e0645f749"
+            - name: d03speciallwspecialairs.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1f6a62f53d"
-            - "0x1a13a3ef45"
-            - "0x1b14e3dbea"
+            - expression_speciallwspecialairs
+            - sound_speciallwspecialairs
+            - effect_speciallwspecialairs
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x1b76216e17":
-    game_script: "0x1c4711c3f3"
+  special_lw_special_s2_start:
+    game_script: game_speciallwspecials2start
     flags:
       turn: ~
       loop: ~
@@ -874,23 +874,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x212e6fec9e"
+            - name: d03speciallwspecials2start.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x222c4ed1ab"
-            - "0x1d2ae2e0c7"
-            - "0x1e353048fa"
+            - expression_speciallwspecials2start
+            - sound_speciallwspecials2start
+            - effect_speciallwspecials2start
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x1a9ac1b0e8":
-    game_script: "0x1bc4e2bb46"
+  special_lw_special_s2_loop:
+    game_script: game_speciallwspecials2loop
     flags:
       turn: ~
       loop: ~
@@ -911,23 +911,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x204c542a65"
+            - name: d03speciallwspecials2loop.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x21f0a11716"
-            - "0x1cea256453"
-            - "0x1de20e3780"
+            - expression_speciallwspecials2loop
+            - sound_speciallwspecials2loop
+            - effect_speciallwspecials2loop
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x19f071fd91":
-    game_script: "0x1a0d835de9"
+  special_lw_special_s2_end:
+    game_script: game_speciallwspecials2end
     flags:
       turn: ~
       loop: ~
@@ -948,23 +948,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1f80639f08"
+            - name: d03speciallwspecials2end.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x2020f6f180"
-            - "0x1b7e51c994"
-            - "0x1c383f37d9"
+            - expression_speciallwspecials2end
+            - sound_speciallwspecials2end
+            - effect_speciallwspecials2end
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x1a9d2d6c22":
-    game_script: "0x1bc30e678c"
+  special_lw_special_s2_end2:
+    game_script: game_speciallwspecials2end2
     flags:
       turn: ~
       loop: ~
@@ -985,23 +985,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x2031362493"
+            - name: d03speciallwspecials2end2.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x21f74dcbdc"
-            - "0x1cedc9b899"
-            - "0x1de5e2eb4a"
+            - expression_speciallwspecials2end2
+            - sound_speciallwspecials2end2
+            - effect_speciallwspecials2end2
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 48
         no_stop_intp: ~
-  "0x1f08234f68":
-    game_script: "0x1facfb5c62"
+  special_lw_special_air_s2_start:
+    game_script: game_speciallwspecialairs2start
     flags:
       turn: ~
       loop: ~
@@ -1022,23 +1022,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x24ad19682b"
+            - name: d03speciallwspecialairs2start.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x254d741fb7"
-            - "0x201584c584"
-            - "0x2137343641"
+            - expression_speciallwspecialairs2start
+            - sound_speciallwspecialairs2start
+            - effect_speciallwspecialairs2start
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x1e299c72e5":
-    game_script: "0x1e204b1583"
+  special_lw_special_air_s2_loop:
+    game_script: game_speciallwspecialairs2loop
     flags:
       turn: ~
       loop: ~
@@ -1059,23 +1059,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x23e9555872"
+            - name: d03speciallwspecialairs2loop.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x24a190d8c8"
-            - "0x1f3906faf5"
-            - "0x208be38643"
+            - expression_speciallwspecialairs2loop
+            - sound_speciallwspecialairs2loop
+            - effect_speciallwspecialairs2loop
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x1dcbc9de69":
-    game_script: "0x1daae29365"
+  special_lw_special_air_s2_end:
+    game_script: game_speciallwspecialairs2end
     flags:
       turn: ~
       loop: ~
@@ -1096,23 +1096,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x228ba4e32f"
+            - name: d03speciallwspecialairs2end.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x23cf3915b1"
-            - "0x1e8b3b94f3"
-            - "0x1fd34c0a4a"
+            - expression_speciallwspecialairs2end
+            - sound_speciallwspecialairs2end
+            - effect_speciallwspecialairs2end
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x210367c51e":
-    game_script: "0x217d36c892"
+  special_lw_special_air_s2_landing:
+    game_script: game_speciallwspecialairs2landing
     flags:
       turn: ~
       loop: ~
@@ -1133,23 +1133,23 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x263d034f72"
+            - name: d03speciallwspecialairs2landing.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x276eac086d"
-            - "0x22fcc10e67"
-            - "0x236ef8ac7a"
+            - expression_speciallwspecialairs2landing
+            - sound_speciallwspecialairs2landing
+            - effect_speciallwspecialairs2landing
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x1592d60657":
-    game_script: "0x17bc2f341e"
+  special_lw_special_hi:
+    game_script: game_speciallwspecialhi
     flags:
       turn: ~
       loop: ~
@@ -1170,15 +1170,15 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x1ccb8a88f7"
+            - name: d03speciallwspecialhi.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1d6c6b4672"
-            - "0x1879a72b62"
-            - "0x198bfea29d"
+            - expression_speciallwspecialhi
+            - sound_speciallwspecialhi
+            - effect_speciallwspecialhi
     extra:
       Some:
         xlu_start: 3

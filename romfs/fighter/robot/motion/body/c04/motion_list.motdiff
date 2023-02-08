@@ -27,8 +27,8 @@ altered:
         xlu_end: 0
         cancel_frame: 1
         no_stop_intp: ~
-  "0x0edadaeafe":
-    game_script: "0x1198a41dab"
+  appeal_hi_loop:
+    game_script: game_appealhiloop
     flags:
       turn: ~
       loop: true
@@ -49,15 +49,15 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x16ab0c7332"
+            - name: j01appealhiloop.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x174653e9a4"
-            - "0x124dcadcf9"
-            - "0x1372ab0481"
+            - expression_appealhiloop
+            - sound_appealhiloop
+            - effect_appealhiloop
     extra:
       Some:
         xlu_start: 0

@@ -183,8 +183,8 @@ altered:
         xlu_end: 0
         cancel_frame: 2
         no_stop_intp: ~
-  "0x0d9f9805a0":
-    game_script: "0x10d6f78219"
+  appeal_s_loop:
+    game_script: game_appealsloop
     flags:
       turn: ~
       loop: true
@@ -205,15 +205,15 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x15946291ed"
+            - name: j01appealsloop.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x169a9d48f4"
-            - "0x11d877343b"
-            - "0x120ca9919d"
+            - expression_appealsloop
+            - sound_appealsloop
+            - effect_appealsloop
     extra:
       Some:
         xlu_start: 0

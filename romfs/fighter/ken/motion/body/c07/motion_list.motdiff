@@ -79,8 +79,8 @@ altered:
         xlu_end: 0
         cancel_frame: 236
         no_stop_intp: ~
-  "0x10cbf64812":
-    game_script: "0x13e6d183ff"
+  special_hi_reppa:
+    game_script: game_specialhireppa
     flags:
       turn: ~
       loop: ~
@@ -101,15 +101,15 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x18b340eb58"
+            - name: d02specialhireppa.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x19db9977c2"
-            - "0x14823f9b61"
-            - "0x15edd10d18"
+            - expression_specialhireppa
+            - sound_specialhireppa
+            - effect_specialhireppa
     extra:
       Some:
         xlu_start: 1

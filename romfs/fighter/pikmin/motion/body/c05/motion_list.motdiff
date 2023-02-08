@@ -49,7 +49,7 @@ altered:
     scripts: []
     extra: NoChange
   attack_s3_loop:
-    game_script: "0x11e04a839e"
+    game_script: game_attacks3loop
     flags:
       turn: ~
       loop: ~
@@ -70,15 +70,15 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x170442e607"
+            - name: c01attacks3sloop.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x173ebd7791"
-            - "0x12352442cc"
-            - "0x130a459ab4"
+            - expression_attacks3loop
+            - sound_attacks3loop
+            - effect_attacks3loop
     extra:
       Some:
         xlu_start: 0
@@ -107,7 +107,7 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x162499b6af"
+            - name: c01attacks3send.nuanmb
               unk: 0
     scripts:
       - Inserted:

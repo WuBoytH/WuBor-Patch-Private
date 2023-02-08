@@ -1,7 +1,7 @@
 ---
 motion_path: ~
 altered:
-  "0x11cca4f779":
+  attack_lw3_cancel:
     game_script: ~
     flags:
       turn: ~
@@ -53,7 +53,7 @@ altered:
         xlu_end: 0
         cancel_frame: 206
         no_stop_intp: ~
-  "0x0bb4a23fd1":
+  attack_step:
     game_script: ~
     flags:
       turn: ~
@@ -79,7 +79,7 @@ altered:
         xlu_end: 252
         cancel_frame: 0
         no_stop_intp: ~
-  "0x0e3d4d97c8":
+  attack_step_2f:
     game_script: ~
     flags:
       turn: ~
@@ -105,7 +105,7 @@ altered:
         xlu_end: 245
         cancel_frame: 0
         no_stop_intp: ~
-  "0x0edd987ed6":
+  attack_step_2l:
     game_script: ~
     flags:
       turn: ~
@@ -131,8 +131,8 @@ altered:
         xlu_end: 234
         cancel_frame: 0
         no_stop_intp: ~
-  "0x0b485edc62":
-    game_script: "0x0ee8c3a7a9"
+  attack_14_2:
+    game_script: game_attack142
     flags:
       turn: ~
       loop: ~
@@ -159,17 +159,17 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - "0x1484928a2b"
-            - "0x0f087db216"
-            - "0x102de0174e"
+            - expression_attack142
+            - sound_attack142
+            - effect_attack142
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 39
         no_stop_intp: ~
-  "0x0f1ee2f883":
-    game_script: "0x12fdef8446"
+  attack_stand_2f:
+    game_script: game_attackstand2f
     flags:
       turn: ~
       loop: ~
@@ -196,17 +196,17 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - "0x186d8e6e23"
-            - "0x13785fda5f"
-            - "0x1426be4289"
+            - expression_attackstand2f
+            - sound_attackstand2f
+            - effect_attackstand2f
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 34
         no_stop_intp: ~
-  "0x10a46b99ea":
-    game_script: "0x12c3a4c85f"
+  appeal_hi_r_loop:
+    game_script: game_appealhirloop
     flags:
       turn: ~
       loop: true
@@ -233,17 +233,17 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - "0x1853c5223a"
-            - "0x1346149646"
-            - "0x1418f50e90"
+            - expression_appealhirloop
+            - sound_appealhirloop
+            - effect_appealhirloop
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x109db7fa01":
-    game_script: "0x121c74e1bc"
+  appeal_hi_l_loop:
+    game_script: game_appealhilloop
     flags:
       turn: ~
       loop: true
@@ -270,9 +270,9 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - "0x188c150bd9"
-            - "0x1399c4bfa5"
-            - "0x14c7252773"
+            - expression_appealhilloop
+            - sound_appealhilloop
+            - effect_appealhilloop
     extra:
       Some:
         xlu_start: 0

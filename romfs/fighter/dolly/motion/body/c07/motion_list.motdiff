@@ -326,7 +326,7 @@ altered:
         xlu_end: 0
         cancel_frame: 23
         no_stop_intp: true
-  "0x0c619d3ba2":
+  attack_lw32:
     game_script: game_attacklw32
     flags:
       turn: ~

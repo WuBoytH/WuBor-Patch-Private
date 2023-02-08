@@ -23,7 +23,7 @@ altered:
       - Altered:
           index: 0
           changes:
-            - name: "0x1a4cb19f5c"
+            - name: c05attackairneflame.nuanmb
               unk: 0
     scripts: []
     extra:
@@ -54,7 +54,7 @@ altered:
       - Altered:
           index: 0
           changes:
-            - name: "0x1b5f86fc4c"
+            - name: c05landingairneflame.nuanmb
               unk: 0
     scripts: []
     extra: NoChange
