@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
+  <int hash="precede">4</int>
   <float hash="squat_damage_reaction_mul">1</float>
   <float hash="shield_setoff_speed_mul">0.135</float>
   <float hash="shield_setoff_speed_max">1.95</float>
