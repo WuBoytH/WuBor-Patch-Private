@@ -168,8 +168,8 @@ altered:
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x11fdb85a26":
-    game_script: "0x14a4587854"
+  special_lw_strike:
+    game_script: game_speciallwstrike
     flags:
       turn: ~
       loop: ~
@@ -190,15 +190,15 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - name: "0x19e579abfc"
+            - name: d03speciallwstrike.nuanmb
               unk: 0
     scripts:
       - Inserted:
           index: 0
           changes:
-            - "0x1afc0d7cb1"
-            - "0x15b38b280f"
-            - "0x169a3d0f01"
+            - expression_speciallwstrike
+            - sound_speciallwstrike
+            - effect_speciallwstrike
     extra:
       Some:
         xlu_start: 0

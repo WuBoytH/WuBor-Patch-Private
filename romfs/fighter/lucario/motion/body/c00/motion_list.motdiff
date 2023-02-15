@@ -287,8 +287,8 @@ altered:
         xlu_end: 254
         cancel_frame: 0
         no_stop_intp: ~
-  "0x0f21bd18cf":
-    game_script: "0x124d520781"
+  special_n_hold2:
+    game_script: game_specialnhold2
     flags:
       turn: ~
       loop: ~
@@ -315,17 +315,17 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - "0x18dd33ede4"
-            - "0x13c8e25998"
-            - "0x149603c14e"
+            - expression_specialnhold2
+            - sound_specialnhold2
+            - effect_specialnhold2
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x1072dd5af0":
-    game_script: "0x13e3d5d978"
+  special_n_shoot2:
+    game_script: game_specialnshoot2
     flags:
       turn: ~
       loop: ~
@@ -352,17 +352,17 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - "0x19de9d2d45"
-            - "0x14873bc1e6"
-            - "0x15e8d5579f"
+            - expression_specialnshoot2
+            - sound_specialnshoot2
+            - effect_specialnshoot2
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 44
         no_stop_intp: ~
-  "0x132a24951b":
-    game_script: "0x15f95c6aa4"
+  special_air_n_hold2:
+    game_script: game_specialairnhold2
     flags:
       turn: ~
       loop: ~
@@ -389,17 +389,17 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - "0x1b29642957"
-            - "0x1605f23188"
-            - "0x17e263aaa8"
+            - expression_specialairnhold2
+            - sound_specialairnhold2
+            - effect_specialairnhold2
     extra:
       Some:
         xlu_start: 0
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x14f368d5b0":
-    game_script: "0x16a8650352"
+  special_air_n_shoot2:
+    game_script: game_specialairnshoot2
     flags:
       turn: ~
       loop: ~
@@ -426,9 +426,9 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - "0x1c8c0198b7"
-            - "0x179a41c1ea"
-            - "0x18a1c870b9"
+            - expression_specialairnshoot2
+            - sound_specialairnshoot2
+            - effect_specialairnshoot2
     extra:
       Some:
         xlu_start: 0
@@ -509,8 +509,8 @@ altered:
         xlu_end: 0
         cancel_frame: 0
         no_stop_intp: ~
-  "0x117557f263":
-    game_script: "0x137187c84f"
+  special_s_throw_2:
+    game_script: game_specialsthrow2
     flags:
       turn: ~
       loop: ~
@@ -537,9 +537,9 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - "0x194ccf3c72"
-            - "0x141569d0d1"
-            - "0x157a8746a8"
+            - expression_specialsthrow2
+            - sound_specialsthrow2
+            - effect_specialsthrow2
     extra:
       Some:
         xlu_start: 0
@@ -583,8 +583,8 @@ altered:
         xlu_end: 0
         cancel_frame: 40
         no_stop_intp: ~
-  "0x15030a067c":
-    game_script: "0x163a371265"
+  special_air_s_throw_2:
+    game_script: game_specialairsthrow2
     flags:
       turn: ~
       loop: ~
@@ -611,9 +611,9 @@ altered:
       - Inserted:
           index: 0
           changes:
-            - "0x1c1e538980"
-            - "0x170813d0dd"
-            - "0x18339a618e"
+            - expression_specialairsthrow2
+            - sound_specialairsthrow2
+            - effect_specialairsthrow2
     extra:
       Some:
         xlu_start: 0
