@@ -2408,6 +2408,22 @@
             "fighter/sheik/motion/body/c06/motion_list.bin",
             "fighter/sheik/motion/body/c07/motion_list.bin"
         ],
+        "fighter/shulk/motion/body/c00/motion_list.bin": [
+            "fighter/shulk/motion/body/c01/motion_list.bin",
+            "fighter/shulk/motion/body/c02/motion_list.bin",
+            "fighter/shulk/motion/body/c03/motion_list.bin",
+            "fighter/shulk/motion/body/c04/motion_list.bin",
+            "fighter/shulk/motion/body/c05/motion_list.bin",
+            "fighter/shulk/motion/body/c06/motion_list.bin"
+        ],
+        "fighter/shulk/motion/body/c00/c05attackairb.nuanmb": [
+            "fighter/shulk/motion/body/c01/c05attackairb.nuanmb",
+            "fighter/shulk/motion/body/c02/c05attackairb.nuanmb",
+            "fighter/shulk/motion/body/c03/c05attackairb.nuanmb",
+            "fighter/shulk/motion/body/c04/c05attackairb.nuanmb",
+            "fighter/shulk/motion/body/c05/c05attackairb.nuanmb",
+            "fighter/shulk/motion/body/c06/c05attackairb.nuanmb"
+        ],
         "fighter/shizue/motion/body/c00/motion_list.bin": [
             "fighter/shizue/motion/body/c02/motion_list.bin",
             "fighter/shizue/motion/body/c04/motion_list.bin",
