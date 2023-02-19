@@ -375,6 +375,16 @@
             "fighter/ike/motion/body/c05/motion_list.bin",
             "fighter/ike/motion/body/c07/motion_list.bin"
         ],
+        "fighter/ike/motion/body/c00/a03jumpb.nuanmb": [
+            "fighter/ike/motion/body/c02/a03jumpb.nuanmb",
+            "fighter/ike/motion/body/c04/a03jumpb.nuanmb",
+            "fighter/ike/motion/body/c06/a03jumpb.nuanmb"
+        ],
+        "fighter/ike/motion/body/c01/a03jumpb.nuanmb": [
+            "fighter/ike/motion/body/c03/a03jumpb.nuanmb",
+            "fighter/ike/motion/body/c05/a03jumpb.nuanmb",
+            "fighter/ike/motion/body/c07/a03jumpb.nuanmb"
+        ],
         "fighter/jack/motion/body/c00/motion_list.bin": [
             "fighter/jack/motion/body/c01/motion_list.bin",
             "fighter/jack/motion/body/c02/motion_list.bin",
