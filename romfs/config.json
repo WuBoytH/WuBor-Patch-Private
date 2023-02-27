@@ -2453,6 +2453,15 @@
             "fighter/simon/motion/body/c06/motion_list.bin",
             "fighter/simon/motion/body/c07/motion_list.bin"
         ],
+        "fighter/simon/motion/body/c00/c00attackdash.nuanmb": [
+            "fighter/simon/motion/body/c01/c00attackdash.nuanmb",
+            "fighter/simon/motion/body/c02/c00attackdash.nuanmb",
+            "fighter/simon/motion/body/c03/c00attackdash.nuanmb",
+            "fighter/simon/motion/body/c04/c00attackdash.nuanmb",
+            "fighter/simon/motion/body/c05/c00attackdash.nuanmb",
+            "fighter/simon/motion/body/c06/c00attackdash.nuanmb",
+            "fighter/simon/motion/body/c07/c00attackdash.nuanmb"
+        ],
         "fighter/simon/motion/body/c00/c01attacks3s.nuanmb": [
             "fighter/simon/motion/body/c01/c01attacks3s.nuanmb",
             "fighter/simon/motion/body/c02/c01attacks3s.nuanmb",
@@ -2524,6 +2533,15 @@
             "fighter/simon/motion/whip/c05/motion_list.bin",
             "fighter/simon/motion/whip/c06/motion_list.bin",
             "fighter/simon/motion/whip/c07/motion_list.bin"
+        ],
+        "fighter/simon/motion/whip/c00/c00attackdash.nuanmb": [
+            "fighter/simon/motion/whip/c01/c00attackdash.nuanmb",
+            "fighter/simon/motion/whip/c02/c00attackdash.nuanmb",
+            "fighter/simon/motion/whip/c03/c00attackdash.nuanmb",
+            "fighter/simon/motion/whip/c04/c00attackdash.nuanmb",
+            "fighter/simon/motion/whip/c05/c00attackdash.nuanmb",
+            "fighter/simon/motion/whip/c06/c00attackdash.nuanmb",
+            "fighter/simon/motion/whip/c07/c00attackdash.nuanmb"
         ],
         "fighter/simon/motion/whip/c00/c01attacks3s.nuanmb": [
             "fighter/simon/motion/whip/c01/c01attacks3s.nuanmb",
