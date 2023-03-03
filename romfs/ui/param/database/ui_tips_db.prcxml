@@ -1420,7 +1420,10 @@
     <hash40 index="1354">dummy</hash40>
     <hash40 index="1355">dummy</hash40>
     <hash40 index="1356">dummy</hash40>
-    <hash40 index="1357">dummy</hash40>
+	<struct index="1357">
+      <hash40 hash="skill_kind">neutral_1</hash40>
+      <uint hash="disp_order">1254</uint>
+    </struct>
     <hash40 index="1358">dummy</hash40>
     <hash40 index="1359">dummy</hash40>
     <hash40 index="1360">dummy</hash40>
