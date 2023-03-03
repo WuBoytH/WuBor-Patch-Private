@@ -1397,14 +1397,22 @@
     <hash40 index="1342">dummy</hash40>
     <hash40 index="1343">dummy</hash40>
     <hash40 index="1344">dummy</hash40>
-    <hash40 index="1345">dummy</hash40>
+    <struct index="1345">
+      <uint hash="disp_order">1117</uint>
+    </struct>
     <hash40 index="1346">dummy</hash40>
     <hash40 index="1347">dummy</hash40>
     <hash40 index="1348">dummy</hash40>
-    <hash40 index="1349">dummy</hash40>
+    <struct index="1349">
+      <uint hash="disp_order">1119</uint>
+    </struct>
     <hash40 index="1350">dummy</hash40>
-    <hash40 index="1351">dummy</hash40>
-    <hash40 index="1352">dummy</hash40>
+    <struct index="1351">
+      <uint hash="disp_order">1120</uint>
+    </struct>
+    <struct index="1352">
+      <uint hash="disp_order">1118</uint>
+    </struct>
     <struct index="1353">
       <hash40 hash="topic">topic_technic</hash40>
       <uint hash="disp_order">1153</uint>
@@ -2268,7 +2276,7 @@
     <hash40 index="2201">dummy</hash40>
     <hash40 index="2202">dummy</hash40>
     <struct index="2203">
-      <hash40 hash="ui_tips_id">0x0c9cd18aea</hash40>
+      <hash40 hash="ui_tips_id">ui_tips_2500</hash40>
       <uint hash="save_no">2500</uint>
       <hash40 hash="level">level_beginner</hash40>
       <hash40 hash="topic">topic_technic</hash40>
@@ -2295,7 +2303,7 @@
       <hash40 hash="key_8"></hash40>
     </struct>
     <struct index="2204">
-      <hash40 hash="ui_tips_id">0x0cebd6ba7c</hash40>
+      <hash40 hash="ui_tips_id">ui_tips_2501</hash40>
       <uint hash="save_no">2501</uint>
       <hash40 hash="level">level_beginner</hash40>
       <hash40 hash="topic">topic_technic</hash40>
@@ -2322,7 +2330,7 @@
       <hash40 hash="key_8"></hash40>
     </struct>
     <struct index="2205">
-      <hash40 hash="ui_tips_id">0x0c72dfebc6</hash40>
+      <hash40 hash="ui_tips_id">ui_tips_2502</hash40>
       <uint hash="save_no">2502</uint>
       <hash40 hash="level">level_beginner</hash40>
       <hash40 hash="topic">topic_technic</hash40>
@@ -2349,7 +2357,7 @@
       <hash40 hash="key_8"></hash40>
     </struct>
     <struct index="2206">
-      <hash40 hash="ui_tips_id">0x0c05d8db50</hash40>
+      <hash40 hash="ui_tips_id">ui_tips_2503</hash40>
       <uint hash="save_no">2503</uint>
       <hash40 hash="level">level_beginner</hash40>
       <hash40 hash="topic">topic_technic</hash40>
@@ -2376,7 +2384,7 @@
       <hash40 hash="key_8"></hash40>
     </struct>
     <struct index="2207">
-      <hash40 hash="ui_tips_id">0x0c9bbc4ef3</hash40>
+      <hash40 hash="ui_tips_id">ui_tips_2504</hash40>
       <uint hash="save_no">2504</uint>
       <hash40 hash="level">level_beginner</hash40>
       <hash40 hash="topic">topic_technic</hash40>
@@ -2403,7 +2411,7 @@
       <hash40 hash="key_8"></hash40>
     </struct>
     <struct index="2208">
-      <hash40 hash="ui_tips_id">0x0cecbb7e65</hash40>
+      <hash40 hash="ui_tips_id">ui_tips_2505</hash40>
       <uint hash="save_no">2505</uint>
       <hash40 hash="level">level_beginner</hash40>
       <hash40 hash="topic">topic_technic</hash40>
@@ -2430,7 +2438,7 @@
       <hash40 hash="key_8"></hash40>
     </struct>
     <struct index="2209">
-      <hash40 hash="ui_tips_id">0x0c75b22fdf</hash40>
+      <hash40 hash="ui_tips_id">ui_tips_2506</hash40>
       <uint hash="save_no">2506</uint>
       <hash40 hash="level">level_beginner</hash40>
       <hash40 hash="topic">topic_technic</hash40>
@@ -2457,7 +2465,7 @@
       <hash40 hash="key_8"></hash40>
     </struct>
     <struct index="2210">
-      <hash40 hash="ui_tips_id">0x0c02b51f49</hash40>
+      <hash40 hash="ui_tips_id">ui_tips_2507</hash40>
       <uint hash="save_no">2507</uint>
       <hash40 hash="level">level_beginner</hash40>
       <hash40 hash="topic">topic_technic</hash40>
@@ -2484,7 +2492,7 @@
       <hash40 hash="key_8"></hash40>
     </struct>
     <struct index="2211">
-      <hash40 hash="ui_tips_id">0x0c920a02d8</hash40>
+      <hash40 hash="ui_tips_id">ui_tips_2508</hash40>
       <uint hash="save_no">2508</uint>
       <hash40 hash="level">level_beginner</hash40>
       <hash40 hash="topic">topic_technic</hash40>
@@ -2511,7 +2519,7 @@
       <hash40 hash="key_8"></hash40>
     </struct>
     <struct index="2212">
-      <hash40 hash="ui_tips_id">0x0ce50d324e</hash40>
+      <hash40 hash="ui_tips_id">ui_tips_2509</hash40>
       <uint hash="save_no">2509</uint>
       <hash40 hash="level">level_beginner</hash40>
       <hash40 hash="topic">topic_technic</hash40>
@@ -2538,7 +2546,7 @@
       <hash40 hash="key_8"></hash40>
     </struct>
     <struct index="2213">
-      <hash40 hash="ui_tips_id">0x0c85cabbab</hash40>
+      <hash40 hash="ui_tips_id">ui_tips_2510</hash40>
       <uint hash="save_no">2510</uint>
       <hash40 hash="level">level_beginner</hash40>
       <hash40 hash="topic">topic_technic</hash40>
@@ -2565,7 +2573,7 @@
       <hash40 hash="key_8"></hash40>
     </struct>
     <struct index="2214">
-      <hash40 hash="ui_tips_id">0x0cf2cd8b3d</hash40>
+      <hash40 hash="ui_tips_id">ui_tips_2511</hash40>
       <uint hash="save_no">2511</uint>
       <hash40 hash="level">level_beginner</hash40>
       <hash40 hash="topic"></hash40>
@@ -2574,6 +2582,114 @@
       <uint hash="disp_order">3707</uint>
       <hash40 hash="type_0">relation_chara</hash40>
       <hash40 hash="key_0">ui_chara_richter</hash40>
+      <hash40 hash="type_1"></hash40>
+      <hash40 hash="key_1"></hash40>
+      <hash40 hash="type_2"></hash40>
+      <hash40 hash="key_2"></hash40>
+      <hash40 hash="type_3"></hash40>
+      <hash40 hash="key_3"></hash40>
+      <hash40 hash="type_4"></hash40>
+      <hash40 hash="key_4"></hash40>
+      <hash40 hash="type_5"></hash40>
+      <hash40 hash="key_5"></hash40>
+      <hash40 hash="type_6"></hash40>
+      <hash40 hash="key_6"></hash40>
+      <hash40 hash="type_7"></hash40>
+      <hash40 hash="key_7"></hash40>
+      <hash40 hash="type_8"></hash40>
+      <hash40 hash="key_8"></hash40>
+    </struct>
+    <struct index="2215">
+      <hash40 hash="ui_tips_id">ui_tips_2512</hash40>
+      <uint hash="save_no">2512</uint>
+      <hash40 hash="level">level_middle</hash40>
+      <hash40 hash="topic"></hash40>
+      <hash40 hash="skill_kind">down_1</hash40>
+      <hash40 hash="ui_tips_unlock_id"></hash40>
+      <uint hash="disp_order">1113</uint>
+      <hash40 hash="type_0">relation_chara</hash40>
+      <hash40 hash="key_0">ui_chara_marth</hash40>
+      <hash40 hash="type_1"></hash40>
+      <hash40 hash="key_1"></hash40>
+      <hash40 hash="type_2"></hash40>
+      <hash40 hash="key_2"></hash40>
+      <hash40 hash="type_3"></hash40>
+      <hash40 hash="key_3"></hash40>
+      <hash40 hash="type_4"></hash40>
+      <hash40 hash="key_4"></hash40>
+      <hash40 hash="type_5"></hash40>
+      <hash40 hash="key_5"></hash40>
+      <hash40 hash="type_6"></hash40>
+      <hash40 hash="key_6"></hash40>
+      <hash40 hash="type_7"></hash40>
+      <hash40 hash="key_7"></hash40>
+      <hash40 hash="type_8"></hash40>
+      <hash40 hash="key_8"></hash40>
+    </struct>
+    <struct index="2216">
+      <hash40 hash="ui_tips_id">ui_tips_2513</hash40>
+      <uint hash="save_no">2513</uint>
+      <hash40 hash="level">level_middle</hash40>
+      <hash40 hash="topic"></hash40>
+      <hash40 hash="skill_kind">down_1</hash40>
+      <hash40 hash="ui_tips_unlock_id"></hash40>
+      <uint hash="disp_order">1114</uint>
+      <hash40 hash="type_0">relation_chara</hash40>
+      <hash40 hash="key_0">ui_chara_marth</hash40>
+      <hash40 hash="type_1"></hash40>
+      <hash40 hash="key_1"></hash40>
+      <hash40 hash="type_2"></hash40>
+      <hash40 hash="key_2"></hash40>
+      <hash40 hash="type_3"></hash40>
+      <hash40 hash="key_3"></hash40>
+      <hash40 hash="type_4"></hash40>
+      <hash40 hash="key_4"></hash40>
+      <hash40 hash="type_5"></hash40>
+      <hash40 hash="key_5"></hash40>
+      <hash40 hash="type_6"></hash40>
+      <hash40 hash="key_6"></hash40>
+      <hash40 hash="type_7"></hash40>
+      <hash40 hash="key_7"></hash40>
+      <hash40 hash="type_8"></hash40>
+      <hash40 hash="key_8"></hash40>
+    </struct>
+    <struct index="2217">
+      <hash40 hash="ui_tips_id">ui_tips_2514</hash40>
+      <uint hash="save_no">2514</uint>
+      <hash40 hash="level">level_middle</hash40>
+      <hash40 hash="topic"></hash40>
+      <hash40 hash="skill_kind">down_1</hash40>
+      <hash40 hash="ui_tips_unlock_id"></hash40>
+      <uint hash="disp_order">1115</uint>
+      <hash40 hash="type_0">relation_chara</hash40>
+      <hash40 hash="key_0">ui_chara_marth</hash40>
+      <hash40 hash="type_1"></hash40>
+      <hash40 hash="key_1"></hash40>
+      <hash40 hash="type_2"></hash40>
+      <hash40 hash="key_2"></hash40>
+      <hash40 hash="type_3"></hash40>
+      <hash40 hash="key_3"></hash40>
+      <hash40 hash="type_4"></hash40>
+      <hash40 hash="key_4"></hash40>
+      <hash40 hash="type_5"></hash40>
+      <hash40 hash="key_5"></hash40>
+      <hash40 hash="type_6"></hash40>
+      <hash40 hash="key_6"></hash40>
+      <hash40 hash="type_7"></hash40>
+      <hash40 hash="key_7"></hash40>
+      <hash40 hash="type_8"></hash40>
+      <hash40 hash="key_8"></hash40>
+    </struct>
+    <struct index="2218">
+      <hash40 hash="ui_tips_id">ui_tips_2515</hash40>
+      <uint hash="save_no">2515</uint>
+      <hash40 hash="level">level_middle</hash40>
+      <hash40 hash="topic"></hash40>
+      <hash40 hash="skill_kind">down_1</hash40>
+      <hash40 hash="ui_tips_unlock_id"></hash40>
+      <uint hash="disp_order">1116</uint>
+      <hash40 hash="type_0">relation_chara</hash40>
+      <hash40 hash="key_0">ui_chara_marth</hash40>
       <hash40 hash="type_1"></hash40>
       <hash40 hash="key_1"></hash40>
       <hash40 hash="type_2"></hash40>
