@@ -2156,6 +2156,30 @@
             "fighter/shulk/motion/body/c05/motion_list.bin",
             "fighter/shulk/motion/body/c06/motion_list.bin"
         ],
+        "fighter/shulk/motion/body/c00/c00attack11.nuanmb": [
+            "fighter/shulk/motion/body/c01/c00attack11.nuanmb",
+            "fighter/shulk/motion/body/c02/c00attack11.nuanmb",
+            "fighter/shulk/motion/body/c03/c00attack11.nuanmb",
+            "fighter/shulk/motion/body/c04/c00attack11.nuanmb",
+            "fighter/shulk/motion/body/c05/c00attack11.nuanmb",
+            "fighter/shulk/motion/body/c06/c00attack11.nuanmb"
+        ],
+        "fighter/shulk/motion/body/c00/c00attack12.nuanmb": [
+            "fighter/shulk/motion/body/c01/c00attack12.nuanmb",
+            "fighter/shulk/motion/body/c02/c00attack12.nuanmb",
+            "fighter/shulk/motion/body/c03/c00attack12.nuanmb",
+            "fighter/shulk/motion/body/c04/c00attack12.nuanmb",
+            "fighter/shulk/motion/body/c05/c00attack12.nuanmb",
+            "fighter/shulk/motion/body/c06/c00attack12.nuanmb"
+        ],
+        "fighter/shulk/motion/body/c00/c00attack13.nuanmb": [
+            "fighter/shulk/motion/body/c01/c00attack13.nuanmb",
+            "fighter/shulk/motion/body/c02/c00attack13.nuanmb",
+            "fighter/shulk/motion/body/c03/c00attack13.nuanmb",
+            "fighter/shulk/motion/body/c04/c00attack13.nuanmb",
+            "fighter/shulk/motion/body/c05/c00attack13.nuanmb",
+            "fighter/shulk/motion/body/c06/c00attack13.nuanmb"
+        ],
         "fighter/shulk/motion/body/c00/c05attackairb.nuanmb": [
             "fighter/shulk/motion/body/c01/c05attackairb.nuanmb",
             "fighter/shulk/motion/body/c02/c05attackairb.nuanmb",
