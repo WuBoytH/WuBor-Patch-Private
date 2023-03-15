@@ -58,7 +58,7 @@
   </list>
   <list hash="param_special_n">
     <struct index="0">
-      <float hash="neutral_frame">46</float>
+      <float hash="neutral_frame">30</float>
 	  <float hash="active_time_jump">15</float>
 	  <float hash="active_time_speed">15</float>
 	  <float hash="active_time_shield">15</float>
