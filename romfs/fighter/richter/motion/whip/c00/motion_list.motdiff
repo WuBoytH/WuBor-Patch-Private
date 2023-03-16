@@ -1,8 +1,0 @@
----
-motion_path: ~
-altered: {}
-removed:
-  - attack_11
-  - attack_12
-  - landing_air_n
-  - attack_air_n
