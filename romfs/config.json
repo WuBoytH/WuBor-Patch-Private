@@ -1931,6 +1931,15 @@
             "fighter/samusd/motion/body/c06/a04fallb.nuanmb",
             "fighter/samusd/motion/body/c07/a04fallb.nuanmb"
         ],
+        "fighter/samusd/motion/body/c00/b02escapeair.nuanmb": [
+            "fighter/samusd/motion/body/c01/b02escapeair.nuanmb",
+            "fighter/samusd/motion/body/c02/b02escapeair.nuanmb",
+            "fighter/samusd/motion/body/c03/b02escapeair.nuanmb",
+            "fighter/samusd/motion/body/c04/b02escapeair.nuanmb",
+            "fighter/samusd/motion/body/c05/b02escapeair.nuanmb",
+            "fighter/samusd/motion/body/c06/b02escapeair.nuanmb",
+            "fighter/samusd/motion/body/c07/b02escapeair.nuanmb"
+        ],
         "fighter/samusd/motion/body/c00/c00attack11.nuanmb": [
             "fighter/samusd/motion/body/c01/c00attack11.nuanmb",
             "fighter/samusd/motion/body/c02/c00attack11.nuanmb",
