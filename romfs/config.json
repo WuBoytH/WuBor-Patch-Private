@@ -3230,6 +3230,12 @@
         "fighter/robot/c07": [
             "fighter/robot/motion/body/c07/j01appealhiloop.nuanmb"
         ],
+        "fighter/rockman/c00": [
+            "fighter/rockman/motion/body/c00/c00attack12.nuanmb",
+            "fighter/rockman/motion/body/c00/c00attack13.nuanmb",
+            "fighter/rockman/motion/body/c00/c02attacks3s.nuanmb",
+            "fighter/rockman/motion/body/c00/c05attackairnmelee.nuanmb"
+        ],
         "fighter/shulk/cmn/effect": [
             "effect/fighter/shulk/trail/tex_shulk_swordgreen1.nutexb",
             "effect/fighter/shulk/trail/tex_shulk_swordgreen2.nutexb",
