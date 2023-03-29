@@ -2393,7 +2393,7 @@ list:
       - name: c02attacks3s.nuanmb
         unk: 0
     scripts:
-      - expression_attackhi3melee
+      - expression_attacks3melee
       - sound_attacks3melee
       - effect_attacks3melee
     extra:
