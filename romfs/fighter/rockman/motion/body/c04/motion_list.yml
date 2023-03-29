@@ -2732,7 +2732,7 @@ list:
       cancel_frame: 0
       no_stop_intp: false
   attack_air_n:
-    game_script: game_attackairn
+    game_script: game_attackairnmelee
     flags:
       turn: false
       loop: false
@@ -2753,9 +2753,9 @@ list:
       - name: c05attackairnmelee.nuanmb
         unk: 0
     scripts:
-      - expression_attackairn
-      - sound_attackairn
-      - effect_attackairn
+      - expression_attackairnmelee
+      - sound_attackairnmelee
+      - effect_attackairnmelee
     extra:
       xlu_start: 0
       xlu_end: 0
