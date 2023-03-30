@@ -48,6 +48,8 @@
   <int hash="passive_trigger_frame">20</int>
   <float hash="passive_fb_cont_value">0.7</float>
   <float hash="damage_fly_correction_max">12.0321</float>
+  <float hash="damage_fly_length_mul_max">1</float>
+  <float hash="damage_fly_length_mul_min">1</float>
   <float hash="damage_fly_reflect_speed_mul">0.8</float>
   <list hash="0x2873df4aed">
     <hash40 index="0">dummy</hash40>
