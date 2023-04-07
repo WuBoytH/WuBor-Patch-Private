@@ -4,7 +4,7 @@
   <float hash="squat_damage_reaction_mul">1</float>
   <float hash="shield_setoff_speed_mul">0.117</float>
   <float hash="shield_setoff_speed_max">1.69</float>
-  <int hash="shield_just_frae">3</int>
+  <int hash="shield_just_frame">3</int>
   <float hash="hit_stop_squat_mul">1</float>
   <list hash="pattern_power_mul">
     <hash40 index="0">dummy</hash40>
