@@ -8,7 +8,7 @@
   </list>
   <list hash="param_chargeshot">
     <struct index="0">
-      <float hash="scale_min">1.5</float>
+      <float hash="scale_min">1.1</float>
       <float hash="scale_max">2.82</float>
       <int hash="life_min">36</int>
       <int hash="life_max">24</int>
