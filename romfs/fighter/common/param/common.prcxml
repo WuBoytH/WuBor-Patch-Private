@@ -2,8 +2,10 @@
 <struct>
   <int hash="precede">4</int>
   <float hash="squat_damage_reaction_mul">1</float>
-  <float hash="shield_setoff_speed_mul">0.117</float>
-  <float hash="shield_setoff_speed_max">1.69</float>
+  <float hash="shield_setoff_speed_mul">0.108</float>
+  <float hash="shield_setoff_speed_max">1.56</float>
+  <int hash="guard_off_cancel_frame">5</int>
+  <int hash="guard_off_enable_shield_frame">6</int>
   <int hash="shield_just_frame">3</int>
   <float hash="hit_stop_squat_mul">1</float>
   <int hash="cliff_wait_air_xlu_max_frame">30</int>
