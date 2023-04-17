@@ -6,59 +6,13 @@
   <float hash="shield_setoff_speed_max">1.69</float>
   <int hash="shield_just_frame">3</int>
   <float hash="hit_stop_squat_mul">1</float>
-  <list hash="pattern_power_mul">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
-    <hash40 index="5">dummy</hash40>
-    <hash40 index="6">dummy</hash40>
-    <hash40 index="7">dummy</hash40>
-    <hash40 index="8">dummy</hash40>
-    <hash40 index="9">dummy</hash40>
-  </list>
-  <list hash="special_command_stick_range">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
-    <hash40 index="5">dummy</hash40>
-    <hash40 index="6">dummy</hash40>
-  </list>
   <int hash="cliff_wait_air_xlu_max_frame">30</int>
   <int hash="cliff_wait_damage_xlu_max_frame">30</int>
   <int hash="cliff_wait_xlu_min_frame">11</int>
-  <list hash="cliff_catch_motion_rate">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
-    <hash40 index="5">dummy</hash40>
-    <hash40 index="6">dummy</hash40>
-    <hash40 index="7">dummy</hash40>
-  </list>
-  <list hash="0x1dff572177">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-  </list>
   <int hash="passive_trigger_frame">20</int>
   <float hash="passive_fb_cont_value">0.7</float>
   <float hash="damage_fly_correction_max">12.0321</float>
   <float hash="damage_fly_length_mul_max">1</float>
   <float hash="damage_fly_length_mul_min">1</float>
   <float hash="damage_fly_reflect_speed_mul">0.8</float>
-  <list hash="0x2873df4aed">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
-    <hash40 index="5">dummy</hash40>
-    <hash40 index="6">dummy</hash40>
-  </list>
 </struct>
