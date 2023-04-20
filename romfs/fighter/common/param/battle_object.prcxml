@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
   <float hash="fly_roll_rate">0</float>
+  <list hash="0x1af80fd893">
+    <float index="0">1</float>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+    <hash40 index="5">dummy</hash40>
+    <hash40 index="6">dummy</hash40>
+  </list>
 </struct>
