@@ -6,6 +6,8 @@
   <float hash="shield_setoff_speed_max">1.69</float>
   <int hash="shield_just_frame">3</int>
   <float hash="hit_stop_squat_mul">1</float>
+  <int hash="attack_jump_mini_attack_enable_frame">0</int>
+  <int hash="jump_mini_attack_enable_frame">0</int>
   <int hash="cliff_wait_air_xlu_max_frame">30</int>
   <int hash="cliff_wait_damage_xlu_max_frame">30</int>
   <int hash="cliff_wait_xlu_min_frame">11</int>
