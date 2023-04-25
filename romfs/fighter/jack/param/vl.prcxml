@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
   <struct hash="param_private">
-    <float hash="rebel_gauge_damage_add">0.84</float>
+    <float hash="rebel_gauge_damage_add">1</float>
     <float hash="rebel_gauge_damage_add_handi">0</float>
     <float hash="rebel_gauge_add_dead">0</float>
     <float hash="rebel_gauge_add_dead_handi">0</float>
@@ -9,7 +9,7 @@
   </struct>
   <list hash="param_special_lw">
     <struct index="0">
-      <float hash="guard_rebel_gauge">7.5</float>
+      <float hash="guard_rebel_gauge">7.25</float>
     </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
