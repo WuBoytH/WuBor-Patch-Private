@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
-  <int hash="damage_fly_speed_up_max_mag">5</int>
+  <int hash="damage_fly_speed_up_max_mag">4</int>
   <float hash="fly_roll_rate">0</float>
   <list hash="0x1af80fd893">
     <float index="0">1</float>
