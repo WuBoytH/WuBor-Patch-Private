@@ -7,8 +7,6 @@
   <int hash="shield_just_frame">3</int>
   <float hash="hit_stop_squat_mul">1</float>
   <float hash="damage_reaction_mul_max">1</float>
-  <float hash="damage_reaction_mul_max_damage">1000</float>
-  <float hash="damage_reaction_mul_min_damage">1000</float>
   <list hash="pattern_power_mul">
     <float index="0">0</float>
     <float index="1">0.125</float>
