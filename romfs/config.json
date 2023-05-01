@@ -3239,6 +3239,86 @@
         "fighter/robot/c07": [
             "fighter/robot/motion/body/c07/j01appealhiloop.nuanmb"
         ],
+        "fighter/rockman/c00": [
+            "fighter/rockman/motion/body/c00/c00attack12.nuanmb",
+            "fighter/rockman/motion/body/c00/c00attack13.nuanmb",
+            "fighter/rockman/motion/body/c00/c02attacks3s.nuanmb",
+            "fighter/rockman/motion/body/c00/c03attacks4hi.nuanmb",
+            "fighter/rockman/motion/body/c00/c03attacks4lw.nuanmb",
+            "fighter/rockman/motion/body/c00/c05attackairnmelee.nuanmb",
+            "fighter/rockman/motion/body/c00/d00busterchargeshot.nuanmb",
+            "fighter/rockman/motion/body/c00/d00busterairchargeshot.nuanmb"
+        ],
+        "fighter/rockman/c01": [
+            "fighter/rockman/motion/body/c01/c00attack12.nuanmb",
+            "fighter/rockman/motion/body/c01/c00attack13.nuanmb",
+            "fighter/rockman/motion/body/c01/c02attacks3s.nuanmb",
+            "fighter/rockman/motion/body/c01/c03attacks4hi.nuanmb",
+            "fighter/rockman/motion/body/c01/c03attacks4lw.nuanmb",
+            "fighter/rockman/motion/body/c01/c05attackairnmelee.nuanmb",
+            "fighter/rockman/motion/body/c01/d00busterchargeshot.nuanmb",
+            "fighter/rockman/motion/body/c01/d00busterairchargeshot.nuanmb"
+        ],
+        "fighter/rockman/c02": [
+            "fighter/rockman/motion/body/c02/c00attack12.nuanmb",
+            "fighter/rockman/motion/body/c02/c00attack13.nuanmb",
+            "fighter/rockman/motion/body/c02/c02attacks3s.nuanmb",
+            "fighter/rockman/motion/body/c02/c03attacks4hi.nuanmb",
+            "fighter/rockman/motion/body/c02/c03attacks4lw.nuanmb",
+            "fighter/rockman/motion/body/c02/c05attackairnmelee.nuanmb",
+            "fighter/rockman/motion/body/c02/d00busterchargeshot.nuanmb",
+            "fighter/rockman/motion/body/c02/d00busterairchargeshot.nuanmb"
+        ],
+        "fighter/rockman/c03": [
+            "fighter/rockman/motion/body/c03/c00attack12.nuanmb",
+            "fighter/rockman/motion/body/c03/c00attack13.nuanmb",
+            "fighter/rockman/motion/body/c03/c02attacks3s.nuanmb",
+            "fighter/rockman/motion/body/c03/c03attacks4hi.nuanmb",
+            "fighter/rockman/motion/body/c03/c03attacks4lw.nuanmb",
+            "fighter/rockman/motion/body/c03/c05attackairnmelee.nuanmb",
+            "fighter/rockman/motion/body/c03/d00busterchargeshot.nuanmb",
+            "fighter/rockman/motion/body/c03/d00busterairchargeshot.nuanmb"
+        ],
+        "fighter/rockman/c04": [
+            "fighter/rockman/motion/body/c04/c00attack12.nuanmb",
+            "fighter/rockman/motion/body/c04/c00attack13.nuanmb",
+            "fighter/rockman/motion/body/c04/c02attacks3s.nuanmb",
+            "fighter/rockman/motion/body/c04/c03attacks4hi.nuanmb",
+            "fighter/rockman/motion/body/c04/c03attacks4lw.nuanmb",
+            "fighter/rockman/motion/body/c04/c05attackairnmelee.nuanmb",
+            "fighter/rockman/motion/body/c04/d00busterchargeshot.nuanmb",
+            "fighter/rockman/motion/body/c04/d00busterairchargeshot.nuanmb"
+        ],
+        "fighter/rockman/c05": [
+            "fighter/rockman/motion/body/c05/c00attack12.nuanmb",
+            "fighter/rockman/motion/body/c05/c00attack13.nuanmb",
+            "fighter/rockman/motion/body/c05/c02attacks3s.nuanmb",
+            "fighter/rockman/motion/body/c05/c03attacks4hi.nuanmb",
+            "fighter/rockman/motion/body/c05/c03attacks4lw.nuanmb",
+            "fighter/rockman/motion/body/c05/c05attackairnmelee.nuanmb",
+            "fighter/rockman/motion/body/c05/d00busterchargeshot.nuanmb",
+            "fighter/rockman/motion/body/c05/d00busterairchargeshot.nuanmb"
+        ],
+        "fighter/rockman/c06": [
+            "fighter/rockman/motion/body/c06/c00attack12.nuanmb",
+            "fighter/rockman/motion/body/c06/c00attack13.nuanmb",
+            "fighter/rockman/motion/body/c06/c02attacks3s.nuanmb",
+            "fighter/rockman/motion/body/c06/c03attacks4hi.nuanmb",
+            "fighter/rockman/motion/body/c06/c03attacks4lw.nuanmb",
+            "fighter/rockman/motion/body/c06/c05attackairnmelee.nuanmb",
+            "fighter/rockman/motion/body/c06/d00busterchargeshot.nuanmb",
+            "fighter/rockman/motion/body/c06/d00busterairchargeshot.nuanmb"
+        ],
+        "fighter/rockman/c07": [
+            "fighter/rockman/motion/body/c07/c00attack12.nuanmb",
+            "fighter/rockman/motion/body/c07/c00attack13.nuanmb",
+            "fighter/rockman/motion/body/c07/c02attacks3s.nuanmb",
+            "fighter/rockman/motion/body/c07/c03attacks4hi.nuanmb",
+            "fighter/rockman/motion/body/c07/c03attacks4lw.nuanmb",
+            "fighter/rockman/motion/body/c07/c05attackairnmelee.nuanmb",
+            "fighter/rockman/motion/body/c07/d00busterchargeshot.nuanmb",
+            "fighter/rockman/motion/body/c07/d00busterairchargeshot.nuanmb"
+        ],
         "fighter/shulk/cmn/effect": [
             "effect/fighter/shulk/trail/tex_shulk_swordgreen1.nutexb",
             "effect/fighter/shulk/trail/tex_shulk_swordgreen2.nutexb",
