@@ -1,5 +1,14 @@
 {
     "share-to-added": {
+        "fighter/brave/motion/body/c00/c05attackairhi.nuanmb": [
+            "fighter/brave/motion/body/c01/c05attackairhi.nuanmb",
+            "fighter/brave/motion/body/c02/c05attackairhi.nuanmb",
+            "fighter/brave/motion/body/c03/c05attackairhi.nuanmb",
+            "fighter/brave/motion/body/c04/c05attackairhi.nuanmb",
+            "fighter/brave/motion/body/c05/c05attackairhi.nuanmb",
+            "fighter/brave/motion/body/c06/c05attackairhi.nuanmb",
+            "fighter/brave/motion/body/c07/c05attackairhi.nuanmb"
+        ],
         "fighter/buddy/motion/body/c00/motion_list.bin": [
             "fighter/buddy/motion/body/c01/motion_list.bin",
             "fighter/buddy/motion/body/c02/motion_list.bin",
