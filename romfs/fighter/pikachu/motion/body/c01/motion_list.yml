@@ -3246,7 +3246,7 @@ list:
     flags:
       turn: false
       loop: false
-      move: false
+      move: true
       fix_trans: false
       fix_rot: false
       fix_scale: false
@@ -3269,7 +3269,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 87
+      cancel_frame: 0
       no_stop_intp: false
   special_lw_hit:
     game_script: game_speciallwhit
@@ -3306,7 +3306,7 @@ list:
     flags:
       turn: false
       loop: false
-      move: false
+      move: true
       fix_trans: false
       fix_rot: false
       fix_scale: false
@@ -3329,7 +3329,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 87
+      cancel_frame: 0
       no_stop_intp: false
   special_air_lw_hit:
     game_script: game_specialairlwhit

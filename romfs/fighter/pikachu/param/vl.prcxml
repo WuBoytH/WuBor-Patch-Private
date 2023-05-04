@@ -24,4 +24,30 @@
     <float hash="up">0</float>
     <float hash="down">0</float>
   </struct>
+  <list hash="param_special_lw">
+    <struct index="0">
+      <float hash="special_lw_offset_y_">0</float>
+    </struct>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+  </list>
+  <list hash="param_kaminari">
+    <struct index="0">
+      <float hash="speed_">-4.5</float>
+      <float hash="flying_dist_">11.5</float>
+      <float hash="pass_fall_dist_">1</float>
+    </struct>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+  </list>
+  <list hash="param_cloud">
+    <struct index="0">
+      <float hash="speed_">-4.5</float>
+    </struct>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+  </list>
 </struct>
