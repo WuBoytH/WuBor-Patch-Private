@@ -356,6 +356,7 @@
     </struct>
     <!-- SHULK -->
     <struct index="54">
+      <float hash="air_accel_y">0.1176</float>
       <int hash="jump_squat_frame">4</int>
       <float hash="landing_attack_air_frame_n">7</float>
     </struct>
