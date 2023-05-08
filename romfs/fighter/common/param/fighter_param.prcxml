@@ -314,6 +314,9 @@
     <struct index="46">
       <int hash="jump_squat_frame">4</int>
       <float hash="landing_attack_air_frame_n">7</float>
+      <int hash="attack_combo_max">3</int>
+      <float hash="combo_attack_12_end">20</float>
+      <float hash="combo_attack_13_end">20</float>
     </struct>
     <!-- WII FIT TRAINER -->
     <struct index="47">
