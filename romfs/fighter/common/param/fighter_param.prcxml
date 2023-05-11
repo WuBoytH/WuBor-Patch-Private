@@ -376,7 +376,7 @@
     <!-- CLOUD -->
     <struct index="58">
       <int hash="jump_squat_frame">4</int>
-      <float hash="landing_attack_air_frame_b">9</float>
+      <float hash="landing_attack_air_frame_b">10</float>
     </struct>
     <!-- CORRIN -->
     <struct index="59">
