@@ -2,6 +2,8 @@
 <struct>
   <int hash="precede">4</int>
   <float hash="squat_damage_reaction_mul">1</float>
+  <float hash="shield_scale_min">1</float>
+  <float hash="shield_dec1">0.18</float>
   <float hash="shield_setoff_speed_mul">0.135</float>
   <float hash="shield_setoff_speed_max">1.95</float>
   <int hash="guard_off_cancel_frame">5</int>
