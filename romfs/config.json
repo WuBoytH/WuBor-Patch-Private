@@ -1099,16 +1099,6 @@
         "fighter/mario/motion/body/c06/motion_list.bin": [
             "fighter/mario/motion/body/c07/motion_list.bin"
         ],
-        "fighter/mario/motion/body/c00/flip.prc": [
-            "fighter/mario/motion/body/c01/flip.prc",
-            "fighter/mario/motion/body/c02/flip.prc",
-            "fighter/mario/motion/body/c03/flip.prc",
-            "fighter/mario/motion/body/c04/flip.prc",
-            "fighter/mario/motion/body/c05/flip.prc"
-        ],
-        "fighter/mario/motion/body/c06/flip.prc": [
-            "fighter/mario/motion/body/c07/flip.prc"
-        ],
         "fighter/mario/motion/body/c00/c03attacks4s.nuanmb": [
             "fighter/mario/motion/body/c01/c03attacks4s.nuanmb",
             "fighter/mario/motion/body/c02/c03attacks4s.nuanmb",
@@ -1318,6 +1308,16 @@
         ],
         "fighter/mario/motion/pump/c06/d03speciallwend.nuanmb": [
             "fighter/mario/motion/pump/c07/d03speciallwend.nuanmb"
+        ],
+        "fighter/mario/motion/pump/c00/flip.prc": [
+            "fighter/mario/motion/pump/c01/flip.prc",
+            "fighter/mario/motion/pump/c02/flip.prc",
+            "fighter/mario/motion/pump/c03/flip.prc",
+            "fighter/mario/motion/pump/c04/flip.prc",
+            "fighter/mario/motion/pump/c05/flip.prc"
+        ],
+        "fighter/mario/motion/pump/c06/flip.prc": [
+            "fighter/mario/motion/pump/c07/flip.prc"
         ],
         "fighter/mariod/motion/body/c00/motion_list.bin": [
             "fighter/mariod/motion/body/c01/motion_list.bin",
