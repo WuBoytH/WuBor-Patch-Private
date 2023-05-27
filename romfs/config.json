@@ -99,6 +99,56 @@
             "fighter/chrom/motion/body/c06/d03specialairlw.nuanmb",
             "fighter/chrom/motion/body/c07/d03specialairlw.nuanmb"
         ],
+        "fighter/cloud/motion/body/c00/motion_list.bin": [
+            "fighter/cloud/motion/body/c02/motion_list.bin",
+            "fighter/cloud/motion/body/c04/motion_list.bin",
+            "fighter/cloud/motion/body/c06/motion_list.bin"
+        ],
+        "fighter/cloud/motion/body/c01/motion_list.bin": [
+            "fighter/cloud/motion/body/c03/motion_list.bin",
+            "fighter/cloud/motion/body/c05/motion_list.bin",
+            "fighter/cloud/motion/body/c07/motion_list.bin"
+        ],
+        "fighter/cloud/motion/body/c00/j01appealhilloop.nuanmb": [
+            "fighter/cloud/motion/body/c02/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c04/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c06/j01appealhilloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c01/j01appealhilloop.nuanmb": [
+            "fighter/cloud/motion/body/c03/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c05/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c07/j01appealhilloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c00/j01appealhirloop.nuanmb": [
+            "fighter/cloud/motion/body/c02/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c04/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c06/j01appealhirloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c01/j01appealhirloop.nuanmb": [
+            "fighter/cloud/motion/body/c03/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c05/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c07/j01appealhirloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c00/j01appeallwloop.nuanmb": [
+            "fighter/cloud/motion/body/c02/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c04/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c06/j01appeallwloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c01/j01appeallwloop.nuanmb": [
+            "fighter/cloud/motion/body/c03/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c05/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c07/j01appeallwloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c00/j01appealsloop.nuanmb": [
+            "fighter/cloud/motion/body/c02/j01appealsloop.nuanmb",
+            "fighter/cloud/motion/body/c04/j01appealsloop.nuanmb",
+            "fighter/cloud/motion/body/c06/j01appealsloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c01/j01appealsloop.nuanmb": [
+            "fighter/cloud/motion/body/c03/j01appealsloop.nuanmb",
+            "fighter/cloud/motion/body/c05/j01appealsloop.nuanmb",
+            "fighter/cloud/motion/body/c07/j01appealsloop.nuanmb"
+        ],
         "fighter/daisy/motion/body/c00/motion_list.bin": [
             "fighter/daisy/motion/body/c01/motion_list.bin",
             "fighter/daisy/motion/body/c02/motion_list.bin",
@@ -2413,6 +2463,54 @@
         ]
     },
     "new-dir-files": {
+        "fighter/cloud/c00": [
+            "fighter/cloud/motion/body/c00/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c00/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c00/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c00/j01appealsloop.nuanmb"
+        ],
+        "fighter/cloud/c01": [
+            "fighter/cloud/motion/body/c01/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c01/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c01/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c01/j01appealsloop.nuanmb"
+        ],
+        "fighter/cloud/c02": [
+            "fighter/cloud/motion/body/c02/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c02/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c02/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c02/j01appealsloop.nuanmb"
+        ],
+        "fighter/cloud/c03": [
+            "fighter/cloud/motion/body/c03/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c03/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c03/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c03/j01appealsloop.nuanmb"
+        ],
+        "fighter/cloud/c04": [
+            "fighter/cloud/motion/body/c04/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c04/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c04/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c04/j01appealsloop.nuanmb"
+        ],
+        "fighter/cloud/c05": [
+            "fighter/cloud/motion/body/c05/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c05/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c05/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c05/j01appealsloop.nuanmb"
+        ],
+        "fighter/cloud/c06": [
+            "fighter/cloud/motion/body/c06/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c06/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c06/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c06/j01appealsloop.nuanmb"
+        ],
+        "fighter/cloud/c07": [
+            "fighter/cloud/motion/body/c07/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c07/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c07/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c07/j01appealsloop.nuanmb"
+        ],
         "fighter/demon/c00": [
             "fighter/demon/motion/body/c00/j01appealhilloop.nuanmb",
             "fighter/demon/motion/body/c00/j01appealhirloop.nuanmb"
