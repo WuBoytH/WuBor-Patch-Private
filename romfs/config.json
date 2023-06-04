@@ -414,6 +414,15 @@
             "fighter/ganon/motion/body/c06/d01specialairs.nuanmb",
             "fighter/ganon/motion/body/c07/d01specialairs.nuanmb"
         ],
+        "fighter/gaogaen/motion/body/c00/motion_list.bin": [
+            "fighter/gaogaen/motion/body/c01/motion_list.bin",
+            "fighter/gaogaen/motion/body/c02/motion_list.bin",
+            "fighter/gaogaen/motion/body/c03/motion_list.bin",
+            "fighter/gaogaen/motion/body/c04/motion_list.bin",
+            "fighter/gaogaen/motion/body/c05/motion_list.bin",
+            "fighter/gaogaen/motion/body/c06/motion_list.bin",
+            "fighter/gaogaen/motion/body/c07/motion_list.bin"
+        ],
         "fighter/ike/motion/body/c00/motion_list.bin": [
             "fighter/ike/motion/body/c02/motion_list.bin",
             "fighter/ike/motion/body/c04/motion_list.bin",
