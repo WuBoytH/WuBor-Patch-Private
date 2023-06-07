@@ -214,6 +214,14 @@
             "fighter/demon/motion/body/c05/c05landingairlw.nuanmb",
             "fighter/demon/motion/body/c07/c05landingairlw.nuanmb"
         ],
+        "fighter/diddy/motion/body/c00/motion_list.bin": [
+            "fighter/diddy/motion/body/c01/motion_list.bin",
+            "fighter/diddy/motion/body/c02/motion_list.bin",
+            "fighter/diddy/motion/body/c03/motion_list.bin",
+            "fighter/diddy/motion/body/c05/motion_list.bin",
+            "fighter/diddy/motion/body/c06/motion_list.bin",
+            "fighter/diddy/motion/body/c07/motion_list.bin"
+        ],
         "fighter/dolly/motion/body/c00/motion_list.bin": [
             "fighter/dolly/motion/body/c01/motion_list.bin",
             "fighter/dolly/motion/body/c02/motion_list.bin",
@@ -378,6 +386,24 @@
             "fighter/elight/motion/body/c06/swingblend.prc",
             "fighter/elight/motion/body/c07/swingblend.prc"
         ],
+        "fighter/falco/motion/body/c00/motion_list.bin": [
+            "fighter/falco/motion/body/c01/motion_list.bin",
+            "fighter/falco/motion/body/c02/motion_list.bin",
+            "fighter/falco/motion/body/c03/motion_list.bin",
+            "fighter/falco/motion/body/c04/motion_list.bin",
+            "fighter/falco/motion/body/c05/motion_list.bin",
+            "fighter/falco/motion/body/c06/motion_list.bin",
+            "fighter/falco/motion/body/c07/motion_list.bin"
+        ],
+        "fighter/fox/motion/body/c00/motion_list.bin": [
+            "fighter/fox/motion/body/c01/motion_list.bin",
+            "fighter/fox/motion/body/c02/motion_list.bin",
+            "fighter/fox/motion/body/c03/motion_list.bin",
+            "fighter/fox/motion/body/c04/motion_list.bin",
+            "fighter/fox/motion/body/c05/motion_list.bin",
+            "fighter/fox/motion/body/c06/motion_list.bin",
+            "fighter/fox/motion/body/c07/motion_list.bin"
+        ],
         "fighter/ganon/motion/body/c00/motion_list.bin": [
             "fighter/ganon/motion/body/c01/motion_list.bin",
             "fighter/ganon/motion/body/c02/motion_list.bin",
@@ -536,6 +562,15 @@
             "fighter/koopa/motion/body/c05/motion_list.bin",
             "fighter/koopa/motion/body/c06/motion_list.bin",
             "fighter/koopa/motion/body/c07/motion_list.bin"
+        ],
+        "fighter/krool/motion/body/c00/motion_list.bin": [
+            "fighter/krool/motion/body/c01/motion_list.bin",
+            "fighter/krool/motion/body/c02/motion_list.bin",
+            "fighter/krool/motion/body/c03/motion_list.bin",
+            "fighter/krool/motion/body/c04/motion_list.bin",
+            "fighter/krool/motion/body/c05/motion_list.bin",
+            "fighter/krool/motion/body/c06/motion_list.bin",
+            "fighter/krool/motion/body/c07/motion_list.bin"
         ],
         "fighter/littlemac/motion/body/c00/motion_list.bin": [
             "fighter/littlemac/motion/body/c01/motion_list.bin",
@@ -1083,9 +1118,8 @@
             "fighter/mario/model/pump/c02/model.numdlb",
             "fighter/mario/model/pump/c03/model.numdlb",
             "fighter/mario/model/pump/c04/model.numdlb",
-            "fighter/mario/model/pump/c05/model.numdlb"
-        ],
-        "fighter/mario/model/pump/c06/model.numdlb": [
+            "fighter/mario/model/pump/c05/model.numdlb",
+            "fighter/mario/model/pump/c06/model.numdlb",
             "fighter/mario/model/pump/c07/model.numdlb"
         ],
         "fighter/mario/model/pump/c00/model.numshb": [
@@ -1093,9 +1127,8 @@
             "fighter/mario/model/pump/c02/model.numshb",
             "fighter/mario/model/pump/c03/model.numshb",
             "fighter/mario/model/pump/c04/model.numshb",
-            "fighter/mario/model/pump/c05/model.numshb"
-        ],
-        "fighter/mario/model/pump/c06/model.numshb": [
+            "fighter/mario/model/pump/c05/model.numshb",
+            "fighter/mario/model/pump/c06/model.numshb",
             "fighter/mario/model/pump/c07/model.numshb"
         ],
         "fighter/mario/model/pump/c00/model.numshexb": [
@@ -1103,9 +1136,8 @@
             "fighter/mario/model/pump/c02/model.numshexb",
             "fighter/mario/model/pump/c03/model.numshexb",
             "fighter/mario/model/pump/c04/model.numshexb",
-            "fighter/mario/model/pump/c05/model.numshexb"
-        ],
-        "fighter/mario/model/pump/c06/model.numshexb": [
+            "fighter/mario/model/pump/c05/model.numshexb",
+            "fighter/mario/model/pump/c06/model.numshexb",
             "fighter/mario/model/pump/c07/model.numshexb"
         ],
         "fighter/mario/model/pump/c00/model.nusktb": [
@@ -1113,9 +1145,8 @@
             "fighter/mario/model/pump/c02/model.nusktb",
             "fighter/mario/model/pump/c03/model.nusktb",
             "fighter/mario/model/pump/c04/model.nusktb",
-            "fighter/mario/model/pump/c05/model.nusktb"
-        ],
-        "fighter/mario/model/pump/c06/model.nusktb": [
+            "fighter/mario/model/pump/c05/model.nusktb",
+            "fighter/mario/model/pump/c06/model.nusktb",
             "fighter/mario/model/pump/c07/model.nusktb"
         ],
         "fighter/mario/model/pump/c00/def_pump_001_col.nutexb": [
@@ -1123,9 +1154,8 @@
             "fighter/mario/model/pump/c02/def_pump_001_col.nutexb",
             "fighter/mario/model/pump/c03/def_pump_001_col.nutexb",
             "fighter/mario/model/pump/c04/def_pump_001_col.nutexb",
-            "fighter/mario/model/pump/c05/def_pump_001_col.nutexb"
-        ],
-        "fighter/mario/model/pump/c06/def_pump_001_col.nutexb": [
+            "fighter/mario/model/pump/c05/def_pump_001_col.nutexb",
+            "fighter/mario/model/pump/c06/def_pump_001_col.nutexb",
             "fighter/mario/model/pump/c07/def_pump_001_col.nutexb"
         ],
         "fighter/mario/model/pump/c00/def_pump_001_nor.nutexb": [
@@ -1133,9 +1163,8 @@
             "fighter/mario/model/pump/c02/def_pump_001_nor.nutexb",
             "fighter/mario/model/pump/c03/def_pump_001_nor.nutexb",
             "fighter/mario/model/pump/c04/def_pump_001_nor.nutexb",
-            "fighter/mario/model/pump/c05/def_pump_001_nor.nutexb"
-        ],
-        "fighter/mario/model/pump/c06/def_pump_001_nor.nutexb": [
+            "fighter/mario/model/pump/c05/def_pump_001_nor.nutexb",
+            "fighter/mario/model/pump/c06/def_pump_001_nor.nutexb",
             "fighter/mario/model/pump/c07/def_pump_001_nor.nutexb"
         ],
         "fighter/mario/model/pump/c00/def_pump_001_prm.nutexb": [
@@ -1143,9 +1172,8 @@
             "fighter/mario/model/pump/c02/def_pump_001_prm.nutexb",
             "fighter/mario/model/pump/c03/def_pump_001_prm.nutexb",
             "fighter/mario/model/pump/c04/def_pump_001_prm.nutexb",
-            "fighter/mario/model/pump/c05/def_pump_001_prm.nutexb"
-        ],
-        "fighter/mario/model/pump/c06/def_pump_001_prm.nutexb": [
+            "fighter/mario/model/pump/c05/def_pump_001_prm.nutexb",
+            "fighter/mario/model/pump/c06/def_pump_001_prm.nutexb",
             "fighter/mario/model/pump/c07/def_pump_001_prm.nutexb"
         ],
         "fighter/mario/motion/body/c00/motion_list.bin": [
@@ -1153,9 +1181,8 @@
             "fighter/mario/motion/body/c02/motion_list.bin",
             "fighter/mario/motion/body/c03/motion_list.bin",
             "fighter/mario/motion/body/c04/motion_list.bin",
-            "fighter/mario/motion/body/c05/motion_list.bin"
-        ],
-        "fighter/mario/motion/body/c06/motion_list.bin": [
+            "fighter/mario/motion/body/c05/motion_list.bin",
+            "fighter/mario/motion/body/c06/motion_list.bin",
             "fighter/mario/motion/body/c07/motion_list.bin"
         ],
         "fighter/mario/motion/body/c00/c03attacks4s.nuanmb": [
@@ -1163,9 +1190,8 @@
             "fighter/mario/motion/body/c02/c03attacks4s.nuanmb",
             "fighter/mario/motion/body/c03/c03attacks4s.nuanmb",
             "fighter/mario/motion/body/c04/c03attacks4s.nuanmb",
-            "fighter/mario/motion/body/c05/c03attacks4s.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/c03attacks4s.nuanmb": [
+            "fighter/mario/motion/body/c05/c03attacks4s.nuanmb",
+            "fighter/mario/motion/body/c06/c03attacks4s.nuanmb",
             "fighter/mario/motion/body/c07/c03attacks4s.nuanmb"
         ],
         "fighter/mario/motion/body/c00/c03attacks4hi.nuanmb": [
@@ -1173,9 +1199,8 @@
             "fighter/mario/motion/body/c02/c03attacks4hi.nuanmb",
             "fighter/mario/motion/body/c03/c03attacks4hi.nuanmb",
             "fighter/mario/motion/body/c04/c03attacks4hi.nuanmb",
-            "fighter/mario/motion/body/c05/c03attacks4hi.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/c03attacks4hi.nuanmb": [
+            "fighter/mario/motion/body/c05/c03attacks4hi.nuanmb",
+            "fighter/mario/motion/body/c06/c03attacks4hi.nuanmb",
             "fighter/mario/motion/body/c07/c03attacks4hi.nuanmb"
         ],
         "fighter/mario/motion/body/c00/c03attacks4lw.nuanmb": [
@@ -1183,9 +1208,8 @@
             "fighter/mario/motion/body/c02/c03attacks4lw.nuanmb",
             "fighter/mario/motion/body/c03/c03attacks4lw.nuanmb",
             "fighter/mario/motion/body/c04/c03attacks4lw.nuanmb",
-            "fighter/mario/motion/body/c05/c03attacks4lw.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/c03attacks4lw.nuanmb": [
+            "fighter/mario/motion/body/c05/c03attacks4lw.nuanmb",
+            "fighter/mario/motion/body/c06/c03attacks4lw.nuanmb",
             "fighter/mario/motion/body/c07/c03attacks4lw.nuanmb"
         ],
         "fighter/mario/motion/body/c00/c03attacks4charge.nuanmb": [
@@ -1193,9 +1217,8 @@
             "fighter/mario/motion/body/c02/c03attacks4charge.nuanmb",
             "fighter/mario/motion/body/c03/c03attacks4charge.nuanmb",
             "fighter/mario/motion/body/c04/c03attacks4charge.nuanmb",
-            "fighter/mario/motion/body/c05/c03attacks4charge.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/c03attacks4charge.nuanmb": [
+            "fighter/mario/motion/body/c05/c03attacks4charge.nuanmb",
+            "fighter/mario/motion/body/c06/c03attacks4charge.nuanmb",
             "fighter/mario/motion/body/c07/c03attacks4charge.nuanmb"
         ],
         "fighter/mario/motion/body/c00/c05attackairf.nuanmb": [
@@ -1203,9 +1226,8 @@
             "fighter/mario/motion/body/c02/c05attackairf.nuanmb",
             "fighter/mario/motion/body/c03/c05attackairf.nuanmb",
             "fighter/mario/motion/body/c04/c05attackairf.nuanmb",
-            "fighter/mario/motion/body/c05/c05attackairf.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/c05attackairf.nuanmb": [
+            "fighter/mario/motion/body/c05/c05attackairf.nuanmb",
+            "fighter/mario/motion/body/c06/c05attackairf.nuanmb",
             "fighter/mario/motion/body/c07/c05attackairf.nuanmb"
         ],
         "fighter/mario/motion/body/c00/c05attackairlw.nuanmb": [
@@ -1213,9 +1235,8 @@
             "fighter/mario/motion/body/c02/c05attackairlw.nuanmb",
             "fighter/mario/motion/body/c03/c05attackairlw.nuanmb",
             "fighter/mario/motion/body/c04/c05attackairlw.nuanmb",
-            "fighter/mario/motion/body/c05/c05attackairlw.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/c05attackairlw.nuanmb": [
+            "fighter/mario/motion/body/c05/c05attackairlw.nuanmb",
+            "fighter/mario/motion/body/c06/c05attackairlw.nuanmb",
             "fighter/mario/motion/body/c07/c05attackairlw.nuanmb"
         ],
         "fighter/mario/motion/body/c00/d01specials.nuanmb": [
@@ -1223,9 +1244,8 @@
             "fighter/mario/motion/body/c02/d01specials.nuanmb",
             "fighter/mario/motion/body/c03/d01specials.nuanmb",
             "fighter/mario/motion/body/c04/d01specials.nuanmb",
-            "fighter/mario/motion/body/c05/d01specials.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/d01specials.nuanmb": [
+            "fighter/mario/motion/body/c05/d01specials.nuanmb",
+            "fighter/mario/motion/body/c06/d01specials.nuanmb",
             "fighter/mario/motion/body/c07/d01specials.nuanmb"
         ],
         "fighter/mario/motion/body/c00/d01specialairs.nuanmb": [
@@ -1233,9 +1253,8 @@
             "fighter/mario/motion/body/c02/d01specialairs.nuanmb",
             "fighter/mario/motion/body/c03/d01specialairs.nuanmb",
             "fighter/mario/motion/body/c04/d01specialairs.nuanmb",
-            "fighter/mario/motion/body/c05/d01specialairs.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/d01specialairs.nuanmb": [
+            "fighter/mario/motion/body/c05/d01specialairs.nuanmb",
+            "fighter/mario/motion/body/c06/d01specialairs.nuanmb",
             "fighter/mario/motion/body/c07/d01specialairs.nuanmb"
         ],
         "fighter/mario/motion/body/c00/d03speciallwstart.nuanmb": [
@@ -1243,9 +1262,8 @@
             "fighter/mario/motion/body/c02/d03speciallwstart.nuanmb",
             "fighter/mario/motion/body/c03/d03speciallwstart.nuanmb",
             "fighter/mario/motion/body/c04/d03speciallwstart.nuanmb",
-            "fighter/mario/motion/body/c05/d03speciallwstart.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/d03speciallwstart.nuanmb": [
+            "fighter/mario/motion/body/c05/d03speciallwstart.nuanmb",
+            "fighter/mario/motion/body/c06/d03speciallwstart.nuanmb",
             "fighter/mario/motion/body/c07/d03speciallwstart.nuanmb"
         ],
         "fighter/mario/motion/body/c00/d03specialairlwstart.nuanmb": [
@@ -1253,9 +1271,8 @@
             "fighter/mario/motion/body/c02/d03specialairlwstart.nuanmb",
             "fighter/mario/motion/body/c03/d03specialairlwstart.nuanmb",
             "fighter/mario/motion/body/c04/d03specialairlwstart.nuanmb",
-            "fighter/mario/motion/body/c05/d03specialairlwstart.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/d03specialairlwstart.nuanmb": [
+            "fighter/mario/motion/body/c05/d03specialairlwstart.nuanmb",
+            "fighter/mario/motion/body/c06/d03specialairlwstart.nuanmb",
             "fighter/mario/motion/body/c07/d03specialairlwstart.nuanmb"
         ],
         "fighter/mario/motion/body/c00/d03speciallwhold.nuanmb": [
@@ -1263,9 +1280,8 @@
             "fighter/mario/motion/body/c02/d03speciallwhold.nuanmb",
             "fighter/mario/motion/body/c03/d03speciallwhold.nuanmb",
             "fighter/mario/motion/body/c04/d03speciallwhold.nuanmb",
-            "fighter/mario/motion/body/c05/d03speciallwhold.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/d03speciallwhold.nuanmb": [
+            "fighter/mario/motion/body/c05/d03speciallwhold.nuanmb",
+            "fighter/mario/motion/body/c06/d03speciallwhold.nuanmb",
             "fighter/mario/motion/body/c07/d03speciallwhold.nuanmb"
         ],
         "fighter/mario/motion/body/c00/d03specialairlwhold.nuanmb": [
@@ -1273,9 +1289,8 @@
             "fighter/mario/motion/body/c02/d03specialairlwhold.nuanmb",
             "fighter/mario/motion/body/c03/d03specialairlwhold.nuanmb",
             "fighter/mario/motion/body/c04/d03specialairlwhold.nuanmb",
-            "fighter/mario/motion/body/c05/d03specialairlwhold.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/d03specialairlwhold.nuanmb": [
+            "fighter/mario/motion/body/c05/d03specialairlwhold.nuanmb",
+            "fighter/mario/motion/body/c06/d03specialairlwhold.nuanmb",
             "fighter/mario/motion/body/c07/d03specialairlwhold.nuanmb"
         ],
         "fighter/mario/motion/body/c00/d03speciallwlight.nuanmb": [
@@ -1283,9 +1298,8 @@
             "fighter/mario/motion/body/c02/d03speciallwlight.nuanmb",
             "fighter/mario/motion/body/c03/d03speciallwlight.nuanmb",
             "fighter/mario/motion/body/c04/d03speciallwlight.nuanmb",
-            "fighter/mario/motion/body/c05/d03speciallwlight.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/d03speciallwlight.nuanmb": [
+            "fighter/mario/motion/body/c05/d03speciallwlight.nuanmb",
+            "fighter/mario/motion/body/c06/d03speciallwlight.nuanmb",
             "fighter/mario/motion/body/c07/d03speciallwlight.nuanmb"
         ],
         "fighter/mario/motion/body/c00/d03specialairlwlight.nuanmb": [
@@ -1293,9 +1307,8 @@
             "fighter/mario/motion/body/c02/d03specialairlwlight.nuanmb",
             "fighter/mario/motion/body/c03/d03specialairlwlight.nuanmb",
             "fighter/mario/motion/body/c04/d03specialairlwlight.nuanmb",
-            "fighter/mario/motion/body/c05/d03specialairlwlight.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/d03specialairlwlight.nuanmb": [
+            "fighter/mario/motion/body/c05/d03specialairlwlight.nuanmb",
+            "fighter/mario/motion/body/c06/d03specialairlwlight.nuanmb",
             "fighter/mario/motion/body/c07/d03specialairlwlight.nuanmb"
         ],
         "fighter/mario/motion/body/c00/d03specialairlwheavy.nuanmb": [
@@ -1303,9 +1316,8 @@
             "fighter/mario/motion/body/c02/d03specialairlwheavy.nuanmb",
             "fighter/mario/motion/body/c03/d03specialairlwheavy.nuanmb",
             "fighter/mario/motion/body/c04/d03specialairlwheavy.nuanmb",
-            "fighter/mario/motion/body/c05/d03specialairlwheavy.nuanmb"
-        ],
-        "fighter/mario/motion/body/c06/d03specialairlwheavy.nuanmb": [
+            "fighter/mario/motion/body/c05/d03specialairlwheavy.nuanmb",
+            "fighter/mario/motion/body/c06/d03specialairlwheavy.nuanmb",
             "fighter/mario/motion/body/c07/d03specialairlwheavy.nuanmb"
         ],
         "fighter/mario/motion/pump/c00/d03speciallwwait.nuanmb": [
@@ -1313,9 +1325,8 @@
             "fighter/mario/motion/pump/c02/d03speciallwwait.nuanmb",
             "fighter/mario/motion/pump/c03/d03speciallwwait.nuanmb",
             "fighter/mario/motion/pump/c04/d03speciallwwait.nuanmb",
-            "fighter/mario/motion/pump/c05/d03speciallwwait.nuanmb"
-        ],
-        "fighter/mario/motion/pump/c06/d03speciallwwait.nuanmb": [
+            "fighter/mario/motion/pump/c05/d03speciallwwait.nuanmb",
+            "fighter/mario/motion/pump/c06/d03speciallwwait.nuanmb",
             "fighter/mario/motion/pump/c07/d03speciallwwait.nuanmb"
         ],
         "fighter/mario/motion/pump/c00/d03speciallwstart.nuanmb": [
@@ -1323,9 +1334,8 @@
             "fighter/mario/motion/pump/c02/d03speciallwstart.nuanmb",
             "fighter/mario/motion/pump/c03/d03speciallwstart.nuanmb",
             "fighter/mario/motion/pump/c04/d03speciallwstart.nuanmb",
-            "fighter/mario/motion/pump/c05/d03speciallwstart.nuanmb"
-        ],
-        "fighter/mario/motion/pump/c06/d03speciallwstart.nuanmb": [
+            "fighter/mario/motion/pump/c05/d03speciallwstart.nuanmb",
+            "fighter/mario/motion/pump/c06/d03speciallwstart.nuanmb",
             "fighter/mario/motion/pump/c07/d03speciallwstart.nuanmb"
         ],
         "fighter/mario/motion/pump/c00/d03speciallwhold.nuanmb": [
@@ -1333,9 +1343,8 @@
             "fighter/mario/motion/pump/c02/d03speciallwhold.nuanmb",
             "fighter/mario/motion/pump/c03/d03speciallwhold.nuanmb",
             "fighter/mario/motion/pump/c04/d03speciallwhold.nuanmb",
-            "fighter/mario/motion/pump/c05/d03speciallwhold.nuanmb"
-        ],
-        "fighter/mario/motion/pump/c06/d03speciallwhold.nuanmb": [
+            "fighter/mario/motion/pump/c05/d03speciallwhold.nuanmb",
+            "fighter/mario/motion/pump/c06/d03speciallwhold.nuanmb",
             "fighter/mario/motion/pump/c07/d03speciallwhold.nuanmb"
         ],
         "fighter/mario/motion/pump/c00/d03speciallwlight.nuanmb": [
@@ -1343,9 +1352,8 @@
             "fighter/mario/motion/pump/c02/d03speciallwlight.nuanmb",
             "fighter/mario/motion/pump/c03/d03speciallwlight.nuanmb",
             "fighter/mario/motion/pump/c04/d03speciallwlight.nuanmb",
-            "fighter/mario/motion/pump/c05/d03speciallwlight.nuanmb"
-        ],
-        "fighter/mario/motion/pump/c06/d03speciallwlight.nuanmb": [
+            "fighter/mario/motion/pump/c05/d03speciallwlight.nuanmb",
+            "fighter/mario/motion/pump/c06/d03speciallwlight.nuanmb",
             "fighter/mario/motion/pump/c07/d03speciallwlight.nuanmb"
         ],
         "fighter/mario/motion/pump/c00/d03speciallwheavy.nuanmb": [
@@ -1353,9 +1361,8 @@
             "fighter/mario/motion/pump/c02/d03speciallwheavy.nuanmb",
             "fighter/mario/motion/pump/c03/d03speciallwheavy.nuanmb",
             "fighter/mario/motion/pump/c04/d03speciallwheavy.nuanmb",
-            "fighter/mario/motion/pump/c05/d03speciallwheavy.nuanmb"
-        ],
-        "fighter/mario/motion/pump/c06/d03speciallwheavy.nuanmb": [
+            "fighter/mario/motion/pump/c05/d03speciallwheavy.nuanmb",
+            "fighter/mario/motion/pump/c06/d03speciallwheavy.nuanmb",
             "fighter/mario/motion/pump/c07/d03speciallwheavy.nuanmb"
         ],
         "fighter/mario/motion/pump/c00/d03speciallwend.nuanmb": [
@@ -1363,9 +1370,8 @@
             "fighter/mario/motion/pump/c02/d03speciallwend.nuanmb",
             "fighter/mario/motion/pump/c03/d03speciallwend.nuanmb",
             "fighter/mario/motion/pump/c04/d03speciallwend.nuanmb",
-            "fighter/mario/motion/pump/c05/d03speciallwend.nuanmb"
-        ],
-        "fighter/mario/motion/pump/c06/d03speciallwend.nuanmb": [
+            "fighter/mario/motion/pump/c05/d03speciallwend.nuanmb",
+            "fighter/mario/motion/pump/c06/d03speciallwend.nuanmb",
             "fighter/mario/motion/pump/c07/d03speciallwend.nuanmb"
         ],
         "fighter/mario/motion/pump/c00/flip.prc": [
@@ -1373,9 +1379,8 @@
             "fighter/mario/motion/pump/c02/flip.prc",
             "fighter/mario/motion/pump/c03/flip.prc",
             "fighter/mario/motion/pump/c04/flip.prc",
-            "fighter/mario/motion/pump/c05/flip.prc"
-        ],
-        "fighter/mario/motion/pump/c06/flip.prc": [
+            "fighter/mario/motion/pump/c05/flip.prc",
+            "fighter/mario/motion/pump/c06/flip.prc",
             "fighter/mario/motion/pump/c07/flip.prc"
         ],
         "fighter/mariod/motion/body/c00/motion_list.bin": [
@@ -1495,6 +1500,33 @@
         "fighter/metaknight/motion/body/c06/c05landingairlw.nuanmb": [
             "fighter/metaknight/motion/body/c07/c05landingairlw.nuanmb"
         ],
+        "fighter/mewtwo/motion/body/c00/motion_list.bin": [
+            "fighter/mewtwo/motion/body/c01/motion_list.bin",
+            "fighter/mewtwo/motion/body/c02/motion_list.bin",
+            "fighter/mewtwo/motion/body/c03/motion_list.bin",
+            "fighter/mewtwo/motion/body/c04/motion_list.bin",
+            "fighter/mewtwo/motion/body/c05/motion_list.bin",
+            "fighter/mewtwo/motion/body/c06/motion_list.bin",
+            "fighter/mewtwo/motion/body/c07/motion_list.bin"
+        ],
+        "fighter/nana/motion/body/c00/motion_list.bin": [
+            "fighter/nana/motion/body/c01/motion_list.bin",
+            "fighter/nana/motion/body/c02/motion_list.bin",
+            "fighter/nana/motion/body/c03/motion_list.bin",
+            "fighter/nana/motion/body/c04/motion_list.bin",
+            "fighter/nana/motion/body/c05/motion_list.bin",
+            "fighter/nana/motion/body/c06/motion_list.bin",
+            "fighter/nana/motion/body/c07/motion_list.bin"
+        ],
+        "fighter/ness/motion/body/c00/motion_list.bin": [
+            "fighter/ness/motion/body/c01/motion_list.bin",
+            "fighter/ness/motion/body/c02/motion_list.bin",
+            "fighter/ness/motion/body/c03/motion_list.bin",
+            "fighter/ness/motion/body/c04/motion_list.bin",
+            "fighter/ness/motion/body/c05/motion_list.bin",
+            "fighter/ness/motion/body/c06/motion_list.bin",
+            "fighter/ness/motion/body/c07/motion_list.bin"
+        ],
         "fighter/packun/motion/body/c00/motion_list.bin": [
             "fighter/packun/motion/body/c02/motion_list.bin",
             "fighter/packun/motion/body/c04/motion_list.bin",
@@ -1514,6 +1546,33 @@
             "fighter/packun/motion/body/c03/j01appealsr.nuanmb",
             "fighter/packun/motion/body/c05/j01appealsr.nuanmb",
             "fighter/packun/motion/body/c07/j01appealsr.nuanmb"
+        ],
+        "fighter/peach/motion/body/c00/motion_list.bin": [
+            "fighter/peach/motion/body/c01/motion_list.bin",
+            "fighter/peach/motion/body/c02/motion_list.bin",
+            "fighter/peach/motion/body/c03/motion_list.bin",
+            "fighter/peach/motion/body/c04/motion_list.bin",
+            "fighter/peach/motion/body/c05/motion_list.bin",
+            "fighter/peach/motion/body/c06/motion_list.bin",
+            "fighter/peach/motion/body/c07/motion_list.bin"
+        ],
+        "fighter/pfushigisou/motion/body/c00/motion_list.bin": [
+            "fighter/pfushigisou/motion/body/c01/motion_list.bin",
+            "fighter/pfushigisou/motion/body/c02/motion_list.bin",
+            "fighter/pfushigisou/motion/body/c03/motion_list.bin",
+            "fighter/pfushigisou/motion/body/c04/motion_list.bin",
+            "fighter/pfushigisou/motion/body/c05/motion_list.bin",
+            "fighter/pfushigisou/motion/body/c06/motion_list.bin",
+            "fighter/pfushigisou/motion/body/c07/motion_list.bin"
+        ],
+        "fighter/pichu/motion/body/c00/motion_list.bin": [
+            "fighter/pichu/motion/body/c01/motion_list.bin",
+            "fighter/pichu/motion/body/c02/motion_list.bin",
+            "fighter/pichu/motion/body/c03/motion_list.bin",
+            "fighter/pichu/motion/body/c04/motion_list.bin",
+            "fighter/pichu/motion/body/c05/motion_list.bin",
+            "fighter/pichu/motion/body/c06/motion_list.bin",
+            "fighter/pichu/motion/body/c07/motion_list.bin"
         ],
         "fighter/pikmin/motion/body/c00/motion_list.bin": [
             "fighter/pikmin/motion/body/c01/motion_list.bin",
@@ -1709,6 +1768,15 @@
             "fighter/plizardon/motion/body/c05/j01appealsr.nuanmb",
             "fighter/plizardon/motion/body/c07/j01appealsr.nuanmb"
         ],
+        "fighter/popo/motion/body/c00/motion_list.bin": [
+            "fighter/popo/motion/body/c01/motion_list.bin",
+            "fighter/popo/motion/body/c02/motion_list.bin",
+            "fighter/popo/motion/body/c03/motion_list.bin",
+            "fighter/popo/motion/body/c04/motion_list.bin",
+            "fighter/popo/motion/body/c05/motion_list.bin",
+            "fighter/popo/motion/body/c06/motion_list.bin",
+            "fighter/popo/motion/body/c07/motion_list.bin"
+        ],
         "fighter/pzenigame/motion/body/c00/motion_list.bin": [
             "fighter/pzenigame/motion/body/c02/motion_list.bin",
             "fighter/pzenigame/motion/body/c04/motion_list.bin",
@@ -1728,6 +1796,16 @@
             "fighter/pzenigame/motion/body/c03/j01appealhir.nuanmb",
             "fighter/pzenigame/motion/body/c05/j01appealhir.nuanmb",
             "fighter/pzenigame/motion/body/c07/j01appealhir.nuanmb"
+        ],
+        "fighter/reflet/motion/body/c00/motion_list.bin": [
+            "fighter/reflet/motion/body/c02/motion_list.bin",
+            "fighter/reflet/motion/body/c04/motion_list.bin",
+            "fighter/reflet/motion/body/c06/motion_list.bin"
+        ],
+        "fighter/reflet/motion/body/c01/motion_list.bin": [
+            "fighter/reflet/motion/body/c03/motion_list.bin",
+            "fighter/reflet/motion/body/c05/motion_list.bin",
+            "fighter/reflet/motion/body/c07/motion_list.bin"
         ],
         "fighter/richter/motion/body/c00/motion_list.bin": [
             "fighter/richter/motion/body/c01/motion_list.bin",
@@ -1908,6 +1986,15 @@
             "fighter/richter/motion/whip/c05/e01throwhi.nuanmb",
             "fighter/richter/motion/whip/c06/e01throwhi.nuanmb",
             "fighter/richter/motion/whip/c07/e01throwhi.nuanmb"
+        ],
+        "fighter/ridley/motion/body/c00/motion_list.bin": [
+            "fighter/ridley/motion/body/c01/motion_list.bin",
+            "fighter/ridley/motion/body/c02/motion_list.bin",
+            "fighter/ridley/motion/body/c03/motion_list.bin",
+            "fighter/ridley/motion/body/c04/motion_list.bin",
+            "fighter/ridley/motion/body/c05/motion_list.bin",
+            "fighter/ridley/motion/body/c06/motion_list.bin",
+            "fighter/ridley/motion/body/c07/motion_list.bin"
         ],
         "fighter/robot/motion/body/c00/motion_list.bin": [
             "fighter/robot/motion/body/c01/motion_list.bin",
@@ -2332,6 +2419,16 @@
             "fighter/sheik/motion/body/c06/motion_list.bin",
             "fighter/sheik/motion/body/c07/motion_list.bin"
         ],
+        "fighter/shizue/motion/body/c00/motion_list.bin": [
+            "fighter/shizue/motion/body/c02/motion_list.bin",
+            "fighter/shizue/motion/body/c04/motion_list.bin",
+            "fighter/shizue/motion/body/c06/motion_list.bin"
+        ],
+        "fighter/shizue/motion/body/c01/motion_list.bin": [
+            "fighter/shizue/motion/body/c03/motion_list.bin",
+            "fighter/shizue/motion/body/c05/motion_list.bin",
+            "fighter/shizue/motion/body/c07/motion_list.bin"
+        ],
         "fighter/shulk/motion/body/c00/motion_list.bin": [
             "fighter/shulk/motion/body/c01/motion_list.bin",
             "fighter/shulk/motion/body/c02/motion_list.bin",
@@ -2347,16 +2444,6 @@
             "fighter/shulk/motion/body/c04/c05attackairb.nuanmb",
             "fighter/shulk/motion/body/c05/c05attackairb.nuanmb",
             "fighter/shulk/motion/body/c06/c05attackairb.nuanmb"
-        ],
-        "fighter/shizue/motion/body/c00/motion_list.bin": [
-            "fighter/shizue/motion/body/c02/motion_list.bin",
-            "fighter/shizue/motion/body/c04/motion_list.bin",
-            "fighter/shizue/motion/body/c06/motion_list.bin"
-        ],
-        "fighter/shizue/motion/body/c01/motion_list.bin": [
-            "fighter/shizue/motion/body/c03/motion_list.bin",
-            "fighter/shizue/motion/body/c05/motion_list.bin",
-            "fighter/shizue/motion/body/c07/motion_list.bin"
         ],
         "fighter/simon/motion/body/c00/motion_list.bin": [
             "fighter/simon/motion/body/c01/motion_list.bin",
@@ -2502,6 +2589,33 @@
             "fighter/simon/motion/whip/c06/e01throwhi.nuanmb",
             "fighter/simon/motion/whip/c07/e01throwhi.nuanmb"
         ],
+        "fighter/snake/motion/body/c00/motion_list.bin": [
+            "fighter/snake/motion/body/c01/motion_list.bin",
+            "fighter/snake/motion/body/c02/motion_list.bin",
+            "fighter/snake/motion/body/c03/motion_list.bin",
+            "fighter/snake/motion/body/c04/motion_list.bin",
+            "fighter/snake/motion/body/c05/motion_list.bin",
+            "fighter/snake/motion/body/c06/motion_list.bin",
+            "fighter/snake/motion/body/c07/motion_list.bin"
+        ],
+        "fighter/sonic/motion/body/c00/motion_list.bin": [
+            "fighter/sonic/motion/body/c01/motion_list.bin",
+            "fighter/sonic/motion/body/c02/motion_list.bin",
+            "fighter/sonic/motion/body/c03/motion_list.bin",
+            "fighter/sonic/motion/body/c04/motion_list.bin",
+            "fighter/sonic/motion/body/c05/motion_list.bin",
+            "fighter/sonic/motion/body/c06/motion_list.bin",
+            "fighter/sonic/motion/body/c07/motion_list.bin"
+        ],
+        "fighter/sonic/motion/body/c00/e01throwf.nuanmb": [
+            "fighter/sonic/motion/body/c01/e01throwf.nuanmb",
+            "fighter/sonic/motion/body/c02/e01throwf.nuanmb",
+            "fighter/sonic/motion/body/c03/e01throwf.nuanmb",
+            "fighter/sonic/motion/body/c04/e01throwf.nuanmb",
+            "fighter/sonic/motion/body/c05/e01throwf.nuanmb",
+            "fighter/sonic/motion/body/c06/e01throwf.nuanmb",
+            "fighter/sonic/motion/body/c07/e01throwf.nuanmb"
+        ],
         "fighter/szerosuit/motion/body/c00/motion_list.bin": [
             "fighter/szerosuit/motion/body/c01/motion_list.bin",
             "fighter/szerosuit/motion/body/c02/motion_list.bin",
@@ -2532,6 +2646,15 @@
         "fighter/szerosuit/motion/body/c06/j01appeallwr.nuanmb": [
             "fighter/szerosuit/motion/body/c07/j01appeallwr.nuanmb"
         ],
+        "fighter/tantan/motion/body/c00/motion_list.bin": [
+            "fighter/tantan/motion/body/c01/motion_list.bin",
+            "fighter/tantan/motion/body/c02/motion_list.bin",
+            "fighter/tantan/motion/body/c03/motion_list.bin",
+            "fighter/tantan/motion/body/c04/motion_list.bin",
+            "fighter/tantan/motion/body/c05/motion_list.bin",
+            "fighter/tantan/motion/body/c06/motion_list.bin",
+            "fighter/tantan/motion/body/c07/motion_list.bin"
+        ],
         "fighter/toonlink/motion/body/c00/motion_list.bin": [
             "fighter/toonlink/motion/body/c01/motion_list.bin",
             "fighter/toonlink/motion/body/c02/motion_list.bin",
@@ -2559,6 +2682,15 @@
             "fighter/wario/motion/body/c03/motion_list.bin",
             "fighter/wario/motion/body/c05/motion_list.bin",
             "fighter/wario/motion/body/c07/motion_list.bin"
+        ],
+        "fighter/wiifit/motion/body/c00/motion_list.bin": [
+            "fighter/wiifit/motion/body/c01/motion_list.bin",
+            "fighter/wiifit/motion/body/c02/motion_list.bin",
+            "fighter/wiifit/motion/body/c03/motion_list.bin",
+            "fighter/wiifit/motion/body/c04/motion_list.bin",
+            "fighter/wiifit/motion/body/c05/motion_list.bin",
+            "fighter/wiifit/motion/body/c06/motion_list.bin",
+            "fighter/wiifit/motion/body/c07/motion_list.bin"
         ],
         "fighter/wolf/motion/body/c00/motion_list.bin": [
             "fighter/wolf/motion/body/c01/motion_list.bin",
