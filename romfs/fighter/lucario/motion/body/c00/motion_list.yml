@@ -2039,7 +2039,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 32
+      cancel_frame: 28
       no_stop_intp: false
   attack_12:
     game_script: game_attack12
@@ -2099,7 +2099,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 28
+      cancel_frame: 36
       no_stop_intp: false
   attack_dash:
     game_script: game_attackdash
