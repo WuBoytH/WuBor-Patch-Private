@@ -2,13 +2,10 @@
 <struct>
   <list hash="cliff_hang_data">
     <struct index="0">
-      <float hash="p1_x">11</float>
+      <float hash="p1_x">13</float>
       <float hash="p1_y">20</float>
-      <float hash="p2_x">-9.6</float>
+      <float hash="p2_x">-9</float>
       <float hash="p2_y">8</float>
     </struct>
   </list>
-  <struct hash="param_private">
-    <int hash="grimoire_el_window_revival_time">480</int>
-  </struct>
 </struct>
