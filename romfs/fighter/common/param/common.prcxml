@@ -27,6 +27,7 @@
   <float hash="mini_jump_attack_mul">1</float>
   <int hash="attack_jump_mini_attack_enable_frame">0</int>
   <int hash="jump_mini_attack_enable_frame">0</int>
+  <int hash="cliff_catch_move_frame">0</int>
   <int hash="cliff_wait_air_xlu_max_frame">30</int>
   <int hash="cliff_wait_damage_xlu_max_frame">30</int>
   <int hash="cliff_wait_xlu_min_frame">11</int>

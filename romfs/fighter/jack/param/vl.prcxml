@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
+  <list hash="cliff_hang_data">
+    <struct index="0">
+      <float hash="p1_x">14.5</float>
+      <float hash="p1_y">19</float>
+      <float hash="p2_x">-10.5</float>
+      <float hash="p2_y">8</float>
+    </struct>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+  </list>
   <struct hash="param_private">
     <float hash="rebel_gauge_damage_add">1</float>
     <float hash="rebel_gauge_damage_add_handi">0</float>
@@ -7,6 +18,16 @@
     <float hash="rebel_gauge_add_dead_handi">0</float>
     <float hash="rebel_gauge_add_handi_mul">1</float>
   </struct>
+  <list hash="param_wirerope">
+    <struct index="0">
+      <int hash="rewind_frame">18</int>
+    </struct>
+  </list>
+  <list hash="air_lasso_data">
+    <struct index="0">
+      <float hash="rewind_frame">18</float>
+    </struct>
+  </list>
   <list hash="param_special_lw">
     <struct index="0">
       <float hash="guard_rebel_gauge">7.25</float>

@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
+  <list hash="cliff_hang_data">
+    <struct index="0">
+      <float hash="p1_x">12</float>
+      <float hash="p1_y">17</float>
+      <float hash="p2_x">-9</float>
+      <float hash="p2_y">5</float>
+    </struct>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+  </list>
   <list hash="param_bullet">
     <struct index="0">
       <int hash="life">7</int>
@@ -12,5 +22,13 @@
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
+  </list>
+  <struct hash="param_fishingline">
+    <int hash="rewind_frame">18</int>
+  </struct>
+  <list hash="air_lasso_data">
+    <struct index="0">
+      <float hash="rewind_frame">18</float>
+    </struct>
   </list>
 </struct>
