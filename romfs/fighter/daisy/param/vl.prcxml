@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
+  <list hash="cliff_hang_data">
+    <struct index="0">
+      <float hash="p1_x">12</float>
+      <float hash="p1_y">19</float>
+      <float hash="p2_x">-9</float>
+      <float hash="p2_y">9</float>
+    </struct>
+	<struct index="1">
+      <float hash="p1_x">12</float>
+      <float hash="p1_y">20</float>
+      <float hash="p2_x">-9</float>
+      <float hash="p2_y">6.5</float>
+    </struct>
+  </list>
   <list hash="param_special_hi">
     <struct index="0">
       <int hash="special_hi_landing_mot_frame">26</int>

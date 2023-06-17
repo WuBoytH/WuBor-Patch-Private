@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
+  <list hash="cliff_hang_data">
+    <struct index="0">
+      <float hash="p1_x">16</float>
+      <float hash="p1_y">23</float>
+      <float hash="p2_x">-13</float>
+      <float hash="p2_y">10.5</float>
+    </struct>
+    <struct index="1">
+      <float hash="p1_x">20</float>
+      <float hash="p1_y">23</float>
+      <float hash="p2_x">-13</float>
+      <float hash="p2_y">10.5</float>
+    </struct>
+    <struct index="2">
+      <float hash="p1_x">20</float>
+      <float hash="p1_y">31</float>
+      <float hash="p2_x">-13</float>
+      <float hash="p2_y">10.5</float>
+    </struct>
+  </list>
   <list hash="param_breath">
     <struct index="0">
       <float hash="init_degree">0</float>

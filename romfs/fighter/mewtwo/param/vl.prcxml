@@ -21,5 +21,18 @@
     <struct index="13">
 	  <float hash="size">0.8</float>
 	</struct>
+  <list hash="cliff_hang_data">
+    <struct index="0">
+      <float hash="p1_x">12</float>
+      <float hash="p1_y">23</float>
+      <float hash="p2_x">-10</float>
+      <float hash="p2_y">8.5</float>
+    </struct>
+    <struct index="1">
+      <float hash="p1_x">12</float>
+      <float hash="p1_y">24</float>
+      <float hash="p2_x">-11</float>
+      <float hash="p2_y">8.5</float>
+    </struct>
   </list>
 </struct>
