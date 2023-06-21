@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
+  <list hash="hit_data">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+    <hash40 index="5">dummy</hash40>
+    <hash40 index="6">dummy</hash40>
+    <hash40 index="7">dummy</hash40>
+    <hash40 index="8">dummy</hash40>
+    <hash40 index="9">dummy</hash40>
+    <hash40 index="10">dummy</hash40>
+    <hash40 index="11">dummy</hash40>
+    <struct index="12">
+	  <float hash="size">0</float>
+	</struct>
+    <struct index="13">
+	  <float hash="size">0</float>
+	</struct>
+  </list>
   <list hash="cliff_hang_data">
     <hash40 index="0">dummy</hash40>
 	<struct index="1">
