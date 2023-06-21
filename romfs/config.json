@@ -9,6 +9,42 @@
             "fighter/brave/motion/body/c06/c05attackairhi.nuanmb",
             "fighter/brave/motion/body/c07/c05attackairhi.nuanmb"
         ],
+        "fighter/brave/motion/body/c00/d02specialhi1.nuanmb": [
+            "fighter/brave/motion/body/c01/d02specialhi1.nuanmb",
+            "fighter/brave/motion/body/c02/d02specialhi1.nuanmb",
+            "fighter/brave/motion/body/c03/d02specialhi1.nuanmb",
+            "fighter/brave/motion/body/c04/d02specialhi1.nuanmb",
+            "fighter/brave/motion/body/c05/d02specialhi1.nuanmb",
+            "fighter/brave/motion/body/c06/d02specialhi1.nuanmb",
+            "fighter/brave/motion/body/c07/d02specialhi1.nuanmb"
+        ],
+        "fighter/brave/motion/body/c00/d02specialairhi1.nuanmb": [
+            "fighter/brave/motion/body/c01/d02specialairhi1.nuanmb",
+            "fighter/brave/motion/body/c02/d02specialairhi1.nuanmb",
+            "fighter/brave/motion/body/c03/d02specialairhi1.nuanmb",
+            "fighter/brave/motion/body/c04/d02specialairhi1.nuanmb",
+            "fighter/brave/motion/body/c05/d02specialairhi1.nuanmb",
+            "fighter/brave/motion/body/c06/d02specialairhi1.nuanmb",
+            "fighter/brave/motion/body/c07/d02specialairhi1.nuanmb"
+        ],
+        "fighter/brave/motion/body/c00/d02specialhiempty.nuanmb": [
+            "fighter/brave/motion/body/c01/d02specialhiempty.nuanmb",
+            "fighter/brave/motion/body/c02/d02specialhiempty.nuanmb",
+            "fighter/brave/motion/body/c03/d02specialhiempty.nuanmb",
+            "fighter/brave/motion/body/c04/d02specialhiempty.nuanmb",
+            "fighter/brave/motion/body/c05/d02specialhiempty.nuanmb",
+            "fighter/brave/motion/body/c06/d02specialhiempty.nuanmb",
+            "fighter/brave/motion/body/c07/d02specialhiempty.nuanmb"
+        ],
+        "fighter/brave/motion/body/c00/d02specialairhiempty.nuanmb": [
+            "fighter/brave/motion/body/c01/d02specialairhiempty.nuanmb",
+            "fighter/brave/motion/body/c02/d02specialairhiempty.nuanmb",
+            "fighter/brave/motion/body/c03/d02specialairhiempty.nuanmb",
+            "fighter/brave/motion/body/c04/d02specialairhiempty.nuanmb",
+            "fighter/brave/motion/body/c05/d02specialairhiempty.nuanmb",
+            "fighter/brave/motion/body/c06/d02specialairhiempty.nuanmb",
+            "fighter/brave/motion/body/c07/d02specialairhiempty.nuanmb"
+        ],
         "fighter/buddy/motion/body/c00/motion_list.bin": [
             "fighter/buddy/motion/body/c01/motion_list.bin",
             "fighter/buddy/motion/body/c02/motion_list.bin",
@@ -1806,6 +1842,26 @@
             "fighter/reflet/motion/body/c03/motion_list.bin",
             "fighter/reflet/motion/body/c05/motion_list.bin",
             "fighter/reflet/motion/body/c07/motion_list.bin"
+        ],
+        "fighter/reflet/motion/body/c00/d02specialhi1.nuanmb": [
+            "fighter/reflet/motion/body/c02/d02specialhi1.nuanmb",
+            "fighter/reflet/motion/body/c04/d02specialhi1.nuanmb",
+            "fighter/reflet/motion/body/c06/d02specialhi1.nuanmb"
+        ],
+        "fighter/reflet/motion/body/c01/d02specialhi1.nuanmb": [
+            "fighter/reflet/motion/body/c03/d02specialhi1.nuanmb",
+            "fighter/reflet/motion/body/c05/d02specialhi1.nuanmb",
+            "fighter/reflet/motion/body/c07/d02specialhi1.nuanmb"
+        ],
+        "fighter/reflet/motion/body/c00/d02specialairhi1.nuanmb": [
+            "fighter/reflet/motion/body/c02/d02specialairhi1.nuanmb",
+            "fighter/reflet/motion/body/c04/d02specialairhi1.nuanmb",
+            "fighter/reflet/motion/body/c06/d02specialairhi1.nuanmb"
+        ],
+        "fighter/reflet/motion/body/c01/d02specialairhi1.nuanmb": [
+            "fighter/reflet/motion/body/c03/d02specialairhi1.nuanmb",
+            "fighter/reflet/motion/body/c05/d02specialairhi1.nuanmb",
+            "fighter/reflet/motion/body/c07/d02specialairhi1.nuanmb"
         ],
         "fighter/richter/motion/body/c00/motion_list.bin": [
             "fighter/richter/motion/body/c01/motion_list.bin",
