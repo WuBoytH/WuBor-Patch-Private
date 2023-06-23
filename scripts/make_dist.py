@@ -6,6 +6,16 @@ if not os.path.exists("../romfs"):
   print("ERROR: no romfs dir!")
   exit("romfs dir was missing!")
 
+if not os.path.exists("../motion_list"):
+  print("ERROR: no motion_list dir!")
+  exit("motion_list dir was missing!")
+
+for root, subFolder, files in os.walk("../motion_list"):
+    for item in files:
+        if item.endswith(".yml") :
+            fileNamePath = str(os.path.join(root,item))
+            print(fileNamePath)
+
 # if distribution folder exists, delete it
 if "build" in os.listdir('..'):
   shutil.rmtree('../build')
