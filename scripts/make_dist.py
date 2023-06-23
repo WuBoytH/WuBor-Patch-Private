@@ -1,5 +1,5 @@
 #!/usr/bin/python3.9
-import shutil, os, sys, pathlib
+import shutil, os, sys, pathlib, subprocess
 
 # check if romfs exists
 if not os.path.exists("../romfs"):
@@ -19,6 +19,7 @@ for root, subFolder, files in os.walk("../motion_list"):
             print("--------------")
             print(fileNamePath)
             print(newPathFull)
+            subprocess.call("yamlist asm " + fileNamePath + " -o " + newPathFull, shell=True)
 
 # if distribution folder exists, delete it
 if "build" in os.listdir('..'):
