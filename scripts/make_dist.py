@@ -14,7 +14,11 @@ for root, subFolder, files in os.walk("../motion_list"):
     for item in files:
         if item.endswith(".yml") :
             fileNamePath = str(os.path.join(root,item))
+            newPath = fileNamePath.replace("motion_list/", "romfs/")
+            newPathFull = newPath.replace("yml", "bin")
+            print("--------------")
             print(fileNamePath)
+            print(newPathFull)
 
 # if distribution folder exists, delete it
 if "build" in os.listdir('..'):
