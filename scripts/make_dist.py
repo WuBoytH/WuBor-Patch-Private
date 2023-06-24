@@ -10,18 +10,24 @@ if not os.path.exists("../motion_list"):
   print("ERROR: no motion_list dir!")
   exit("motion_list dir was missing!")
 
+motionYamls = []
+
 for root, subFolder, files in os.walk("../motion_list"):
-    for item in files:
-        if item.endswith(".yml") :
-            fileNamePath = str(os.path.join(root,item))
-            pathFull = os.path.abspath(fileNamePath)
-            newPath = pathFull.replace("motion_list/", "romfs/")
-            newPathFull = newPath.replace("yml", "bin")
-            print("--------------")
-            print(pathFull)
-            print(newPathFull)
-            command = "yamlist asm " + pathFull + " -o " + newPathFull
-            subprocess.call(command, shell=True)
+  for item in files:
+    if item.endswith(".yml") :
+      motionYamls.append(str(os.path.join(root,item)))
+
+print("Current Directory: " + os.getcwd())
+
+for yml in motionYamls:
+  newPath = yml.replace("motion_list/", "romfs/")
+  newPathFull = yml.replace("yml", "bin")
+  print("--------------")
+  print(yml)
+  print(newPathFull)
+  command = "yamlist asm " + yml + " -o " + newPathFull
+  print(command)
+  subprocess.call(command, shell=True)
 
 # if distribution folder exists, delete it
 if "build" in os.listdir('..'):
