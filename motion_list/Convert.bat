@@ -1,4 +1,5 @@
-setlocal ENABLEDELAYEDEXPANSION
+echo off & setlocal ENABLEDELAYEDEXPANSION
+RMDIR /S /Q ..\build_lists
 for /R %%A in (*.yml) do (
   set F=%%~dpA
   call:ReplaceText "!F!" motion_list build_lists RESULT
