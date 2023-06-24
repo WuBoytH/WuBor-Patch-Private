@@ -1,7 +1,8 @@
 setlocal ENABLEDELAYEDEXPANSION
 for /R %%A in (*.yml) do (
   set F=%%~dpA
-  call:ReplaceText "!F!" motion_list romfs RESULT
+  call:ReplaceText "!F!" motion_list build_lists RESULT
+  mkdir !RESULT!
   yamlist asm %%A -o !RESULT!motion_list.bin
 )
 pause
