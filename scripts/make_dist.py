@@ -25,10 +25,10 @@ for yml in motionYamls:
   os.makedirs(newPathNoFile)
   newPathFull = newPath.replace("yml", "bin")
   print("--------------")
-  print(pathFull)
+  print(yml)
   print(newPathNoFile)
   print(newPathFull)
-  command = "yamlist asm \"" + pathFull + "\" -o \"" + newPathFull + "\""
+  command = "yamlist asm \"" + yml + "\" -o \"" + newPathFull + "\""
   print(command)
   os.system(command)
 
