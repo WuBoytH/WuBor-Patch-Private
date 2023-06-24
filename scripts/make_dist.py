@@ -20,12 +20,13 @@ for root, subFolder, files in os.walk("../motion_list"):
 print("Current Directory: " + os.getcwd())
 
 for yml in motionYamls:
-  newPath = yml.replace("motion_list/", "romfs/")
+  pathFull = os.path.abspath(yml)
+  newPath = pathFull.replace("motion_list/", "romfs/")
   newPathFull = newPath.replace("yml", "bin")
   print("--------------")
-  print(yml)
+  print(pathFull)
   print(newPathFull)
-  command = "yamlist asm " + yml + " -o " + newPathFull
+  command = "yamlist asm " + pathFull + " -o " + newPathFull
   print(command)
   os.system(command)
 
