@@ -26,7 +26,7 @@ for yml in motionYamls:
   print("--------------")
   print(pathFull)
   print(newPathFull)
-  command = "yamlist asm " + pathFull + " -o " + newPathFull
+  command = "yamlist asm \"" + pathFull + "\" -o \"" + newPathFull + "\""
   print(command)
   os.system(command)
 
