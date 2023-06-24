@@ -15,12 +15,13 @@ for root, subFolder, files in os.walk("../motion_list"):
         if item.endswith(".yml") :
             fileNamePath = str(os.path.join(root,item))
             pathFull = os.path.abspath(fileNamePath)
-            newPath = fileNamePath.replace("motion_list/", "romfs/")
+            newPath = pathFull.replace("motion_list/", "romfs/")
             newPathFull = newPath.replace("yml", "bin")
             print("--------------")
             print(pathFull)
             print(newPathFull)
-            subprocess.call("yamlist asm " + pathFull + " -o " + newPathFull, shell=True)
+            command = "yamlist asm " + pathFull + " -o " + newPathFull
+            subprocess.call(command, shell=True)
 
 # if distribution folder exists, delete it
 if "build" in os.listdir('..'):
