@@ -1,685 +1,175 @@
 {
+    "unshare-blacklist": [
+        "fighter/bayonetta/motion/body/c00/motion_list.bin",
+        "fighter/bayonetta/motion/body/c01/motion_list.bin",
+        "fighter/bayonetta/motion/body/c04/motion_list.bin",
+        "fighter/brave/motion/body/c00/c05attackairhi.nuanmb",
+        "fighter/buddy/motion/body/c00/motion_list.bin",
+        "fighter/captain/motion/body/c00/a02turndash.nuanmb",
+        "fighter/chrom/motion/body/c00/motion_list.bin",
+        "fighter/chrom/motion/body/c00/c00attack11.nuanmb",
+        "fighter/chrom/motion/body/c00/c03attacks4charge.nuanmb",
+        "fighter/chrom/motion/body/c00/c03attacks4s.nuanmb",
+        "fighter/chrom/motion/body/c00/c04attackhi4.nuanmb",
+        "fighter/chrom/motion/body/c00/c05attackairf.nuanmb",
+        "fighter/chrom/motion/body/c00/c05attackairlw.nuanmb",
+        "fighter/chrom/motion/body/c00/d03specialairlw.nuanmb",
+        "fighter/cloud/motion/body/c00/motion_list.bin",
+        "fighter/cloud/motion/body/c01/motion_list.bin",
+        "fighter/daisy/motion/body/c00/motion_list.bin",
+        "fighter/daisy/motion/body/c00/a00waititem.nuanmb",
+        "fighter/daisy/motion/body/c00/c05attackairlw.nuanmb",
+        "fighter/daisy/motion/body/c00/l00fuwafuwastart.nuanmb",
+        "fighter/dedede/motion/body/c00/motion_list.bin",
+        "fighter/demon/motion/body/c00/motion_list.bin",
+        "fighter/diddy/motion/body/c00/motion_list.bin",
+        "fighter/dolly/motion/body/c00/motion_list.bin",
+        "fighter/dolly/motion/body/c00/c00attack11.nuanmb",
+        "fighter/dolly/motion/body/c00/c00attack12.nuanmb",
+        "fighter/dolly/motion/body/c00/c02attacklw3.nuanmb",
+        "fighter/dolly/motion/body/c00/d01specialsbstart.nuanmb",
+        "fighter/dolly/motion/body/c00/d01specialairsbstart.nuanmb",
+        "fighter/dolly/motion/body/c00/d01specialsbw.nuanmb",
+        "fighter/dolly/motion/body/c00/d01specialsbs.nuanmb",
+        "fighter/dolly/motion/body/c00/d03speciallwstart.nuanmb",
+        "fighter/dolly/motion/body/c00/j01appealhir.nuanmb",
+        "fighter/dolly/motion/body/c00/j01appealsr.nuanmb",
+        "fighter/dolly/motion/body/c00/j01appeallwr.nuanmb",
+        "fighter/edge/motion/body/c00/motion_list.bin",
+        "fighter/edge/motion/body/c00/swingblend.prc",
+        "fighter/eflame/motion/body/c00/motion_list.bin",
+        "fighter/eflame/motion/body/c00/swingblend.prc",
+        "fighter/elight/motion/body/c00/motion_list.bin",
+        "fighter/elight/motion/body/c00/swingblend.prc",
+        "fighter/falco/motion/body/c00/motion_list.bin",
+        "fighter/fox/motion/body/c00/motion_list.bin",
+        "fighter/ganon/motion/body/c00/motion_list.bin",
+        "fighter/ganon/motion/body/c00/c02attackhi3.nuanmb",
+        "fighter/ganon/motion/body/c00/d01specialairscatch.nuanmb",
+        "fighter/ganon/motion/body/c00/d01specialairs.nuanmb",
+        "fighter/gaogaen/motion/body/c00/motion_list.bin",
+        "fighter/inkling/motion/body/c00/motion_list.bin",
+        "fighter/inkling/motion/body/c01/motion_list.bin",
+        "fighter/jack/motion/body/c00/motion_list.bin",
+        "fighter/jack/motion/body/c00/d01specialairs1.nuanmb",
+        "fighter/jack/motion/body/c00/d01specials1.nuanmb",
+        "fighter/jack/motion/body/c06/motion_list.bin",
+        "fighter/jack/motion/body/c06/d01specialairs1.nuanmb",
+        "fighter/jack/motion/body/c06/d01specials1.nuanmb",
+        "fighter/kamui/motion/body/c00/motion_list.bin",
+        "fighter/kamui/motion/body/c01/motion_list.bin",
+        "fighter/ken/motion/body/c00/motion_list.bin",
+        "fighter/ken/motion/body/c00/d03speciallw.nuanmb",
+        "fighter/kirby/motion/body/c00/c02attacklw3.nuanmb",
+        "fighter/kirby/motion/body/c00/motion_list.bin",
+        "fighter/kirby/motion/body/c00/j01appealsr.nuanmb",
+        "fighter/koopa/motion/body/c00/motion_list.bin",
+        "fighter/krool/motion/body/c00/motion_list.bin",
+        "fighter/littlemac/motion/body/c00/motion_list.bin",
+        "fighter/lucario/motion/body/c00/motion_list.bin",
+        "fighter/lucario/motion/body/c00/swingblend.prc",
+        "fighter/lucario/motion/body/c00/d01specials.nuanmb",
+        "fighter/lucario/motion/body/c00/d01specialairs.nuanmb",
+        "fighter/lucario/motion/body/c00/d01specialsthrow.nuanmb",
+        "fighter/lucario/motion/body/c00/d02specialairhiend.nuanmb",
+        "fighter/lucario/motion/body/c00/d03speciallw.nuanmb",
+        "fighter/lucario/motion/body/c00/d03specialairlw.nuanmb",
+        "fighter/lucario/motion/body/c00/d03speciallwend.nuanmb",
+        "fighter/lucario/motion/body/c00/d03specialairlwend.nuanmb",
+        "fighter/lucario/motion/auraball/c00/motion_list.bin",
+        "fighter/ike/motion/body/c00/motion_list.bin",
+        "fighter/ike/motion/body/c00/a03jumpb.nuanmb"
+    ],
     "share-to-added": {
-        "fighter/brave/motion/body/c00/c05attackairhi.nuanmb": [
-            "fighter/brave/motion/body/c01/c05attackairhi.nuanmb",
-            "fighter/brave/motion/body/c02/c05attackairhi.nuanmb",
-            "fighter/brave/motion/body/c03/c05attackairhi.nuanmb",
-            "fighter/brave/motion/body/c04/c05attackairhi.nuanmb",
-            "fighter/brave/motion/body/c05/c05attackairhi.nuanmb",
-            "fighter/brave/motion/body/c06/c05attackairhi.nuanmb",
-            "fighter/brave/motion/body/c07/c05attackairhi.nuanmb"
-        ],
-        "fighter/buddy/motion/body/c00/motion_list.bin": [
-            "fighter/buddy/motion/body/c01/motion_list.bin",
-            "fighter/buddy/motion/body/c02/motion_list.bin",
-            "fighter/buddy/motion/body/c03/motion_list.bin",
-            "fighter/buddy/motion/body/c04/motion_list.bin",
-            "fighter/buddy/motion/body/c05/motion_list.bin",
-            "fighter/buddy/motion/body/c06/motion_list.bin",
-            "fighter/buddy/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/captain/motion/body/c00/a02turndash.nuanmb": [
-            "fighter/captain/motion/body/c01/a02turndash.nuanmb",
-            "fighter/captain/motion/body/c02/a02turndash.nuanmb",
-            "fighter/captain/motion/body/c03/a02turndash.nuanmb",
-            "fighter/captain/motion/body/c04/a02turndash.nuanmb",
-            "fighter/captain/motion/body/c05/a02turndash.nuanmb",
-            "fighter/captain/motion/body/c06/a02turndash.nuanmb",
-            "fighter/captain/motion/body/c07/a02turndash.nuanmb"
-        ],
-        "fighter/chrom/motion/body/c00/motion_list.bin": [
-            "fighter/chrom/motion/body/c01/motion_list.bin",
-            "fighter/chrom/motion/body/c02/motion_list.bin",
-            "fighter/chrom/motion/body/c03/motion_list.bin",
-            "fighter/chrom/motion/body/c04/motion_list.bin",
-            "fighter/chrom/motion/body/c05/motion_list.bin",
-            "fighter/chrom/motion/body/c06/motion_list.bin",
-            "fighter/chrom/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/chrom/motion/body/c00/c00attack11.nuanmb": [
-            "fighter/chrom/motion/body/c01/c00attack11.nuanmb",
-            "fighter/chrom/motion/body/c02/c00attack11.nuanmb",
-            "fighter/chrom/motion/body/c03/c00attack11.nuanmb",
-            "fighter/chrom/motion/body/c04/c00attack11.nuanmb",
-            "fighter/chrom/motion/body/c05/c00attack11.nuanmb",
-            "fighter/chrom/motion/body/c06/c00attack11.nuanmb",
-            "fighter/chrom/motion/body/c07/c00attack11.nuanmb"
-        ],
-        "fighter/chrom/motion/body/c00/c03attacks4charge.nuanmb": [
-            "fighter/chrom/motion/body/c01/c03attacks4charge.nuanmb",
-            "fighter/chrom/motion/body/c02/c03attacks4charge.nuanmb",
-            "fighter/chrom/motion/body/c03/c03attacks4charge.nuanmb",
-            "fighter/chrom/motion/body/c04/c03attacks4charge.nuanmb",
-            "fighter/chrom/motion/body/c05/c03attacks4charge.nuanmb",
-            "fighter/chrom/motion/body/c06/c03attacks4charge.nuanmb",
-            "fighter/chrom/motion/body/c07/c03attacks4charge.nuanmb"
-        ],
-        "fighter/chrom/motion/body/c00/c03attacks4s.nuanmb": [
-            "fighter/chrom/motion/body/c01/c03attacks4s.nuanmb",
-            "fighter/chrom/motion/body/c02/c03attacks4s.nuanmb",
-            "fighter/chrom/motion/body/c03/c03attacks4s.nuanmb",
-            "fighter/chrom/motion/body/c04/c03attacks4s.nuanmb",
-            "fighter/chrom/motion/body/c05/c03attacks4s.nuanmb",
-            "fighter/chrom/motion/body/c06/c03attacks4s.nuanmb",
-            "fighter/chrom/motion/body/c07/c03attacks4s.nuanmb"
-        ],
-        "fighter/chrom/motion/body/c00/c04attackhi4.nuanmb": [
-            "fighter/chrom/motion/body/c01/c04attackhi4.nuanmb",
-            "fighter/chrom/motion/body/c02/c04attackhi4.nuanmb",
-            "fighter/chrom/motion/body/c03/c04attackhi4.nuanmb",
-            "fighter/chrom/motion/body/c04/c04attackhi4.nuanmb",
-            "fighter/chrom/motion/body/c05/c04attackhi4.nuanmb",
-            "fighter/chrom/motion/body/c06/c04attackhi4.nuanmb",
-            "fighter/chrom/motion/body/c07/c04attackhi4.nuanmb"
-        ],
-        "fighter/chrom/motion/body/c00/c05attackairf.nuanmb": [
-            "fighter/chrom/motion/body/c01/c05attackairf.nuanmb",
-            "fighter/chrom/motion/body/c02/c05attackairf.nuanmb",
-            "fighter/chrom/motion/body/c03/c05attackairf.nuanmb",
-            "fighter/chrom/motion/body/c04/c05attackairf.nuanmb",
-            "fighter/chrom/motion/body/c05/c05attackairf.nuanmb",
-            "fighter/chrom/motion/body/c06/c05attackairf.nuanmb",
-            "fighter/chrom/motion/body/c07/c05attackairf.nuanmb"
-        ],
-        "fighter/chrom/motion/body/c00/c05attackairlw.nuanmb": [
-            "fighter/chrom/motion/body/c01/c05attackairlw.nuanmb",
-            "fighter/chrom/motion/body/c02/c05attackairlw.nuanmb",
-            "fighter/chrom/motion/body/c03/c05attackairlw.nuanmb",
-            "fighter/chrom/motion/body/c04/c05attackairlw.nuanmb",
-            "fighter/chrom/motion/body/c05/c05attackairlw.nuanmb",
-            "fighter/chrom/motion/body/c06/c05attackairlw.nuanmb",
-            "fighter/chrom/motion/body/c07/c05attackairlw.nuanmb"
-        ],
-        "fighter/chrom/motion/body/c00/d03specialairlw.nuanmb": [
-            "fighter/chrom/motion/body/c01/d03specialairlw.nuanmb",
-            "fighter/chrom/motion/body/c02/d03specialairlw.nuanmb",
-            "fighter/chrom/motion/body/c03/d03specialairlw.nuanmb",
-            "fighter/chrom/motion/body/c04/d03specialairlw.nuanmb",
-            "fighter/chrom/motion/body/c05/d03specialairlw.nuanmb",
-            "fighter/chrom/motion/body/c06/d03specialairlw.nuanmb",
-            "fighter/chrom/motion/body/c07/d03specialairlw.nuanmb"
-        ],
-        "fighter/cloud/motion/body/c00/motion_list.bin": [
-            "fighter/cloud/motion/body/c02/motion_list.bin",
-            "fighter/cloud/motion/body/c04/motion_list.bin",
-            "fighter/cloud/motion/body/c06/motion_list.bin"
-        ],
-        "fighter/cloud/motion/body/c01/motion_list.bin": [
-            "fighter/cloud/motion/body/c03/motion_list.bin",
-            "fighter/cloud/motion/body/c05/motion_list.bin",
-            "fighter/cloud/motion/body/c07/motion_list.bin"
-        ],
         "fighter/cloud/motion/body/c00/j01appealhilloop.nuanmb": [
+            "fighter/cloud/motion/body/c01/j01appealhilloop.nuanmb",
             "fighter/cloud/motion/body/c02/j01appealhilloop.nuanmb",
-            "fighter/cloud/motion/body/c04/j01appealhilloop.nuanmb",
-            "fighter/cloud/motion/body/c06/j01appealhilloop.nuanmb"
-        ],
-        "fighter/cloud/motion/body/c01/j01appealhilloop.nuanmb": [
             "fighter/cloud/motion/body/c03/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c04/j01appealhilloop.nuanmb",
             "fighter/cloud/motion/body/c05/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c06/j01appealhilloop.nuanmb",
             "fighter/cloud/motion/body/c07/j01appealhilloop.nuanmb"
         ],
         "fighter/cloud/motion/body/c00/j01appealhirloop.nuanmb": [
+            "fighter/cloud/motion/body/c01/j01appealhirloop.nuanmb",
             "fighter/cloud/motion/body/c02/j01appealhirloop.nuanmb",
-            "fighter/cloud/motion/body/c04/j01appealhirloop.nuanmb",
-            "fighter/cloud/motion/body/c06/j01appealhirloop.nuanmb"
-        ],
-        "fighter/cloud/motion/body/c01/j01appealhirloop.nuanmb": [
             "fighter/cloud/motion/body/c03/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c04/j01appealhirloop.nuanmb",
             "fighter/cloud/motion/body/c05/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c06/j01appealhirloop.nuanmb",
             "fighter/cloud/motion/body/c07/j01appealhirloop.nuanmb"
         ],
         "fighter/cloud/motion/body/c00/j01appeallwloop.nuanmb": [
+            "fighter/cloud/motion/body/c01/j01appeallwloop.nuanmb",
             "fighter/cloud/motion/body/c02/j01appeallwloop.nuanmb",
-            "fighter/cloud/motion/body/c04/j01appeallwloop.nuanmb",
-            "fighter/cloud/motion/body/c06/j01appeallwloop.nuanmb"
-        ],
-        "fighter/cloud/motion/body/c01/j01appeallwloop.nuanmb": [
             "fighter/cloud/motion/body/c03/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c04/j01appeallwloop.nuanmb",
             "fighter/cloud/motion/body/c05/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c06/j01appeallwloop.nuanmb",
             "fighter/cloud/motion/body/c07/j01appeallwloop.nuanmb"
         ],
         "fighter/cloud/motion/body/c00/j01appealsloop.nuanmb": [
+            "fighter/cloud/motion/body/c01/j01appealsloop.nuanmb",
             "fighter/cloud/motion/body/c02/j01appealsloop.nuanmb",
-            "fighter/cloud/motion/body/c04/j01appealsloop.nuanmb",
-            "fighter/cloud/motion/body/c06/j01appealsloop.nuanmb"
-        ],
-        "fighter/cloud/motion/body/c01/j01appealsloop.nuanmb": [
             "fighter/cloud/motion/body/c03/j01appealsloop.nuanmb",
+            "fighter/cloud/motion/body/c04/j01appealsloop.nuanmb",
             "fighter/cloud/motion/body/c05/j01appealsloop.nuanmb",
+            "fighter/cloud/motion/body/c06/j01appealsloop.nuanmb",
             "fighter/cloud/motion/body/c07/j01appealsloop.nuanmb"
         ],
-        "fighter/daisy/motion/body/c00/motion_list.bin": [
-            "fighter/daisy/motion/body/c01/motion_list.bin",
-            "fighter/daisy/motion/body/c02/motion_list.bin",
-            "fighter/daisy/motion/body/c03/motion_list.bin",
-            "fighter/daisy/motion/body/c04/motion_list.bin",
-            "fighter/daisy/motion/body/c05/motion_list.bin",
-            "fighter/daisy/motion/body/c06/motion_list.bin",
-            "fighter/daisy/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/daisy/motion/body/c00/a00waititem.nuanmb": [
-            "fighter/daisy/motion/body/c01/a00waititem.nuanmb",
-            "fighter/daisy/motion/body/c02/a00waititem.nuanmb",
-            "fighter/daisy/motion/body/c03/a00waititem.nuanmb",
-            "fighter/daisy/motion/body/c04/a00waititem.nuanmb",
-            "fighter/daisy/motion/body/c05/a00waititem.nuanmb",
-            "fighter/daisy/motion/body/c06/a00waititem.nuanmb",
-            "fighter/daisy/motion/body/c07/a00waititem.nuanmb"
-        ],
-        "fighter/daisy/motion/body/c00/c05attackairlw.nuanmb": [
-            "fighter/daisy/motion/body/c01/c05attackairlw.nuanmb",
-            "fighter/daisy/motion/body/c02/c05attackairlw.nuanmb",
-            "fighter/daisy/motion/body/c03/c05attackairlw.nuanmb",
-            "fighter/daisy/motion/body/c04/c05attackairlw.nuanmb",
-            "fighter/daisy/motion/body/c05/c05attackairlw.nuanmb",
-            "fighter/daisy/motion/body/c06/c05attackairlw.nuanmb",
-            "fighter/daisy/motion/body/c07/c05attackairlw.nuanmb"
-        ],
-        "fighter/daisy/motion/body/c00/l00fuwafuwastart.nuanmb": [
-            "fighter/daisy/motion/body/c01/l00fuwafuwastart.nuanmb",
-            "fighter/daisy/motion/body/c02/l00fuwafuwastart.nuanmb",
-            "fighter/daisy/motion/body/c03/l00fuwafuwastart.nuanmb",
-            "fighter/daisy/motion/body/c04/l00fuwafuwastart.nuanmb",
-            "fighter/daisy/motion/body/c05/l00fuwafuwastart.nuanmb",
-            "fighter/daisy/motion/body/c06/l00fuwafuwastart.nuanmb",
-            "fighter/daisy/motion/body/c07/l00fuwafuwastart.nuanmb"
-        ],
-        "fighter/dedede/motion/body/c00/motion_list.bin": [
-            "fighter/dedede/motion/body/c01/motion_list.bin",
-            "fighter/dedede/motion/body/c02/motion_list.bin",
-            "fighter/dedede/motion/body/c03/motion_list.bin",
-            "fighter/dedede/motion/body/c04/motion_list.bin",
-            "fighter/dedede/motion/body/c05/motion_list.bin",
-            "fighter/dedede/motion/body/c06/motion_list.bin",
-            "fighter/dedede/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/demon/motion/body/c00/motion_list.bin": [
-            "fighter/demon/motion/body/c02/motion_list.bin",
-            "fighter/demon/motion/body/c04/motion_list.bin",
-            "fighter/demon/motion/body/c06/motion_list.bin"
-        ],
-        "fighter/demon/motion/body/c01/motion_list.bin": [
-            "fighter/demon/motion/body/c03/motion_list.bin",
-            "fighter/demon/motion/body/c05/motion_list.bin",
-            "fighter/demon/motion/body/c07/motion_list.bin"
-        ],
         "fighter/demon/motion/body/c00/c05landingairlw.nuanmb": [
+            "fighter/demon/motion/body/c01/c05landingairlw.nuanmb",
             "fighter/demon/motion/body/c02/c05landingairlw.nuanmb",
-            "fighter/demon/motion/body/c04/c05landingairlw.nuanmb",
-            "fighter/demon/motion/body/c06/c05landingairlw.nuanmb"
-        ],
-        "fighter/demon/motion/body/c01/c05landingairlw.nuanmb": [
             "fighter/demon/motion/body/c03/c05landingairlw.nuanmb",
+            "fighter/demon/motion/body/c04/c05landingairlw.nuanmb",
             "fighter/demon/motion/body/c05/c05landingairlw.nuanmb",
+            "fighter/demon/motion/body/c06/c05landingairlw.nuanmb",
             "fighter/demon/motion/body/c07/c05landingairlw.nuanmb"
         ],
-        "fighter/diddy/motion/body/c00/motion_list.bin": [
-            "fighter/diddy/motion/body/c01/motion_list.bin",
-            "fighter/diddy/motion/body/c02/motion_list.bin",
-            "fighter/diddy/motion/body/c03/motion_list.bin",
-            "fighter/diddy/motion/body/c05/motion_list.bin",
-            "fighter/diddy/motion/body/c06/motion_list.bin",
-            "fighter/diddy/motion/body/c07/motion_list.bin"
+        "fighter/demon/motion/body/c00/j01appealhilloop.nuanmb": [
+            "fighter/demon/motion/body/c01/j01appealhilloop.nuanmb",
+            "fighter/demon/motion/body/c02/j01appealhilloop.nuanmb",
+            "fighter/demon/motion/body/c03/j01appealhilloop.nuanmb",
+            "fighter/demon/motion/body/c04/j01appealhilloop.nuanmb",
+            "fighter/demon/motion/body/c05/j01appealhilloop.nuanmb",
+            "fighter/demon/motion/body/c06/j01appealhilloop.nuanmb",
+            "fighter/demon/motion/body/c07/j01appealhilloop.nuanmb"
         ],
-        "fighter/dolly/motion/body/c00/motion_list.bin": [
-            "fighter/dolly/motion/body/c01/motion_list.bin",
-            "fighter/dolly/motion/body/c02/motion_list.bin",
-            "fighter/dolly/motion/body/c03/motion_list.bin",
-            "fighter/dolly/motion/body/c04/motion_list.bin",
-            "fighter/dolly/motion/body/c05/motion_list.bin",
-            "fighter/dolly/motion/body/c06/motion_list.bin",
-            "fighter/dolly/motion/body/c07/motion_list.bin"
+        "fighter/demon/motion/body/c00/j01appealhirloop.nuanmb": [
+            "fighter/demon/motion/body/c01/j01appealhirloop.nuanmb",
+            "fighter/demon/motion/body/c02/j01appealhirloop.nuanmb",
+            "fighter/demon/motion/body/c03/j01appealhirloop.nuanmb",
+            "fighter/demon/motion/body/c04/j01appealhirloop.nuanmb",
+            "fighter/demon/motion/body/c05/j01appealhirloop.nuanmb",
+            "fighter/demon/motion/body/c06/j01appealhirloop.nuanmb",
+            "fighter/demon/motion/body/c07/j01appealhirloop.nuanmb"
         ],
-        "fighter/dolly/motion/body/c00/c00attack11.nuanmb": [
-            "fighter/dolly/motion/body/c01/c00attack11.nuanmb",
-            "fighter/dolly/motion/body/c02/c00attack11.nuanmb",
-            "fighter/dolly/motion/body/c03/c00attack11.nuanmb",
-            "fighter/dolly/motion/body/c04/c00attack11.nuanmb",
-            "fighter/dolly/motion/body/c05/c00attack11.nuanmb",
-            "fighter/dolly/motion/body/c06/c00attack11.nuanmb",
-            "fighter/dolly/motion/body/c07/c00attack11.nuanmb"
+        "fighter/dolly/motion/body/c00/c01attacks3hi.nuanmb": [
+            "fighter/dolly/motion/body/c01/c01attacks3hi.nuanmb",
+            "fighter/dolly/motion/body/c02/c01attacks3hi.nuanmb",
+            "fighter/dolly/motion/body/c03/c01attacks3hi.nuanmb",
+            "fighter/dolly/motion/body/c04/c01attacks3hi.nuanmb",
+            "fighter/dolly/motion/body/c05/c01attacks3hi.nuanmb",
+            "fighter/dolly/motion/body/c06/c01attacks3hi.nuanmb",
+            "fighter/dolly/motion/body/c07/c01attacks3hi.nuanmb"
         ],
-        "fighter/dolly/motion/body/c00/c00attack12.nuanmb": [
-            "fighter/dolly/motion/body/c01/c00attack12.nuanmb",
-            "fighter/dolly/motion/body/c02/c00attack12.nuanmb",
-            "fighter/dolly/motion/body/c03/c00attack12.nuanmb",
-            "fighter/dolly/motion/body/c04/c00attack12.nuanmb",
-            "fighter/dolly/motion/body/c05/c00attack12.nuanmb",
-            "fighter/dolly/motion/body/c06/c00attack12.nuanmb",
-            "fighter/dolly/motion/body/c07/c00attack12.nuanmb"
+        "fighter/dolly/motion/body/c00/c01attacks3lw.nuanmb": [
+            "fighter/dolly/motion/body/c01/c01attacks3lw.nuanmb",
+            "fighter/dolly/motion/body/c02/c01attacks3lw.nuanmb",
+            "fighter/dolly/motion/body/c03/c01attacks3lw.nuanmb",
+            "fighter/dolly/motion/body/c04/c01attacks3lw.nuanmb",
+            "fighter/dolly/motion/body/c05/c01attacks3lw.nuanmb",
+            "fighter/dolly/motion/body/c06/c01attacks3lw.nuanmb",
+            "fighter/dolly/motion/body/c07/c01attacks3lw.nuanmb"
         ],
-        "fighter/dolly/motion/body/c00/c02attacklw3.nuanmb": [
-            "fighter/dolly/motion/body/c01/c02attacklw3.nuanmb",
-            "fighter/dolly/motion/body/c02/c02attacklw3.nuanmb",
-            "fighter/dolly/motion/body/c03/c02attacklw3.nuanmb",
-            "fighter/dolly/motion/body/c04/c02attacklw3.nuanmb",
-            "fighter/dolly/motion/body/c05/c02attacklw3.nuanmb",
-            "fighter/dolly/motion/body/c06/c02attacklw3.nuanmb",
-            "fighter/dolly/motion/body/c07/c02attacklw3.nuanmb"
-        ],
-        "fighter/dolly/motion/body/c00/d01specialsbstart.nuanmb": [
-            "fighter/dolly/motion/body/c01/d01specialsbstart.nuanmb",
-            "fighter/dolly/motion/body/c02/d01specialsbstart.nuanmb",
-            "fighter/dolly/motion/body/c03/d01specialsbstart.nuanmb",
-            "fighter/dolly/motion/body/c04/d01specialsbstart.nuanmb",
-            "fighter/dolly/motion/body/c05/d01specialsbstart.nuanmb",
-            "fighter/dolly/motion/body/c06/d01specialsbstart.nuanmb",
-            "fighter/dolly/motion/body/c07/d01specialsbstart.nuanmb"
-        ],
-        "fighter/dolly/motion/body/c00/d01specialairsbstart.nuanmb": [
-            "fighter/dolly/motion/body/c01/d01specialairsbstart.nuanmb",
-            "fighter/dolly/motion/body/c02/d01specialairsbstart.nuanmb",
-            "fighter/dolly/motion/body/c03/d01specialairsbstart.nuanmb",
-            "fighter/dolly/motion/body/c04/d01specialairsbstart.nuanmb",
-            "fighter/dolly/motion/body/c05/d01specialairsbstart.nuanmb",
-            "fighter/dolly/motion/body/c06/d01specialairsbstart.nuanmb",
-            "fighter/dolly/motion/body/c07/d01specialairsbstart.nuanmb"
-        ],
-        "fighter/dolly/motion/body/c00/d01specialsbw.nuanmb": [
-            "fighter/dolly/motion/body/c01/d01specialsbw.nuanmb",
-            "fighter/dolly/motion/body/c02/d01specialsbw.nuanmb",
-            "fighter/dolly/motion/body/c03/d01specialsbw.nuanmb",
-            "fighter/dolly/motion/body/c04/d01specialsbw.nuanmb",
-            "fighter/dolly/motion/body/c05/d01specialsbw.nuanmb",
-            "fighter/dolly/motion/body/c06/d01specialsbw.nuanmb",
-            "fighter/dolly/motion/body/c07/d01specialsbw.nuanmb"
-        ],
-        "fighter/dolly/motion/body/c00/d01specialsbs.nuanmb": [
-            "fighter/dolly/motion/body/c01/d01specialsbs.nuanmb",
-            "fighter/dolly/motion/body/c02/d01specialsbs.nuanmb",
-            "fighter/dolly/motion/body/c03/d01specialsbs.nuanmb",
-            "fighter/dolly/motion/body/c04/d01specialsbs.nuanmb",
-            "fighter/dolly/motion/body/c05/d01specialsbs.nuanmb",
-            "fighter/dolly/motion/body/c06/d01specialsbs.nuanmb",
-            "fighter/dolly/motion/body/c07/d01specialsbs.nuanmb"
-        ],
-        "fighter/dolly/motion/body/c00/d03speciallwstart.nuanmb": [
-            "fighter/dolly/motion/body/c01/d03speciallwstart.nuanmb",
-            "fighter/dolly/motion/body/c02/d03speciallwstart.nuanmb",
-            "fighter/dolly/motion/body/c03/d03speciallwstart.nuanmb",
-            "fighter/dolly/motion/body/c04/d03speciallwstart.nuanmb",
-            "fighter/dolly/motion/body/c05/d03speciallwstart.nuanmb",
-            "fighter/dolly/motion/body/c06/d03speciallwstart.nuanmb",
-            "fighter/dolly/motion/body/c07/d03speciallwstart.nuanmb"
-        ],
-        "fighter/dolly/motion/body/c00/j01appealhir.nuanmb": [
-            "fighter/dolly/motion/body/c01/j01appealhir.nuanmb",
-            "fighter/dolly/motion/body/c02/j01appealhir.nuanmb",
-            "fighter/dolly/motion/body/c03/j01appealhir.nuanmb",
-            "fighter/dolly/motion/body/c04/j01appealhir.nuanmb",
-            "fighter/dolly/motion/body/c05/j01appealhir.nuanmb",
-            "fighter/dolly/motion/body/c06/j01appealhir.nuanmb",
-            "fighter/dolly/motion/body/c07/j01appealhir.nuanmb"
-        ],
-        "fighter/dolly/motion/body/c00/j01appealsr.nuanmb": [
-            "fighter/dolly/motion/body/c01/j01appealsr.nuanmb",
-            "fighter/dolly/motion/body/c02/j01appealsr.nuanmb",
-            "fighter/dolly/motion/body/c03/j01appealsr.nuanmb",
-            "fighter/dolly/motion/body/c04/j01appealsr.nuanmb",
-            "fighter/dolly/motion/body/c05/j01appealsr.nuanmb",
-            "fighter/dolly/motion/body/c06/j01appealsr.nuanmb",
-            "fighter/dolly/motion/body/c07/j01appealsr.nuanmb"
-        ],
-        "fighter/dolly/motion/body/c00/j01appeallwr.nuanmb": [
-            "fighter/dolly/motion/body/c01/j01appeallwr.nuanmb",
-            "fighter/dolly/motion/body/c02/j01appeallwr.nuanmb",
-            "fighter/dolly/motion/body/c03/j01appeallwr.nuanmb",
-            "fighter/dolly/motion/body/c04/j01appeallwr.nuanmb",
-            "fighter/dolly/motion/body/c05/j01appeallwr.nuanmb",
-            "fighter/dolly/motion/body/c06/j01appeallwr.nuanmb",
-            "fighter/dolly/motion/body/c07/j01appeallwr.nuanmb"
-        ],
-        "fighter/edge/motion/body/c00/motion_list.bin": [
-            "fighter/edge/motion/body/c01/motion_list.bin",
-            "fighter/edge/motion/body/c02/motion_list.bin",
-            "fighter/edge/motion/body/c03/motion_list.bin",
-            "fighter/edge/motion/body/c04/motion_list.bin",
-            "fighter/edge/motion/body/c05/motion_list.bin"
-        ],
-        "fighter/edge/motion/body/c06/motion_list.bin": [
-            "fighter/edge/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/edge/motion/body/c00/swingblend.prc": [
-            "fighter/edge/motion/body/c01/swingblend.prc",
-            "fighter/edge/motion/body/c02/swingblend.prc",
-            "fighter/edge/motion/body/c03/swingblend.prc",
-            "fighter/edge/motion/body/c04/swingblend.prc",
-            "fighter/edge/motion/body/c05/swingblend.prc"
-        ],
-        "fighter/edge/motion/body/c06/swingblend.prc": [
-            "fighter/edge/motion/body/c07/swingblend.prc"
-        ],
-        "fighter/eflame/motion/body/c00/motion_list.bin": [
-            "fighter/eflame/motion/body/c01/motion_list.bin",
-            "fighter/eflame/motion/body/c02/motion_list.bin",
-            "fighter/eflame/motion/body/c03/motion_list.bin",
-            "fighter/eflame/motion/body/c04/motion_list.bin",
-            "fighter/eflame/motion/body/c05/motion_list.bin",
-            "fighter/eflame/motion/body/c06/motion_list.bin",
-            "fighter/eflame/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/eflame/motion/body/c00/swingblend.prc": [
-            "fighter/eflame/motion/body/c01/swingblend.prc",
-            "fighter/eflame/motion/body/c02/swingblend.prc",
-            "fighter/eflame/motion/body/c03/swingblend.prc",
-            "fighter/eflame/motion/body/c04/swingblend.prc",
-            "fighter/eflame/motion/body/c05/swingblend.prc",
-            "fighter/eflame/motion/body/c06/swingblend.prc",
-            "fighter/eflame/motion/body/c07/swingblend.prc"
-        ],
-        "fighter/elight/motion/body/c00/motion_list.bin": [
-            "fighter/elight/motion/body/c01/motion_list.bin",
-            "fighter/elight/motion/body/c02/motion_list.bin",
-            "fighter/elight/motion/body/c03/motion_list.bin",
-            "fighter/elight/motion/body/c04/motion_list.bin",
-            "fighter/elight/motion/body/c05/motion_list.bin",
-            "fighter/elight/motion/body/c06/motion_list.bin",
-            "fighter/elight/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/elight/motion/body/c00/swingblend.prc": [
-            "fighter/elight/motion/body/c01/swingblend.prc",
-            "fighter/elight/motion/body/c02/swingblend.prc",
-            "fighter/elight/motion/body/c03/swingblend.prc",
-            "fighter/elight/motion/body/c04/swingblend.prc",
-            "fighter/elight/motion/body/c05/swingblend.prc",
-            "fighter/elight/motion/body/c06/swingblend.prc",
-            "fighter/elight/motion/body/c07/swingblend.prc"
-        ],
-        "fighter/falco/motion/body/c00/motion_list.bin": [
-            "fighter/falco/motion/body/c01/motion_list.bin",
-            "fighter/falco/motion/body/c02/motion_list.bin",
-            "fighter/falco/motion/body/c03/motion_list.bin",
-            "fighter/falco/motion/body/c04/motion_list.bin",
-            "fighter/falco/motion/body/c05/motion_list.bin",
-            "fighter/falco/motion/body/c06/motion_list.bin",
-            "fighter/falco/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/fox/motion/body/c00/motion_list.bin": [
-            "fighter/fox/motion/body/c01/motion_list.bin",
-            "fighter/fox/motion/body/c02/motion_list.bin",
-            "fighter/fox/motion/body/c03/motion_list.bin",
-            "fighter/fox/motion/body/c04/motion_list.bin",
-            "fighter/fox/motion/body/c05/motion_list.bin",
-            "fighter/fox/motion/body/c06/motion_list.bin",
-            "fighter/fox/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/ganon/motion/body/c00/motion_list.bin": [
-            "fighter/ganon/motion/body/c01/motion_list.bin",
-            "fighter/ganon/motion/body/c02/motion_list.bin",
-            "fighter/ganon/motion/body/c03/motion_list.bin",
-            "fighter/ganon/motion/body/c04/motion_list.bin",
-            "fighter/ganon/motion/body/c05/motion_list.bin",
-            "fighter/ganon/motion/body/c06/motion_list.bin",
-            "fighter/ganon/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/ganon/motion/body/c00/c02attackhi3.nuanmb": [
-            "fighter/ganon/motion/body/c01/c02attackhi3.nuanmb",
-            "fighter/ganon/motion/body/c02/c02attackhi3.nuanmb",
-            "fighter/ganon/motion/body/c03/c02attackhi3.nuanmb",
-            "fighter/ganon/motion/body/c04/c02attackhi3.nuanmb",
-            "fighter/ganon/motion/body/c05/c02attackhi3.nuanmb",
-            "fighter/ganon/motion/body/c06/c02attackhi3.nuanmb",
-            "fighter/ganon/motion/body/c07/c02attackhi3.nuanmb"
-        ],
-        "fighter/ganon/motion/body/c00/d01specialairscatch.nuanmb": [
-            "fighter/ganon/motion/body/c01/d01specialairscatch.nuanmb",
-            "fighter/ganon/motion/body/c02/d01specialairscatch.nuanmb",
-            "fighter/ganon/motion/body/c03/d01specialairscatch.nuanmb",
-            "fighter/ganon/motion/body/c04/d01specialairscatch.nuanmb",
-            "fighter/ganon/motion/body/c05/d01specialairscatch.nuanmb",
-            "fighter/ganon/motion/body/c06/d01specialairscatch.nuanmb",
-            "fighter/ganon/motion/body/c07/d01specialairscatch.nuanmb"
-        ],
-        "fighter/ganon/motion/body/c00/d01specialairs.nuanmb": [
-            "fighter/ganon/motion/body/c01/d01specialairs.nuanmb",
-            "fighter/ganon/motion/body/c02/d01specialairs.nuanmb",
-            "fighter/ganon/motion/body/c03/d01specialairs.nuanmb",
-            "fighter/ganon/motion/body/c04/d01specialairs.nuanmb",
-            "fighter/ganon/motion/body/c05/d01specialairs.nuanmb",
-            "fighter/ganon/motion/body/c06/d01specialairs.nuanmb",
-            "fighter/ganon/motion/body/c07/d01specialairs.nuanmb"
-        ],
-        "fighter/gaogaen/motion/body/c00/motion_list.bin": [
-            "fighter/gaogaen/motion/body/c01/motion_list.bin",
-            "fighter/gaogaen/motion/body/c02/motion_list.bin",
-            "fighter/gaogaen/motion/body/c03/motion_list.bin",
-            "fighter/gaogaen/motion/body/c04/motion_list.bin",
-            "fighter/gaogaen/motion/body/c05/motion_list.bin",
-            "fighter/gaogaen/motion/body/c06/motion_list.bin",
-            "fighter/gaogaen/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/ike/motion/body/c00/motion_list.bin": [
-            "fighter/ike/motion/body/c02/motion_list.bin",
-            "fighter/ike/motion/body/c04/motion_list.bin",
-            "fighter/ike/motion/body/c06/motion_list.bin"
-        ],
-        "fighter/ike/motion/body/c01/motion_list.bin": [
-            "fighter/ike/motion/body/c03/motion_list.bin",
-            "fighter/ike/motion/body/c05/motion_list.bin",
-            "fighter/ike/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/ike/motion/body/c00/a03jumpb.nuanmb": [
-            "fighter/ike/motion/body/c02/a03jumpb.nuanmb",
-            "fighter/ike/motion/body/c04/a03jumpb.nuanmb",
-            "fighter/ike/motion/body/c06/a03jumpb.nuanmb"
-        ],
-        "fighter/ike/motion/body/c01/a03jumpb.nuanmb": [
-            "fighter/ike/motion/body/c03/a03jumpb.nuanmb",
-            "fighter/ike/motion/body/c05/a03jumpb.nuanmb",
-            "fighter/ike/motion/body/c07/a03jumpb.nuanmb"
-        ],
-        "fighter/jack/motion/body/c00/motion_list.bin": [
-            "fighter/jack/motion/body/c01/motion_list.bin",
-            "fighter/jack/motion/body/c02/motion_list.bin",
-            "fighter/jack/motion/body/c03/motion_list.bin",
-            "fighter/jack/motion/body/c04/motion_list.bin",
-            "fighter/jack/motion/body/c05/motion_list.bin"
-        ],
-        "fighter/jack/motion/body/c06/motion_list.bin": [
-            "fighter/jack/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/jack/motion/body/c00/d01specials1.nuanmb": [
-            "fighter/jack/motion/body/c01/d01specials1.nuanmb",
-            "fighter/jack/motion/body/c02/d01specials1.nuanmb",
-            "fighter/jack/motion/body/c03/d01specials1.nuanmb",
-            "fighter/jack/motion/body/c04/d01specials1.nuanmb",
-            "fighter/jack/motion/body/c05/d01specials1.nuanmb"
-        ],
-        "fighter/jack/motion/body/c06/d01specials1.nuanmb": [
-            "fighter/jack/motion/body/c07/d01specials1.nuanmb"
-        ],
-        "fighter/jack/motion/body/c00/d01specialairs1.nuanmb": [
-            "fighter/jack/motion/body/c01/d01specialairs1.nuanmb",
-            "fighter/jack/motion/body/c02/d01specialairs1.nuanmb",
-            "fighter/jack/motion/body/c03/d01specialairs1.nuanmb",
-            "fighter/jack/motion/body/c04/d01specialairs1.nuanmb",
-            "fighter/jack/motion/body/c05/d01specialairs1.nuanmb"
-        ],
-        "fighter/jack/motion/body/c06/d01specialairs1.nuanmb": [
-            "fighter/jack/motion/body/c07/d01specialairs1.nuanmb"
-        ],
-        "fighter/kamui/motion/body/c00/motion_list.bin": [
-            "fighter/kamui/motion/body/c02/motion_list.bin",
-            "fighter/kamui/motion/body/c04/motion_list.bin",
-            "fighter/kamui/motion/body/c06/motion_list.bin"
-        ],
-        "fighter/kamui/motion/body/c01/motion_list.bin": [
-            "fighter/kamui/motion/body/c03/motion_list.bin",
-            "fighter/kamui/motion/body/c05/motion_list.bin",
-            "fighter/kamui/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/ken/motion/body/c00/motion_list.bin": [
-            "fighter/ken/motion/body/c01/motion_list.bin",
-            "fighter/ken/motion/body/c02/motion_list.bin",
-            "fighter/ken/motion/body/c03/motion_list.bin",
-            "fighter/ken/motion/body/c04/motion_list.bin",
-            "fighter/ken/motion/body/c05/motion_list.bin",
-            "fighter/ken/motion/body/c06/motion_list.bin",
-            "fighter/ken/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/ken/motion/body/c00/d03speciallw.nuanmb": [
-            "fighter/ken/motion/body/c01/d03speciallw.nuanmb",
-            "fighter/ken/motion/body/c02/d03speciallw.nuanmb",
-            "fighter/ken/motion/body/c03/d03speciallw.nuanmb",
-            "fighter/ken/motion/body/c04/d03speciallw.nuanmb",
-            "fighter/ken/motion/body/c05/d03speciallw.nuanmb",
-            "fighter/ken/motion/body/c06/d03speciallw.nuanmb",
-            "fighter/ken/motion/body/c07/d03speciallw.nuanmb"
-        ],
-        "fighter/kirby/motion/body/c00/motion_list.bin": [
-            "fighter/kirby/motion/body/c01/motion_list.bin",
-            "fighter/kirby/motion/body/c02/motion_list.bin",
-            "fighter/kirby/motion/body/c03/motion_list.bin",
-            "fighter/kirby/motion/body/c04/motion_list.bin",
-            "fighter/kirby/motion/body/c05/motion_list.bin",
-            "fighter/kirby/motion/body/c06/motion_list.bin",
-            "fighter/kirby/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/kirby/motion/body/c00/c02attacklw3.nuanmb": [
-            "fighter/kirby/motion/body/c01/c02attacklw3.nuanmb",
-            "fighter/kirby/motion/body/c02/c02attacklw3.nuanmb",
-            "fighter/kirby/motion/body/c03/c02attacklw3.nuanmb",
-            "fighter/kirby/motion/body/c04/c02attacklw3.nuanmb",
-            "fighter/kirby/motion/body/c05/c02attacklw3.nuanmb",
-            "fighter/kirby/motion/body/c06/c02attacklw3.nuanmb",
-            "fighter/kirby/motion/body/c07/c02attacklw3.nuanmb"
-        ],
-        "fighter/kirby/motion/body/c00/j01appealsr.nuanmb": [
-            "fighter/kirby/motion/body/c01/j01appealsr.nuanmb",
-            "fighter/kirby/motion/body/c02/j01appealsr.nuanmb",
-            "fighter/kirby/motion/body/c03/j01appealsr.nuanmb",
-            "fighter/kirby/motion/body/c04/j01appealsr.nuanmb",
-            "fighter/kirby/motion/body/c05/j01appealsr.nuanmb",
-            "fighter/kirby/motion/body/c06/j01appealsr.nuanmb",
-            "fighter/kirby/motion/body/c07/j01appealsr.nuanmb"
-        ],
-        "fighter/koopa/motion/body/c00/motion_list.bin": [
-            "fighter/koopa/motion/body/c01/motion_list.bin",
-            "fighter/koopa/motion/body/c02/motion_list.bin",
-            "fighter/koopa/motion/body/c03/motion_list.bin",
-            "fighter/koopa/motion/body/c04/motion_list.bin",
-            "fighter/koopa/motion/body/c05/motion_list.bin",
-            "fighter/koopa/motion/body/c06/motion_list.bin",
-            "fighter/koopa/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/krool/motion/body/c00/motion_list.bin": [
-            "fighter/krool/motion/body/c01/motion_list.bin",
-            "fighter/krool/motion/body/c02/motion_list.bin",
-            "fighter/krool/motion/body/c03/motion_list.bin",
-            "fighter/krool/motion/body/c04/motion_list.bin",
-            "fighter/krool/motion/body/c05/motion_list.bin",
-            "fighter/krool/motion/body/c06/motion_list.bin",
-            "fighter/krool/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/littlemac/motion/body/c00/motion_list.bin": [
-            "fighter/littlemac/motion/body/c01/motion_list.bin",
-            "fighter/littlemac/motion/body/c02/motion_list.bin",
-            "fighter/littlemac/motion/body/c03/motion_list.bin",
-            "fighter/littlemac/motion/body/c04/motion_list.bin",
-            "fighter/littlemac/motion/body/c05/motion_list.bin"
-        ],
-        "fighter/littlemac/motion/body/c06/motion_list.bin": [
-            "fighter/littlemac/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/lucario/motion/body/c00/motion_list.bin": [
-            "fighter/lucario/motion/body/c01/motion_list.bin",
-            "fighter/lucario/motion/body/c02/motion_list.bin",
-            "fighter/lucario/motion/body/c03/motion_list.bin",
-            "fighter/lucario/motion/body/c04/motion_list.bin",
-            "fighter/lucario/motion/body/c05/motion_list.bin",
-            "fighter/lucario/motion/body/c06/motion_list.bin",
-            "fighter/lucario/motion/body/c07/motion_list.bin"
-        ],
-        "fighter/lucario/motion/body/c00/swingblend.prc": [
-            "fighter/lucario/motion/body/c01/swingblend.prc",
-            "fighter/lucario/motion/body/c02/swingblend.prc",
-            "fighter/lucario/motion/body/c03/swingblend.prc",
-            "fighter/lucario/motion/body/c04/swingblend.prc",
-            "fighter/lucario/motion/body/c05/swingblend.prc",
-            "fighter/lucario/motion/body/c06/swingblend.prc",
-            "fighter/lucario/motion/body/c07/swingblend.prc"
-        ],
-        "fighter/lucario/motion/body/c00/d01specials.nuanmb": [
-            "fighter/lucario/motion/body/c01/d01specials.nuanmb",
-            "fighter/lucario/motion/body/c02/d01specials.nuanmb",
-            "fighter/lucario/motion/body/c03/d01specials.nuanmb",
-            "fighter/lucario/motion/body/c04/d01specials.nuanmb",
-            "fighter/lucario/motion/body/c05/d01specials.nuanmb",
-            "fighter/lucario/motion/body/c06/d01specials.nuanmb",
-            "fighter/lucario/motion/body/c07/d01specials.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d01specialairs.nuanmb": [
-            "fighter/lucario/motion/body/c01/d01specialairs.nuanmb",
-            "fighter/lucario/motion/body/c02/d01specialairs.nuanmb",
-            "fighter/lucario/motion/body/c03/d01specialairs.nuanmb",
-            "fighter/lucario/motion/body/c04/d01specialairs.nuanmb",
-            "fighter/lucario/motion/body/c05/d01specialairs.nuanmb",
-            "fighter/lucario/motion/body/c06/d01specialairs.nuanmb",
-            "fighter/lucario/motion/body/c07/d01specialairs.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d01specialsthrow.nuanmb": [
-            "fighter/lucario/motion/body/c01/d01specialsthrow.nuanmb",
-            "fighter/lucario/motion/body/c02/d01specialsthrow.nuanmb",
-            "fighter/lucario/motion/body/c03/d01specialsthrow.nuanmb",
-            "fighter/lucario/motion/body/c04/d01specialsthrow.nuanmb",
-            "fighter/lucario/motion/body/c05/d01specialsthrow.nuanmb",
-            "fighter/lucario/motion/body/c06/d01specialsthrow.nuanmb",
-            "fighter/lucario/motion/body/c07/d01specialsthrow.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d02specialairhiend.nuanmb": [
-            "fighter/lucario/motion/body/c01/d02specialairhiend.nuanmb",
-            "fighter/lucario/motion/body/c02/d02specialairhiend.nuanmb",
-            "fighter/lucario/motion/body/c03/d02specialairhiend.nuanmb",
-            "fighter/lucario/motion/body/c04/d02specialairhiend.nuanmb",
-            "fighter/lucario/motion/body/c05/d02specialairhiend.nuanmb",
-            "fighter/lucario/motion/body/c06/d02specialairhiend.nuanmb",
-            "fighter/lucario/motion/body/c07/d02specialairhiend.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d03speciallw.nuanmb": [
-            "fighter/lucario/motion/body/c01/d03speciallw.nuanmb",
-            "fighter/lucario/motion/body/c02/d03speciallw.nuanmb",
-            "fighter/lucario/motion/body/c03/d03speciallw.nuanmb",
-            "fighter/lucario/motion/body/c04/d03speciallw.nuanmb",
-            "fighter/lucario/motion/body/c05/d03speciallw.nuanmb",
-            "fighter/lucario/motion/body/c06/d03speciallw.nuanmb",
-            "fighter/lucario/motion/body/c07/d03speciallw.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d03specialairlw.nuanmb": [
-            "fighter/lucario/motion/body/c01/d03specialairlw.nuanmb",
-            "fighter/lucario/motion/body/c02/d03specialairlw.nuanmb",
-            "fighter/lucario/motion/body/c03/d03specialairlw.nuanmb",
-            "fighter/lucario/motion/body/c04/d03specialairlw.nuanmb",
-            "fighter/lucario/motion/body/c05/d03specialairlw.nuanmb",
-            "fighter/lucario/motion/body/c06/d03specialairlw.nuanmb",
-            "fighter/lucario/motion/body/c07/d03specialairlw.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d03speciallwend.nuanmb": [
-            "fighter/lucario/motion/body/c01/d03speciallwend.nuanmb",
-            "fighter/lucario/motion/body/c02/d03speciallwend.nuanmb",
-            "fighter/lucario/motion/body/c03/d03speciallwend.nuanmb",
-            "fighter/lucario/motion/body/c04/d03speciallwend.nuanmb",
-            "fighter/lucario/motion/body/c05/d03speciallwend.nuanmb",
-            "fighter/lucario/motion/body/c06/d03speciallwend.nuanmb",
-            "fighter/lucario/motion/body/c07/d03speciallwend.nuanmb"
-        ],
-        "fighter/lucario/motion/body/c00/d03specialairlwend.nuanmb": [
-            "fighter/lucario/motion/body/c01/d03specialairlwend.nuanmb",
-            "fighter/lucario/motion/body/c02/d03specialairlwend.nuanmb",
-            "fighter/lucario/motion/body/c03/d03specialairlwend.nuanmb",
-            "fighter/lucario/motion/body/c04/d03specialairlwend.nuanmb",
-            "fighter/lucario/motion/body/c05/d03specialairlwend.nuanmb",
-            "fighter/lucario/motion/body/c06/d03specialairlwend.nuanmb",
-            "fighter/lucario/motion/body/c07/d03specialairlwend.nuanmb"
-        ],
-        "fighter/lucario/motion/auraball/c00/motion_list.bin": [
-            "fighter/lucario/motion/auraball/c01/motion_list.bin",
-            "fighter/lucario/motion/auraball/c02/motion_list.bin",
-            "fighter/lucario/motion/auraball/c03/motion_list.bin",
-            "fighter/lucario/motion/auraball/c04/motion_list.bin",
-            "fighter/lucario/motion/auraball/c05/motion_list.bin",
-            "fighter/lucario/motion/auraball/c06/motion_list.bin",
-            "fighter/lucario/motion/auraball/c07/motion_list.bin"
+        "fighter/dolly/motion/body/c00/c02attacklw32.nuanmb": [
+            "fighter/dolly/motion/body/c01/c02attacklw32.nuanmb",
+            "fighter/dolly/motion/body/c02/c02attacklw32.nuanmb",
+            "fighter/dolly/motion/body/c03/c02attacklw32.nuanmb",
+            "fighter/dolly/motion/body/c04/c02attacklw32.nuanmb",
+            "fighter/dolly/motion/body/c05/c02attacklw32.nuanmb",
+            "fighter/dolly/motion/body/c06/c02attacklw32.nuanmb",
+            "fighter/dolly/motion/body/c07/c02attacklw32.nuanmb"
         ],
         "fighter/lucas/motion/body/c00/motion_list.bin": [
             "fighter/lucas/motion/body/c01/motion_list.bin",
