@@ -1,5 +1,5 @@
 #!/usr/bin/python3.9
-import shutil, os, sys, pathlib, subprocess
+import shutil, os, sys, pathlib
 
 # check if romfs exists
 if not os.path.exists("../romfs"):
@@ -27,7 +27,7 @@ for yml in motionYamls:
   print(newPathFull)
   command = "yamlist asm " + yml + " -o " + newPathFull
   print(command)
-  subprocess.call(command, shell=True)
+  os.system(command)
 
 # if distribution folder exists, delete it
 if "build" in os.listdir('..'):
