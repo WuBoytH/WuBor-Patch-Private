@@ -12,8 +12,13 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v4.3.0
         with:
-          python-version: '3.9' 
-      
+          python-version: '3.9'
+
+      - name: install yamlist
+        shell: bash
+        run: |
+          cargo install --git "https://github.com/ultimate-research/motion_lib"
+
       - name: checkout version
         uses: actions/checkout@v3.1.0
       - name: Get Branch Name
