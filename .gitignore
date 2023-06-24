@@ -2,4 +2,6 @@ romfs_vanilla/convert.bat
 romfs_vanilla/ParamLabels.csv
 romfs_vanilla/parcel.exe
 **/motion_list.bin
+**/*.zip
+/build
 .DS_Store
