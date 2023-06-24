@@ -22,7 +22,7 @@ print("Current Directory: " + os.getcwd())
 for yml in motionYamls:
   newPath = yml.replace("motion_list/", "romfs/")
   newPathNoFile = newPath.replace("motion_list.yml", "")
-  os.makedirs(newPathNoFile)
+  os.makedirs(newPathNoFile, mode = 0o777, exist_ok = True)
   newPathFull = newPath.replace("yml", "bin")
   print("--------------")
   print(yml)
