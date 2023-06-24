@@ -23,7 +23,7 @@ for yml in motionYamls:
   pathFull = os.path.abspath(yml)
   newPath = pathFull.replace("motion_list/", "romfs/")
   newPathNoFile = newPath.replace("motion_list.yml", "")
-  os.mkdir(newPathNoFile)
+  os.mkdirs(newPathNoFile)
   newPathFull = newPath.replace("yml", "bin")
   print("--------------")
   print(pathFull)
