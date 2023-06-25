@@ -221,20 +221,6 @@
         "fighter/richter/motion/body/c00/c05attackairn.nuanmb",
         "fighter/richter/motion/body/c00/d02specialhi.nuanmb",
         "fighter/richter/motion/body/c00/d02specialairhi.nuanmb",
-        "fighter/richter/motion/whip/c00/motion_list.bin",
-        "fighter/richter/motion/whip/c00/c01attacks3s.nuanmb",
-        "fighter/richter/motion/whip/c00/c03attacks4s.nuanmb",
-        "fighter/richter/motion/whip/c00/c03attacks4shi.nuanmb",
-        "fighter/richter/motion/whip/c00/c03attacks4slw.nuanmb",
-        "fighter/richter/motion/whip/c00/c04attackhi4.nuanmb",
-        "fighter/richter/motion/whip/c00/c04attacklw4.nuanmb",
-        "fighter/richter/motion/whip/c00/c05attackairbhi.nuanmb",
-        "fighter/richter/motion/whip/c00/c05attackairblw.nuanmb",
-        "fighter/richter/motion/whip/c00/c05attackairf.nuanmb",
-        "fighter/richter/motion/whip/c00/c05attackairfhi.nuanmb",
-        "fighter/richter/motion/whip/c00/c05attackairflw.nuanmb",
-        "fighter/richter/motion/whip/c00/c05attackairhi.nuanmb",
-        "fighter/richter/motion/whip/c00/e01throwhi.nuanmb",
         "fighter/ridley/motion/body/c00/motion_list.bin",
         "fighter/robot/motion/body/c00/motion_list.bin",
         "fighter/rockman/motion/body/c00/motion_list.bin",
@@ -287,13 +273,6 @@
         "fighter/simon/motion/body/c00/c05attackairflw.nuanmb",
         "fighter/simon/motion/body/c00/c05attackairlw.nuanmb",
         "fighter/simon/motion/body/c00/c05landingairlw.nuanmb",
-        "fighter/simon/motion/whip/c00/motion_list.bin",
-        "fighter/simon/motion/whip/c00/c00attackdash.nuanmb",
-        "fighter/simon/motion/whip/c00/c01attacks3s.nuanmb",
-        "fighter/simon/motion/whip/c00/c05attackairf.nuanmb",
-        "fighter/simon/motion/whip/c00/c05attackairfhi.nuanmb",
-        "fighter/simon/motion/whip/c00/c05attackairflw.nuanmb",
-        "fighter/simon/motion/whip/c00/e01throwhi.nuanmb",
         "fighter/snake/motion/body/c00/motion_list.bin",
         "fighter/sonic/motion/body/c00/motion_list.bin",
         "fighter/sonic/motion/body/c00/e01throwf.nuanmb",
@@ -452,6 +431,132 @@
             "fighter/pikmin/motion/body/c06/c01attacks3sloop.nuanmb",
             "fighter/pikmin/motion/body/c07/c01attacks3sloop.nuanmb"
         ],
+        "fighter/richter/motion/whip/c00/motion_list.bin": [
+            "fighter/richter/motion/whip/c01/motion_list.bin",
+            "fighter/richter/motion/whip/c02/motion_list.bin",
+            "fighter/richter/motion/whip/c03/motion_list.bin",
+            "fighter/richter/motion/whip/c04/motion_list.bin",
+            "fighter/richter/motion/whip/c05/motion_list.bin",
+            "fighter/richter/motion/whip/c06/motion_list.bin",
+            "fighter/richter/motion/whip/c07/motion_list.bin"
+        ],
+        "fighter/richter/motion/whip/c00/c01attacks3s.nuanmb": [
+            "fighter/richter/motion/whip/c01/c01attacks3s.nuanmb",
+            "fighter/richter/motion/whip/c02/c01attacks3s.nuanmb",
+            "fighter/richter/motion/whip/c03/c01attacks3s.nuanmb",
+            "fighter/richter/motion/whip/c04/c01attacks3s.nuanmb",
+            "fighter/richter/motion/whip/c05/c01attacks3s.nuanmb",
+            "fighter/richter/motion/whip/c06/c01attacks3s.nuanmb",
+            "fighter/richter/motion/whip/c07/c01attacks3s.nuanmb"
+        ],
+        "fighter/richter/motion/whip/c00/c03attacks4s.nuanmb": [
+            "fighter/richter/motion/whip/c01/c03attacks4s.nuanmb",
+            "fighter/richter/motion/whip/c02/c03attacks4s.nuanmb",
+            "fighter/richter/motion/whip/c03/c03attacks4s.nuanmb",
+            "fighter/richter/motion/whip/c04/c03attacks4s.nuanmb",
+            "fighter/richter/motion/whip/c05/c03attacks4s.nuanmb",
+            "fighter/richter/motion/whip/c06/c03attacks4s.nuanmb",
+            "fighter/richter/motion/whip/c07/c03attacks4s.nuanmb"
+        ],
+        "fighter/richter/motion/whip/c00/c03attacks4shi.nuanmb": [
+            "fighter/richter/motion/whip/c01/c03attacks4shi.nuanmb",
+            "fighter/richter/motion/whip/c02/c03attacks4shi.nuanmb",
+            "fighter/richter/motion/whip/c03/c03attacks4shi.nuanmb",
+            "fighter/richter/motion/whip/c04/c03attacks4shi.nuanmb",
+            "fighter/richter/motion/whip/c05/c03attacks4shi.nuanmb",
+            "fighter/richter/motion/whip/c06/c03attacks4shi.nuanmb",
+            "fighter/richter/motion/whip/c07/c03attacks4shi.nuanmb"
+        ],
+        "fighter/richter/motion/whip/c00/c03attacks4slw.nuanmb": [
+            "fighter/richter/motion/whip/c01/c03attacks4slw.nuanmb",
+            "fighter/richter/motion/whip/c02/c03attacks4slw.nuanmb",
+            "fighter/richter/motion/whip/c03/c03attacks4slw.nuanmb",
+            "fighter/richter/motion/whip/c04/c03attacks4slw.nuanmb",
+            "fighter/richter/motion/whip/c05/c03attacks4slw.nuanmb",
+            "fighter/richter/motion/whip/c06/c03attacks4slw.nuanmb",
+            "fighter/richter/motion/whip/c07/c03attacks4slw.nuanmb"
+        ],
+        "fighter/richter/motion/whip/c00/c04attackhi4.nuanmb": [
+            "fighter/richter/motion/whip/c01/c04attackhi4.nuanmb",
+            "fighter/richter/motion/whip/c02/c04attackhi4.nuanmb",
+            "fighter/richter/motion/whip/c03/c04attackhi4.nuanmb",
+            "fighter/richter/motion/whip/c04/c04attackhi4.nuanmb",
+            "fighter/richter/motion/whip/c05/c04attackhi4.nuanmb",
+            "fighter/richter/motion/whip/c06/c04attackhi4.nuanmb",
+            "fighter/richter/motion/whip/c07/c04attackhi4.nuanmb"
+        ],
+        "fighter/richter/motion/whip/c00/c04attacklw4.nuanmb": [
+            "fighter/richter/motion/whip/c01/c04attacklw4.nuanmb",
+            "fighter/richter/motion/whip/c02/c04attacklw4.nuanmb",
+            "fighter/richter/motion/whip/c03/c04attacklw4.nuanmb",
+            "fighter/richter/motion/whip/c04/c04attacklw4.nuanmb",
+            "fighter/richter/motion/whip/c05/c04attacklw4.nuanmb",
+            "fighter/richter/motion/whip/c06/c04attacklw4.nuanmb",
+            "fighter/richter/motion/whip/c07/c04attacklw4.nuanmb"
+        ],
+        "fighter/richter/motion/whip/c00/c05attackairbhi.nuanmb": [
+            "fighter/richter/motion/whip/c01/c05attackairbhi.nuanmb",
+            "fighter/richter/motion/whip/c02/c05attackairbhi.nuanmb",
+            "fighter/richter/motion/whip/c03/c05attackairbhi.nuanmb",
+            "fighter/richter/motion/whip/c04/c05attackairbhi.nuanmb",
+            "fighter/richter/motion/whip/c05/c05attackairbhi.nuanmb",
+            "fighter/richter/motion/whip/c06/c05attackairbhi.nuanmb",
+            "fighter/richter/motion/whip/c07/c05attackairbhi.nuanmb"
+        ],
+        "fighter/richter/motion/whip/c00/c05attackairblw.nuanmb": [
+            "fighter/richter/motion/whip/c01/c05attackairblw.nuanmb",
+            "fighter/richter/motion/whip/c02/c05attackairblw.nuanmb",
+            "fighter/richter/motion/whip/c03/c05attackairblw.nuanmb",
+            "fighter/richter/motion/whip/c04/c05attackairblw.nuanmb",
+            "fighter/richter/motion/whip/c05/c05attackairblw.nuanmb",
+            "fighter/richter/motion/whip/c06/c05attackairblw.nuanmb",
+            "fighter/richter/motion/whip/c07/c05attackairblw.nuanmb"
+        ],
+        "fighter/richter/motion/whip/c00/c05attackairf.nuanmb": [
+            "fighter/richter/motion/whip/c01/c05attackairf.nuanmb",
+            "fighter/richter/motion/whip/c02/c05attackairf.nuanmb",
+            "fighter/richter/motion/whip/c03/c05attackairf.nuanmb",
+            "fighter/richter/motion/whip/c04/c05attackairf.nuanmb",
+            "fighter/richter/motion/whip/c05/c05attackairf.nuanmb",
+            "fighter/richter/motion/whip/c06/c05attackairf.nuanmb",
+            "fighter/richter/motion/whip/c07/c05attackairf.nuanmb"
+        ],
+        "fighter/richter/motion/whip/c00/c05attackairfhi.nuanmb": [
+            "fighter/richter/motion/whip/c01/c05attackairfhi.nuanmb",
+            "fighter/richter/motion/whip/c02/c05attackairfhi.nuanmb",
+            "fighter/richter/motion/whip/c03/c05attackairfhi.nuanmb",
+            "fighter/richter/motion/whip/c04/c05attackairfhi.nuanmb",
+            "fighter/richter/motion/whip/c05/c05attackairfhi.nuanmb",
+            "fighter/richter/motion/whip/c06/c05attackairfhi.nuanmb",
+            "fighter/richter/motion/whip/c07/c05attackairfhi.nuanmb"
+        ],
+        "fighter/richter/motion/whip/c00/c05attackairflw.nuanmb": [
+            "fighter/richter/motion/whip/c01/c05attackairflw.nuanmb",
+            "fighter/richter/motion/whip/c02/c05attackairflw.nuanmb",
+            "fighter/richter/motion/whip/c03/c05attackairflw.nuanmb",
+            "fighter/richter/motion/whip/c04/c05attackairflw.nuanmb",
+            "fighter/richter/motion/whip/c05/c05attackairflw.nuanmb",
+            "fighter/richter/motion/whip/c06/c05attackairflw.nuanmb",
+            "fighter/richter/motion/whip/c07/c05attackairflw.nuanmb"
+        ],
+        "fighter/richter/motion/whip/c00/c05attackairhi.nuanmb": [
+            "fighter/richter/motion/whip/c01/c05attackairhi.nuanmb",
+            "fighter/richter/motion/whip/c02/c05attackairhi.nuanmb",
+            "fighter/richter/motion/whip/c03/c05attackairhi.nuanmb",
+            "fighter/richter/motion/whip/c04/c05attackairhi.nuanmb",
+            "fighter/richter/motion/whip/c05/c05attackairhi.nuanmb",
+            "fighter/richter/motion/whip/c06/c05attackairhi.nuanmb",
+            "fighter/richter/motion/whip/c07/c05attackairhi.nuanmb"
+        ],
+        "fighter/richter/motion/whip/c00/e01throwhi.nuanmb": [
+            "fighter/richter/motion/whip/c01/e01throwhi.nuanmb",
+            "fighter/richter/motion/whip/c02/e01throwhi.nuanmb",
+            "fighter/richter/motion/whip/c03/e01throwhi.nuanmb",
+            "fighter/richter/motion/whip/c04/e01throwhi.nuanmb",
+            "fighter/richter/motion/whip/c05/e01throwhi.nuanmb",
+            "fighter/richter/motion/whip/c06/e01throwhi.nuanmb",
+            "fighter/richter/motion/whip/c07/e01throwhi.nuanmb"
+        ],
         "fighter/rockman/motion/body/c00/c00attack12.nuanmb": [
             "fighter/rockman/motion/body/c01/c00attack12.nuanmb",
             "fighter/rockman/motion/body/c02/c00attack12.nuanmb",
@@ -523,6 +628,69 @@
             "fighter/rockman/motion/body/c05/d00busterairchargeshot.nuanmb",
             "fighter/rockman/motion/body/c06/d00busterairchargeshot.nuanmb",
             "fighter/rockman/motion/body/c07/d00busterairchargeshot.nuanmb"
+        ],
+        "fighter/simon/motion/whip/c00/motion_list.bin": [
+            "fighter/simon/motion/whip/c01/motion_list.bin",
+            "fighter/simon/motion/whip/c02/motion_list.bin",
+            "fighter/simon/motion/whip/c03/motion_list.bin",
+            "fighter/simon/motion/whip/c04/motion_list.bin",
+            "fighter/simon/motion/whip/c05/motion_list.bin",
+            "fighter/simon/motion/whip/c06/motion_list.bin",
+            "fighter/simon/motion/whip/c07/motion_list.bin"
+        ],
+        "fighter/simon/motion/whip/c00/c00attackdash.nuanmb": [
+            "fighter/simon/motion/whip/c01/c00attackdash.nuanmb",
+            "fighter/simon/motion/whip/c02/c00attackdash.nuanmb",
+            "fighter/simon/motion/whip/c03/c00attackdash.nuanmb",
+            "fighter/simon/motion/whip/c04/c00attackdash.nuanmb",
+            "fighter/simon/motion/whip/c05/c00attackdash.nuanmb",
+            "fighter/simon/motion/whip/c06/c00attackdash.nuanmb",
+            "fighter/simon/motion/whip/c07/c00attackdash.nuanmb"
+        ],
+        "fighter/simon/motion/whip/c00/c01attacks3s.nuanmb": [
+            "fighter/simon/motion/whip/c01/c01attacks3s.nuanmb",
+            "fighter/simon/motion/whip/c02/c01attacks3s.nuanmb",
+            "fighter/simon/motion/whip/c03/c01attacks3s.nuanmb",
+            "fighter/simon/motion/whip/c04/c01attacks3s.nuanmb",
+            "fighter/simon/motion/whip/c05/c01attacks3s.nuanmb",
+            "fighter/simon/motion/whip/c06/c01attacks3s.nuanmb",
+            "fighter/simon/motion/whip/c07/c01attacks3s.nuanmb"
+        ],
+        "fighter/simon/motion/whip/c00/c05attackairf.nuanmb": [
+            "fighter/simon/motion/whip/c01/c05attackairf.nuanmb",
+            "fighter/simon/motion/whip/c02/c05attackairf.nuanmb",
+            "fighter/simon/motion/whip/c03/c05attackairf.nuanmb",
+            "fighter/simon/motion/whip/c04/c05attackairf.nuanmb",
+            "fighter/simon/motion/whip/c05/c05attackairf.nuanmb",
+            "fighter/simon/motion/whip/c06/c05attackairf.nuanmb",
+            "fighter/simon/motion/whip/c07/c05attackairf.nuanmb"
+        ],
+        "fighter/simon/motion/whip/c00/c05attackairfhi.nuanmb": [
+            "fighter/simon/motion/whip/c01/c05attackairfhi.nuanmb",
+            "fighter/simon/motion/whip/c02/c05attackairfhi.nuanmb",
+            "fighter/simon/motion/whip/c03/c05attackairfhi.nuanmb",
+            "fighter/simon/motion/whip/c04/c05attackairfhi.nuanmb",
+            "fighter/simon/motion/whip/c05/c05attackairfhi.nuanmb",
+            "fighter/simon/motion/whip/c06/c05attackairfhi.nuanmb",
+            "fighter/simon/motion/whip/c07/c05attackairfhi.nuanmb"
+        ],
+        "fighter/simon/motion/whip/c00/c05attackairflw.nuanmb": [
+            "fighter/simon/motion/whip/c01/c05attackairflw.nuanmb",
+            "fighter/simon/motion/whip/c02/c05attackairflw.nuanmb",
+            "fighter/simon/motion/whip/c03/c05attackairflw.nuanmb",
+            "fighter/simon/motion/whip/c04/c05attackairflw.nuanmb",
+            "fighter/simon/motion/whip/c05/c05attackairflw.nuanmb",
+            "fighter/simon/motion/whip/c06/c05attackairflw.nuanmb",
+            "fighter/simon/motion/whip/c07/c05attackairflw.nuanmb"
+        ],
+        "fighter/simon/motion/whip/c00/e01throwhi.nuanmb": [
+            "fighter/simon/motion/whip/c01/e01throwhi.nuanmb",
+            "fighter/simon/motion/whip/c02/e01throwhi.nuanmb",
+            "fighter/simon/motion/whip/c03/e01throwhi.nuanmb",
+            "fighter/simon/motion/whip/c04/e01throwhi.nuanmb",
+            "fighter/simon/motion/whip/c05/e01throwhi.nuanmb",
+            "fighter/simon/motion/whip/c06/e01throwhi.nuanmb",
+            "fighter/simon/motion/whip/c07/e01throwhi.nuanmb"
         ],
         "fighter/szerosuit/motion/body/c00/d02specialhi2.nuanmb": [
             "fighter/szerosuit/motion/body/c01/d02specialhi2.nuanmb",
@@ -1509,8 +1677,6 @@
         "fighter/simon/c00": [
             "fighter/simon/motion/body/c00/c01attacks3hi.nuanmb",
             "fighter/simon/motion/body/c00/c01attacks3lw.nuanmb",
-            "fighter/simon/motion/whip/c00/c01attacks3hi.nuanmb",
-            "fighter/simon/motion/whip/c00/c01attacks3lw.nuanmb",
             "fighter/simon/motion/whip/c00/c02attacklw3.nuanmb",
             "fighter/simon/motion/whip/c00/c05attackairlw.nuanmb",
             "fighter/simon/motion/whip/c00/c05landingairlw.nuanmb"
@@ -1518,8 +1684,6 @@
         "fighter/simon/c01": [
             "fighter/simon/motion/body/c01/c01attacks3hi.nuanmb",
             "fighter/simon/motion/body/c01/c01attacks3lw.nuanmb",
-            "fighter/simon/motion/whip/c01/c01attacks3hi.nuanmb",
-            "fighter/simon/motion/whip/c01/c01attacks3lw.nuanmb",
             "fighter/simon/motion/whip/c01/c02attacklw3.nuanmb",
             "fighter/simon/motion/whip/c01/c05attackairlw.nuanmb",
             "fighter/simon/motion/whip/c01/c05landingairlw.nuanmb"
@@ -1527,8 +1691,6 @@
         "fighter/simon/c02": [
             "fighter/simon/motion/body/c02/c01attacks3hi.nuanmb",
             "fighter/simon/motion/body/c02/c01attacks3lw.nuanmb",
-            "fighter/simon/motion/whip/c02/c01attacks3hi.nuanmb",
-            "fighter/simon/motion/whip/c02/c01attacks3lw.nuanmb",
             "fighter/simon/motion/whip/c02/c02attacklw3.nuanmb",
             "fighter/simon/motion/whip/c02/c05attackairlw.nuanmb",
             "fighter/simon/motion/whip/c02/c05landingairlw.nuanmb"
@@ -1536,8 +1698,6 @@
         "fighter/simon/c03": [
             "fighter/simon/motion/body/c03/c01attacks3hi.nuanmb",
             "fighter/simon/motion/body/c03/c01attacks3lw.nuanmb",
-            "fighter/simon/motion/whip/c03/c01attacks3hi.nuanmb",
-            "fighter/simon/motion/whip/c03/c01attacks3lw.nuanmb",
             "fighter/simon/motion/whip/c03/c02attacklw3.nuanmb",
             "fighter/simon/motion/whip/c03/c05attackairlw.nuanmb",
             "fighter/simon/motion/whip/c03/c05landingairlw.nuanmb"
@@ -1545,8 +1705,6 @@
         "fighter/simon/c04": [
             "fighter/simon/motion/body/c04/c01attacks3hi.nuanmb",
             "fighter/simon/motion/body/c04/c01attacks3lw.nuanmb",
-            "fighter/simon/motion/whip/c04/c01attacks3hi.nuanmb",
-            "fighter/simon/motion/whip/c04/c01attacks3lw.nuanmb",
             "fighter/simon/motion/whip/c04/c02attacklw3.nuanmb",
             "fighter/simon/motion/whip/c04/c05attackairlw.nuanmb",
             "fighter/simon/motion/whip/c04/c05landingairlw.nuanmb"
@@ -1554,8 +1712,6 @@
         "fighter/simon/c05": [
             "fighter/simon/motion/body/c05/c01attacks3hi.nuanmb",
             "fighter/simon/motion/body/c05/c01attacks3lw.nuanmb",
-            "fighter/simon/motion/whip/c05/c01attacks3hi.nuanmb",
-            "fighter/simon/motion/whip/c05/c01attacks3lw.nuanmb",
             "fighter/simon/motion/whip/c05/c02attacklw3.nuanmb",
             "fighter/simon/motion/whip/c05/c05attackairlw.nuanmb",
             "fighter/simon/motion/whip/c05/c05landingairlw.nuanmb"
@@ -1563,8 +1719,6 @@
         "fighter/simon/c06": [
             "fighter/simon/motion/body/c06/c01attacks3hi.nuanmb",
             "fighter/simon/motion/body/c06/c01attacks3lw.nuanmb",
-            "fighter/simon/motion/whip/c06/c01attacks3hi.nuanmb",
-            "fighter/simon/motion/whip/c06/c01attacks3lw.nuanmb",
             "fighter/simon/motion/whip/c06/c02attacklw3.nuanmb",
             "fighter/simon/motion/whip/c06/c05attackairlw.nuanmb",
             "fighter/simon/motion/whip/c06/c05landingairlw.nuanmb"
@@ -1572,8 +1726,6 @@
         "fighter/simon/c07": [
             "fighter/simon/motion/body/c07/c01attacks3hi.nuanmb",
             "fighter/simon/motion/body/c07/c01attacks3lw.nuanmb",
-            "fighter/simon/motion/whip/c07/c01attacks3hi.nuanmb",
-            "fighter/simon/motion/whip/c07/c01attacks3lw.nuanmb",
             "fighter/simon/motion/whip/c07/c02attacklw3.nuanmb",
             "fighter/simon/motion/whip/c07/c05attackairlw.nuanmb",
             "fighter/simon/motion/whip/c07/c05landingairlw.nuanmb"
