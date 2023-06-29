@@ -47,6 +47,25 @@
         "fighter/elight/motion/body/c00/swingblend.prc",
         "fighter/falco/motion/body/c00/motion_list.bin",
         "fighter/fox/motion/body/c00/motion_list.bin",
+        "fighter/gamewatch/model/normal_weapon/c00/model.numatb",
+        "fighter/gamewatch/model/normal_weapon/c00/model.numshb",
+        "fighter/gamewatch/model/normal_weapon/c00/model.numshexb",
+        "fighter/gamewatch/model/normal_weapon/c00/model.nusktb",
+        "fighter/gamewatch/motion/body/c00/motion_list.bin",
+        "fighter/gamewatch/motion/body/c00/c05attackairf.nuanmb",
+        "fighter/gamewatch/motion/body/c00/c05landingairf.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/motion_list.bin",
+        "fighter/gamewatch/motion/normal_weapon/c00/c00attack11.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c00attack100.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c00attackend.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c01attacks3s.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c02attacklw3.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c05attackairb.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c05attackairn.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c05landingairb.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c05landingairn.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/j01appeallw.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/update.prc",
         "fighter/ganon/motion/body/c00/motion_list.bin",
         "fighter/ganon/motion/body/c00/c02attackhi3.nuanmb",
         "fighter/ganon/motion/body/c00/c05attackairn.nuanmb",
@@ -385,6 +404,15 @@
             "fighter/dolly/motion/body/c05/c02attacklw32.nuanmb",
             "fighter/dolly/motion/body/c06/c02attacklw32.nuanmb",
             "fighter/dolly/motion/body/c07/c02attacklw32.nuanmb"
+        ],
+        "fighter/gamewatch/model/normal_weapon/c00/model.numdlb": [
+            "fighter/gamewatch/model/normal_weapon/c01/model.numdlb",
+            "fighter/gamewatch/model/normal_weapon/c02/model.numdlb",
+            "fighter/gamewatch/model/normal_weapon/c03/model.numdlb",
+            "fighter/gamewatch/model/normal_weapon/c04/model.numdlb",
+            "fighter/gamewatch/model/normal_weapon/c05/model.numdlb",
+            "fighter/gamewatch/model/normal_weapon/c06/model.numdlb",
+            "fighter/gamewatch/model/normal_weapon/c07/model.numdlb"
         ],
         "fighter/metaknight/motion/body/c00/c00attack11.nuanmb": [
             "fighter/metaknight/motion/body/c01/c00attack11.nuanmb",
@@ -985,6 +1013,38 @@
             "fighter/elight/motion/body/c07/c05landingairlwelight.nuanmb",
             "fighter/elight/motion/body/c07/d03speciallwattack.nuanmb",
             "fighter/elight/motion/body/c07/d03specialairlwattack.nuanmb"
+        ],
+        "fighter/gamewatch/c00": [
+            "fighter/gamewatch/motion/normal_weapon/c00/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c00/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c01": [
+            "fighter/gamewatch/motion/normal_weapon/c01/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c01/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c02": [
+            "fighter/gamewatch/motion/normal_weapon/c02/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c02/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c03": [
+            "fighter/gamewatch/motion/normal_weapon/c03/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c03/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c04": [
+            "fighter/gamewatch/motion/normal_weapon/c04/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c04/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c05": [
+            "fighter/gamewatch/motion/normal_weapon/c05/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c05/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c06": [
+            "fighter/gamewatch/motion/normal_weapon/c06/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c06/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c07": [
+            "fighter/gamewatch/motion/normal_weapon/c07/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c07/c05landingairf.nuanmb"
         ],
         "fighter/ken/c00": [
             "fighter/ken/motion/body/c00/d02specialhireppa.nuanmb"
