@@ -739,6 +739,178 @@
             "fighter/szerosuit/motion/body/c05/d02specialairhi2.nuanmb",
             "fighter/szerosuit/motion/body/c06/d02specialairhi2.nuanmb",
             "fighter/szerosuit/motion/body/c07/d02specialairhi2.nuanmb"
+        ],
+
+        "sound/bank/fighter/se_dolly.nus3bank": [
+            "sound/bank/fighter/se_dolly_c00.nus3bank",
+            "sound/bank/fighter/se_dolly_c01.nus3bank",
+            "sound/bank/fighter/se_dolly_c02.nus3bank",
+            "sound/bank/fighter/se_dolly_c03.nus3bank",
+            "sound/bank/fighter/se_dolly_c04.nus3bank",
+            "sound/bank/fighter/se_dolly_c05.nus3bank",
+            "sound/bank/fighter/se_dolly_c06.nus3bank",
+            "sound/bank/fighter/se_dolly_c07.nus3bank"
+        ],
+        "sound/bank/fighter/se_dolly.nus3audio": [
+            "sound/bank/fighter/se_dolly_c00.nus3audio",
+            "sound/bank/fighter/se_dolly_c01.nus3audio",
+            "sound/bank/fighter/se_dolly_c02.nus3audio",
+            "sound/bank/fighter/se_dolly_c03.nus3audio",
+            "sound/bank/fighter/se_dolly_c04.nus3audio",
+            "sound/bank/fighter/se_dolly_c05.nus3audio",
+            "sound/bank/fighter/se_dolly_c06.nus3audio",
+            "sound/bank/fighter/se_dolly_c07.nus3audio"
+        ],
+        "sound/bank/fighter/se_dolly.tonelabel": [
+            "sound/bank/fighter/se_dolly_c00.tonelabel",
+            "sound/bank/fighter/se_dolly_c01.tonelabel",
+            "sound/bank/fighter/se_dolly_c02.tonelabel",
+            "sound/bank/fighter/se_dolly_c03.tonelabel",
+            "sound/bank/fighter/se_dolly_c04.tonelabel",
+            "sound/bank/fighter/se_dolly_c05.tonelabel",
+            "sound/bank/fighter/se_dolly_c06.tonelabel",
+            "sound/bank/fighter/se_dolly_c07.tonelabel"
+        ],
+        "sound/bank/fighter/se_ken.nus3audio": [
+            "sound/bank/fighter/se_ken_c00.nus3audio",
+            "sound/bank/fighter/se_ken_c01.nus3audio",
+            "sound/bank/fighter/se_ken_c02.nus3audio",
+            "sound/bank/fighter/se_ken_c03.nus3audio",
+            "sound/bank/fighter/se_ken_c04.nus3audio",
+            "sound/bank/fighter/se_ken_c05.nus3audio",
+            "sound/bank/fighter/se_ken_c06.nus3audio",
+            "sound/bank/fighter/se_ken_c07.nus3audio"
+        ],
+        "sound/bank/fighter/se_lucina.nus3audio": [
+            "sound/bank/fighter/se_lucina_c00.nus3audio",
+            "sound/bank/fighter/se_lucina_c01.nus3audio",
+            "sound/bank/fighter/se_lucina_c02.nus3audio",
+            "sound/bank/fighter/se_lucina_c03.nus3audio",
+            "sound/bank/fighter/se_lucina_c04.nus3audio",
+            "sound/bank/fighter/se_lucina_c05.nus3audio",
+            "sound/bank/fighter/se_lucina_c06.nus3audio",
+            "sound/bank/fighter/se_lucina_c07.nus3audio"
+        ],
+        "sound/bank/fighter/se_luigi.nus3audio": [
+            "sound/bank/fighter/se_luigi_c00.nus3audio",
+            "sound/bank/fighter/se_luigi_c01.nus3audio",
+            "sound/bank/fighter/se_luigi_c02.nus3audio",
+            "sound/bank/fighter/se_luigi_c03.nus3audio",
+            "sound/bank/fighter/se_luigi_c04.nus3audio",
+            "sound/bank/fighter/se_luigi_c05.nus3audio",
+            "sound/bank/fighter/se_luigi_c06.nus3audio",
+            "sound/bank/fighter/se_luigi_c07.nus3audio"
+        ],
+        "sound/bank/fighter/se_mario.nus3bank": [
+            "sound/bank/fighter/se_mario_c00.nus3bank",
+            "sound/bank/fighter/se_mario_c01.nus3bank",
+            "sound/bank/fighter/se_mario_c02.nus3bank",
+            "sound/bank/fighter/se_mario_c03.nus3bank",
+            "sound/bank/fighter/se_mario_c04.nus3bank",
+            "sound/bank/fighter/se_mario_c05.nus3bank",
+            "sound/bank/fighter/se_mario_c06.nus3bank",
+            "sound/bank/fighter/se_mario_c07.nus3bank"
+        ],
+        "sound/bank/fighter/se_mario.nus3audio": [
+            "sound/bank/fighter/se_mario_c00.nus3audio",
+            "sound/bank/fighter/se_mario_c01.nus3audio",
+            "sound/bank/fighter/se_mario_c02.nus3audio",
+            "sound/bank/fighter/se_mario_c03.nus3audio",
+            "sound/bank/fighter/se_mario_c04.nus3audio",
+            "sound/bank/fighter/se_mario_c05.nus3audio",
+            "sound/bank/fighter/se_mario_c06.nus3audio",
+            "sound/bank/fighter/se_mario_c07.nus3audio"
+        ],
+        "sound/bank/fighter/se_ryu.nus3bank": [
+            "sound/bank/fighter/se_ryu_c00.nus3bank",
+            "sound/bank/fighter/se_ryu_c01.nus3bank",
+            "sound/bank/fighter/se_ryu_c02.nus3bank",
+            "sound/bank/fighter/se_ryu_c03.nus3bank",
+            "sound/bank/fighter/se_ryu_c04.nus3bank",
+            "sound/bank/fighter/se_ryu_c05.nus3bank",
+            "sound/bank/fighter/se_ryu_c06.nus3bank",
+            "sound/bank/fighter/se_ryu_c07.nus3bank"
+        ],
+        "sound/bank/fighter/se_ryu.nus3audio": [
+            "sound/bank/fighter/se_ryu_c00.nus3audio",
+            "sound/bank/fighter/se_ryu_c01.nus3audio",
+            "sound/bank/fighter/se_ryu_c02.nus3audio",
+            "sound/bank/fighter/se_ryu_c03.nus3audio",
+            "sound/bank/fighter/se_ryu_c04.nus3audio",
+            "sound/bank/fighter/se_ryu_c05.nus3audio",
+            "sound/bank/fighter/se_ryu_c06.nus3audio",
+            "sound/bank/fighter/se_ryu_c07.nus3audio"
+        ],
+        "sound/bank/fighter/se_ryu.tonelabel": [
+            "sound/bank/fighter/se_ryu_c00.tonelabel",
+            "sound/bank/fighter/se_ryu_c01.tonelabel",
+            "sound/bank/fighter/se_ryu_c02.tonelabel",
+            "sound/bank/fighter/se_ryu_c03.tonelabel",
+            "sound/bank/fighter/se_ryu_c04.tonelabel",
+            "sound/bank/fighter/se_ryu_c05.tonelabel",
+            "sound/bank/fighter/se_ryu_c06.tonelabel",
+            "sound/bank/fighter/se_ryu_c07.tonelabel"
+        ],
+
+        "sound/bank/fighter_voice/vc_ken.nus3audio": [
+            "sound/bank/fighter/vc_ken_c00.nus3audio",
+            "sound/bank/fighter/vc_ken_c01.nus3audio",
+            "sound/bank/fighter/vc_ken_c02.nus3audio",
+            "sound/bank/fighter/vc_ken_c03.nus3audio",
+            "sound/bank/fighter/vc_ken_c04.nus3audio",
+            "sound/bank/fighter/vc_ken_c05.nus3audio",
+            "sound/bank/fighter/vc_ken_c06.nus3audio",
+            "sound/bank/fighter/vc_ken_c07.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_lucina.nus3bank": [
+            "sound/bank/fighter/vc_lucina_c00.nus3bank",
+            "sound/bank/fighter/vc_lucina_c01.nus3bank",
+            "sound/bank/fighter/vc_lucina_c02.nus3bank",
+            "sound/bank/fighter/vc_lucina_c03.nus3bank",
+            "sound/bank/fighter/vc_lucina_c04.nus3bank",
+            "sound/bank/fighter/vc_lucina_c05.nus3bank",
+            "sound/bank/fighter/vc_lucina_c06.nus3bank",
+            "sound/bank/fighter/vc_lucina_c07.nus3bank"
+        ],
+        "sound/bank/fighter_voice/vc_lucina.nus3audio": [
+            "sound/bank/fighter/vc_lucina_c00.nus3audio",
+            "sound/bank/fighter/vc_lucina_c01.nus3audio",
+            "sound/bank/fighter/vc_lucina_c02.nus3audio",
+            "sound/bank/fighter/vc_lucina_c03.nus3audio",
+            "sound/bank/fighter/vc_lucina_c04.nus3audio",
+            "sound/bank/fighter/vc_lucina_c05.nus3audio",
+            "sound/bank/fighter/vc_lucina_c06.nus3audio",
+            "sound/bank/fighter/vc_lucina_c07.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_lucina.tonelabel": [
+            "sound/bank/fighter/vc_lucina_c00.tonelabel",
+            "sound/bank/fighter/vc_lucina_c01.tonelabel",
+            "sound/bank/fighter/vc_lucina_c02.tonelabel",
+            "sound/bank/fighter/vc_lucina_c03.tonelabel",
+            "sound/bank/fighter/vc_lucina_c04.tonelabel",
+            "sound/bank/fighter/vc_lucina_c05.tonelabel",
+            "sound/bank/fighter/vc_lucina_c06.tonelabel",
+            "sound/bank/fighter/vc_lucina_c07.tonelabel"
+        ],
+        "sound/bank/fighter_voice/vc_luigi.nus3audio": [
+            "sound/bank/fighter/vc_luigi_c00.nus3audio",
+            "sound/bank/fighter/vc_luigi_c01.nus3audio",
+            "sound/bank/fighter/vc_luigi_c02.nus3audio",
+            "sound/bank/fighter/vc_luigi_c03.nus3audio",
+            "sound/bank/fighter/vc_luigi_c04.nus3audio",
+            "sound/bank/fighter/vc_luigi_c05.nus3audio",
+            "sound/bank/fighter/vc_luigi_c06.nus3audio",
+            "sound/bank/fighter/vc_luigi_c07.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_mario.nus3audio": [
+            "sound/bank/fighter/vc_mario_c00.nus3audio",
+            "sound/bank/fighter/vc_mario_c01.nus3audio",
+            "sound/bank/fighter/vc_mario_c02.nus3audio",
+            "sound/bank/fighter/vc_mario_c03.nus3audio",
+            "sound/bank/fighter/vc_mario_c04.nus3audio",
+            "sound/bank/fighter/vc_mario_c05.nus3audio",
+            "sound/bank/fighter/vc_mario_c06.nus3audio",
+            "sound/bank/fighter/vc_mario_c07.nus3audio"
         ]
     },
     "new-dir-files": {
