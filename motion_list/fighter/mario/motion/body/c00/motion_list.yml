@@ -3151,8 +3151,8 @@ list:
       xlu_end: 0
       cancel_frame: 25
       no_stop_intp: false
-  special_air_lw_heavy:
-    game_script: game_specialairlwheavy
+  special_air_lw_cancel:
+    game_script: game_specialairlwcancel
     flags:
       turn: false
       loop: false
@@ -3173,9 +3173,9 @@ list:
       - name: d03specialairlwheavy.nuanmb
         unk: 0
     scripts:
-      - expression_specialairlwheavy
-      - sound_specialairlwheavy
-      - effect_specialairlwheavy
+      - expression_specialairlwcancel
+      - sound_specialairlwcancel
+      - effect_specialairlwcancel
     extra:
       xlu_start: 0
       xlu_end: 0
