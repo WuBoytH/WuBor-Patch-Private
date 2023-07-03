@@ -12,12 +12,24 @@
     <hash40 index="3">dummy</hash40>
   </list>
   <struct hash="param_private">
-    <float hash="rebel_gauge_damage_add">1</float>
+    <float hash="rebel_gauge_damage_add">0</float>
     <float hash="rebel_gauge_damage_add_handi">0</float>
     <float hash="rebel_gauge_add_dead">0</float>
     <float hash="rebel_gauge_add_dead_handi">0</float>
-    <float hash="rebel_gauge_add_handi_mul">1</float>
+    <float hash="rebel_gauge_add_ally">0</float>
+    <float hash="rebel_gauge_add">0</float>
+	<int hash="doyle_frame">1000</int>
+    <float hash="rebel_gauge_add_handi_mul">0</float>
   </struct>
+  <list hash="rebel_gauge_damage_rate">
+    <float index="0">0</float>
+    <float index="1">0</float>
+    <float index="2">0</float>
+    <float index="3">0</float>
+    <float index="4">0</float>
+    <float index="5">0</float>
+    <float index="6">0</float>
+  </list>
   <list hash="param_wirerope">
     <struct index="0">
       <int hash="rewind_frame">18</int>
@@ -30,7 +42,7 @@
   </list>
   <list hash="param_special_lw">
     <struct index="0">
-      <float hash="guard_rebel_gauge">7.25</float>
+      <float hash="guard_rebel_gauge">0</float>
     </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
