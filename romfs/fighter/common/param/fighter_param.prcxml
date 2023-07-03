@@ -189,8 +189,17 @@
     </struct>
     <!-- MR. GAME & WATCH -->
     <struct index="26">
+      <float hash="walk_speed_max">1.29</float>
+      <float hash="run_speed_max">1.595</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="air_speed_x_stable">1.29</float>
+      <float hash="air_accel_x_mul">0.0</float>
+      <float hash="air_speed_y_stable">1.29</float>
+      <float hash="dive_speed_y">2.064</float>
+      <float hash="weight">80</float>
       <float hash="landing_attack_air_frame_f">15</float>
+      <bool hash="attack100_type">false</bool>
+      <int hash="attack_100_enable_cnt">0</int>
     </struct>
     <!-- META KNIGHT -->
     <struct index="27">
