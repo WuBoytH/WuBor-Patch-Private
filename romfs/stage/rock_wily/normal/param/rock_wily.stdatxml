@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<struct>
+  <list hash="0x1da65a034c">
+    <struct index="0">
+      <float hash="frame">NaN</float>
+    </struct>
+    <struct index="1">
+      <float hash="frame">NaN</float>
+    </struct>
+    <struct index="2">
+      <float hash="frame">NaN</float>
+    </struct>
+  </list>
+</struct>
