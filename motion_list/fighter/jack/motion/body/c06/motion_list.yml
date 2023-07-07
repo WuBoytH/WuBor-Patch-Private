@@ -2969,7 +2969,7 @@ list:
     extra:
       xlu_start: 1
       xlu_end: 7
-      cancel_frame: 60
+      cancel_frame: 45
       no_stop_intp: false
   special_n_jump_landing:
     game_script: game_specialnjumplanding
