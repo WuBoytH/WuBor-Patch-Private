@@ -12,12 +12,41 @@
     <hash40 index="3">dummy</hash40>
   </list>
   <struct hash="param_private">
-    <float hash="rebel_gauge_damage_add">1</float>
+    <float hash="rebel_gauge_damage_add">0</float>
     <float hash="rebel_gauge_damage_add_handi">0</float>
     <float hash="rebel_gauge_add_dead">0</float>
     <float hash="rebel_gauge_add_dead_handi">0</float>
-    <float hash="rebel_gauge_add_handi_mul">1</float>
+    <float hash="rebel_gauge_add_ally">0</float>
+    <float hash="rebel_gauge_add">0</float>
+    <int hash="doyle_frame">900</int>
+    <float hash="rebel_gauge_keep_ratio">0</float>
+    <float hash="rebel_gauge_add_handi_mul">0</float>
   </struct>
+  <list hash="rebel_gauge_damage_rate">
+    <float index="0">0</float>
+    <float index="1">0</float>
+    <float index="2">0</float>
+    <float index="3">0</float>
+    <float index="4">0</float>
+    <float index="5">0</float>
+    <float index="6">0</float>
+  </list>
+  <list hash="param_special_n">
+    <struct index="0">
+      <int hash="jump_barrage_landing_frame">20</int>
+      <int hash="air_barrage_lw_landing_frame">20</int>
+      <int hash="barrage_landing_frame">20</int>
+      <int hash="landing_frame">15</int>
+    </struct>
+    <struct index="1">
+      <int hash="jump_barrage_landing_frame">20</int>
+      <int hash="air_barrage_lw_landing_frame">20</int>
+      <int hash="barrage_landing_frame">20</int>
+      <int hash="landing_frame">15</int>
+    </struct>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+  </list>
   <list hash="param_wirerope">
     <struct index="0">
       <int hash="rewind_frame">18</int>
@@ -30,7 +59,7 @@
   </list>
   <list hash="param_special_lw">
     <struct index="0">
-      <float hash="guard_rebel_gauge">7.25</float>
+      <float hash="guard_rebel_gauge">0</float>
     </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>

@@ -117,9 +117,9 @@ list:
       - sound_wait4
       - effect_wait4
     extra:
-      xlu_start: 2
-      xlu_end: 60
-      cancel_frame: 45
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 15
       no_stop_intp: false
   dispatch:
     game_script: game_wait5
@@ -147,9 +147,9 @@ list:
       - sound_wait5
       - effect_wait5
     extra:
-      xlu_start: 2
-      xlu_end: 70
-      cancel_frame: 50
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 15
       no_stop_intp: false
   wait_item:
     game_script: game_waititem
@@ -2969,7 +2969,7 @@ list:
     extra:
       xlu_start: 1
       xlu_end: 7
-      cancel_frame: 60
+      cancel_frame: 45
       no_stop_intp: false
   special_n_jump_landing:
     game_script: game_specialnjumplanding
