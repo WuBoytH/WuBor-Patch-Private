@@ -8,6 +8,10 @@
     <int hash="entry_frame">300</int>
     <int hash="stay_frame">2147483647</int>
   </struct>
+  <struct hash="safety_settings">
+    <int hash="first_interval_min">2147483647</int>
+    <int hash="first_interval_max">2147483647</int>
+  </struct>
   <uint hash="weight_scaffold1">100</uint>
   <uint hash="weight_scaffold2">0</uint>
   <uint hash="weight_scaffold3">0</uint>
