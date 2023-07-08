@@ -18,7 +18,7 @@
     <float hash="rebel_gauge_add_dead_handi">0</float>
     <float hash="rebel_gauge_add_ally">0</float>
     <float hash="rebel_gauge_add">0</float>
-	<int hash="doyle_frame">900</int>
+    <int hash="doyle_frame">900</int>
     <float hash="rebel_gauge_keep_ratio">0</float>
     <float hash="rebel_gauge_add_handi_mul">0</float>
   </struct>
