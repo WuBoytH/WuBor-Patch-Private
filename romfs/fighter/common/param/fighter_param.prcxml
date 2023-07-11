@@ -197,7 +197,10 @@
       <float hash="air_speed_y_stable">1.29</float>
       <float hash="dive_speed_y">2.064</float>
       <float hash="weight">80</float>
-      <float hash="landing_attack_air_frame_f">15</float>
+      <float hash="landing_attack_air_frame_n">8</float>
+      <float hash="landing_attack_air_frame_f">13</float>
+      <float hash="landing_attack_air_frame_b">17</float>
+      <float hash="landing_attack_air_frame_hi">17</float>
       <bool hash="attack100_type">false</bool>
       <int hash="attack_100_enable_cnt">0</int>
     </struct>
