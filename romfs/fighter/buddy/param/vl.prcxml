@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
+  <list hash="cliff_hang_data">
+    <struct index="0">
+      <float hash="p1_x">12</float>
+      <float hash="p1_y">18</float>
+      <float hash="p2_x">-9</float>
+      <float hash="p2_y">9</float>
+    </struct>
+    <hash40 index="1">dummy</hash40>
+  </list>
   <struct hash="param_buddybomb">
     <int hash="life">187</int>
     <int hash="init_bound_frame">187</int>

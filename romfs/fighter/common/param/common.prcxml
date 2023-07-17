@@ -2,6 +2,8 @@
 <struct>
   <int hash="precede">4</int>
   <float hash="squat_damage_reaction_mul">1</float>
+  <float hash="shield_scale_min">1</float>
+  <float hash="shield_dec1">0.18</float>
   <float hash="shield_setoff_speed_mul">0.135</float>
   <float hash="shield_setoff_speed_max">1.95</float>
   <int hash="guard_off_cancel_frame">5</int>
@@ -25,6 +27,7 @@
   <float hash="mini_jump_attack_mul">1</float>
   <int hash="attack_jump_mini_attack_enable_frame">0</int>
   <int hash="jump_mini_attack_enable_frame">0</int>
+  <int hash="cliff_catch_move_frame">0</int>
   <int hash="cliff_wait_air_xlu_max_frame">30</int>
   <int hash="cliff_wait_damage_xlu_max_frame">30</int>
   <int hash="cliff_wait_xlu_min_frame">11</int>
@@ -34,4 +37,5 @@
   <float hash="damage_fly_length_mul_max">1</float>
   <float hash="damage_fly_length_mul_min">1</float>
   <float hash="damage_fly_reflect_speed_mul">0.8</float>
+  <float hash="dead_down_damage_check_bottom">NaN</float>
 </struct>

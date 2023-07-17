@@ -1,120 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
-  <list hash="map_coll_data">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
-    <hash40 index="5">dummy</hash40>
-  </list>
-  <list hash="jostle_map_coll_data">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
-    <hash40 index="5">dummy</hash40>
-  </list>
-  <list hash="hit_data">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
-    <hash40 index="5">dummy</hash40>
-    <hash40 index="6">dummy</hash40>
-    <hash40 index="7">dummy</hash40>
-    <hash40 index="8">dummy</hash40>
-    <hash40 index="9">dummy</hash40>
-    <hash40 index="10">dummy</hash40>
-  </list>
-  <list hash="hit_target">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-  </list>
   <list hash="cliff_hang_data">
-    <hash40 index="0">dummy</hash40>
-  </list>
-  <list hash="virtual_node_data_hit">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
-    <hash40 index="5">dummy</hash40>
-    <hash40 index="6">dummy</hash40>
-    <hash40 index="7">dummy</hash40>
-    <hash40 index="8">dummy</hash40>
-    <hash40 index="9">dummy</hash40>
-    <hash40 index="10">dummy</hash40>
-  </list>
-  <list hash="virtual_node_data_hit_flip">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-  </list>
-  <list hash="shooting_anim_sequence">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
-    <hash40 index="5">dummy</hash40>
-    <hash40 index="6">dummy</hash40>
-  </list>
-  <list hash="0x1c31a7532a">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-  </list>
-  <list hash="0x1d6580cf6d">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-  </list>
-  <list hash="muzzle_flash_node_data">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-  </list>
-  <list hash="color_correction_data">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-  </list>
-  <list hash="param_bat">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-  </list>
-  <list hash="0x1d5ef2a6a7">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
-    <hash40 index="5">dummy</hash40>
-    <hash40 index="6">dummy</hash40>
-    <hash40 index="7">dummy</hash40>
-  </list>
-  <list hash="param_special_n">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-  </list>
-  <list hash="param_specialn_bullet">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
+    <struct index="0">
+      <float hash="p1_x">10</float>
+      <float hash="p1_y">23</float>
+      <float hash="p2_x">-9</float>
+      <float hash="p2_y">12</float>
+    </struct>
+    <struct index="1">
+      <float hash="p1_x">10</float>
+      <float hash="p1_y">25</float>
+      <float hash="p2_x">-9</float>
+      <float hash="p2_y">12</float>
+    </struct>
   </list>
   <list hash="param_special_s">
     <struct index="0">
@@ -123,33 +21,5 @@
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
-  </list>
-  <list hash="param_special_hi">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-  </list>
-  <list hash="param_special_lw">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-  </list>
-  <list hash="power_up_final">
-    <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
-    <hash40 index="5">dummy</hash40>
-    <hash40 index="6">dummy</hash40>
-    <hash40 index="7">dummy</hash40>
-    <hash40 index="8">dummy</hash40>
-    <hash40 index="9">dummy</hash40>
-    <hash40 index="10">dummy</hash40>
-    <hash40 index="11">dummy</hash40>
-    <hash40 index="12">dummy</hash40>
-    <hash40 index="13">dummy</hash40>
   </list>
 </struct>

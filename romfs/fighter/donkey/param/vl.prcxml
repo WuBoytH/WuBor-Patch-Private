@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<struct>
+  <list hash="cliff_hang_data">
+    <hash40 index="0">dummy</hash40>
+	<struct index="1">
+      <float hash="p1_x">22</float>
+      <float hash="p1_y">18</float>
+      <float hash="p2_x">-15</float>
+      <float hash="p2_y">8</float>
+    </struct>
+  </list>
+</struct>
