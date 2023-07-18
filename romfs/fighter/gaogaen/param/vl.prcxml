@@ -29,6 +29,7 @@
     <struct index="0">
       <float hash="critical_zoom_rate">3</float>
       <float hash="critical_camera_offset_x">0</float>
+      <float hash="special_air_lw_speed_y_mul">0.0</float>
       <float hash="special_lw_hit_damage_mul">0.5</float>
       <float hash="special_lw_hit_stop_mul">2</float>
       <float hash="special_air_lw_hit_accel_y">0.04</float>
