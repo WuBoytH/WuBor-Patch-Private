@@ -3419,7 +3419,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 75
+      cancel_frame: 90
       no_stop_intp: true
   final_start:
     game_script: game_finalstart
