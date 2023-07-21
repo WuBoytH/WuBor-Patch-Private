@@ -28,7 +28,7 @@
   <list hash="param_breath">
     <struct index="0">
       <float hash="life">60</float>
-      <float hash="min_speed">1.2</float>
+      <float hash="min_speed">1</float>
       <float hash="max_speed">2</float>
     </struct>
     <hash40 index="1">dummy</hash40>
