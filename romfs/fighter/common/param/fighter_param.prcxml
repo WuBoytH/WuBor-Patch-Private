@@ -67,6 +67,7 @@
     </struct>
     <!-- LUIGI -->
     <struct index="8">
+      <float hash="ground_brake">0.075</float>
       <int hash="jump_squat_frame">4</int>
       <float hash="air_speed_x_stable">0.81</float>
       <float hash="weight">98</float>
@@ -198,8 +199,8 @@
       <float hash="dive_speed_y">2.064</float>
       <float hash="weight">80</float>
       <float hash="landing_attack_air_frame_n">8</float>
-      <float hash="landing_attack_air_frame_f">13</float>
-      <float hash="landing_attack_air_frame_b">17</float>
+      <float hash="landing_attack_air_frame_f">12</float>
+      <float hash="landing_attack_air_frame_b">15</float>
       <float hash="landing_attack_air_frame_hi">17</float>
       <bool hash="attack100_type">false</bool>
       <int hash="attack_100_enable_cnt">0</int>
