@@ -14,10 +14,10 @@
     <hash40 index="10">dummy</hash40>
     <hash40 index="11">dummy</hash40>
     <struct index="12">
-	  <float hash="size">0</float>
+	  <hash40 hash="status">hit_status_off</hash40>
 	</struct>
     <struct index="13">
-	  <float hash="size">0</float>
+	  <hash40 hash="status">hit_status_off</hash40>
 	</struct>
   <list hash="cliff_hang_data">
     <hash40 index="0">dummy</hash40>
