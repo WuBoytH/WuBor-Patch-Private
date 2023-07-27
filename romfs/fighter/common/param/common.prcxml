@@ -37,5 +37,6 @@
   <float hash="damage_fly_length_mul_max">1</float>
   <float hash="damage_fly_length_mul_min">1</float>
   <float hash="damage_fly_reflect_speed_mul">0.8</float>
+  <float hash="0x29baab727b">999</float>
   <float hash="dead_down_damage_check_bottom">NaN</float>
 </struct>
