@@ -719,7 +719,7 @@
     </struct>
     <!-- JOKER -->
     <struct index="68">
-      <float hash="dash_speed">1.173</float>
+      <float hash="dash_speed">1.73</float>
       <float hash="run_accel_mul">0.1</float>
       <float hash="run_accel_add">0.04</float>
       <float hash="run_speed_max">1.873</float>
