@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
   <list hash="fighter_param_table">
-	<!-- MARIO -->
+    <!-- MARIO -->
     <struct index="0">
       <float hash="dash_speed">1.75</float>
       <float hash="run_accel_mul">0.0998</float>
