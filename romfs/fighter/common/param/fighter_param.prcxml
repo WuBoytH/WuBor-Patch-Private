@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
   <list hash="fighter_param_table">
-	<!-- MARIO -->
+    <!-- MARIO -->
     <struct index="0">
       <int hash="jump_squat_frame">4</int>
       <float hash="landing_attack_air_frame_n">8</float>
