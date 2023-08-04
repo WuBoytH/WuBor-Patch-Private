@@ -4,6 +4,7 @@
     <!-- MARIO -->
     <struct index="0">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.5</float>
       <float hash="landing_attack_air_frame_n">8</float>
       <float hash="landing_attack_air_frame_b">8</float>
       <float hash="landing_attack_air_frame_hi">8</float>
@@ -11,6 +12,7 @@
     <!-- DONKEY KONG -->
     <struct index="1">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.65</float>
       <float hash="damage_fly_top_air_accel_y">0.08232</float>
       <float hash="weight">118</float>
       <float hash="landing_attack_air_frame_f">15</float>
@@ -18,6 +20,7 @@
     <!-- LINK -->
     <struct index="2">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
       <float hash="air_speed_x_stable">0.966</float>
       <float hash="air_accel_y">0.108</float>
       <float hash="landing_attack_air_frame_n">7</float>
@@ -26,16 +29,19 @@
     <!-- SAMUS -->
     <struct index="3">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
       <float hash="air_speed_y_stable">1.4</float>
       <float hash="dive_speed_y">2.24</float>
     </struct>
     <!-- YOSHI -->
     <struct index="4">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.6</float>
     </struct>
     <!-- KIRBY -->
     <struct index="5">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
       <float hash="air_speed_x_stable">0.935</float>
       <float hash="landing_attack_air_frame_n">7</float>
     </struct>
@@ -45,12 +51,14 @@
       <float hash="dash_speed">2.24</float>
       <float hash="run_speed_max">2.337</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.7</float>
       <float hash="air_accel_y">0.21</float>
       <float hash="landing_attack_air_frame_b">11</float>
     </struct>
     <!-- PIKACHU -->
     <struct index="7">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.3</float>
       <float hash="damage_fly_top_air_accel_y">0.067872</float>
       <float hash="weight">77</float>
       <float hash="landing_attack_air_frame_n">12</float>
@@ -64,6 +72,7 @@
     <!-- LUIGI -->
     <struct index="8">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.2</float>
       <float hash="air_speed_x_stable">0.81</float>
       <float hash="weight">98</float>
       <bool hash="air_lasso_type">false</bool>
@@ -71,16 +80,19 @@
     <!-- NESS -->
     <struct index="9">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
     </struct>
     <!-- CAPTAIN FALCON -->
     <struct index="10">
       <float hash="run_speed_max">2.485</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.6</float>
       <float hash="landing_attack_air_frame_n">8</float>
     </struct>
     <!-- JIGGLYPUFF -->
     <struct index="11">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.5</float>
       <float hash="damage_fly_top_air_accel_y">0.066192</float>
       <float hash="weight">71</float>
       <float hash="landing_attack_air_frame_b">11</float>
@@ -88,11 +100,13 @@
     <!-- PEACH -->
     <struct index="12">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="landing_attack_air_frame_n">8</float>
     </struct>
     <!-- BOWSER -->
     <struct index="13">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="damage_fly_top_air_accel_y">0.084</float>
       <float hash="weight">121</float>
       <float hash="landing_attack_air_frame_f">13</float>
@@ -100,21 +114,25 @@
     <!-- POPO -->
     <struct index="14">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.3</float>
     </struct>
     <!-- NANA -->
     <struct index="15">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.3</float>
     </struct>
     <!-- SHEIK -->
     <struct index="16">
       <float hash="run_speed_max">2.37</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.45</float>
       <float hash="landing_attack_air_frame_n">7</float>
       <float hash="landing_attack_air_frame_f">7</float>
     </struct>
     <!-- ZELDA -->
     <struct index="17">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
       <float hash="air_accel_x_add">0.025</float>
       <float hash="landing_attack_air_frame_f">12</float>
       <float hash="landing_attack_air_frame_b">12</float>
@@ -129,6 +147,7 @@
       <float hash="dash_speed">1.6</float>
       <float hash="run_speed_max">1.5</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="jump_initial_y">19.9815</float>
       <float hash="jump_y">31</float>
       <float hash="air_accel_x_mul">0.053</float>
@@ -143,12 +162,14 @@
     <!-- PICHU -->
     <struct index="19">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="damage_fly_top_air_accel_y">0.064512</float>
       <float hash="weight">67</float>
     </struct>
     <!-- FALCO -->
     <struct index="20">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.55</float>
     </struct>
     <!-- MARTH -->
     <struct index="21">
@@ -156,11 +177,13 @@
       <float hash="dash_speed">2.12</float>
       <float hash="run_speed_max">1.85</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
       <float hash="landing_attack_air_frame_n">8</float>
     </struct>
     <!-- YOUNG LINK -->
     <struct index="22">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
       <float hash="landing_attack_air_frame_n">8</float>
       <float hash="landing_attack_air_frame_f">8</float>
       <float hash="landing_attack_air_frame_b">8</float>
@@ -169,6 +192,7 @@
     <struct index="23">
       <float hash="run_speed_max">1.4</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.25</float>
       <float hash="damage_fly_top_air_accel_y">0.080976</float>
       <float hash="weight">116</float>
       <float hash="landing_attack_air_frame_b">10</float>
@@ -176,19 +200,23 @@
     <!-- MEWTWO -->
     <struct index="24">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.6</float>
     </struct>
     <!-- ROY -->
     <struct index="25">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.5</float>
     </struct>
     <!-- MR. GAME & WATCH -->
     <struct index="26">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.55</float>
       <float hash="landing_attack_air_frame_f">15</float>
     </struct>
     <!-- META KNIGHT -->
     <struct index="27">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="jump_aerial_y">30</float>
       <float hash="air_accel_y">0.135</float>
       <float hash="landing_attack_air_frame_n">8</float>
@@ -204,6 +232,7 @@
     <!-- PIT -->
     <struct index="28">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
       <float hash="air_speed_x_stable">0.945</float>
     </struct>
     <!-- ZERO SUIT SAMUS -->
@@ -213,6 +242,7 @@
       <float hash="dash_speed">2.3</float>
       <float hash="run_speed_max">2.1</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.6</float>
       <float hash="jump_y">37</float>
       <float hash="mini_jump_y">18</float>
       <float hash="jump_aerial_y">37</float>
@@ -223,38 +253,46 @@
     <!-- WARIO -->
     <struct index="30">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.55</float>
     </struct>
     <!-- SNAKE -->
     <struct index="31">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.3</float>
     </struct>
     <!-- IKE -->
     <struct index="32">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
     </struct>
     <!-- SQUIRTLE -->
     <struct index="33">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
       <float hash="landing_attack_air_frame_f">7</float>
       <float hash="landing_attack_air_frame_hi">7</float>
     </struct>
     <!-- IVYSAUR -->
     <struct index="34">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.25</float>
     </struct>
     <!-- CHARIZARD -->
     <struct index="35">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.45</float>
       <float hash="damage_fly_top_air_accel_y">0.080304</float>
       <float hash="weight">114</float>
     </struct>
     <!-- DIDDY KONG -->
     <struct index="36">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.3</float>
     </struct>
     <!-- LUCAS -->
     <struct index="37">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="jump_y">31.41</float>
       <float hash="air_speed_y_stable">1.48</float>
       <float hash="landing_attack_air_frame_lw">18</float>
@@ -264,12 +302,14 @@
       <float hash="dash_speed">1.704</float>
       <float hash="run_accel_mul">0.135</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.7</float>
       <float hash="jump_aerial_speed_x_mul">0.5</float>
       <float hash="jump_aerial_y">21</float>
     </struct>
     <!-- KING DEDEDE -->
     <struct index="39">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.25</float>
       <float hash="air_speed_x_stable">0.79</float>
       <float hash="damage_fly_top_air_accel_y">0.082656</float>
       <float hash="weight">123</float>
@@ -277,10 +317,12 @@
     <!-- OLIMAR -->
     <struct index="40">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.25</float>
     </struct>
     <!-- LUCARIO -->
     <struct index="41">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.65</float>
       <float hash="landing_attack_air_frame_n">12</float>
       <float hash="landing_attack_air_frame_f">7</float>
       <float hash="landing_attack_air_frame_b">12</float>
@@ -292,27 +334,32 @@
       <float hash="dash_speed">1.78</float>
       <float hash="run_speed_max">1.525</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.25</float>
       <float hash="landing_attack_air_frame_n">9</float>
     </struct>
     <!-- TOON LINK -->
     <struct index="43">
       <float hash="run_speed_max">1.95</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
     </struct>
     <!-- WOLF -->
     <struct index="44">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.6</float>
     </struct>
     <!-- VILLAGER -->
     <struct index="45">
       <float hash="run_speed_max">1.465</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.3</float>
       <float hash="landing_attack_air_frame_hi">10</float>
       <float hash="landing_attack_air_frame_lw">10</float>
     </struct>
     <!-- MEGA MAN -->
     <struct index="46">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="landing_attack_air_frame_n">7</float>
       <int hash="attack_combo_max">3</int>
       <float hash="combo_attack_12_end">20</float>
@@ -321,21 +368,25 @@
     <!-- WII FIT TRAINER -->
     <struct index="47">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.5</float>
     </struct>
     <!-- ROSALINA & LUMA -->
     <struct index="48">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
     </struct>
     <!-- LITTLE MAC -->
     <struct index="49">
       <float hash="dash_speed">2.38</float>
       <float hash="run_speed_max">2.31</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.55</float>
     </struct>
     <!-- GRENINJA -->
     <struct index="50">
       <float hash="run_speed_max">2.223</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.65</float>
       <float hash="air_speed_x_stable">1.18</float>
       <float hash="weight">84</float>
       <float hash="landing_attack_air_frame_lw">27</float>
@@ -343,55 +394,66 @@
     <!-- PALUTENA -->
     <struct index="51">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
     </struct>
     <!-- PAC-MAN -->
     <struct index="52">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
     </struct>
     <!-- ROBIN -->
     <struct index="53">
       <float hash="run_speed_max">1.37</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.45</float>
       <float hash="air_speed_x_stable">1.12</float>
     </struct>
     <!-- SHULK -->
     <struct index="54">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.45</float>
       <float hash="landing_attack_air_frame_n">7</float>
     </struct>
     <!-- BOWSER JR. -->
     <struct index="55">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="landing_attack_air_frame_b">12</float>
     </struct>
     <!-- DUCK HUNT -->
     <struct index="56">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
     </struct>
     <!-- RYU -->
     <struct index="57">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="landing_attack_air_frame_n">7</float>
     </struct>
     <!-- CLOUD -->
     <struct index="58">
       <float hash="run_speed_max">2.02</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.45</float>
       <float hash="landing_attack_air_frame_b">10</float>
     </struct>
     <!-- CORRIN -->
     <struct index="59">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
     </struct>
     <!-- BAYONETTA -->
     <struct index="60">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
     </struct>
     <!-- INKLING -->
     <struct index="61">
       <float hash="walk_speed_max">1.208</float>
       <float hash="ground_brake">0.078</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.55</float>
       <float hash="mini_jump_y">16.8</float>
       <float hash="jump_aerial_y">37</float>
       <float hash="air_accel_y">0.102</float>
@@ -404,6 +466,7 @@
     <!-- RIDLEY -->
     <struct index="62">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.5</float>
       <float hash="damage_fly_top_air_accel_y">0.079296</float>
       <float hash="weight">111</float>
       <float hash="landing_attack_air_frame_b">14</float>
@@ -418,6 +481,7 @@
       <int hash="jump_squat_frame">4</int>
       <float hash="jump_speed_x">1</float>
       <float hash="jump_speed_x_mul">1</float>
+      <float hash="jump_speed_x_max">1.3</float>
       <float hash="jump_aerial_speed_x_mul">0.75</float>
       <float hash="jump_initial_y">14.25</float>
       <float hash="jump_y">31.25</float>
@@ -437,6 +501,7 @@
     <struct index="64">
       <float hash="walk_speed_max">1.25</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="air_speed_x_stable">1.045</float>
       <float hash="damage_fly_top_air_accel_y">0.083328</float>
       <float hash="weight">125</float>
@@ -445,6 +510,7 @@
     <struct index="65">
       <float hash="run_speed_max">1.545</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="air_speed_x_stable">1.08</float>
       <float hash="air_accel_y">0.132</float>
       <float hash="air_speed_y_stable">1.55</float>
@@ -459,6 +525,7 @@
       <float hash="dash_speed">1.86</float>
       <float hash="run_speed_max">1.43</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.3</float>
       <float hash="air_accel_x_mul">0.075</float>
       <float hash="air_speed_x_stable">1.025</float>
       <float hash="damage_fly_top_air_accel_y">0.07896</float>
@@ -469,12 +536,14 @@
     <!-- PIRANHA PLANT -->
     <struct index="67">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
       <float hash="landing_attack_air_frame_n">11</float>
       <float hash="landing_attack_air_frame_b">12</float>
     </struct>
     <!-- JOKER -->
     <struct index="68">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.45</float>
       <float hash="damage_fly_top_air_accel_y">0.071232</float>
       <float hash="weight">87</float>
       <float hash="landing_attack_air_frame_hi">15</float>
@@ -482,10 +551,12 @@
     <!-- HERO -->
     <struct index="69">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
     </struct>
     <!-- BANJO & KAZOOIE -->
     <struct index="70">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
       <float hash="landing_attack_air_frame_n">10</float>
       <float hash="landing_attack_air_frame_f">10</float>
       <float hash="landing_attack_air_frame_b">14</float>
@@ -497,6 +568,7 @@
       <float hash="walk_speed_max">0.76</float>
       <float hash="dash_speed">1.72</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.3</float>
       <float hash="air_accel_x_mul">0.04</float>
       <float hash="air_accel_x_add">0</float>
       <float hash="air_speed_x_stable">0.977</float>
@@ -512,6 +584,7 @@
     <struct index="72">
       <float hash="run_speed_max">1.46</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.25</float>
       <float hash="air_speed_x_stable">0.905</float>
       <float hash="landing_attack_air_frame_lw">27</float>
     </struct>
@@ -522,11 +595,13 @@
     <!-- STEVE -->
     <struct index="74">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.2</float>
     </struct>
     <!-- KAZUYA -->
     <struct index="75">
       <float hash="walk_speed_max">0.8</float>
       <int hash="jump_squat_frame">7</int>
+      <float hash="jump_speed_x_max">1.25</float>
       <float hash="damage_fly_top_air_accel_y">0.078624</float>
       <float hash="weight">109</float>
       <float hash="landing_attack_air_frame_lw">22</float>
@@ -534,6 +609,7 @@
     <!-- SORA -->
     <struct index="76">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.3</float>
       <float hash="dive_speed_y">2.736</float>
       <bool hash="ladder_attack_lw_fall">false</bool>
     </struct>
@@ -542,6 +618,7 @@
       <float hash="dash_speed">1.72</float>
       <float hash="run_speed_max">1.41</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.3</float>
       <float hash="damage_fly_top_air_accel_y">0.075264</float>
       <float hash="weight">99</float>
     </struct>
@@ -550,6 +627,7 @@
       <float hash="dash_speed">2.36</float>
       <float hash="run_speed_max">2.36</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="damage_fly_top_air_accel_y">0.071904</float>
       <float hash="weight">89</float>
       <float hash="landing_attack_air_frame_n">7</float>
@@ -557,20 +635,24 @@
     <!-- SEPHIROTH -->
     <struct index="79">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.35</float>
     </struct>
     <!-- MII BRAWLER -->
     <struct index="80">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.45</float>
       <float hash="landing_attack_air_frame_n">7</float>
     </struct>
     <!-- MII SWORDFIGHTER -->
     <struct index="81">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.3</float>
     </struct>
     <!-- MII GUNNER -->
     <struct index="82">
       <float hash="run_speed_max">1.45</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.3</float>
     </struct>
     <!-- DARK SAMUS -->
     <struct index="83">
@@ -578,6 +660,7 @@
       <float hash="dash_speed">1.75</float>
       <float hash="run_speed_max">1.57</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.5</float>
       <float hash="jump_initial_y">10.175</float>
       <float hash="air_speed_x_stable">1.2</float>
       <float hash="air_accel_y">0.066</float>
@@ -596,6 +679,7 @@
       <float hash="dash_speed">1.945</float>
       <float hash="run_speed_max">1.8</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.45</float>
       <float hash="jump_y">33.3</float>
       <float hash="mini_jump_y">15.85</float>
       <float hash="jump_aerial_y">34.5</float>
@@ -616,6 +700,7 @@
       <float hash="dash_speed">1.9</float>
       <float hash="run_speed_max">1.7</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="jump_y">28</float>
       <float hash="mini_jump_y">14</float>
       <float hash="jump_aerial_y">28</float>
@@ -647,6 +732,7 @@
       <float hash="run_accel_add">0.4</float>
       <float hash="run_speed_max">1.777</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.4</float>
       <float hash="jump_y">34.25</float>
       <float hash="mini_jump_y">14.8</float>
       <float hash="jump_aerial_y">27</float>
@@ -668,6 +754,7 @@
     <!-- DARK PIT -->
     <struct index="87">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.55</float>
       <float hash="jump_y">24.5</float>
       <float hash="mini_jump_y">12.8</float>
       <float hash="jump_aerial_y">24.5</float>
@@ -678,6 +765,7 @@
     <!-- KEN -->
     <struct index="88">
       <int hash="jump_squat_frame">4</int>
+      <float hash="jump_speed_x_max">1.45</float>
       <float hash="landing_attack_air_frame_n">7</float>
     </struct>
     <!-- RICHTER -->
@@ -691,7 +779,7 @@
       <int hash="jump_squat_frame">4</int>
       <float hash="jump_speed_x">0.7</float>
       <float hash="jump_speed_x_mul">0.7</float>
-      <float hash="jump_speed_x_max">1.3</float>
+      <float hash="jump_speed_x_max">1.35</float>
       <float hash="jump_aerial_speed_x_mul">0.7</float>
       <float hash="jump_initial_y">13</float>
       <float hash="jump_y">24</float>
