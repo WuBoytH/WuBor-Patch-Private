@@ -104,6 +104,7 @@
       <float hash="run_speed_max">1.55</float>
       <int hash="jump_squat_frame">4</int>
       <float hash="air_speed_x_stable">0.81</float>
+      <float hash="damage_fly_top_air_accel_y">0.074928</float>
       <float hash="weight">98</float>
       <bool hash="air_lasso_type">false</bool>
     </struct>
@@ -151,7 +152,7 @@
       <float hash="run_accel_add">0.04</float>
       <float hash="run_speed_max">1.37</float>
       <int hash="jump_squat_frame">4</int>
-      <float hash="damage_fly_top_air_accel_y">0.084</float>
+      <float hash="damage_fly_top_air_accel_y">0.082656</float>
       <float hash="weight">121</float>
       <float hash="landing_attack_air_frame_f">13</float>
     </struct>
@@ -210,6 +211,7 @@
       <float hash="air_speed_x_stable">0.93</float>
       <float hash="air_accel_y">0.111</float>
       <float hash="air_speed_y_stable">1.68</float>
+      <float hash="damage_fly_top_air_accel_y">0.07728</float>
       <float hash="weight">105</float>
       <float hash="landing_attack_air_frame_n">8</float>
       <float hash="landing_attack_air_frame_hi">10</float>
@@ -272,6 +274,7 @@
       <float hash="run_accel_add">0.1</float>
       <float hash="run_speed_max">2.05</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="damage_fly_top_air_accel_y">0.0672</float>
       <float hash="weight">75</float>
       <float hash="landing_attack_air_frame_hi">10</float>
     </struct>
@@ -294,6 +297,7 @@
       <float hash="air_speed_x_stable">1.29</float>
       <float hash="air_accel_x_mul">0.0</float>
       <float hash="air_speed_y_stable">1.29</float>
+      <float hash="damage_fly_top_air_accel_y">0.06888</float>
       <float hash="dive_speed_y">2.064</float>
       <float hash="weight">80</float>
       <float hash="landing_attack_air_frame_n">8</float>
@@ -344,6 +348,7 @@
       <float hash="mini_jump_y">18</float>
       <float hash="jump_aerial_y">37</float>
       <float hash="air_speed_x_stable">1.23</float>
+      <float hash="damage_fly_top_air_accel_y">0.066864</float>
       <float hash="weight">74</float>
       <float hash="landing_attack_air_frame_hi">7</float>
     </struct>
@@ -436,7 +441,7 @@
       <float hash="run_speed_max">1.41</float>
       <int hash="jump_squat_frame">4</int>
       <float hash="air_speed_x_stable">0.79</float>
-      <float hash="damage_fly_top_air_accel_y">0.082656</float>
+      <float hash="damage_fly_top_air_accel_y">0.083328</float>
       <float hash="weight">123</float>
     </struct>
     <!-- OLIMAR -->
@@ -531,6 +536,7 @@
       <float hash="run_accel_add">0.03</float>
       <float hash="run_speed_max">2.15</float>
       <int hash="jump_squat_frame">4</int>
+      <float hash="damage_fly_top_air_accel_y">0.07056</float>
       <float hash="weight">85</float>
     </struct>
     <!-- GRENINJA -->
@@ -544,6 +550,7 @@
       <float hash="mini_jump_y">21</float>
       <float hash="air_speed_x_stable">1.18</float>
       <float hash="air_accel_y">0.165</float>
+      <float hash="damage_fly_top_air_accel_y">0.070224</float>
       <float hash="weight">84</float>
       <float hash="landing_attack_air_frame_lw">27</float>
     </struct>
@@ -699,7 +706,7 @@
       <float hash="run_speed_max">1.41</float>
       <int hash="jump_squat_frame">4</int>
       <float hash="air_speed_x_stable">1.045</float>
-      <float hash="damage_fly_top_air_accel_y">0.083328</float>
+      <float hash="damage_fly_top_air_accel_y">0.084</float>
       <float hash="weight">125</float>
     </struct>
     <!-- ISABELLE -->
@@ -787,7 +794,7 @@
       <float hash="air_speed_x_stable">0.977</float>
       <float hash="air_accel_y">0.095</float>
       <float hash="air_speed_y_stable">1.5</float>
-      <float hash="damage_fly_top_air_accel_y">0.07728</float>
+      <float hash="damage_fly_top_air_accel_y">0.076944</float>
       <float hash="dive_speed_y">2.4</float>
       <float hash="weight">104</float>
       <float hash="landing_attack_air_frame_f">10</float>
@@ -931,6 +938,7 @@
       <float hash="air_speed_x_stable">1.15</float>
       <float hash="air_accel_y">0.091</float>
       <float hash="air_speed_y_stable">1.53</float>
+      <float hash="damage_fly_top_air_accel_y">0.073248</float>
       <float hash="dive_speed_y">2.448</float>
       <float hash="weight">93</float>
       <float hash="landing_attack_air_frame_n">8</float>
@@ -954,6 +962,7 @@
       <float hash="air_speed_x_stable">1.142</float>
       <float hash="air_accel_y">0.1</float>
       <float hash="air_speed_y_stable">1.68</float>
+      <float hash="damage_fly_top_air_accel_y">0.069888</float>
       <float hash="weight">83</float>
       <float hash="landing_attack_air_frame_n">8</float>
       <float hash="landing_attack_air_frame_f">13</float>
@@ -984,6 +993,7 @@
       <float hash="air_speed_x_stable">1.225</float>
       <float hash="air_accel_y">0.085</float>
       <float hash="air_speed_y_stable">1.625</float>
+      <float hash="damage_fly_top_air_accel_y">0.076608</float>
       <float hash="dive_speed_y">2.752</float>
       <float hash="weight">103</float>
       <float hash="landing_attack_air_frame_n">10</float>
@@ -1041,7 +1051,7 @@
       <float hash="air_accel_x_add">0.005</float>
       <float hash="air_speed_x_stable">1.12</float>
       <float hash="air_brake_x">0.00375</float>
-      <float hash="damage_fly_top_air_accel_y">0.075264</float>
+      <float hash="damage_fly_top_air_accel_y">0.07392</float>
       <float hash="air_brake_y">0.00375</float>
       <float hash="weight">95</float>
       <float hash="air_ground_speed_brake">0.04</float>
