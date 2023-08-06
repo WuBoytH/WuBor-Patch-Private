@@ -286,7 +286,7 @@
       <float hash="run_accel_add">0.03</float>
       <float hash="run_speed_max">1.32</float>
       <int hash="jump_squat_frame">4</int>
-      <float hash="jump_speed_x_max">1.23</float>
+      <float hash="jump_speed_x_max">1.42</float>
       <float hash="air_speed_x_stable">0.88</float>
       <float hash="damage_fly_top_air_accel_y">0.080976</float>
       <float hash="weight">116</float>
