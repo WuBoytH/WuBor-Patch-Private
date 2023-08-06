@@ -2609,7 +2609,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 42
+      cancel_frame: 44
       no_stop_intp: false
   attack_s4_hold:
     game_script: game_attacks4charge
