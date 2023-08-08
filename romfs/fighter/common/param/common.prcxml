@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
   <int hash="precede">4</int>
+  <float hash="turn_frame">0</float>
   <int hash="turn_dash_frame">8</int>
   <int hash="retry_turn_dash_frame">8</int>
   <int hash="dash_enable_attack_frame">8</int>
