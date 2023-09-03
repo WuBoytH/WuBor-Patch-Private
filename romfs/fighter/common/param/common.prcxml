@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
   <int hash="precede">4</int>
+  <float hash="turn_frame">0</float>
+  <int hash="turn_dash_frame">5</int>
+  <int hash="retry_turn_dash_frame">9</int>
+  <int hash="dash_enable_attack_frame">9</int>
   <float hash="squat_damage_reaction_mul">1</float>
   <float hash="shield_scale_min">1</float>
   <float hash="shield_dec1">0.18</float>
