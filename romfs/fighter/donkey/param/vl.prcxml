@@ -19,6 +19,7 @@
     <struct index="13">
 	  <hash40 hash="status">hit_status_off</hash40>
 	</struct>
+  </list>
   <list hash="cliff_hang_data">
     <hash40 index="0">dummy</hash40>
 	<struct index="1">
