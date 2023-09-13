@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
+  <list hash="hit_data">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+    <hash40 index="5">dummy</hash40>
+    <hash40 index="6">dummy</hash40>
+    <struct index="7">
+	  <hash40 hash="part">collision_part_body</hash40>
+	</struct>
+    <struct index="8">
+	  <hash40 hash="part">collision_part_body</hash40>
+	</struct>
+    <hash40 index="9">dummy</hash40>
+    <hash40 index="10">dummy</hash40>
+    <hash40 index="11">dummy</hash40>
+    <hash40 index="12">dummy</hash40>
+  </list>
   <list hash="cliff_hang_data">
     <struct index="0">
       <float hash="p1_x">11</float>
