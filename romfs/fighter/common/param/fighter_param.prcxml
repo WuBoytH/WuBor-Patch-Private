@@ -58,8 +58,19 @@
       <float hash="run_accel_add">0.04</float>
       <float hash="run_speed_max">1.86</float>
       <int hash="jump_squat_frame">4</int>
-      <float hash="air_brake_x">0.007</float>
       <float hash="jump_speed_x_max">1.7</float>
+      <float hash="mini_jump_y">17.25</float>
+      <float hash="jump_aerial_y">40.5</float>
+      <float hash="air_speed_x_stable">1.28</float>
+      <float hash="air_brake_x">0.007</float>
+      <float hash="air_accel_y">0.16</float>
+      <float hash="air_speed_y_stable">1.875</float>
+      <float hash="dive_speed_y">3.0</float>
+      <float hash="landing_attack_air_frame_n">8</float>
+      <float hash="landing_attack_air_frame_f">14</float>
+      <float hash="landing_attack_air_frame_b">14</float>
+      <float hash="landing_attack_air_frame_hi">11</float>
+      <float hash="landing_attack_air_frame_lw">15</float>
     </struct>
     <!-- KIRBY -->
     <struct index="5">
