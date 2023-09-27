@@ -2909,7 +2909,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 36
+      cancel_frame: 28
       no_stop_intp: true
   attack_air_f:
     game_script: game_attackairf
