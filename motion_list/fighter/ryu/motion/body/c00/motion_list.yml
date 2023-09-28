@@ -3749,7 +3749,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 56
+      cancel_frame: 52
       no_stop_intp: true
   special_lw_turn:
     game_script: game_speciallwturn
@@ -3899,7 +3899,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 56
+      cancel_frame: 52
       no_stop_intp: true
   special_air_lw_turn:
     game_script: game_specialairlwturn
