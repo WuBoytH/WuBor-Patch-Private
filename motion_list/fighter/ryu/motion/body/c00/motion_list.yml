@@ -3871,36 +3871,6 @@ list:
       xlu_end: 0
       cancel_frame: 20
       no_stop_intp: true
-  special_lw_step_b:
-    game_script: game_speciallwstepb
-    flags:
-      turn: false
-      loop: false
-      move: true
-      fix_trans: false
-      fix_rot: false
-      fix_scale: false
-      unk_40: false
-      unk_80: true
-      unk_100: false
-      unk_200: false
-      unk_400: false
-      unk_800: false
-      unk_1000: false
-      unk_2000: false
-    blend_frames: 0
-    animations:
-      - name: d03speciallwstepb.nuanmb
-        unk: 0
-    scripts:
-      - expression_speciallwstepb
-      - sound_speciallwstepb
-      - effect_speciallwstepb
-    extra:
-      xlu_start: 0
-      xlu_end: 0
-      cancel_frame: 20
-      no_stop_intp: true
   special_air_lw_start:
     game_script: game_specialairlwstart
     flags:
@@ -4021,8 +3991,38 @@ list:
       xlu_end: 0
       cancel_frame: 20
       no_stop_intp: true
-  special_air_lw_step_b:
-    game_script: game_specialairlwstepb
+  special_lw_impact:
+    game_script: game_speciallwimpact
+    flags:
+      turn: false
+      loop: false
+      move: true
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d03speciallwstepb.nuanmb
+        unk: 0
+    scripts:
+      - expression_speciallwimpact
+      - sound_speciallwimpact
+      - effect_speciallwimpact
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 58
+      no_stop_intp: true
+  special_lw_reversal:
+    game_script: game_speciallwreversal
     flags:
       turn: false
       loop: false
@@ -4043,13 +4043,13 @@ list:
       - name: d03specialairlwstepb.nuanmb
         unk: 0
     scripts:
-      - expression_specialairlwstepb
-      - sound_specialairlwstepb
-      - effect_specialairlwstepb
+      - expression_speciallwreversal
+      - sound_speciallwreversal
+      - effect_speciallwreversal
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 20
+      cancel_frame: 56
       no_stop_intp: true
   ink:
     game_script: game_ink
