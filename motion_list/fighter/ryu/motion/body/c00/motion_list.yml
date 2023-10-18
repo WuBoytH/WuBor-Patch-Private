@@ -3841,36 +3841,6 @@ list:
       xlu_end: 0
       cancel_frame: 56
       no_stop_intp: true
-  special_lw_step_f:
-    game_script: game_speciallwstepf
-    flags:
-      turn: false
-      loop: false
-      move: true
-      fix_trans: false
-      fix_rot: false
-      fix_scale: false
-      unk_40: false
-      unk_80: true
-      unk_100: false
-      unk_200: false
-      unk_400: false
-      unk_800: false
-      unk_1000: false
-      unk_2000: false
-    blend_frames: 0
-    animations:
-      - name: d03speciallwstepf.nuanmb
-        unk: 0
-    scripts:
-      - expression_speciallwstepf
-      - sound_speciallwstepf
-      - effect_speciallwstepf
-    extra:
-      xlu_start: 0
-      xlu_end: 0
-      cancel_frame: 20
-      no_stop_intp: true
   special_air_lw_start:
     game_script: game_specialairlwstart
     flags:
@@ -3961,8 +3931,38 @@ list:
       xlu_end: 0
       cancel_frame: 56
       no_stop_intp: true
-  special_air_lw_step_f:
-    game_script: game_specialairlwstepf
+  special_lw_rush:
+    game_script: game_speciallwrush
+    flags:
+      turn: false
+      loop: false
+      move: true
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d03speciallwstepf.nuanmb
+        unk: 0
+    scripts:
+      - expression_speciallwrush
+      - sound_speciallwrush
+      - effect_speciallwrush
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 33
+      no_stop_intp: true
+  special_air_lw_rush:
+    game_script: game_specialairlwrush
     flags:
       turn: false
       loop: false
@@ -3983,13 +3983,13 @@ list:
       - name: d03specialairlwstepf.nuanmb
         unk: 0
     scripts:
-      - expression_specialairlwstepf
-      - sound_specialairlwstepf
-      - effect_specialairlwstepf
+      - expression_specialairlwrush
+      - sound_specialairlwrush
+      - effect_specialairlwrush
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 20
+      cancel_frame: 33
       no_stop_intp: true
   special_lw_impact:
     game_script: game_speciallwimpact
