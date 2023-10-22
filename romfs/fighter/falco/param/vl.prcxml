@@ -8,11 +8,11 @@
     <hash40 index="4">dummy</hash40>
     <hash40 index="5">dummy</hash40>
     <struct index="6">
-	  <hash40 hash="part">collision_part_body</hash40>
-	</struct>
+      <hash40 hash="part">collision_part_body</hash40>
+    </struct>
     <struct index="7">
-	  <hash40 hash="part">collision_part_body</hash40>
-	</struct>
+      <hash40 hash="part">collision_part_body</hash40>
+    </struct>
     <hash40 index="8">dummy</hash40>
     <hash40 index="9">dummy</hash40>
     <hash40 index="10">dummy</hash40>
@@ -26,13 +26,13 @@
       <float hash="p2_x">-9</float>
       <float hash="p2_y">9</float>
     </struct>
-	<struct index="1">
+    <struct index="1">
       <float hash="p1_x">15</float>
       <float hash="p1_y">20</float>
       <float hash="p2_x">-9</float>
       <float hash="p2_y">4</float>
     </struct>
-	<struct index="2">
+    <struct index="2">
       <float hash="p1_x">15</float>
       <float hash="p1_y">18</float>
       <float hash="p2_x">-9</float>

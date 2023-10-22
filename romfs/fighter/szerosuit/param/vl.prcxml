@@ -7,8 +7,8 @@
       <float hash="p2_x">-10.2</float>
       <float hash="p2_y">8</float>
     </struct>
-	<hash40 index="1">dummy</hash40>
-	<hash40 index="2">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
   </list>
   <list hash="param_whip2">
     <struct index="0">
