@@ -11,11 +11,11 @@
     <hash40 index="7">dummy</hash40>
     <hash40 index="8">dummy</hash40>
     <struct index="9">
-	  <hash40 hash="part">collision_part_body</hash40>
-	</struct>
+      <hash40 hash="part">collision_part_body</hash40>
+    </struct>
     <struct index="10">
-	  <hash40 hash="part">collision_part_body</hash40>
-	</struct>
+      <hash40 hash="part">collision_part_body</hash40>
+    </struct>
   </list>
   <list hash="cliff_hang_data">
     <struct index="0">
@@ -24,7 +24,7 @@
       <float hash="p2_x">-10.35</float>
       <float hash="p2_y">8</float>
     </struct>
-	<hash40 index="1">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
   </list>
   <list hash="param_special_hi">
     <struct index="0">
@@ -32,8 +32,8 @@
       <int hash="decide_move_frame">17</int>
       <int hash="warp_angle">420</int>
     </struct>
-	<hash40 index="1">dummy</hash40>
-	<hash40 index="2">dummy</hash40>
-	<hash40 index="3">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
   </list>
 </struct>
