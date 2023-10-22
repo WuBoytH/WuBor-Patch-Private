@@ -13,11 +13,11 @@
     <hash40 index="9">dummy</hash40>
     <hash40 index="10">dummy</hash40>
     <struct index="11">
-	  <hash40 hash="part">collision_part_body</hash40>
-	</struct>
+      <hash40 hash="part">collision_part_body</hash40>
+    </struct>
     <struct index="12">
-	  <hash40 hash="part">collision_part_body</hash40>
-	</struct>
+      <hash40 hash="part">collision_part_body</hash40>
+    </struct>
     <hash40 index="13">dummy</hash40>
     <hash40 index="14">dummy</hash40>
     <hash40 index="15">dummy</hash40>
