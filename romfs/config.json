@@ -91,7 +91,9 @@
         "fighter/kamui/motion/body/c00/motion_list.bin",
         "fighter/kamui/motion/body/c01/motion_list.bin",
         "fighter/ken/motion/body/c00/motion_list.bin",
+        "fighter/ken/motion/body/c00/a00wait1.nuanmb",
         "fighter/ken/motion/body/c00/c00attack11w.nuanmb",
+        "fighter/ken/motion/body/c00/c01attacks3sw.nuanmb",
         "fighter/ken/motion/body/c00/c02attackhi3w.nuanmb",
         "fighter/ken/motion/body/c00/c02attacklw3w.nuanmb",
         "fighter/kirby/motion/body/c00/c02attacklw3.nuanmb",
@@ -1325,28 +1327,28 @@
             "fighter/gamewatch/motion/normal_weapon/c07/c05landingairf.nuanmb"
         ],
         "fighter/ken/c00": [
-            "fighter/ken/motion/body/c00/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c00/c01attacks3s2.nuanmb"
         ],
         "fighter/ken/c01": [
-            "fighter/ken/motion/body/c01/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c01/c01attacks3s2.nuanmb"
         ],
         "fighter/ken/c02": [
-            "fighter/ken/motion/body/c02/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c02/c01attacks3s2.nuanmb"
         ],
         "fighter/ken/c03": [
-            "fighter/ken/motion/body/c03/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c03/c01attacks3s2.nuanmb"
         ],
         "fighter/ken/c04": [
-            "fighter/ken/motion/body/c04/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c04/c01attacks3s2.nuanmb"
         ],
         "fighter/ken/c05": [
-            "fighter/ken/motion/body/c05/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c05/c01attacks3s2.nuanmb"
         ],
         "fighter/ken/c06": [
-            "fighter/ken/motion/body/c06/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c06/c01attacks3s2.nuanmb"
         ],
         "fighter/ken/c07": [
-            "fighter/ken/motion/body/c07/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c07/c01attacks3s2.nuanmb"
         ],
         "fighter/kirby/c00": [
             "fighter/kirby/motion/body/c00/j01appealsloop.nuanmb"
