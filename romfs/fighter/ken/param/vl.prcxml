@@ -51,4 +51,13 @@
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
   </list>
+   <list hash="param_special_lw">
+    <struct index="0">
+      <float hash="accel_y">0.08</float>
+      <float hash="max_speed_y">0.5</float>
+    </struct>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+  </list>
 </struct>

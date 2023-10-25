@@ -96,6 +96,12 @@
         "fighter/ken/motion/body/c00/c01attacks3sw.nuanmb",
         "fighter/ken/motion/body/c00/c02attackhi3w.nuanmb",
         "fighter/ken/motion/body/c00/c02attacklw3w.nuanmb",
+        "fighter/ken/motion/body/c00/d03speciallwstart.nuanmb",
+        "fighter/ken/motion/body/c00/d03specialairlwstart.nuanmb",
+        "fighter/ken/motion/body/c00/d03speciallw.nuanmb",
+        "fighter/ken/motion/body/c00/d03specialairlw.nuanmb",
+        "fighter/ken/motion/body/c00/d03speciallwstepf.nuanmb",
+        "fighter/ken/motion/body/c00/d03specialairlwstepf.nuanmb",
         "fighter/kirby/motion/body/c00/c02attacklw3.nuanmb",
         "fighter/kirby/motion/body/c00/motion_list.bin",
         "fighter/kirby/motion/body/c00/j01appealsr.nuanmb",
@@ -849,16 +855,6 @@
             "sound/bank/fighter/se_dolly_c06.tonelabel",
             "sound/bank/fighter/se_dolly_c07.tonelabel"
         ],
-        "sound/bank/fighter/se_ken.nus3audio": [
-            "sound/bank/fighter/se_ken_c00.nus3audio",
-            "sound/bank/fighter/se_ken_c01.nus3audio",
-            "sound/bank/fighter/se_ken_c02.nus3audio",
-            "sound/bank/fighter/se_ken_c03.nus3audio",
-            "sound/bank/fighter/se_ken_c04.nus3audio",
-            "sound/bank/fighter/se_ken_c05.nus3audio",
-            "sound/bank/fighter/se_ken_c06.nus3audio",
-            "sound/bank/fighter/se_ken_c07.nus3audio"
-        ],
         "sound/bank/fighter/se_lucina.nus3audio": [
             "sound/bank/fighter/se_lucina_c00.nus3audio",
             "sound/bank/fighter/se_lucina_c01.nus3audio",
@@ -930,16 +926,6 @@
             "sound/bank/fighter/se_ryu_c07.tonelabel"
         ],
 
-        "sound/bank/fighter_voice/vc_ken.nus3audio": [
-            "sound/bank/fighter_voice/vc_ken_c00.nus3audio",
-            "sound/bank/fighter_voice/vc_ken_c01.nus3audio",
-            "sound/bank/fighter_voice/vc_ken_c02.nus3audio",
-            "sound/bank/fighter_voice/vc_ken_c03.nus3audio",
-            "sound/bank/fighter_voice/vc_ken_c04.nus3audio",
-            "sound/bank/fighter_voice/vc_ken_c05.nus3audio",
-            "sound/bank/fighter_voice/vc_ken_c06.nus3audio",
-            "sound/bank/fighter_voice/vc_ken_c07.nus3audio"
-        ],
         "sound/bank/fighter_voice/vc_lucina.nus3bank": [
             "sound/bank/fighter_voice/vc_lucina_c00.nus3bank",
             "sound/bank/fighter_voice/vc_lucina_c01.nus3bank",
