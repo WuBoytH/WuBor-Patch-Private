@@ -926,6 +926,36 @@
             "sound/bank/fighter/se_ryu_c07.tonelabel"
         ],
 
+        "sound/bank/fighter_voice/vc_ken.nus3bank": [
+            "sound/bank/fighter_voice/vc_ken_c00.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c01.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c02.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c03.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c04.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c05.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c06.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c07.nus3bank"
+        ],
+        "sound/bank/fighter_voice/vc_ken.nus3audio": [
+            "sound/bank/fighter_voice/vc_ken_c00.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c01.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c02.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c03.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c04.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c05.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c06.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c07.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_ken.tonelabel": [
+            "sound/bank/fighter_voice/vc_ken_c00.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c01.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c02.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c03.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c04.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c05.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c06.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c07.tonelabel"
+        ],
         "sound/bank/fighter_voice/vc_lucina.nus3bank": [
             "sound/bank/fighter_voice/vc_lucina_c00.nus3bank",
             "sound/bank/fighter_voice/vc_lucina_c01.nus3bank",
