@@ -3629,7 +3629,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 36
+      cancel_frame: 27
       no_stop_intp: true
   special_hi:
     game_script: game_specialhi
