@@ -54,4 +54,26 @@
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
   </list>
+  <list hash="param_misc">
+    <struct index="0">
+      <float hash="special_cancel_damage_mul">0.65</float>
+      <float hash="special_cancel_bkb_mul">1.15</float>
+      <float hash="attack_dash_h_distance_mul">1.2</float>
+    </struct>
+    <struct index="1">
+      <float hash="special_cancel_damage_mul">0</float>
+      <float hash="special_cancel_bkb_mul">0</float>
+      <float hash="attack_dash_h_distance_mul">0</float>
+    </struct>
+    <struct index="2">
+      <float hash="special_cancel_damage_mul">0</float>
+      <float hash="special_cancel_bkb_mul">0</float>
+      <float hash="attack_dash_h_distance_mul">0</float>
+    </struct>
+    <struct index="3">
+      <float hash="special_cancel_damage_mul">0</float>
+      <float hash="special_cancel_bkb_mul">0</float>
+      <float hash="attack_dash_h_distance_mul">0</float>
+    </struct>
+  </list>
 </struct>

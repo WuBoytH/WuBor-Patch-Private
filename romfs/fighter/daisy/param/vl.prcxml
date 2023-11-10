@@ -66,4 +66,18 @@
   <struct hash="param_private">
     <int hash="uniq_float_float_frame">0</int>
   </struct>
+  <list hash="param_parasol_plummet">
+    <struct index="0">
+      <float hash="limit_speed_y">2.45</float>
+    </struct>
+    <struct index="1">
+      <float hash="limit_speed_y">0</float>
+    </struct>
+    <struct index="2">
+      <float hash="limit_speed_y">0</float>
+    </struct>
+    <struct index="3">
+      <float hash="limit_speed_y">0</float>
+    </struct>
+  </list>
 </struct>
