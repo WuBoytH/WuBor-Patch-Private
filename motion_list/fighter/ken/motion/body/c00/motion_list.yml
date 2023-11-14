@@ -2316,7 +2316,7 @@ list:
     flags:
       turn: false
       loop: false
-      move: false
+      move: true
       fix_trans: false
       fix_rot: false
       fix_scale: false
@@ -2399,7 +2399,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 28
+      cancel_frame: 30
       no_stop_intp: true
   attack_13:
     game_script: game_attack13
@@ -2429,7 +2429,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 36
+      cancel_frame: 43
       no_stop_intp: true
   attack_dash:
     game_script: game_attackdash
