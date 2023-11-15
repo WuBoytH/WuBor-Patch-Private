@@ -1346,35 +1346,67 @@
         ],
         "fighter/ken/c00": [
             "fighter/ken/motion/body/c00/c01attacks3s2.nuanmb",
-            "fighter/ken/motion/body/c00/d01specialairs2end.nuanmb"
+            "fighter/ken/motion/body/c00/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialn2s.nuanmb"
         ],
         "fighter/ken/c01": [
             "fighter/ken/motion/body/c01/c01attacks3s2.nuanmb",
-            "fighter/ken/motion/body/c01/d01specialairs2end.nuanmb"
+            "fighter/ken/motion/body/c01/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialn2s.nuanmb"
         ],
         "fighter/ken/c02": [
             "fighter/ken/motion/body/c02/c01attacks3s2.nuanmb",
-            "fighter/ken/motion/body/c02/d01specialairs2end.nuanmb"
+            "fighter/ken/motion/body/c02/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialn2s.nuanmb"
         ],
         "fighter/ken/c03": [
             "fighter/ken/motion/body/c03/c01attacks3s2.nuanmb",
-            "fighter/ken/motion/body/c03/d01specialairs2end.nuanmb"
+            "fighter/ken/motion/body/c03/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialn2s.nuanmb"
         ],
         "fighter/ken/c04": [
             "fighter/ken/motion/body/c04/c01attacks3s2.nuanmb",
-            "fighter/ken/motion/body/c04/d01specialairs2end.nuanmb"
+            "fighter/ken/motion/body/c04/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialn2s.nuanmb"
         ],
         "fighter/ken/c05": [
             "fighter/ken/motion/body/c05/c01attacks3s2.nuanmb",
-            "fighter/ken/motion/body/c05/d01specialairs2end.nuanmb"
+            "fighter/ken/motion/body/c05/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialn2s.nuanmb"
         ],
         "fighter/ken/c06": [
             "fighter/ken/motion/body/c06/c01attacks3s2.nuanmb",
-            "fighter/ken/motion/body/c06/d01specialairs2end.nuanmb"
+            "fighter/ken/motion/body/c06/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialn2s.nuanmb"
         ],
         "fighter/ken/c07": [
             "fighter/ken/motion/body/c07/c01attacks3s2.nuanmb",
-            "fighter/ken/motion/body/c07/d01specialairs2end.nuanmb"
+            "fighter/ken/motion/body/c07/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialn2s.nuanmb"
         ],
         "fighter/kirby/c00": [
             "fighter/kirby/motion/body/c00/j01appealsloop.nuanmb"
