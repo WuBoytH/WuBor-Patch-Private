@@ -466,7 +466,7 @@
     <int hash="repair_material_num_wood">2</int>
     <int hash="create_table_material_num_diamond">999</int>
     <int hash="create_table_material_num_gold">999</int>
-    <int hash="create_table_material_num_iron">4</int>
+    <int hash="create_table_material_num_iron">2</int>
     <int hash="create_table_material_num_stone">4</int>
     <int hash="create_table_material_num_wood">4</int>
   </struct>
