@@ -117,7 +117,9 @@
     <hash40 index="104">dummy</hash40>
     <hash40 index="105">dummy</hash40>
     <hash40 index="106">dummy</hash40>
-    <hash40 index="107">dummy</hash40>
+    <struct index="107">
+      <sbyte hash="ext_skill_page_num">4</sbyte>
+    </struct>
     <hash40 index="108">dummy</hash40>
     <hash40 index="109">dummy</hash40>
     <hash40 index="110">dummy</hash40>
