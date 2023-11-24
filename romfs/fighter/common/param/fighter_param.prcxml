@@ -956,7 +956,7 @@
       <float hash="dive_speed_y">2.4</float>
       <float hash="weight">104</float>
       <float hash="landing_attack_air_frame_f">10</float>
-      <float hash="landing_attack_air_frame_hi">10</float>
+      <float hash="landing_attack_air_frame_hi">12</float>
     </struct>
     <!-- BYLETH -->
     <struct index="72">
