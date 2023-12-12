@@ -1221,6 +1221,8 @@
       <float hash="jump_speed_x_max">1.55</float>
       <float hash="air_brake_x">0.01</float>
       <float hash="landing_attack_air_frame_n">7</float>
+      <int hash="s3_combo_max">2</int>
+      <float hash="combo_attack_32_end">20</float>
     </struct>
     <!-- RICHTER -->
     <struct index="89">
@@ -1254,7 +1256,6 @@
       <float hash="landing_attack_air_frame_f">14</float>
       <float hash="landing_attack_air_frame_b">14</float>
       <float hash="landing_attack_air_frame_lw">29</float>
-      <float hash="cliff_jump_y">22</float>
       <bool hash="attack100_type">false</bool>
       <int hash="attack_100_enable_cnt">0</int>
       <bool hash="wall_jump_type">true</bool>

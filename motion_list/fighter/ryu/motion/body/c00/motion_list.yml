@@ -2339,7 +2339,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 16
+      cancel_frame: 18
       no_stop_intp: true
   attack_11_s:
     game_script: game_attack11s
@@ -2609,7 +2609,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 15
+      cancel_frame: 17
       no_stop_intp: true
   attack_hi3_s:
     game_script: game_attackhi3s
@@ -2669,7 +2669,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 15
+      cancel_frame: 20
       no_stop_intp: true
   attack_lw3_s:
     game_script: game_attacklw3s
@@ -2699,7 +2699,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 29
+      cancel_frame: 32
       no_stop_intp: true
   attack_s4_s:
     game_script: game_attacks4
@@ -2909,7 +2909,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 36
+      cancel_frame: 28
       no_stop_intp: true
   attack_air_f:
     game_script: game_attackairf
@@ -2939,7 +2939,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 35
+      cancel_frame: 41
       no_stop_intp: true
   attack_air_b:
     game_script: game_attackairb
@@ -3241,6 +3241,36 @@ list:
       xlu_end: 0
       cancel_frame: 58
       no_stop_intp: true
+  special_n2:
+    game_script: game_specialn2
+    flags:
+      turn: false
+      loop: false
+      move: true
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d00specialn2.nuanmb
+        unk: 0
+    scripts:
+      - expression_specialn2
+      - sound_specialn2
+      - effect_specialn2
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 48
+      no_stop_intp: true
   special_air_n:
     game_script: game_specialairn
     flags:
@@ -3296,6 +3326,36 @@ list:
       - expression_specialairn
       - sound_specialairn
       - effect_specialairn
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 58
+      no_stop_intp: true
+  special_air_n2:
+    game_script: game_specialairn2
+    flags:
+      turn: false
+      loop: false
+      move: true
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d00specialairn2.nuanmb
+        unk: 0
+    scripts:
+      - expression_specialairn2
+      - sound_specialairn2
+      - effect_specialairn2
     extra:
       xlu_start: 0
       xlu_end: 0
@@ -3421,6 +3481,36 @@ list:
       xlu_end: 0
       cancel_frame: 0
       no_stop_intp: true
+  special_air_s2_start:
+    game_script: game_specialairs2start
+    flags:
+      turn: false
+      loop: false
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d01specialairsstart.nuanmb
+        unk: 0
+    scripts:
+      - expression_specialairs2start
+      - sound_specialairs2start
+      - effect_specialairs2start
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 0
+      no_stop_intp: true
   special_air_s:
     game_script: game_specialairs
     flags:
@@ -3446,6 +3536,36 @@ list:
       - expression_specialairs
       - sound_specialairs
       - effect_specialairs
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 0
+      no_stop_intp: true
+  special_air_s2:
+    game_script: game_specialairs2
+    flags:
+      turn: false
+      loop: false
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d01specials.nuanmb
+        unk: 0
+    scripts:
+      - expression_specialairs2
+      - sound_specialairs2
+      - effect_specialairs2
     extra:
       xlu_start: 0
       xlu_end: 0
@@ -3480,6 +3600,36 @@ list:
       xlu_start: 0
       xlu_end: 0
       cancel_frame: 36
+      no_stop_intp: true
+  special_air_s2_end:
+    game_script: game_specialairs2end
+    flags:
+      turn: false
+      loop: false
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d01specialairsend.nuanmb
+        unk: 0
+    scripts:
+      - expression_specialairs2end
+      - sound_specialairs2end
+      - effect_specialairs2end
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 27
       no_stop_intp: true
   special_hi:
     game_script: game_specialhi
@@ -3749,7 +3899,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 56
+      cancel_frame: 52
       no_stop_intp: true
   special_lw_turn:
     game_script: game_speciallwturn
@@ -3780,66 +3930,6 @@ list:
       xlu_start: 0
       xlu_end: 0
       cancel_frame: 56
-      no_stop_intp: true
-  special_lw_step_f:
-    game_script: game_speciallwstepf
-    flags:
-      turn: false
-      loop: false
-      move: true
-      fix_trans: false
-      fix_rot: false
-      fix_scale: false
-      unk_40: false
-      unk_80: true
-      unk_100: false
-      unk_200: false
-      unk_400: false
-      unk_800: false
-      unk_1000: false
-      unk_2000: false
-    blend_frames: 0
-    animations:
-      - name: d03speciallwstepf.nuanmb
-        unk: 0
-    scripts:
-      - expression_speciallwstepf
-      - sound_speciallwstepf
-      - effect_speciallwstepf
-    extra:
-      xlu_start: 0
-      xlu_end: 0
-      cancel_frame: 20
-      no_stop_intp: true
-  special_lw_step_b:
-    game_script: game_speciallwstepb
-    flags:
-      turn: false
-      loop: false
-      move: true
-      fix_trans: false
-      fix_rot: false
-      fix_scale: false
-      unk_40: false
-      unk_80: true
-      unk_100: false
-      unk_200: false
-      unk_400: false
-      unk_800: false
-      unk_1000: false
-      unk_2000: false
-    blend_frames: 0
-    animations:
-      - name: d03speciallwstepb.nuanmb
-        unk: 0
-    scripts:
-      - expression_speciallwstepb
-      - sound_speciallwstepb
-      - effect_speciallwstepb
-    extra:
-      xlu_start: 0
-      xlu_end: 0
-      cancel_frame: 20
       no_stop_intp: true
   special_air_lw_start:
     game_script: game_specialairlwstart
@@ -3899,7 +3989,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 56
+      cancel_frame: 52
       no_stop_intp: true
   special_air_lw_turn:
     game_script: game_specialairlwturn
@@ -3931,8 +4021,38 @@ list:
       xlu_end: 0
       cancel_frame: 56
       no_stop_intp: true
-  special_air_lw_step_f:
-    game_script: game_specialairlwstepf
+  special_lw_rush:
+    game_script: game_speciallwrush
+    flags:
+      turn: false
+      loop: false
+      move: true
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d03speciallwstepf.nuanmb
+        unk: 0
+    scripts:
+      - expression_speciallwrush
+      - sound_speciallwrush
+      - effect_speciallwrush
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 33
+      no_stop_intp: true
+  special_air_lw_rush:
+    game_script: game_specialairlwrush
     flags:
       turn: false
       loop: false
@@ -3953,16 +4073,46 @@ list:
       - name: d03specialairlwstepf.nuanmb
         unk: 0
     scripts:
-      - expression_specialairlwstepf
-      - sound_specialairlwstepf
-      - effect_specialairlwstepf
+      - expression_specialairlwrush
+      - sound_specialairlwrush
+      - effect_specialairlwrush
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 20
+      cancel_frame: 33
       no_stop_intp: true
-  special_air_lw_step_b:
-    game_script: game_specialairlwstepb
+  special_lw_impact:
+    game_script: game_speciallwimpact
+    flags:
+      turn: false
+      loop: false
+      move: true
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d03speciallwstepb.nuanmb
+        unk: 0
+    scripts:
+      - expression_speciallwimpact
+      - sound_speciallwimpact
+      - effect_speciallwimpact
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 58
+      no_stop_intp: true
+  special_lw_reversal:
+    game_script: game_speciallwreversal
     flags:
       turn: false
       loop: false
@@ -3983,13 +4133,13 @@ list:
       - name: d03specialairlwstepb.nuanmb
         unk: 0
     scripts:
-      - expression_specialairlwstepb
-      - sound_specialairlwstepb
-      - effect_specialairlwstepb
+      - expression_speciallwreversal
+      - sound_speciallwreversal
+      - effect_speciallwreversal
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 20
+      cancel_frame: 56
       no_stop_intp: true
   ink:
     game_script: game_ink
