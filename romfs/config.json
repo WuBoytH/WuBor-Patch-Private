@@ -93,7 +93,19 @@
         "fighter/kamui/motion/body/c00/motion_list.bin",
         "fighter/kamui/motion/body/c01/motion_list.bin",
         "fighter/ken/motion/body/c00/motion_list.bin",
+        "fighter/ken/motion/body/c00/a00wait1.nuanmb",
+        "fighter/ken/motion/body/c00/c00attack11w.nuanmb",
+        "fighter/ken/motion/body/c00/c00attack12.nuanmb",
+        "fighter/ken/motion/body/c00/c00attack13.nuanmb",
+        "fighter/ken/motion/body/c00/c01attacks3sw.nuanmb",
+        "fighter/ken/motion/body/c00/c02attackhi3w.nuanmb",
+        "fighter/ken/motion/body/c00/c02attacklw3w.nuanmb",
+        "fighter/ken/motion/body/c00/d03speciallwstart.nuanmb",
+        "fighter/ken/motion/body/c00/d03specialairlwstart.nuanmb",
         "fighter/ken/motion/body/c00/d03speciallw.nuanmb",
+        "fighter/ken/motion/body/c00/d03specialairlw.nuanmb",
+        "fighter/ken/motion/body/c00/d03speciallwstepf.nuanmb",
+        "fighter/ken/motion/body/c00/d03specialairlwstepf.nuanmb",
         "fighter/kirby/motion/body/c00/c02attacklw3.nuanmb",
         "fighter/kirby/motion/body/c00/motion_list.bin",
         "fighter/kirby/motion/body/c00/j01appealsr.nuanmb",
@@ -284,6 +296,17 @@
         "fighter/rockman/motion/body/c00/c03attacks4charge.nuanmb",
         "fighter/rockman/motion/rushcoil/c00/rushwait.nuanmb",
         "fighter/ryu/motion/body/c00/motion_list.bin",
+        "fighter/ryu/motion/body/c00/c00attack11w.nuanmb",
+        "fighter/ryu/motion/body/c00/c02attackhi3w.nuanmb",
+        "fighter/ryu/motion/body/c00/c02attacklw3s.nuanmb",
+        "fighter/ryu/motion/body/c00/c02attacklw3w.nuanmb",
+        "fighter/ryu/motion/body/c00/c05attackairf.nuanmb",
+        "fighter/ryu/motion/body/c00/d03specialairlw.nuanmb",
+        "fighter/ryu/motion/body/c00/d03specialairlwstepb.nuanmb",
+        "fighter/ryu/motion/body/c00/d03specialairlwstepf.nuanmb",
+        "fighter/ryu/motion/body/c00/d03speciallw.nuanmb",
+        "fighter/ryu/motion/body/c00/d03speciallwstepb.nuanmb",
+        "fighter/ryu/motion/body/c00/d03speciallwstepf.nuanmb",
         "fighter/samus/motion/body/c00/motion_list.bin",
         "fighter/samus/motion/body/c00/c02attackhi3.nuanmb",
         "fighter/samusd/motion/body/c00/motion_list.bin",
@@ -711,6 +734,24 @@
             "fighter/rockman/motion/body/c06/d00busterairchargeshot.nuanmb",
             "fighter/rockman/motion/body/c07/d00busterairchargeshot.nuanmb"
         ],
+        "fighter/ryu/motion/body/c00/d00specialairn2.nuanmb": [
+            "fighter/ryu/motion/body/c01/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c02/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c03/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c04/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c05/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c06/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c07/d00specialairn2.nuanmb"
+        ],
+        "fighter/ryu/motion/body/c00/d00specialn2.nuanmb": [
+            "fighter/ryu/motion/body/c01/d00specialn2.nuanmb",
+            "fighter/ryu/motion/body/c02/d00specialn2.nuanmb",
+            "fighter/ryu/motion/body/c03/d00specialn2.nuanmb",
+            "fighter/ryu/motion/body/c04/d00specialn2.nuanmb",
+            "fighter/ryu/motion/body/c05/d00specialn2.nuanmb",
+            "fighter/ryu/motion/body/c06/d00specialn2.nuanmb",
+            "fighter/ryu/motion/body/c07/d00specialn2.nuanmb"
+        ],
         "fighter/simon/motion/whip/c00/motion_list.bin": [
             "fighter/simon/motion/whip/c01/motion_list.bin",
             "fighter/simon/motion/whip/c02/motion_list.bin",
@@ -823,16 +864,6 @@
             "sound/bank/fighter/se_dolly_c06.tonelabel",
             "sound/bank/fighter/se_dolly_c07.tonelabel"
         ],
-        "sound/bank/fighter/se_ken.nus3audio": [
-            "sound/bank/fighter/se_ken_c00.nus3audio",
-            "sound/bank/fighter/se_ken_c01.nus3audio",
-            "sound/bank/fighter/se_ken_c02.nus3audio",
-            "sound/bank/fighter/se_ken_c03.nus3audio",
-            "sound/bank/fighter/se_ken_c04.nus3audio",
-            "sound/bank/fighter/se_ken_c05.nus3audio",
-            "sound/bank/fighter/se_ken_c06.nus3audio",
-            "sound/bank/fighter/se_ken_c07.nus3audio"
-        ],
         "sound/bank/fighter/se_lucina.nus3audio": [
             "sound/bank/fighter/se_lucina_c00.nus3audio",
             "sound/bank/fighter/se_lucina_c01.nus3audio",
@@ -904,6 +935,16 @@
             "sound/bank/fighter/se_ryu_c07.tonelabel"
         ],
 
+        "sound/bank/fighter_voice/vc_ken.nus3bank": [
+            "sound/bank/fighter_voice/vc_ken_c00.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c01.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c02.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c03.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c04.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c05.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c06.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c07.nus3bank"
+        ],
         "sound/bank/fighter_voice/vc_ken.nus3audio": [
             "sound/bank/fighter_voice/vc_ken_c00.nus3audio",
             "sound/bank/fighter_voice/vc_ken_c01.nus3audio",
@@ -913,6 +954,16 @@
             "sound/bank/fighter_voice/vc_ken_c05.nus3audio",
             "sound/bank/fighter_voice/vc_ken_c06.nus3audio",
             "sound/bank/fighter_voice/vc_ken_c07.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_ken.tonelabel": [
+            "sound/bank/fighter_voice/vc_ken_c00.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c01.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c02.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c03.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c04.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c05.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c06.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c07.tonelabel"
         ],
         "sound/bank/fighter_voice/vc_lucina.nus3bank": [
             "sound/bank/fighter_voice/vc_lucina_c00.nus3bank",
@@ -963,6 +1014,36 @@
             "sound/bank/fighter_voice/vc_mario_c05.nus3audio",
             "sound/bank/fighter_voice/vc_mario_c06.nus3audio",
             "sound/bank/fighter_voice/vc_mario_c07.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_ryu.nus3bank": [
+            "sound/bank/fighter_voice/vc_ryu_c00.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c01.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c02.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c03.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c04.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c05.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c06.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c07.nus3bank"
+        ],
+        "sound/bank/fighter_voice/vc_ryu.nus3audio": [
+            "sound/bank/fighter_voice/vc_ryu_c00.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c01.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c02.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c03.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c04.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c05.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c06.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c07.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_ryu.tonelabel": [
+            "sound/bank/fighter_voice/vc_ryu_c00.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c01.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c02.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c03.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c04.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c05.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c06.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c07.tonelabel"
         ]
     },
     "new-dir-files": {
@@ -1271,28 +1352,76 @@
             "fighter/gamewatch/motion/normal_weapon/c07/c05landingairf.nuanmb"
         ],
         "fighter/ken/c00": [
-            "fighter/ken/motion/body/c00/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c00/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c00/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c01": [
-            "fighter/ken/motion/body/c01/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c01/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c01/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c02": [
-            "fighter/ken/motion/body/c02/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c02/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c02/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c03": [
-            "fighter/ken/motion/body/c03/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c03/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c03/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c04": [
-            "fighter/ken/motion/body/c04/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c04/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c04/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c05": [
-            "fighter/ken/motion/body/c05/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c05/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c05/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c06": [
-            "fighter/ken/motion/body/c06/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c06/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c06/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c07": [
-            "fighter/ken/motion/body/c07/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c07/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c07/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialairn2.nuanmb"
         ],
         "fighter/kirby/c00": [
             "fighter/kirby/motion/body/c00/j01appealsloop.nuanmb"
@@ -1983,6 +2112,38 @@
             "fighter/rockman/motion/body/c07/c05attackairnmelee.nuanmb",
             "fighter/rockman/motion/body/c07/d00busterchargeshot.nuanmb",
             "fighter/rockman/motion/body/c07/d00busterairchargeshot.nuanmb"
+        ],
+        "fighter/ryu/c00": [
+            "fighter/ryu/motion/body/c00/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c00/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c01": [
+            "fighter/ryu/motion/body/c01/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c01/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c02": [
+            "fighter/ryu/motion/body/c02/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c02/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c03": [
+            "fighter/ryu/motion/body/c03/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c03/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c04": [
+            "fighter/ryu/motion/body/c04/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c04/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c05": [
+            "fighter/ryu/motion/body/c05/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c05/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c06": [
+            "fighter/ryu/motion/body/c06/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c06/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c07": [
+            "fighter/ryu/motion/body/c07/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c07/d00specialn2.nuanmb"
         ],
         "fighter/shulk/cmn/effect": [
             "effect/fighter/shulk/trail/tex_shulk_swordgreen1.nutexb",
