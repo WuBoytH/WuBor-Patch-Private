@@ -33,4 +33,18 @@
       <float hash="p2_y">8</float>
     </struct>
   </list>
+  <list hash="param_barrel">
+    <struct index="0">
+      <int hash="barrel_count_max">1</int>
+    </struct>
+    <struct index="1">
+      <int hash="barrel_count_max">0</int>
+    </struct>
+    <struct index="2">
+      <int hash="barrel_count_max">0</int>
+    </struct>
+    <struct index="3">
+      <int hash="barrel_count_max">0</int>
+    </struct>
+  </list>
 </struct>

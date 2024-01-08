@@ -82,4 +82,30 @@
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
   </list>
+  <list hash="param_buster_charge">
+    <struct index="0">
+      <int hash="clear_input_frame">6</int>
+      <int hash="delay_charge_frame">50</int>
+      <int hash="charge_max_frame">160</int>
+      <int hash="release_frame">6</int>
+    </struct>
+    <struct index="1">
+      <int hash="clear_input_frame">0</int>
+      <int hash="delay_charge_frame">0</int>
+      <int hash="charge_max_frame">0</int>
+      <int hash="release_frame">0</int>
+    </struct>
+    <struct index="2">
+      <int hash="clear_input_frame">0</int>
+      <int hash="delay_charge_frame">0</int>
+      <int hash="charge_max_frame">0</int>
+      <int hash="release_frame">0</int>
+    </struct>
+    <struct index="3">
+      <int hash="clear_input_frame">0</int>
+      <int hash="delay_charge_frame">0</int>
+      <int hash="charge_max_frame">0</int>
+      <int hash="release_frame">0</int>
+    </struct>
+  </list>
 </struct>
