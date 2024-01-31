@@ -375,6 +375,8 @@
         "fighter/wiifit/motion/body/c01/motion_list.bin",
         "fighter/wolf/motion/body/c00/motion_list.bin",
         "fighter/yoshi/motion/body/c00/motion_list.bin",
+        "fighter/yoshi/motion/body/c00/d01specialsend.nuanmb",
+        "fighter/yoshi/motion/body/c00/d01specialairsend.nuanmb",
         "fighter/zelda/motion/body/c00/motion_list.bin"
     ],
     "share-to-added": {
