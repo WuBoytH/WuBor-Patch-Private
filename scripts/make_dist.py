@@ -26,7 +26,7 @@ for yml in motionYamls:
   oldPathNoFile = yml.replace("motion_list.yml", "")
   newPathNoFile = oldPathNoFile.replace('motion_list', 'build_lists')
   os.makedirs(newPathNoFile, mode = 0o777, exist_ok = True)
-  newPathFull = newPathNoFile + "motion_list.yml"
+  newPathFull = newPathNoFile + "motion_list.bin"
   print("--------------")
   print(yml)
   print(newPathNoFile)
