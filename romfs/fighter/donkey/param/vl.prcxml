@@ -1,12 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
+  <list hash="hit_data">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+    <hash40 index="5">dummy</hash40>
+    <hash40 index="6">dummy</hash40>
+    <hash40 index="7">dummy</hash40>
+    <struct index="8">
+      <hash40 hash="part">collision_part_body</hash40>
+    </struct>
+    <struct index="9">
+      <hash40 hash="part">collision_part_body</hash40>
+    </struct>
+    <hash40 index="10">dummy</hash40>
+    <hash40 index="11">dummy</hash40>
+    <struct index="12">
+      <hash40 hash="status">hit_status_off</hash40>
+    </struct>
+    <struct index="13">
+      <hash40 hash="status">hit_status_off</hash40>
+    </struct>
+  </list>
   <list hash="cliff_hang_data">
     <hash40 index="0">dummy</hash40>
-	<struct index="1">
+    <struct index="1">
       <float hash="p1_x">22</float>
       <float hash="p1_y">18</float>
       <float hash="p2_x">-15</float>
       <float hash="p2_y">8</float>
+    </struct>
+  </list>
+  <list hash="param_barrel">
+    <struct index="0">
+      <int hash="barrel_count_max">1</int>
+    </struct>
+    <struct index="1">
+      <int hash="barrel_count_max">0</int>
+    </struct>
+    <struct index="2">
+      <int hash="barrel_count_max">0</int>
+    </struct>
+    <struct index="3">
+      <int hash="barrel_count_max">0</int>
     </struct>
   </list>
 </struct>

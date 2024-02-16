@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
+  <list hash="hit_data">
+    <hash40 index="0">dummy</hash40>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+    <hash40 index="4">dummy</hash40>
+    <hash40 index="5">dummy</hash40>
+    <hash40 index="6">dummy</hash40>
+    <hash40 index="7">dummy</hash40>
+    <hash40 index="8">dummy</hash40>
+    <struct index="9">
+      <hash40 hash="part">collision_part_body</hash40>
+    </struct>
+    <struct index="10">
+      <hash40 hash="part">collision_part_body</hash40>
+    </struct>
+  </list>
   <list hash="cliff_hang_data">
     <struct index="0">
       <float hash="p1_x">12</float>
@@ -10,11 +27,11 @@
   </list>
   <list hash="param_special_lw">
     <struct index="0">
-      <float hash="accel_x">0.083</float>
-      <float hash="air_accel_x">0.083</float>
-      <float hash="limit_x">1.25</float>
-      <float hash="air_limit_x">1.25</float>
-      <float hash="buoyancy">1.25</float>
+      <float hash="accel_x">0.1</float>
+      <float hash="air_accel_x">0.09</float>
+      <float hash="limit_x">1.8</float>
+      <float hash="air_limit_x">1.3</float>
+      <float hash="buoyancy">1.5</float>
       <float hash="buoyancy_max">1</float>
     </struct>
     <hash40 index="1">dummy</hash40>

@@ -3,6 +3,7 @@
         "fighter/bayonetta/motion/body/c00/motion_list.bin",
         "fighter/bayonetta/motion/body/c01/motion_list.bin",
         "fighter/bayonetta/motion/body/c04/motion_list.bin",
+        "fighter/brave/motion/body/c00/motion_list.bin",
         "fighter/brave/motion/body/c00/c05attackairhi.nuanmb",
         "fighter/brave/motion/body/c00/d02specialhi1.nuanmb",
         "fighter/brave/motion/body/c00/d02specialairhi1.nuanmb",
@@ -25,20 +26,29 @@
         "fighter/daisy/motion/body/c00/c05attackairlw.nuanmb",
         "fighter/daisy/motion/body/c00/l00fuwafuwastart.nuanmb",
         "fighter/dedede/motion/body/c00/motion_list.bin",
+        "fighter/dedede/motion/body/c00/e00catchattack.nuanmb",
         "fighter/demon/motion/body/c00/motion_list.bin",
+        "fighter/demon/motion/body/c00/c05landingairlw.nuanmb",
+        "fighter/demon/motion/body/c00/e00catchattack.nuanmb",
         "fighter/diddy/motion/body/c00/motion_list.bin",
         "fighter/dolly/motion/body/c00/motion_list.bin",
         "fighter/dolly/motion/body/c00/c00attack11.nuanmb",
         "fighter/dolly/motion/body/c00/c00attack12.nuanmb",
         "fighter/dolly/motion/body/c00/c02attacklw3.nuanmb",
+        "fighter/dolly/motion/body/c00/c05attackairhi.nuanmb",
+        "fighter/dolly/motion/body/c00/c05landingairhi.nuanmb",
         "fighter/dolly/motion/body/c00/d01specialsbstart.nuanmb",
         "fighter/dolly/motion/body/c00/d01specialairsbstart.nuanmb",
         "fighter/dolly/motion/body/c00/d01specialsbw.nuanmb",
         "fighter/dolly/motion/body/c00/d01specialsbs.nuanmb",
         "fighter/dolly/motion/body/c00/d03speciallwstart.nuanmb",
+        "fighter/dolly/motion/body/c00/e00catchattack.nuanmb",
         "fighter/dolly/motion/body/c00/j01appealhir.nuanmb",
         "fighter/dolly/motion/body/c00/j01appealsr.nuanmb",
         "fighter/dolly/motion/body/c00/j01appeallwr.nuanmb",
+        "fighter/donkey/motion/body/c00/motion_list.bin",
+        "fighter/donkey/motion/body/c00/c00attack11.nuanmb",
+        "fighter/duckhunt/motion/body/c00/motion_list.bin",
         "fighter/edge/motion/body/c00/motion_list.bin",
         "fighter/edge/motion/body/c00/swingblend.prc",
         "fighter/eflame/motion/body/c00/motion_list.bin",
@@ -47,8 +57,32 @@
         "fighter/elight/motion/body/c00/swingblend.prc",
         "fighter/falco/motion/body/c00/motion_list.bin",
         "fighter/fox/motion/body/c00/motion_list.bin",
+        "fighter/gamewatch/model/normal_weapon/c00/model.numatb",
+        "fighter/gamewatch/model/normal_weapon/c00/model.numshb",
+        "fighter/gamewatch/model/normal_weapon/c00/model.numshexb",
+        "fighter/gamewatch/model/normal_weapon/c00/model.nusktb",
+        "fighter/gamewatch/motion/body/c00/motion_list.bin",
+        "fighter/gamewatch/motion/body/c00/c00attackdash.nuanmb",
+        "fighter/gamewatch/motion/body/c00/c05attackairf.nuanmb",
+        "fighter/gamewatch/motion/body/c00/c05landingairf.nuanmb",
+        "fighter/gamewatch/motion/body/c00/e00catchattack.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/motion_list.bin",
+        "fighter/gamewatch/motion/normal_weapon/c00/c00attack11.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c00attack100.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c00attackend.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c01attacks3s.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c02attacklw3.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c05attackairb.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c05attackairn.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c05landingairb.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/c05landingairn.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/j01appeallw.nuanmb",
+        "fighter/gamewatch/motion/normal_weapon/c00/update.prc",
         "fighter/ganon/motion/body/c00/motion_list.bin",
+        "fighter/ganon/motion/body/c00/c00attack11.nuanmb",
         "fighter/ganon/motion/body/c00/c02attackhi3.nuanmb",
+        "fighter/ganon/motion/body/c00/c02attacklw3.nuanmb",
+        "fighter/ganon/motion/body/c00/c05attackairn.nuanmb",
         "fighter/ganon/motion/body/c00/d01specialairscatch.nuanmb",
         "fighter/ganon/motion/body/c00/d01specialairs.nuanmb",
         "fighter/gaogaen/motion/body/c00/motion_list.bin",
@@ -56,6 +90,8 @@
         "fighter/ike/motion/body/c00/a03jumpb.nuanmb",
         "fighter/inkling/motion/body/c00/motion_list.bin",
         "fighter/inkling/motion/body/c01/motion_list.bin",
+        "fighter/inkling/motion/body/c00/e00catchattack.nuanmb",
+        "fighter/inkling/motion/body/c01/e00catchattack.nuanmb",
         "fighter/jack/motion/body/c00/motion_list.bin",
         "fighter/jack/motion/body/c00/d00specialnjump.nuanmb",
         "fighter/jack/motion/body/c00/d01specialairs1.nuanmb",
@@ -67,7 +103,19 @@
         "fighter/kamui/motion/body/c00/motion_list.bin",
         "fighter/kamui/motion/body/c01/motion_list.bin",
         "fighter/ken/motion/body/c00/motion_list.bin",
+        "fighter/ken/motion/body/c00/a00wait1.nuanmb",
+        "fighter/ken/motion/body/c00/c00attack11w.nuanmb",
+        "fighter/ken/motion/body/c00/c00attack12.nuanmb",
+        "fighter/ken/motion/body/c00/c00attack13.nuanmb",
+        "fighter/ken/motion/body/c00/c01attacks3sw.nuanmb",
+        "fighter/ken/motion/body/c00/c02attackhi3w.nuanmb",
+        "fighter/ken/motion/body/c00/c02attacklw3w.nuanmb",
+        "fighter/ken/motion/body/c00/d03speciallwstart.nuanmb",
+        "fighter/ken/motion/body/c00/d03specialairlwstart.nuanmb",
         "fighter/ken/motion/body/c00/d03speciallw.nuanmb",
+        "fighter/ken/motion/body/c00/d03specialairlw.nuanmb",
+        "fighter/ken/motion/body/c00/d03speciallwstepf.nuanmb",
+        "fighter/ken/motion/body/c00/d03specialairlwstepf.nuanmb",
         "fighter/kirby/motion/body/c00/c02attacklw3.nuanmb",
         "fighter/kirby/motion/body/c00/motion_list.bin",
         "fighter/kirby/motion/body/c00/j01appealsr.nuanmb",
@@ -133,13 +181,38 @@
         "fighter/luigi/motion/body/c00/d01specialairshold.nuanmb",
         "fighter/luigi/motion/body/c00/d01specialsend.nuanmb",
         "fighter/luigi/motion/body/c00/d01specialairsend.nuanmb",
-        "fighter/mario/model/pump/c00/model.numdlb",
-        "fighter/mario/model/pump/c00/model.numshb",
-        "fighter/mario/model/pump/c00/model.numshexb",
-        "fighter/mario/model/pump/c00/model.nusktb",
-        "fighter/mario/model/pump/c00/def_pump_001_col.nutexb",
-        "fighter/mario/model/pump/c00/def_pump_001_nor.nutexb",
-        "fighter/mario/model/pump/c00/def_pump_001_prm.nutexb",
+        "fighter/luigi/motion/body/c00/e00catch.nuanmb",
+        "fighter/luigi/motion/body/c00/e00catchattack.nuanmb",
+        "fighter/luigi/motion/body/c00/e00catchcut.nuanmb",
+        "fighter/luigi/motion/body/c00/e00catchdash.nuanmb",
+        "fighter/luigi/motion/body/c00/e00catchpull.nuanmb",
+        "fighter/luigi/motion/body/c00/e00catchturn.nuanmb",
+        "fighter/luigi/motion/body/c00/e00catchwait.nuanmb",
+        "fighter/luigi/motion/body/c00/e01throwb.nuanmb",
+        "fighter/luigi/motion/body/c00/e01throwf.nuanmb",
+        "fighter/luigi/motion/body/c00/e01throwhi.nuanmb",
+        "fighter/luigi/motion/body/c00/e01throwlw.nuanmb",
+        "fighter/luigi/motion/body/c00/e01thrownb.nuanmb",
+        "fighter/luigi/motion/body/c00/e01throwndxb.nuanmb",
+        "fighter/luigi/motion/body/c00/e01throwndxf.nuanmb",
+        "fighter/luigi/motion/body/c00/e01throwndxhi.nuanmb",
+        "fighter/luigi/motion/body/c00/e01throwndxlw.nuanmb",
+        "fighter/luigi/motion/body/c00/e01thrownf.nuanmb",
+        "fighter/luigi/motion/body/c00/e01throwngirlb.nuanmb",
+        "fighter/luigi/motion/body/c00/e01throwngirlf.nuanmb",
+        "fighter/luigi/motion/body/c00/e01throwngirlhi.nuanmb",
+        "fighter/luigi/motion/body/c00/e01throwngirllw.nuanmb",
+        "fighter/luigi/motion/body/c00/e01thrownhi.nuanmb",
+        "fighter/luigi/motion/body/c00/e01thrownlw.nuanmb",
+        "fighter/mario/model/mantle/c00/model.nuhlpb",
+        "fighter/mario/model/mantle/c00/model.numatb",
+        "fighter/mario/model/mantle/c00/model.numdlb",
+        "fighter/mario/model/mantle/c00/model.numshb",
+        "fighter/mario/model/mantle/c00/model.numshexb",
+        "fighter/mario/model/mantle/c00/model.nusktb",
+        "fighter/mario/model/mantle/c00/def_mantle_001_col.nutexb",
+        "fighter/mario/model/mantle/c00/def_mantle_001_nor.nutexb",
+        "fighter/mario/model/mantle/c00/def_mantle_001_prm.nutexb",
         "fighter/mario/motion/body/c00/motion_list.bin",
         "fighter/mario/motion/body/c00/c03attacks4s.nuanmb",
         "fighter/mario/motion/body/c00/c03attacks4hi.nuanmb",
@@ -147,6 +220,7 @@
         "fighter/mario/motion/body/c00/c03attacks4charge.nuanmb",
         "fighter/mario/motion/body/c00/c05attackairf.nuanmb",
         "fighter/mario/motion/body/c00/c05attackairlw.nuanmb",
+        "fighter/mario/motion/body/c00/c05landingairf.nuanmb",
         "fighter/mario/motion/body/c00/d01specials.nuanmb",
         "fighter/mario/motion/body/c00/d01specialairs.nuanmb",
         "fighter/mario/motion/body/c00/d03speciallwstart.nuanmb",
@@ -156,13 +230,8 @@
         "fighter/mario/motion/body/c00/d03speciallwlight.nuanmb",
         "fighter/mario/motion/body/c00/d03specialairlwlight.nuanmb",
         "fighter/mario/motion/body/c00/d03specialairlwheavy.nuanmb",
-        "fighter/mario/motion/pump/c00/d03speciallwwait.nuanmb",
-        "fighter/mario/motion/pump/c00/d03speciallwstart.nuanmb",
-        "fighter/mario/motion/pump/c00/d03speciallwhold.nuanmb",
-        "fighter/mario/motion/pump/c00/d03speciallwlight.nuanmb",
-        "fighter/mario/motion/pump/c00/d03speciallwheavy.nuanmb",
-        "fighter/mario/motion/pump/c00/d03speciallwend.nuanmb",
-        "fighter/mario/motion/pump/c00/flip.prc",
+        "fighter/mario/motion/mantle/c00/motion_list.bin",
+        "fighter/mario/motion/mantle/c00/update.prc",
         "fighter/mariod/motion/body/c00/motion_list.bin",
         "fighter/mariod/motion/body/c00/c05attackairn.nuanmb",
         "fighter/marth/motion/body/c00/motion_list.bin",
@@ -176,19 +245,30 @@
         "fighter/metaknight/motion/body/c00/c02attacklw3.nuanmb",
         "fighter/metaknight/motion/body/c00/c05attackairlw.nuanmb",
         "fighter/metaknight/motion/body/c00/c05landingairlw.nuanmb",
+        "fighter/metaknight/motion/body/c00/e00catchattack.nuanmb",
         "fighter/mewtwo/motion/body/c00/motion_list.bin",
         "fighter/ness/motion/body/c00/motion_list.bin",
+        "fighter/ness/motion/body/c00/e00catchattack.nuanmb",
         "fighter/packun/motion/body/c00/motion_list.bin",
         "fighter/packun/motion/body/c00/j01appealsr.nuanmb",
         "fighter/peach/motion/body/c00/motion_list.bin",
         "fighter/pfushigisou/motion/body/c00/motion_list.bin",
+        "fighter/pfushigisou/motion/body/c00/e00catchattack.nuanmb",
+        "fighter/pfushigisou/motion/body/c00/e00catchattackl.nuanmb",
+        "fighter/pfushigisou/motion/body/c00/e00catchattackm.nuanmb",
         "fighter/pichu/motion/body/c00/motion_list.bin",
+        "fighter/pichu/motion/body/c00/e00catchattackm.nuanmb",
+        "fighter/pickel/motion/body/c00/motion_list.bin",
+        "fighter/pikachu/motion/body/c00/motion_list.bin",
+        "fighter/pikachu/motion/body/c00/e00catchattack.nuanmb",
         "fighter/pikmin/motion/body/c00/motion_list.bin",
         "fighter/pikmin/motion/body/c04/motion_list.bin",
         "fighter/pikmin/motion/body/c00/c01attacks3s.nuanmb",
         "fighter/pikmin/motion/body/c04/c01attacks3s.nuanmb",
         "fighter/pikmin/motion/body/c00/c02attackhi3.nuanmb",
         "fighter/pikmin/motion/body/c04/c02attackhi3.nuanmb",
+        "fighter/pikmin/motion/body/c00/e00catchattack.nuanmb",
+        "fighter/pikmin/motion/body/c04/e00catchattack.nuanmb",
         "fighter/pit/motion/body/c00/motion_list.bin",
         "fighter/pitb/motion/body/c00/motion_list.bin",
         "fighter/pitb/motion/body/c00/d00specialnstart.nuanmb",
@@ -211,6 +291,7 @@
         "fighter/popo/param/vl.prc",
         "fighter/pzenigame/motion/body/c00/motion_list.bin",
         "fighter/pzenigame/motion/body/c00/j01appealhir.nuanmb",
+        "fighter/pzenigame/motion/body/c00/e00catchattack.nuanmb",
         "fighter/reflet/motion/body/c00/motion_list.bin",
         "fighter/reflet/motion/body/c01/motion_list.bin",
         "fighter/reflet/motion/body/c00/d02specialhi1.nuanmb",
@@ -224,13 +305,27 @@
         "fighter/richter/motion/body/c00/d02specialhi.nuanmb",
         "fighter/richter/motion/body/c00/d02specialairhi.nuanmb",
         "fighter/ridley/motion/body/c00/motion_list.bin",
+        "fighter/ridley/motion/body/c00/e00catchattack.nuanmb",
         "fighter/robot/motion/body/c00/motion_list.bin",
+        "fighter/robot/motion/body/c00/e00catchattack.nuanmb",
+        "fighter/robot/motion/body/c00/c02attacklw3.nuanmb",
         "fighter/rockman/motion/body/c00/motion_list.bin",
         "fighter/rockman/motion/body/c00/c00attack11.nuanmb",
         "fighter/rockman/motion/body/c00/c03attacks4s.nuanmb",
         "fighter/rockman/motion/body/c00/c03attacks4charge.nuanmb",
         "fighter/rockman/motion/rushcoil/c00/rushwait.nuanmb",
         "fighter/ryu/motion/body/c00/motion_list.bin",
+        "fighter/ryu/motion/body/c00/c00attack11w.nuanmb",
+        "fighter/ryu/motion/body/c00/c02attackhi3w.nuanmb",
+        "fighter/ryu/motion/body/c00/c02attacklw3s.nuanmb",
+        "fighter/ryu/motion/body/c00/c02attacklw3w.nuanmb",
+        "fighter/ryu/motion/body/c00/c05attackairf.nuanmb",
+        "fighter/ryu/motion/body/c00/d03specialairlw.nuanmb",
+        "fighter/ryu/motion/body/c00/d03specialairlwstepb.nuanmb",
+        "fighter/ryu/motion/body/c00/d03specialairlwstepf.nuanmb",
+        "fighter/ryu/motion/body/c00/d03speciallw.nuanmb",
+        "fighter/ryu/motion/body/c00/d03speciallwstepb.nuanmb",
+        "fighter/ryu/motion/body/c00/d03speciallwstepf.nuanmb",
         "fighter/samus/motion/body/c00/motion_list.bin",
         "fighter/samus/motion/body/c00/c02attackhi3.nuanmb",
         "fighter/samusd/motion/body/c00/motion_list.bin",
@@ -280,6 +375,7 @@
         "fighter/simon/motion/body/c00/c05landingairlw.nuanmb",
         "fighter/snake/motion/body/c00/motion_list.bin",
         "fighter/sonic/motion/body/c00/motion_list.bin",
+        "fighter/sonic/motion/body/c00/e00catchattack.nuanmb",
         "fighter/sonic/motion/body/c00/e01throwf.nuanmb",
         "fighter/szerosuit/motion/body/c00/motion_list.bin",
         "fighter/szerosuit/motion/body/c00/c02attacklw3.nuanmb",
@@ -388,6 +484,33 @@
             "fighter/dolly/motion/body/c05/c02attacklw32.nuanmb",
             "fighter/dolly/motion/body/c06/c02attacklw32.nuanmb",
             "fighter/dolly/motion/body/c07/c02attacklw32.nuanmb"
+        ],
+        "fighter/gamewatch/model/normal_weapon/c00/model.numdlb": [
+            "fighter/gamewatch/model/normal_weapon/c01/model.numdlb",
+            "fighter/gamewatch/model/normal_weapon/c02/model.numdlb",
+            "fighter/gamewatch/model/normal_weapon/c03/model.numdlb",
+            "fighter/gamewatch/model/normal_weapon/c04/model.numdlb",
+            "fighter/gamewatch/model/normal_weapon/c05/model.numdlb",
+            "fighter/gamewatch/model/normal_weapon/c06/model.numdlb",
+            "fighter/gamewatch/model/normal_weapon/c07/model.numdlb"
+        ],
+        "fighter/mario/motion/mantle/c00/c05attackairf.nuanmb": [
+            "fighter/mario/motion/mantle/c01/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c02/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c03/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c04/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c05/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c06/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c07/c05attackairf.nuanmb"
+        ],
+        "fighter/mario/motion/mantle/c00/c05landingairf.nuanmb": [
+            "fighter/mario/motion/mantle/c01/c05landingairf.nuanmb",
+            "fighter/mario/motion/mantle/c02/c05landingairf.nuanmb",
+            "fighter/mario/motion/mantle/c03/c05landingairf.nuanmb",
+            "fighter/mario/motion/mantle/c04/c05landingairf.nuanmb",
+            "fighter/mario/motion/mantle/c05/c05landingairf.nuanmb",
+            "fighter/mario/motion/mantle/c06/c05landingairf.nuanmb",
+            "fighter/mario/motion/mantle/c07/c05landingairf.nuanmb"
         ],
         "fighter/metaknight/motion/body/c00/c00attack11.nuanmb": [
             "fighter/metaknight/motion/body/c01/c00attack11.nuanmb",
@@ -634,6 +757,24 @@
             "fighter/rockman/motion/body/c06/d00busterairchargeshot.nuanmb",
             "fighter/rockman/motion/body/c07/d00busterairchargeshot.nuanmb"
         ],
+        "fighter/ryu/motion/body/c00/d00specialairn2.nuanmb": [
+            "fighter/ryu/motion/body/c01/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c02/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c03/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c04/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c05/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c06/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c07/d00specialairn2.nuanmb"
+        ],
+        "fighter/ryu/motion/body/c00/d00specialn2.nuanmb": [
+            "fighter/ryu/motion/body/c01/d00specialn2.nuanmb",
+            "fighter/ryu/motion/body/c02/d00specialn2.nuanmb",
+            "fighter/ryu/motion/body/c03/d00specialn2.nuanmb",
+            "fighter/ryu/motion/body/c04/d00specialn2.nuanmb",
+            "fighter/ryu/motion/body/c05/d00specialn2.nuanmb",
+            "fighter/ryu/motion/body/c06/d00specialn2.nuanmb",
+            "fighter/ryu/motion/body/c07/d00specialn2.nuanmb"
+        ],
         "fighter/simon/motion/whip/c00/motion_list.bin": [
             "fighter/simon/motion/whip/c01/motion_list.bin",
             "fighter/simon/motion/whip/c02/motion_list.bin",
@@ -714,6 +855,218 @@
             "fighter/szerosuit/motion/body/c05/d02specialairhi2.nuanmb",
             "fighter/szerosuit/motion/body/c06/d02specialairhi2.nuanmb",
             "fighter/szerosuit/motion/body/c07/d02specialairhi2.nuanmb"
+        ],
+
+        "sound/bank/fighter/se_dolly.nus3bank": [
+            "sound/bank/fighter/se_dolly_c00.nus3bank",
+            "sound/bank/fighter/se_dolly_c01.nus3bank",
+            "sound/bank/fighter/se_dolly_c02.nus3bank",
+            "sound/bank/fighter/se_dolly_c03.nus3bank",
+            "sound/bank/fighter/se_dolly_c04.nus3bank",
+            "sound/bank/fighter/se_dolly_c05.nus3bank",
+            "sound/bank/fighter/se_dolly_c06.nus3bank",
+            "sound/bank/fighter/se_dolly_c07.nus3bank"
+        ],
+        "sound/bank/fighter/se_dolly.nus3audio": [
+            "sound/bank/fighter/se_dolly_c00.nus3audio",
+            "sound/bank/fighter/se_dolly_c01.nus3audio",
+            "sound/bank/fighter/se_dolly_c02.nus3audio",
+            "sound/bank/fighter/se_dolly_c03.nus3audio",
+            "sound/bank/fighter/se_dolly_c04.nus3audio",
+            "sound/bank/fighter/se_dolly_c05.nus3audio",
+            "sound/bank/fighter/se_dolly_c06.nus3audio",
+            "sound/bank/fighter/se_dolly_c07.nus3audio"
+        ],
+        "sound/bank/fighter/se_dolly.tonelabel": [
+            "sound/bank/fighter/se_dolly_c00.tonelabel",
+            "sound/bank/fighter/se_dolly_c01.tonelabel",
+            "sound/bank/fighter/se_dolly_c02.tonelabel",
+            "sound/bank/fighter/se_dolly_c03.tonelabel",
+            "sound/bank/fighter/se_dolly_c04.tonelabel",
+            "sound/bank/fighter/se_dolly_c05.tonelabel",
+            "sound/bank/fighter/se_dolly_c06.tonelabel",
+            "sound/bank/fighter/se_dolly_c07.tonelabel"
+        ],
+        "sound/bank/fighter/se_lucina.nus3audio": [
+            "sound/bank/fighter/se_lucina_c00.nus3audio",
+            "sound/bank/fighter/se_lucina_c01.nus3audio",
+            "sound/bank/fighter/se_lucina_c02.nus3audio",
+            "sound/bank/fighter/se_lucina_c03.nus3audio",
+            "sound/bank/fighter/se_lucina_c04.nus3audio",
+            "sound/bank/fighter/se_lucina_c05.nus3audio",
+            "sound/bank/fighter/se_lucina_c06.nus3audio",
+            "sound/bank/fighter/se_lucina_c07.nus3audio"
+        ],
+        "sound/bank/fighter/se_luigi.nus3audio": [
+            "sound/bank/fighter/se_luigi_c00.nus3audio",
+            "sound/bank/fighter/se_luigi_c01.nus3audio",
+            "sound/bank/fighter/se_luigi_c02.nus3audio",
+            "sound/bank/fighter/se_luigi_c03.nus3audio",
+            "sound/bank/fighter/se_luigi_c04.nus3audio",
+            "sound/bank/fighter/se_luigi_c05.nus3audio",
+            "sound/bank/fighter/se_luigi_c06.nus3audio",
+            "sound/bank/fighter/se_luigi_c07.nus3audio"
+        ],
+        "sound/bank/fighter/se_mario.nus3bank": [
+            "sound/bank/fighter/se_mario_c00.nus3bank",
+            "sound/bank/fighter/se_mario_c01.nus3bank",
+            "sound/bank/fighter/se_mario_c02.nus3bank",
+            "sound/bank/fighter/se_mario_c03.nus3bank",
+            "sound/bank/fighter/se_mario_c04.nus3bank",
+            "sound/bank/fighter/se_mario_c05.nus3bank",
+            "sound/bank/fighter/se_mario_c06.nus3bank",
+            "sound/bank/fighter/se_mario_c07.nus3bank"
+        ],
+        "sound/bank/fighter/se_mario.nus3audio": [
+            "sound/bank/fighter/se_mario_c00.nus3audio",
+            "sound/bank/fighter/se_mario_c01.nus3audio",
+            "sound/bank/fighter/se_mario_c02.nus3audio",
+            "sound/bank/fighter/se_mario_c03.nus3audio",
+            "sound/bank/fighter/se_mario_c04.nus3audio",
+            "sound/bank/fighter/se_mario_c05.nus3audio",
+            "sound/bank/fighter/se_mario_c06.nus3audio",
+            "sound/bank/fighter/se_mario_c07.nus3audio"
+        ],
+        "sound/bank/fighter/se_ryu.nus3bank": [
+            "sound/bank/fighter/se_ryu_c00.nus3bank",
+            "sound/bank/fighter/se_ryu_c01.nus3bank",
+            "sound/bank/fighter/se_ryu_c02.nus3bank",
+            "sound/bank/fighter/se_ryu_c03.nus3bank",
+            "sound/bank/fighter/se_ryu_c04.nus3bank",
+            "sound/bank/fighter/se_ryu_c05.nus3bank",
+            "sound/bank/fighter/se_ryu_c06.nus3bank",
+            "sound/bank/fighter/se_ryu_c07.nus3bank"
+        ],
+        "sound/bank/fighter/se_ryu.nus3audio": [
+            "sound/bank/fighter/se_ryu_c00.nus3audio",
+            "sound/bank/fighter/se_ryu_c01.nus3audio",
+            "sound/bank/fighter/se_ryu_c02.nus3audio",
+            "sound/bank/fighter/se_ryu_c03.nus3audio",
+            "sound/bank/fighter/se_ryu_c04.nus3audio",
+            "sound/bank/fighter/se_ryu_c05.nus3audio",
+            "sound/bank/fighter/se_ryu_c06.nus3audio",
+            "sound/bank/fighter/se_ryu_c07.nus3audio"
+        ],
+        "sound/bank/fighter/se_ryu.tonelabel": [
+            "sound/bank/fighter/se_ryu_c00.tonelabel",
+            "sound/bank/fighter/se_ryu_c01.tonelabel",
+            "sound/bank/fighter/se_ryu_c02.tonelabel",
+            "sound/bank/fighter/se_ryu_c03.tonelabel",
+            "sound/bank/fighter/se_ryu_c04.tonelabel",
+            "sound/bank/fighter/se_ryu_c05.tonelabel",
+            "sound/bank/fighter/se_ryu_c06.tonelabel",
+            "sound/bank/fighter/se_ryu_c07.tonelabel"
+        ],
+
+        "sound/bank/fighter_voice/vc_ken.nus3bank": [
+            "sound/bank/fighter_voice/vc_ken_c00.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c01.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c02.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c03.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c04.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c05.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c06.nus3bank",
+            "sound/bank/fighter_voice/vc_ken_c07.nus3bank"
+        ],
+        "sound/bank/fighter_voice/vc_ken.nus3audio": [
+            "sound/bank/fighter_voice/vc_ken_c00.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c01.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c02.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c03.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c04.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c05.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c06.nus3audio",
+            "sound/bank/fighter_voice/vc_ken_c07.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_ken.tonelabel": [
+            "sound/bank/fighter_voice/vc_ken_c00.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c01.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c02.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c03.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c04.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c05.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c06.tonelabel",
+            "sound/bank/fighter_voice/vc_ken_c07.tonelabel"
+        ],
+        "sound/bank/fighter_voice/vc_lucina.nus3bank": [
+            "sound/bank/fighter_voice/vc_lucina_c00.nus3bank",
+            "sound/bank/fighter_voice/vc_lucina_c01.nus3bank",
+            "sound/bank/fighter_voice/vc_lucina_c02.nus3bank",
+            "sound/bank/fighter_voice/vc_lucina_c03.nus3bank",
+            "sound/bank/fighter_voice/vc_lucina_c04.nus3bank",
+            "sound/bank/fighter_voice/vc_lucina_c05.nus3bank",
+            "sound/bank/fighter_voice/vc_lucina_c06.nus3bank",
+            "sound/bank/fighter_voice/vc_lucina_c07.nus3bank"
+        ],
+        "sound/bank/fighter_voice/vc_lucina.nus3audio": [
+            "sound/bank/fighter_voice/vc_lucina_c00.nus3audio",
+            "sound/bank/fighter_voice/vc_lucina_c01.nus3audio",
+            "sound/bank/fighter_voice/vc_lucina_c02.nus3audio",
+            "sound/bank/fighter_voice/vc_lucina_c03.nus3audio",
+            "sound/bank/fighter_voice/vc_lucina_c04.nus3audio",
+            "sound/bank/fighter_voice/vc_lucina_c05.nus3audio",
+            "sound/bank/fighter_voice/vc_lucina_c06.nus3audio",
+            "sound/bank/fighter_voice/vc_lucina_c07.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_lucina.tonelabel": [
+            "sound/bank/fighter_voice/vc_lucina_c00.tonelabel",
+            "sound/bank/fighter_voice/vc_lucina_c01.tonelabel",
+            "sound/bank/fighter_voice/vc_lucina_c02.tonelabel",
+            "sound/bank/fighter_voice/vc_lucina_c03.tonelabel",
+            "sound/bank/fighter_voice/vc_lucina_c04.tonelabel",
+            "sound/bank/fighter_voice/vc_lucina_c05.tonelabel",
+            "sound/bank/fighter_voice/vc_lucina_c06.tonelabel",
+            "sound/bank/fighter_voice/vc_lucina_c07.tonelabel"
+        ],
+        "sound/bank/fighter_voice/vc_luigi.nus3audio": [
+            "sound/bank/fighter_voice/vc_luigi_c00.nus3audio",
+            "sound/bank/fighter_voice/vc_luigi_c01.nus3audio",
+            "sound/bank/fighter_voice/vc_luigi_c02.nus3audio",
+            "sound/bank/fighter_voice/vc_luigi_c03.nus3audio",
+            "sound/bank/fighter_voice/vc_luigi_c04.nus3audio",
+            "sound/bank/fighter_voice/vc_luigi_c05.nus3audio",
+            "sound/bank/fighter_voice/vc_luigi_c06.nus3audio",
+            "sound/bank/fighter_voice/vc_luigi_c07.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_mario.nus3audio": [
+            "sound/bank/fighter_voice/vc_mario_c00.nus3audio",
+            "sound/bank/fighter_voice/vc_mario_c01.nus3audio",
+            "sound/bank/fighter_voice/vc_mario_c02.nus3audio",
+            "sound/bank/fighter_voice/vc_mario_c03.nus3audio",
+            "sound/bank/fighter_voice/vc_mario_c04.nus3audio",
+            "sound/bank/fighter_voice/vc_mario_c05.nus3audio",
+            "sound/bank/fighter_voice/vc_mario_c06.nus3audio",
+            "sound/bank/fighter_voice/vc_mario_c07.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_ryu.nus3bank": [
+            "sound/bank/fighter_voice/vc_ryu_c00.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c01.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c02.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c03.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c04.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c05.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c06.nus3bank",
+            "sound/bank/fighter_voice/vc_ryu_c07.nus3bank"
+        ],
+        "sound/bank/fighter_voice/vc_ryu.nus3audio": [
+            "sound/bank/fighter_voice/vc_ryu_c00.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c01.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c02.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c03.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c04.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c05.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c06.nus3audio",
+            "sound/bank/fighter_voice/vc_ryu_c07.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_ryu.tonelabel": [
+            "sound/bank/fighter_voice/vc_ryu_c00.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c01.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c02.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c03.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c04.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c05.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c06.tonelabel",
+            "sound/bank/fighter_voice/vc_ryu_c07.tonelabel"
         ]
     },
     "new-dir-files": {
@@ -989,29 +1342,133 @@
             "fighter/elight/motion/body/c07/d03speciallwattack.nuanmb",
             "fighter/elight/motion/body/c07/d03specialairlwattack.nuanmb"
         ],
+        "fighter/gamewatch/c00": [
+            "fighter/gamewatch/motion/normal_weapon/c00/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c00/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c01": [
+            "fighter/gamewatch/motion/normal_weapon/c01/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c01/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c02": [
+            "fighter/gamewatch/motion/normal_weapon/c02/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c02/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c03": [
+            "fighter/gamewatch/motion/normal_weapon/c03/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c03/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c04": [
+            "fighter/gamewatch/motion/normal_weapon/c04/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c04/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c05": [
+            "fighter/gamewatch/motion/normal_weapon/c05/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c05/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c06": [
+            "fighter/gamewatch/motion/normal_weapon/c06/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c06/c05landingairf.nuanmb"
+        ],
+        "fighter/gamewatch/c07": [
+            "fighter/gamewatch/motion/normal_weapon/c07/c05attackairf.nuanmb",
+            "fighter/gamewatch/motion/normal_weapon/c07/c05landingairf.nuanmb"
+        ],
+        "fighter/ganon/c00": [
+            "fighter/ganon/motion/body/c00/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c01": [
+            "fighter/ganon/motion/body/c01/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c02": [
+            "fighter/ganon/motion/body/c02/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c03": [
+            "fighter/ganon/motion/body/c03/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c04": [
+            "fighter/ganon/motion/body/c04/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c05": [
+            "fighter/ganon/motion/body/c05/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c06": [
+            "fighter/ganon/motion/body/c06/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c07": [
+            "fighter/ganon/motion/body/c07/c02attacklw32.nuanmb"
+        ],
         "fighter/ken/c00": [
-            "fighter/ken/motion/body/c00/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c00/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c00/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c00/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c01": [
-            "fighter/ken/motion/body/c01/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c01/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c01/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c01/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c02": [
-            "fighter/ken/motion/body/c02/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c02/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c02/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c02/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c03": [
-            "fighter/ken/motion/body/c03/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c03/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c03/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c03/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c04": [
-            "fighter/ken/motion/body/c04/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c04/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c04/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c04/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c05": [
-            "fighter/ken/motion/body/c05/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c05/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c05/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c05/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c06": [
-            "fighter/ken/motion/body/c06/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c06/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c06/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c06/d00specialairn2.nuanmb"
         ],
         "fighter/ken/c07": [
-            "fighter/ken/motion/body/c07/d02specialhireppa.nuanmb"
+            "fighter/ken/motion/body/c07/c01attacks3s2.nuanmb",
+            "fighter/ken/motion/body/c07/d01specialairs2end.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialn2start.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialn2lw.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialn2hi.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialn2s.nuanmb",
+            "fighter/ken/motion/body/c07/d00specialairn2.nuanmb"
         ],
         "fighter/kirby/c00": [
             "fighter/kirby/motion/body/c00/j01appealsloop.nuanmb"
@@ -1172,6 +1629,38 @@
             "fighter/lucario/motion/body/c07/d03specialairlwattack.nuanmb",
             "fighter/lucario/motion/body/c07/d03speciallwcancel.nuanmb",
             "fighter/lucario/motion/body/c07/d03specialairlwcancel.nuanmb"
+        ],
+        "fighter/mario/c00": [
+            "fighter/mario/motion/mantle/c00/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c00/c05landingairf.nuanmb"
+        ],
+        "fighter/mario/c01": [
+            "fighter/mario/motion/mantle/c01/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c01/c05landingairf.nuanmb"
+        ],
+        "fighter/mario/c02": [
+            "fighter/mario/motion/mantle/c02/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c02/c05landingairf.nuanmb"
+        ],
+        "fighter/mario/c03": [
+            "fighter/mario/motion/mantle/c03/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c03/c05landingairf.nuanmb"
+        ],
+        "fighter/mario/c04": [
+            "fighter/mario/motion/mantle/c04/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c04/c05landingairf.nuanmb"
+        ],
+        "fighter/mario/c05": [
+            "fighter/mario/motion/mantle/c05/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c05/c05landingairf.nuanmb"
+        ],
+        "fighter/mario/c06": [
+            "fighter/mario/motion/mantle/c06/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c06/c05landingairf.nuanmb"
+        ],
+        "fighter/mario/c07": [
+            "fighter/mario/motion/mantle/c07/c05attackairf.nuanmb",
+            "fighter/mario/motion/mantle/c07/c05landingairf.nuanmb"
         ],
         "fighter/marth/cmn/effect": [
             "effect/fighter/marth/trail/tex_marth_stance_sword1.nutexb",
@@ -1670,6 +2159,38 @@
             "fighter/rockman/motion/body/c07/c05attackairnmelee.nuanmb",
             "fighter/rockman/motion/body/c07/d00busterchargeshot.nuanmb",
             "fighter/rockman/motion/body/c07/d00busterairchargeshot.nuanmb"
+        ],
+        "fighter/ryu/c00": [
+            "fighter/ryu/motion/body/c00/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c00/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c01": [
+            "fighter/ryu/motion/body/c01/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c01/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c02": [
+            "fighter/ryu/motion/body/c02/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c02/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c03": [
+            "fighter/ryu/motion/body/c03/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c03/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c04": [
+            "fighter/ryu/motion/body/c04/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c04/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c05": [
+            "fighter/ryu/motion/body/c05/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c05/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c06": [
+            "fighter/ryu/motion/body/c06/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c06/d00specialn2.nuanmb"
+        ],
+        "fighter/ryu/c07": [
+            "fighter/ryu/motion/body/c07/d00specialairn2.nuanmb",
+            "fighter/ryu/motion/body/c07/d00specialn2.nuanmb"
         ],
         "fighter/shulk/cmn/effect": [
             "effect/fighter/shulk/trail/tex_shulk_swordgreen1.nutexb",

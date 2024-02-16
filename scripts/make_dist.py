@@ -10,6 +10,9 @@ if not os.path.exists("../motion_list"):
   print("ERROR: no motion_list dir!")
   exit("motion_list dir was missing!")
 
+if os.path.exists("../build_lists"):
+  shutil.rmtree("../build_lists")
+
 motionYamls = []
 
 for root, subFolder, files in os.walk("../motion_list"):
@@ -20,10 +23,10 @@ for root, subFolder, files in os.walk("../motion_list"):
 print("Current Directory: " + os.getcwd())
 
 for yml in motionYamls:
-  newPath = yml.replace("motion_list/", "romfs/")
-  newPathNoFile = newPath.replace("motion_list.yml", "")
+  oldPathNoFile = yml.replace("motion_list.yml", "")
+  newPathNoFile = oldPathNoFile.replace('motion_list', 'build_lists')
   os.makedirs(newPathNoFile, mode = 0o777, exist_ok = True)
-  newPathFull = newPath.replace("yml", "bin")
+  newPathFull = newPathNoFile + "motion_list.bin"
   print("--------------")
   print(yml)
   print(newPathNoFile)
@@ -36,7 +39,8 @@ for yml in motionYamls:
 if "build" in os.listdir('..'):
   shutil.rmtree('../build')
 os.makedirs('../build/ultimate/')
-shutil.copytree("../romfs", "../build/ultimate/mods/The WuBor Patch")
+shutil.copytree("../build_lists", "../build/ultimate/mods/The WuBor Patch", dirs_exist_ok=True)
+shutil.copytree("../romfs", "../build/ultimate/mods/The WuBor Patch", dirs_exist_ok=True)
 
 
 # zip each folder in the staging dir
