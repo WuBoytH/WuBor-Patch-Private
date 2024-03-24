@@ -154,4 +154,7 @@
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
   </list>
+  <struct hash="param_private">
+    <int hash="attack_lw32_landing_frame">20</int>
+  </struct>
 </struct>
