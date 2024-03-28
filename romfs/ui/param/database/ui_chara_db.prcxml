@@ -1,137 +1,501 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
   <list hash="db_root">
+    <!-- Random -->
     <hash40 index="0">dummy</hash40>
-    <hash40 index="1">dummy</hash40>
-    <hash40 index="2">dummy</hash40>
-    <hash40 index="3">dummy</hash40>
-    <hash40 index="4">dummy</hash40>
-    <hash40 index="5">dummy</hash40>
-    <hash40 index="6">dummy</hash40>
-    <hash40 index="7">dummy</hash40>
+    <!-- Mario -->
+    <struct index="1">
+      <sbyte hash="skill_list_order">13</sbyte>
+      <sbyte hash="disp_order">13</sbyte>
+    </struct>
+    <!-- Donkey Kong -->
+    <struct index="2">
+      <sbyte hash="skill_list_order">15</sbyte>
+      <sbyte hash="disp_order">15</sbyte>
+    </struct>
+    <!-- Link -->
+    <struct index="3">
+      <sbyte hash="skill_list_order">16</sbyte>
+      <sbyte hash="disp_order">16</sbyte>
+    </struct>
+    <!-- Samus -->
+    <struct index="4">
+      <sbyte hash="skill_list_order">55</sbyte>
+      <sbyte hash="disp_order">55</sbyte>
+    </struct>
+    <!-- Dark Samus -->
+    <struct index="5">
+      <sbyte hash="skill_list_order">43</sbyte>
+      <sbyte hash="disp_order">43</sbyte>
+    </struct>
+    <!-- Yoshi -->
+    <struct index="6">
+      <sbyte hash="skill_list_order">52</sbyte>
+      <sbyte hash="disp_order">52</sbyte>
+    </struct>
+    <!-- Kirby -->
+    <struct index="7">
+      <sbyte hash="skill_list_order">8</sbyte>
+      <sbyte hash="disp_order">8</sbyte>
+    </struct>
+    <!-- Fox -->
     <hash40 index="8">dummy</hash40>
-    <hash40 index="9">dummy</hash40>
-    <hash40 index="10">dummy</hash40>
-    <hash40 index="11">dummy</hash40>
+    <!-- Pikachu -->
+    <struct index="9">
+      <sbyte hash="skill_list_order">18</sbyte>
+      <sbyte hash="disp_order">18</sbyte>
+    </struct>
+    <!-- Luigi -->
+    <struct index="10">
+      <sbyte hash="skill_list_order">26</sbyte>
+      <sbyte hash="disp_order">26</sbyte>
+    </struct>
+    <!-- Ness -->
+    <struct index="11">
+      <sbyte hash="skill_list_order">57</sbyte>
+      <sbyte hash="disp_order">57</sbyte>
+    </struct>
+    <!-- Captain Falcon -->
     <hash40 index="12">dummy</hash40>
-    <hash40 index="13">dummy</hash40>
-    <hash40 index="14">dummy</hash40>
+    <!-- Jigglypuff -->
+    <struct index="13">
+      <sbyte hash="skill_list_order">44</sbyte>
+      <sbyte hash="disp_order">44</sbyte>
+    </struct>
+    <!-- Peach -->
+    <struct index="14">
+      <sbyte hash="skill_list_order">1</sbyte>
+      <sbyte hash="disp_order">1</sbyte>
+    </struct>
+    <!-- Daisy -->
     <hash40 index="15">dummy</hash40>
-    <hash40 index="16">dummy</hash40>
-    <hash40 index="17">dummy</hash40>
+    <!-- Bowser -->
+    <struct index="16">
+      <sbyte hash="skill_list_order">40</sbyte>
+      <sbyte hash="disp_order">40</sbyte>
+    </struct>
+    <!-- Ice Climbers -->
+    <struct index="17">
+      <sbyte hash="skill_list_order">63</sbyte>
+      <sbyte hash="disp_order">63</sbyte>
+    </struct>
+    <!-- Sheik -->
     <hash40 index="18">dummy</hash40>
-    <hash40 index="19">dummy</hash40>
-    <hash40 index="20">dummy</hash40>
-    <hash40 index="21">dummy</hash40>
-    <hash40 index="22">dummy</hash40>
+    <!-- Zelda -->
+    <struct index="19">
+      <sbyte hash="skill_list_order">4</sbyte>
+      <sbyte hash="disp_order">4</sbyte>
+    </struct>
+    <!-- Dr. Mario -->
+    <struct index="20">
+      <sbyte hash="skill_list_order">0</sbyte>
+      <sbyte hash="disp_order">0</sbyte>
+    </struct>
+    <!-- Pichu -->
+    <struct index="21">
+      <sbyte hash="skill_list_order">31</sbyte>
+      <sbyte hash="disp_order">31</sbyte>
+    </struct>
+    <!-- Falco -->
+    <struct index="22">
+      <sbyte hash="skill_list_order">20</sbyte>
+      <sbyte hash="disp_order">20</sbyte>
+    </struct>
+    <!-- Marth -->
     <struct index="23">
       <hash40 hash="fighter_type">fighter_type_normal</hash40>
       <hash40 hash="alt_chara_id"></hash40>
+      <sbyte hash="skill_list_order">9</sbyte>
+      <sbyte hash="disp_order">9</sbyte>
     </struct>
+    <!-- Lucina -->
     <struct index="24">
       <hash40 hash="ui_series_id">ui_series_persona</hash40>
       <hash40 hash="fighter_type">fighter_type_normal</hash40>
       <hash40 hash="alt_chara_id"></hash40>
       <short hash="exhibit_year">2008</short>
+      <sbyte hash="skill_list_order">76</sbyte>
+      <sbyte hash="disp_order">76</sbyte>
       <hash40 hash="characall_label_c00"></hash40>
     </struct>
-    <hash40 index="25">dummy</hash40>
-    <hash40 index="26">dummy</hash40>
-    <hash40 index="27">dummy</hash40>
-    <hash40 index="28">dummy</hash40>
-    <hash40 index="29">dummy</hash40>
-    <hash40 index="30">dummy</hash40>
-    <hash40 index="31">dummy</hash40>
-    <hash40 index="32">dummy</hash40>
-    <hash40 index="33">dummy</hash40>
-    <hash40 index="34">dummy</hash40>
-    <hash40 index="35">dummy</hash40>
-    <hash40 index="36">dummy</hash40>
-    <hash40 index="37">dummy</hash40>
-    <hash40 index="38">dummy</hash40>
+    <!-- Young Link -->
+    <struct index="25">
+      <sbyte hash="skill_list_order">3</sbyte>
+      <sbyte hash="disp_order">3</sbyte>
+    </struct>
+    <!-- Ganondorf -->
+    <struct index="26">
+      <sbyte hash="skill_list_order">30</sbyte>
+      <sbyte hash="disp_order">30</sbyte>
+    </struct>
+    <!-- Mewtwo -->
+    <struct index="27">
+      <sbyte hash="skill_list_order">6</sbyte>
+      <sbyte hash="disp_order">6</sbyte>
+    </struct>
+    <!-- Roy -->
+    <struct index="28">
+      <sbyte hash="skill_list_order">10</sbyte>
+      <sbyte hash="disp_order">10</sbyte>
+    </struct>
+    <!-- Chrom -->
+    <struct index="29">
+      <sbyte hash="skill_list_order">23</sbyte>
+      <sbyte hash="disp_order">23</sbyte>
+    </struct>
+    <!-- Mr. Game & Watch -->
+    <struct index="30">
+      <sbyte hash="skill_list_order">24</sbyte>
+      <sbyte hash="disp_order">24</sbyte>
+    </struct>
+    <!-- Meta Knight -->
+    <struct index="31">
+      <sbyte hash="skill_list_order">34</sbyte>
+      <sbyte hash="disp_order">34</sbyte>
+    </struct>
+    <!-- Pit -->
+    <struct index="32">
+      <sbyte hash="skill_list_order">49</sbyte>
+      <sbyte hash="disp_order">49</sbyte>
+    </struct>
+    <!-- Dark Pit -->
+    <struct index="33">
+      <sbyte hash="skill_list_order">62</sbyte>
+      <sbyte hash="disp_order">62</sbyte>
+    </struct>
+    <!-- Zero Suit Samus -->
+    <struct index="34">
+      <sbyte hash="skill_list_order">42</sbyte>
+      <sbyte hash="disp_order">42</sbyte>
+    </struct>
+    <!-- Wario -->
+    <struct index="35">
+      <sbyte hash="skill_list_order">39</sbyte>
+      <sbyte hash="disp_order">39</sbyte>
+    </struct>
+    <!-- Snake -->
+    <struct index="36">
+      <sbyte hash="skill_list_order">71</sbyte>
+      <sbyte hash="disp_order">71</sbyte>
+    </struct>
+    <!-- Ike -->
+    <struct index="37">
+      <sbyte hash="skill_list_order">22</sbyte>
+      <sbyte hash="disp_order">22</sbyte>
+    </struct>
+    <!-- Pokemon Trainer -->
+    <struct index="38">
+      <sbyte hash="skill_list_order">5</sbyte>
+      <sbyte hash="disp_order">5</sbyte>
+    </struct>
+    <!-- Squirtle -->
     <hash40 index="39">dummy</hash40>
+    <!-- Ivysaur -->
     <hash40 index="40">dummy</hash40>
+    <!-- Charizard -->
     <hash40 index="41">dummy</hash40>
-    <hash40 index="42">dummy</hash40>
-    <hash40 index="43">dummy</hash40>
-    <hash40 index="44">dummy</hash40>
-    <hash40 index="45">dummy</hash40>
-    <hash40 index="46">dummy</hash40>
-    <hash40 index="47">dummy</hash40>
-    <hash40 index="48">dummy</hash40>
-    <hash40 index="49">dummy</hash40>
-    <hash40 index="50">dummy</hash40>
-    <hash40 index="51">dummy</hash40>
-    <hash40 index="52">dummy</hash40>
-    <hash40 index="53">dummy</hash40>
-    <hash40 index="54">dummy</hash40>
-    <hash40 index="55">dummy</hash40>
-    <hash40 index="56">dummy</hash40>
-    <hash40 index="57">dummy</hash40>
-    <hash40 index="58">dummy</hash40>
-    <hash40 index="59">dummy</hash40>
-    <hash40 index="60">dummy</hash40>
-    <hash40 index="61">dummy</hash40>
-    <hash40 index="62">dummy</hash40>
-    <hash40 index="63">dummy</hash40>
-    <hash40 index="64">dummy</hash40>
-    <hash40 index="65">dummy</hash40>
-    <hash40 index="66">dummy</hash40>
-    <hash40 index="67">dummy</hash40>
-    <hash40 index="68">dummy</hash40>
-    <hash40 index="69">dummy</hash40>
-    <hash40 index="70">dummy</hash40>
-    <hash40 index="71">dummy</hash40>
-    <hash40 index="72">dummy</hash40>
-    <hash40 index="73">dummy</hash40>
-    <hash40 index="74">dummy</hash40>
-    <hash40 index="75">dummy</hash40>
-    <hash40 index="76">dummy</hash40>
-    <hash40 index="77">dummy</hash40>
-    <hash40 index="78">dummy</hash40>
+    <!-- Diddy Kong -->
+    <struct index="42">
+      <sbyte hash="skill_list_order">28</sbyte>
+      <sbyte hash="disp_order">28</sbyte>
+    </struct>
+    <!-- Lucas -->
+    <struct index="43">
+      <sbyte hash="skill_list_order">58</sbyte>
+      <sbyte hash="disp_order">58</sbyte>
+    </struct>
+    <!-- Sonic -->
+    <struct index="44">
+      <sbyte hash="skill_list_order">66</sbyte>
+      <sbyte hash="disp_order">66</sbyte>
+    </struct>
+    <!-- King Dedede -->
+    <struct index="45">
+      <sbyte hash="skill_list_order">21</sbyte>
+      <sbyte hash="disp_order">21</sbyte>
+    </struct>
+    <!-- Olimar -->
+    <struct index="46">
+      <sbyte hash="skill_list_order">25</sbyte>
+      <sbyte hash="disp_order">25</sbyte>
+    </struct>
+    <!-- Lucario -->
+    <struct index="47">
+      <sbyte hash="skill_list_order">19</sbyte>
+      <sbyte hash="disp_order">19</sbyte>
+    </struct>
+    <!-- R.O.B. -->
+    <struct index="48">
+      <sbyte hash="skill_list_order">50</sbyte>
+      <sbyte hash="disp_order">50</sbyte>
+    </struct>
+    <!-- Toon Link -->
+    <struct index="49">
+      <sbyte hash="skill_list_order">29</sbyte>
+      <sbyte hash="disp_order">29</sbyte>
+    </struct>
+    <!-- Wolf -->
+    <struct index="50">
+      <sbyte hash="skill_list_order">33</sbyte>
+      <sbyte hash="disp_order">33</sbyte>
+    </struct>
+    <!-- Villager -->
+    <struct index="51">
+      <sbyte hash="skill_list_order">46</sbyte>
+      <sbyte hash="disp_order">46</sbyte>
+    </struct>
+    <!-- Mega Man -->
+    <struct index="52">
+      <sbyte hash="skill_list_order">67</sbyte>
+      <sbyte hash="disp_order">67</sbyte>
+    </struct>
+    <!-- Wii Fit Trainer -->
+    <struct index="53">
+      <sbyte hash="skill_list_order">38</sbyte>
+      <sbyte hash="disp_order">38</sbyte>
+    </struct>
+    <!-- Rosalina & Luma -->
+    <struct index="54">
+      <sbyte hash="skill_list_order">27</sbyte>
+      <sbyte hash="disp_order">27</sbyte>
+    </struct>
+    <!-- Little Mac -->
+    <struct index="55">
+      <sbyte hash="skill_list_order">12</sbyte>
+      <sbyte hash="disp_order">12</sbyte>
+    </struct>
+    <!-- Greninja -->
+    <struct index="56">
+      <sbyte hash="skill_list_order">32</sbyte>
+      <sbyte hash="disp_order">32</sbyte>
+    </struct>
+    <!-- Palutena -->
+    <struct index="57">
+      <sbyte hash="skill_list_order">61</sbyte>
+      <sbyte hash="disp_order">61</sbyte>
+    </struct>
+    <!-- PAC-MAN -->
+    <struct index="58">
+      <sbyte hash="skill_list_order">65</sbyte>
+      <sbyte hash="disp_order">65</sbyte>
+    </struct>
+    <!-- Robin -->
+    <struct index="59">
+      <sbyte hash="skill_list_order">35</sbyte>
+      <sbyte hash="disp_order">35</sbyte>
+    </struct>
+    <!-- Shulk -->
+    <struct index="60">
+      <sbyte hash="skill_list_order">47</sbyte>
+      <sbyte hash="disp_order">47</sbyte>
+    </struct>
+    <!-- Bowser Jr. -->
+    <struct index="61">
+      <sbyte hash="skill_list_order">53</sbyte>
+      <sbyte hash="disp_order">53</sbyte>
+    </struct>
+    <!-- Duck Hunt -->
+    <struct index="62">
+      <sbyte hash="skill_list_order">37</sbyte>
+      <sbyte hash="disp_order">37</sbyte>
+    </struct>
+    <!-- Ryu -->
+    <struct index="63">
+      <sbyte hash="skill_list_order">79</sbyte>
+      <sbyte hash="disp_order">79</sbyte>
+    </struct>
+    <!-- Ken -->
+    <struct index="64">
+      <sbyte hash="skill_list_order">80</sbyte>
+      <sbyte hash="disp_order">80</sbyte>
+    </struct>
+    <!-- Cloud -->
+    <struct index="65">
+      <sbyte hash="skill_list_order">73</sbyte>
+      <sbyte hash="disp_order">73</sbyte>
+    </struct>
+    <!-- Corrin -->
+    <struct index="66">
+      <sbyte hash="skill_list_order">36</sbyte>
+      <sbyte hash="disp_order">36</sbyte>
+    </struct>
+    <!-- Bayonetta -->
+    <struct index="67">
+      <sbyte hash="skill_list_order">68</sbyte>
+      <sbyte hash="disp_order">68</sbyte>
+    </struct>
+    <!-- Richter -->
+    <struct index="68">
+      <sbyte hash="skill_list_order">70</sbyte>
+      <sbyte hash="disp_order">70</sbyte>
+    </struct>
+    <!-- Inkling -->
+    <struct index="69">
+      <sbyte hash="skill_list_order">51</sbyte>
+      <sbyte hash="disp_order">51</sbyte>
+    </struct>
+    <!-- Ridley -->
+    <struct index="70">
+      <sbyte hash="skill_list_order">56</sbyte>
+      <sbyte hash="disp_order">56</sbyte>
+    </struct>
+    <!-- King K. Rool -->
+    <struct index="71">
+      <sbyte hash="skill_list_order">41</sbyte>
+      <sbyte hash="disp_order">41</sbyte>
+    </struct>
+    <!-- Simon -->
+    <struct index="72">
+      <sbyte hash="skill_list_order">69</sbyte>
+      <sbyte hash="disp_order">69</sbyte>
+    </struct>
+    <!-- Isabelle -->
+    <struct index="73">
+      <sbyte hash="skill_list_order">59</sbyte>
+      <sbyte hash="disp_order">59</sbyte>
+    </struct>
+    <!-- Incineroar -->
+    <struct index="74">
+      <sbyte hash="skill_list_order">45</sbyte>
+      <sbyte hash="disp_order">45</sbyte>
+    </struct>
+    <!-- Mii (All) -->
+    <struct index="75">
+      <sbyte hash="skill_list_order">83</sbyte>
+    </struct>
+    <!-- Mii Brawler -->
+    <struct index="76">
+      <sbyte hash="skill_list_order">84</sbyte>
+    </struct>
+    <!-- Mii Swordfighter -->
+    <struct index="77">
+      <sbyte hash="skill_list_order">85</sbyte>
+    </struct>
+    <!-- Mii Gunner -->
+    <struct index="78">
+      <sbyte hash="skill_list_order">86</sbyte>
+    </struct>
+    <!-- General All -->
     <hash40 index="79">dummy</hash40>
+    <!-- General Mii -->
     <hash40 index="80">dummy</hash40>
+    <!-- Master Hand -->
     <hash40 index="81">dummy</hash40>
+    <!-- Crazy Hand -->
     <hash40 index="82">dummy</hash40>
+    <!-- Master Hand/Crazy Hand -->
     <hash40 index="83">dummy</hash40>
+    <!-- Galleom -->
     <hash40 index="84">dummy</hash40>
+    <!-- Lioleus -->
     <hash40 index="85">dummy</hash40>
+    <!-- Marx -->
     <hash40 index="86">dummy</hash40>
+    <!-- Marx 2 -->
     <hash40 index="87">dummy</hash40>
+    <!-- Dracula -->
     <hash40 index="88">dummy</hash40>
+    <!-- Dracula 2 -->
     <hash40 index="89">dummy</hash40>
+    <!-- Ganon (Boss) -->
     <hash40 index="90">dummy</hash40>
+    <!-- Galeem -->
     <hash40 index="91">dummy</hash40>
+    <!-- Dharkon -->
     <hash40 index="92">dummy</hash40>
+    <!-- Giga Bowser -->
     <hash40 index="93">dummy</hash40>
+    <!-- Galeem/Dharkon -->
     <hash40 index="94">dummy</hash40>
+    <!-- Koopa/Koopag -->
     <hash40 index="95">dummy</hash40>
+    <!-- Ganon/Ganonboss -->
     <hash40 index="96">dummy</hash40>
+    <!-- Mewtwo/Masterhand -->
     <hash40 index="97">dummy</hash40>
+    <!-- Sandbag -->
     <hash40 index="98">dummy</hash40>
+    <!-- Mii Enemy F -->
     <hash40 index="99">dummy</hash40>
+    <!-- Mii Enemy S -->
     <hash40 index="100">dummy</hash40>
+    <!-- Mii Enemy G -->
     <hash40 index="101">dummy</hash40>
+    <!-- Narrator -->
     <hash40 index="102">dummy</hash40>
+    <!-- Villater Spirits AW -->
     <hash40 index="103">dummy</hash40>
+    <!-- Smash Bros -->
     <hash40 index="104">dummy</hash40>
-    <hash40 index="105">dummy</hash40>
-    <hash40 index="106">dummy</hash40>
+    <!-- Piranha Plant -->
+    <struct index="105">
+      <sbyte hash="skill_list_order">2</sbyte>
+      <sbyte hash="disp_order">2</sbyte>
+    </struct>
+    <!-- Joker -->
+    <struct index="106">
+      <sbyte hash="disp_order">77</sbyte>
+    </struct>
+    <!-- Hero -->
     <struct index="107">
       <sbyte hash="ext_skill_page_num">4</sbyte>
+      <sbyte hash="skill_list_order">72</sbyte>
+      <sbyte hash="disp_order">72</sbyte>
     </struct>
-    <hash40 index="108">dummy</hash40>
-    <hash40 index="109">dummy</hash40>
-    <hash40 index="110">dummy</hash40>
-    <hash40 index="111">dummy</hash40>
-    <hash40 index="112">dummy</hash40>
-    <hash40 index="113">dummy</hash40>
+    <!-- Banjo & Kazooie -->
+    <struct index="108">
+      <sbyte hash="skill_list_order">54</sbyte>
+      <sbyte hash="disp_order">54</sbyte>
+    </struct>
+    <!-- Terry -->
+    <struct index="109">
+      <sbyte hash="skill_list_order">81</sbyte>
+      <sbyte hash="disp_order">81</sbyte>
+    </struct>
+    <!-- Byleth -->
+    <struct index="110">
+      <sbyte hash="skill_list_order">48</sbyte>
+      <sbyte hash="disp_order">48</sbyte>
+    </struct>
+    <!-- Min Min -->
+    <struct index="111">
+      <sbyte hash="skill_list_order">64</sbyte>
+      <sbyte hash="disp_order">64</sbyte>
+    </struct>
+    <!-- Steve -->
+    <struct index="112">
+      <sbyte hash="skill_list_order">78</sbyte>
+    </struct>
+    <!-- Sephiroth -->
+    <struct index="113">
+      <sbyte hash="skill_list_order">74</sbyte>
+      <sbyte hash="disp_order">74</sbyte>
+    </struct>
+    <!-- Element -->
     <hash40 index="114">dummy</hash40>
-    <hash40 index="115">dummy</hash40>
-    <hash40 index="116">dummy</hash40>
+    <!-- Pyra (First) -->
+    <struct index="115">
+      <sbyte hash="skill_list_order">60</sbyte>
+      <sbyte hash="disp_order">60</sbyte>
+    </struct>
+    <!-- Mythra (First) -->
+    <struct index="116">
+      <sbyte hash="skill_list_order">60</sbyte>
+      <sbyte hash="disp_order">60</sbyte>
+    </struct>
+    <!-- Pyra (Solo) -->
     <hash40 index="117">dummy</hash40>
+    <!-- Mythra (Solo) -->
     <hash40 index="118">dummy</hash40>
-    <hash40 index="119">dummy</hash40>
-    <hash40 index="120">dummy</hash40>
+    <!-- Kazuya -->
+    <struct index="119">
+      <sbyte hash="skill_list_order">82</sbyte>
+      <sbyte hash="disp_order">82</sbyte>
+    </struct>
+    <!-- Sora -->
+    <struct index="120">
+      <sbyte hash="skill_list_order">75</sbyte>
+      <sbyte hash="disp_order">75</sbyte>
+    </struct>
   </list>
 </struct>
