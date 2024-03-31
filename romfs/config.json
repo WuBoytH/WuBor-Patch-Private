@@ -26,6 +26,7 @@
         "fighter/daisy/motion/body/c00/c05attackairlw.nuanmb",
         "fighter/daisy/motion/body/c00/l00fuwafuwastart.nuanmb",
         "fighter/dedede/motion/body/c00/motion_list.bin",
+        "fighter/dedede/motion/body/c00/e00catchattack.nuanmb",
         "fighter/demon/motion/body/c00/motion_list.bin",
         "fighter/demon/motion/body/c00/c05landingairlw.nuanmb",
         "fighter/demon/motion/body/c00/e00catchattack.nuanmb",
@@ -34,6 +35,8 @@
         "fighter/dolly/motion/body/c00/c00attack11.nuanmb",
         "fighter/dolly/motion/body/c00/c00attack12.nuanmb",
         "fighter/dolly/motion/body/c00/c02attacklw3.nuanmb",
+        "fighter/dolly/motion/body/c00/c05attackairhi.nuanmb",
+        "fighter/dolly/motion/body/c00/c05landingairhi.nuanmb",
         "fighter/dolly/motion/body/c00/d01specialsbstart.nuanmb",
         "fighter/dolly/motion/body/c00/d01specialairsbstart.nuanmb",
         "fighter/dolly/motion/body/c00/d01specialsbw.nuanmb",
@@ -43,6 +46,9 @@
         "fighter/dolly/motion/body/c00/j01appealhir.nuanmb",
         "fighter/dolly/motion/body/c00/j01appealsr.nuanmb",
         "fighter/dolly/motion/body/c00/j01appeallwr.nuanmb",
+        "fighter/donkey/motion/body/c00/motion_list.bin",
+        "fighter/donkey/motion/body/c00/c00attack11.nuanmb",
+        "fighter/duckhunt/motion/body/c00/motion_list.bin",
         "fighter/edge/motion/body/c00/motion_list.bin",
         "fighter/edge/motion/body/c00/swingblend.prc",
         "fighter/eflame/motion/body/c00/motion_list.bin",
@@ -74,7 +80,9 @@
         "fighter/gamewatch/motion/normal_weapon/c00/j01appeallw.nuanmb",
         "fighter/gamewatch/motion/normal_weapon/c00/update.prc",
         "fighter/ganon/motion/body/c00/motion_list.bin",
+        "fighter/ganon/motion/body/c00/c00attack11.nuanmb",
         "fighter/ganon/motion/body/c00/c02attackhi3.nuanmb",
+        "fighter/ganon/motion/body/c00/c02attacklw3.nuanmb",
         "fighter/ganon/motion/body/c00/c05attackairn.nuanmb",
         "fighter/ganon/motion/body/c00/d01specialairscatch.nuanmb",
         "fighter/ganon/motion/body/c00/d01specialairs.nuanmb",
@@ -83,6 +91,8 @@
         "fighter/ike/motion/body/c00/a03jumpb.nuanmb",
         "fighter/inkling/motion/body/c00/motion_list.bin",
         "fighter/inkling/motion/body/c01/motion_list.bin",
+        "fighter/inkling/motion/body/c00/e00catchattack.nuanmb",
+        "fighter/inkling/motion/body/c01/e00catchattack.nuanmb",
         "fighter/jack/motion/body/c00/motion_list.bin",
         "fighter/jack/motion/body/c00/d00specialnjump.nuanmb",
         "fighter/jack/motion/body/c00/d01specialairs1.nuanmb",
@@ -236,6 +246,7 @@
         "fighter/metaknight/motion/body/c00/c02attacklw3.nuanmb",
         "fighter/metaknight/motion/body/c00/c05attackairlw.nuanmb",
         "fighter/metaknight/motion/body/c00/c05landingairlw.nuanmb",
+        "fighter/metaknight/motion/body/c00/e00catchattack.nuanmb",
         "fighter/mewtwo/motion/body/c00/motion_list.bin",
         "fighter/ness/motion/body/c00/motion_list.bin",
         "fighter/ness/motion/body/c00/e00catchattack.nuanmb",
@@ -243,7 +254,14 @@
         "fighter/packun/motion/body/c00/j01appealsr.nuanmb",
         "fighter/peach/motion/body/c00/motion_list.bin",
         "fighter/pfushigisou/motion/body/c00/motion_list.bin",
+        "fighter/pfushigisou/motion/body/c00/e00catchattack.nuanmb",
+        "fighter/pfushigisou/motion/body/c00/e00catchattackl.nuanmb",
+        "fighter/pfushigisou/motion/body/c00/e00catchattackm.nuanmb",
         "fighter/pichu/motion/body/c00/motion_list.bin",
+        "fighter/pichu/motion/body/c00/e00catchattackm.nuanmb",
+        "fighter/pickel/motion/body/c00/motion_list.bin",
+        "fighter/pikachu/motion/body/c00/motion_list.bin",
+        "fighter/pikachu/motion/body/c00/e00catchattack.nuanmb",
         "fighter/pikmin/motion/body/c00/motion_list.bin",
         "fighter/pikmin/motion/body/c04/motion_list.bin",
         "fighter/pikmin/motion/body/c00/c01attacks3s.nuanmb",
@@ -274,6 +292,7 @@
         "fighter/popo/param/vl.prc",
         "fighter/pzenigame/motion/body/c00/motion_list.bin",
         "fighter/pzenigame/motion/body/c00/j01appealhir.nuanmb",
+        "fighter/pzenigame/motion/body/c00/e00catchattack.nuanmb",
         "fighter/reflet/motion/body/c00/motion_list.bin",
         "fighter/reflet/motion/body/c01/motion_list.bin",
         "fighter/reflet/motion/body/c00/d02specialhi1.nuanmb",
@@ -342,6 +361,9 @@
         "fighter/sheik/motion/body/c00/motion_list.bin",
         "fighter/shizue/motion/body/c00/motion_list.bin",
         "fighter/shulk/motion/body/c00/motion_list.bin",
+        "fighter/shulk/motion/body/c00/c00attack11.nuanmb",
+        "fighter/shulk/motion/body/c00/c00attack12.nuanmb",
+        "fighter/shulk/motion/body/c00/c00attack13.nuanmb",
         "fighter/shulk/motion/body/c00/c05attackairb.nuanmb",
         "fighter/simon/motion/body/c00/motion_list.bin",
         "fighter/simon/motion/body/c00/c00attackdash.nuanmb",
@@ -354,6 +376,7 @@
         "fighter/simon/motion/body/c00/c05landingairlw.nuanmb",
         "fighter/snake/motion/body/c00/motion_list.bin",
         "fighter/sonic/motion/body/c00/motion_list.bin",
+        "fighter/sonic/motion/body/c00/e00catchattack.nuanmb",
         "fighter/sonic/motion/body/c00/e01throwf.nuanmb",
         "fighter/szerosuit/motion/body/c00/motion_list.bin",
         "fighter/szerosuit/motion/body/c00/c02attacklw3.nuanmb",
@@ -1359,6 +1382,30 @@
         "fighter/gamewatch/c07": [
             "fighter/gamewatch/motion/normal_weapon/c07/c05attackairf.nuanmb",
             "fighter/gamewatch/motion/normal_weapon/c07/c05landingairf.nuanmb"
+        ],
+        "fighter/ganon/c00": [
+            "fighter/ganon/motion/body/c00/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c01": [
+            "fighter/ganon/motion/body/c01/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c02": [
+            "fighter/ganon/motion/body/c02/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c03": [
+            "fighter/ganon/motion/body/c03/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c04": [
+            "fighter/ganon/motion/body/c04/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c05": [
+            "fighter/ganon/motion/body/c05/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c06": [
+            "fighter/ganon/motion/body/c06/c02attacklw32.nuanmb"
+        ],
+        "fighter/ganon/c07": [
+            "fighter/ganon/motion/body/c07/c02attacklw32.nuanmb"
         ],
         "fighter/ken/c00": [
             "fighter/ken/motion/body/c00/c01attacks3s2.nuanmb",

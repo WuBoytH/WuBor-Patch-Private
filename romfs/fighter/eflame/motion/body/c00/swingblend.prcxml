@@ -4318,7 +4318,7 @@
       <hash40 index="0">dummy</hash40>
     </list>
   </struct>
-  <struct hash="0x141c6e537e">
+  <struct hash="f00damageair1.nuanmb">
     <list hash="bones">
       <hash40 index="0">dummy</hash40>
       <hash40 index="1">dummy</hash40>
@@ -4362,7 +4362,7 @@
       <hash40 index="0">dummy</hash40>
     </list>
   </struct>
-  <struct hash="0x1492e1549d">
+  <struct hash="f00damageair2.nuanmb">
     <list hash="bones">
       <hash40 index="0">dummy</hash40>
       <hash40 index="1">dummy</hash40>
@@ -4406,7 +4406,7 @@
       <hash40 index="0">dummy</hash40>
     </list>
   </struct>
-  <struct hash="0x145e4b5403">
+  <struct hash="f00damageair3.nuanmb">
     <list hash="bones">
       <hash40 index="0">dummy</hash40>
       <hash40 index="1">dummy</hash40>
@@ -9946,7 +9946,7 @@
     <hash40 index="32">dummy</hash40>
     <hash40 index="33">dummy</hash40>
   </list>
-  <list hash="0x055a97a118">
+  <list hash="applw">
     <hash40 index="0">dummy</hash40>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
@@ -10270,7 +10270,7 @@
     <hash40 index="32">dummy</hash40>
     <hash40 index="33">dummy</hash40>
   </list>
-  <list hash="0x05739e3e0d">
+  <list hash="a2f_a">
     <hash40 index="0">dummy</hash40>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>

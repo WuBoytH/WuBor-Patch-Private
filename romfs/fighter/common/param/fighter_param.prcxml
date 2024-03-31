@@ -710,6 +710,7 @@
       <float hash="run_speed_max">1.57</float>
       <int hash="jump_squat_frame">4</int>
       <float hash="jump_speed_x_max">1.55</float>
+      <float hash="air_accel_y">0.1176</float>
       <float hash="landing_attack_air_frame_n">7</float>
     </struct>
     <!-- BOWSER JR. -->
@@ -956,7 +957,7 @@
       <float hash="dive_speed_y">2.4</float>
       <float hash="weight">104</float>
       <float hash="landing_attack_air_frame_f">10</float>
-      <float hash="landing_attack_air_frame_hi">10</float>
+      <float hash="landing_attack_air_frame_hi">12</float>
     </struct>
     <!-- BYLETH -->
     <struct index="72">
