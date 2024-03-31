@@ -179,4 +179,42 @@
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
   </list>
+  <list hash="param_auracharge">
+    <struct index="0">
+      <int hash="aura_charge_max">3</int>
+      <float hash="aurapower_min">1.0</float>
+      <float hash="aurapower_max">1.3</float>
+      <float hash="scale_min">0.6</float>
+      <float hash="scale_max">1.2</float>
+      <float hash="charge_frame">60</float>
+      <float hash="charge_subsequent_mul">0.2</float>
+    </struct>
+    <struct index="1">
+      <int hash="aura_charge_max">0</int>
+      <float hash="aurapower_min">0</float>
+      <float hash="aurapower_max">0</float>
+      <float hash="scale_min">0</float>
+      <float hash="scale_max">0</float>
+      <float hash="charge_frame">0</float>
+      <float hash="charge_subsequent_mul">0</float>
+    </struct>
+    <struct index="2">
+      <int hash="aura_charge_max">0</int>
+      <float hash="aurapower_min">0</float>
+      <float hash="aurapower_max">0</float>
+      <float hash="scale_min">0</float>
+      <float hash="scale_max">0</float>
+      <float hash="charge_frame">0</float>
+      <float hash="charge_subsequent_mul">0</float>
+    </struct>
+    <struct index="3">
+      <int hash="aura_charge_max">0</int>
+      <float hash="aurapower_min">0</float>
+      <float hash="aurapower_max">0</float>
+      <float hash="scale_min">0</float>
+      <float hash="scale_max">0</float>
+      <float hash="charge_frame">0</float>
+      <float hash="charge_subsequent_mul">0</float>
+    </struct>
+  </list>
 </struct>
