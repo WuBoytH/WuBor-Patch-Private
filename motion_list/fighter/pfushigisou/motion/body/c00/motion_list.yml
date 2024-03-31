@@ -3539,7 +3539,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 7
+      cancel_frame: 15
       no_stop_intp: false
   catch_attack_m:
     game_script: game_catchattack
@@ -3569,7 +3569,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 7
+      cancel_frame: 15
       no_stop_intp: false
   catch_attack_l:
     game_script: game_catchattack
@@ -3599,7 +3599,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 7
+      cancel_frame: 15
       no_stop_intp: false
   catch_cut:
     game_script: game_catchcut

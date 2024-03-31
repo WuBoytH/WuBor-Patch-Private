@@ -25,42 +25,42 @@ game_Born = function ()
     if sv_animcmd.is_excute() then
         sv_animcmd.ATTACK(0, 0, 0x0570211EBD, 12, 78, 70, 0, 50, 7, 0, 9, 0, 0, 14, 0, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_L, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
         local f2_local0, f2_local1, f2_local2 = nil
-        sv_animcmd.ATTACK(1, 0, 0x0570211EBD, 12, 78, 70, 0, 50, 80, 33, 0, 10, 8, 0, 5, 0, f2_local0, f2_local1, f2_local2, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_L, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
+        sv_animcmd.ATTACK(1, 0, 0x0570211EBD, 12, 78, 70, 0, 50, 8, 0, 5, 0, f2_local0, f2_local1, f2_local2, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_L, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
         ControlModule.set_rumble(0x10EAA9BFF4, 0, false)
     end
     sv_animcmd.frame(13)
     if sv_animcmd.is_excute() then
         sv_animcmd.ATTACK(0, 0, 0x0570211EBD, 10, 70, 70, 0, 50, 7, 0, 9, 0, 0, 14, 0, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_L, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
         local f2_local0, f2_local1, f2_local2 = nil
-        sv_animcmd.ATTACK(1, 0, 0x0570211EBD, 10, 70, 70, 0, 50, 80, 33, 0, 10, 8, 0, 5, 0, f2_local0, f2_local1, f2_local2, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_L, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
+        sv_animcmd.ATTACK(1, 0, 0x0570211EBD, 10, 70, 70, 0, 50, 8, 0, 5, 0, f2_local0, f2_local1, f2_local2, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_L, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
         ControlModule.set_rumble(0x10EAA9BFF4, 0, false)
     end
     sv_animcmd.frame(23)
     if sv_animcmd.is_excute() then
         sv_animcmd.ATTACK(0, 0, 0x0570211EBD, 8, 68, 70, 0, 50, 7, 0, 9, 0, 0, 14, 0, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_M, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
         local f2_local0, f2_local1, f2_local2 = nil
-        sv_animcmd.ATTACK(1, 0, 0x0570211EBD, 8, 68, 70, 0, 50, 80, 33, 0, 10, 8, 0, 5, 0, f2_local0, f2_local1, f2_local2, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_M, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
+        sv_animcmd.ATTACK(1, 0, 0x0570211EBD, 8, 68, 70, 0, 50, 8, 0, 5, 0, f2_local0, f2_local1, f2_local2, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_M, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
         ControlModule.set_rumble(0x10EAA9BFF4, 0, false)
     end
     sv_animcmd.frame(33)
     if sv_animcmd.is_excute() then
         sv_animcmd.ATTACK(0, 0, 0x0570211EBD, 6, 60, 70, 0, 50, 7, 0, 9, 0, 0, 14, 0, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_M, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
         local f2_local0, f2_local1, f2_local2 = nil
-        sv_animcmd.ATTACK(1, 0, 0x0570211EBD, 6, 60, 70, 0, 50, 80, 33, 0, 10, 8, 0, 5, 0, f2_local0, f2_local1, f2_local2, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_M, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
+        sv_animcmd.ATTACK(1, 0, 0x0570211EBD, 6, 60, 70, 0, 50, 8, 0, 5, 0, f2_local0, f2_local1, f2_local2, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_M, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
         ControlModule.set_rumble(0x10EAA9BFF4, 0, false)
     end
     sv_animcmd.frame(43)
     if sv_animcmd.is_excute() then
         sv_animcmd.ATTACK(0, 0, 0x0570211EBD, 4, 58, 70, 0, 50, 7, 0, 9, 0, 0, 14, 0, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_S, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
         local f2_local0, f2_local1, f2_local2 = nil
-        sv_animcmd.ATTACK(1, 0, 0x0570211EBD, 4, 58, 70, 0, 50, 80, 33, 0, 10, 8, 0, 5, 0, f2_local0, f2_local1, f2_local2, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_S, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
+        sv_animcmd.ATTACK(1, 0, 0x0570211EBD, 4, 58, 70, 0, 50, 8, 0, 5, 0, f2_local0, f2_local1, f2_local2, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_S, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
         ControlModule.set_rumble(0x10EAA9BFF4, 0, false)
     end
     sv_animcmd.frame(53)
     if sv_animcmd.is_excute() then
         sv_animcmd.ATTACK(0, 0, 0x0570211EBD, 2, 50, 70, 0, 50, 7, 0, 9, 0, 0, 14, 0, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_S, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
         local f2_local0, f2_local1, f2_local2 = nil
-        sv_animcmd.ATTACK(1, 0, 0x0570211EBD, 2, 50, 70, 0, 50, 80, 33, 0, 10, 8, 0, 5, 0, f2_local0, f2_local1, f2_local2, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_S, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
+        sv_animcmd.ATTACK(1, 0, 0x0570211EBD, 2, 50, 70, 0, 50, 8, 0, 5, 0, f2_local0, f2_local1, f2_local2, 1, 1, ATTACK_SETOFF_KIND_OFF, ATTACK_LR_CHECK_F, false, 0, 0, 0, true, true, false, false, false, COLLISION_SITUATION_MASK_GA, COLLISION_CATEGORY_MASK_ALL, COLLISION_PART_MASK_ALL, false, 0x13BEB18342, ATTACK_SOUND_LEVEL_S, COLLISION_SOUND_ATTR_FIRE, ATTACK_REGION_BOMB)
         ControlModule.set_rumble(0x10EAA9BFF4, 0, false)
     end
     sv_animcmd.frame(58)
@@ -71,3 +71,7 @@ game_Born = function ()
 end
 
 return
+
+-- PADDING FOR FILESIZE
+-- PADDING FOR FILESIZE
+-- PADDING FOR FILESIZE
