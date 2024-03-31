@@ -23,10 +23,10 @@ for root, subFolder, files in os.walk("../motion_list"):
 print("Current Directory: " + os.getcwd())
 
 for yml in motionYamls:
-  newPath = yml.replace("motion_list/", "build_lists/")
-  newPathNoFile = newPath.replace("motion_list.yml", "")
+  oldPathNoFile = yml.replace("motion_list.yml", "")
+  newPathNoFile = oldPathNoFile.replace('motion_list', 'build_lists')
   os.makedirs(newPathNoFile, mode = 0o777, exist_ok = True)
-  newPathFull = newPath.replace("yml", "bin")
+  newPathFull = newPathNoFile + "motion_list.bin"
   print("--------------")
   print(yml)
   print(newPathNoFile)

@@ -721,6 +721,7 @@
       <float hash="run_speed_max">1.57</float>
       <int hash="jump_squat_frame">4</int>
       <float hash="jump_speed_x_max">1.55</float>
+      <float hash="air_accel_y">0.1176</float>
       <float hash="landing_attack_air_frame_n">7</float>
     </struct>
     <!-- BOWSER JR. -->

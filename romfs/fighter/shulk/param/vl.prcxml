@@ -33,7 +33,6 @@
   </list>
   <list hash="param_special_n">
     <struct index="0">
-      <int hash="circle_menu_frame">4</int>
       <float hash="spd_dash_speed_mul">1.55</float>
       <float hash="spd_run_speed_mul">1.55</float>
       <float hash="buster_attack_power_mul">1.3</float>
