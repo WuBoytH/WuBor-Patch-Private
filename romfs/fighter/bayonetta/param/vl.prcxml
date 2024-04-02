@@ -14,6 +14,12 @@
       <float hash="p2_y">12</float>
     </struct>
   </list>
+  <struct hash="param_private">
+    <int hash="attack_air_n_shoot_landing_frame">12</int>
+    <int hash="attack_air_f_shoot_landing_frame">11</int>
+    <int hash="attack_air_b_shoot_landing_frame">11</int>
+    <int hash="attack_air_hi_shoot_landing_frame">12</int>
+  </struct>
   <list hash="param_special_s">
     <struct index="0">
       <float hash="ab_d_hit_after_speed_y">2.7</float>
