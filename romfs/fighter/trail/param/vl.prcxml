@@ -32,4 +32,10 @@
       <float hash="p2_y">8.5</float>
     </struct>
   </list>
+  <struct hash="param_private">
+    <float hash="landing_attack_air_frame_n2">14</float>
+    <float hash="landing_attack_air_frame_n3">15</float>
+    <float hash="landing_attack_air_frame_f2">17</float>
+    <float hash="landing_attack_air_frame_f3">18</float>
+  </struct>
 </struct>
