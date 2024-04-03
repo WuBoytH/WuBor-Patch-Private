@@ -374,6 +374,8 @@
         "fighter/simon/motion/body/c00/c05attackairlw.nuanmb",
         "fighter/simon/motion/body/c00/c05landingairlw.nuanmb",
         "fighter/snake/motion/body/c00/motion_list.bin",
+        "fighter/snake/motion/body/c00/c05attackairn.nuanmb",
+        "fighter/snake/motion/body/c00/c05attackairlw.nuanmb",
         "fighter/sonic/motion/body/c00/motion_list.bin",
         "fighter/sonic/motion/body/c00/e00catchattack.nuanmb",
         "fighter/sonic/motion/body/c00/e01throwf.nuanmb",
@@ -2271,6 +2273,30 @@
             "fighter/simon/motion/whip/c07/c02attacklw3.nuanmb",
             "fighter/simon/motion/whip/c07/c05attackairlw.nuanmb",
             "fighter/simon/motion/whip/c07/c05landingairlw.nuanmb"
+        ],
+        "fighter/snake/c00": [
+            "fighter/snake/motion/body/c00/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c01": [
+            "fighter/snake/motion/body/c01/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c02": [
+            "fighter/snake/motion/body/c02/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c03": [
+            "fighter/snake/motion/body/c03/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c04": [
+            "fighter/snake/motion/body/c04/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c05": [
+            "fighter/snake/motion/body/c05/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c06": [
+            "fighter/snake/motion/body/c06/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c07": [
+            "fighter/snake/motion/body/c07/c05attackairlw2.nuanmb"
         ],
         "fighter/szerosuit/c00": [
             "fighter/szerosuit/motion/body/c00/d02specialhi2.nuanmb",
