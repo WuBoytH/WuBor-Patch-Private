@@ -31,4 +31,14 @@
       <float hash="p2_y">10.5</float>
     </struct>
   </list>
+  <list hash="param_c4">
+    <struct index="0">
+      <int hash="stick_frame">540</int>
+      <float hash="drop_damage_rate">9999</float>
+      <int hash="life_frame">1200</int>
+    </struct>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+  </list>
 </struct>
