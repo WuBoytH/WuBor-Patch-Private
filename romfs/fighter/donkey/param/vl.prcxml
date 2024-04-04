@@ -17,12 +17,8 @@
     </struct>
     <hash40 index="10">dummy</hash40>
     <hash40 index="11">dummy</hash40>
-    <struct index="12">
-      <hash40 hash="status">hit_status_off</hash40>
-    </struct>
-    <struct index="13">
-      <hash40 hash="status">hit_status_off</hash40>
-    </struct>
+    <hash40 index="12">dummy</hash40>
+    <hash40 index="13">dummy</hash40>
   </list>
   <list hash="cliff_hang_data">
     <hash40 index="0">dummy</hash40>
