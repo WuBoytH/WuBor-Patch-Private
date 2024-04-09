@@ -3569,7 +3569,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 41
+      cancel_frame: 19
       no_stop_intp: false
   special_air_hi_cut:
     game_script: game_specialairhicut
