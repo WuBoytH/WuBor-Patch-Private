@@ -3961,6 +3961,96 @@ list:
       xlu_end: 0
       cancel_frame: 37
       no_stop_intp: false
+  trick_hi:
+    game_script: game_trickhi
+    flags:
+      turn: false
+      loop: false
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d05trickhi.nuanmb
+        unk: 0
+    scripts:
+      - expression_trickhi
+      - sound_trickhi
+      - effect_trickhi
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 25
+      no_stop_intp: false
+  trick_f:
+    game_script: game_trickf
+    flags:
+      turn: false
+      loop: false
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d05trickf.nuanmb
+        unk: 0
+    scripts:
+      - expression_trickf
+      - sound_trickf
+      - effect_trickf
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 60
+      no_stop_intp: false
+  trick_b:
+    game_script: game_trickb
+    flags:
+      turn: false
+      loop: false
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d05trickb.nuanmb
+        unk: 0
+    scripts:
+      - expression_trickb
+      - sound_trickb
+      - effect_trickb
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 20
+      no_stop_intp: false
   catch:
     game_script: game_catch
     flags:
