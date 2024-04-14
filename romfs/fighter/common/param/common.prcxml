@@ -19,13 +19,13 @@
   <float hash="damage_reaction_mul_max">1</float>
   <list hash="pattern_power_mul">
     <float index="0">0</float>
-    <float index="1">0.125</float>
-    <float index="2">0.1</float>
-    <float index="3">0.075</float>
-    <float index="4">0.05</float>
-    <float index="5">0.05</float>
-    <float index="6">0.05</float>
-    <float index="7">0.05</float>
+    <float index="1">0</float>
+    <float index="2">0</float>
+    <float index="3">0</float>
+    <float index="4">0</float>
+    <float index="5">0</float>
+    <float index="6">0</float>
+    <float index="7">0</float>
     <float index="8">0</float>
     <float index="9">0</float>
   </list>
