@@ -163,8 +163,8 @@
   </list>
   <list hash="param_special_hi">
     <struct index="0">
-      <float hash="rush_speed">-5</float>
-      <float hash="0x189cd804c5">10</float>
+      <float hash="rush_speed">1</float>
+      <float hash="0x189cd804c5">3</float>
       <float hash="angle_speed">5</float>
     </struct>
     <hash40 index="1">dummy</hash40>
