@@ -106,6 +106,9 @@
       <float hash="scale_add">0</float>
       <float hash="charge_max_scale_mid">2.5</float>
       <float hash="charge_max_scale_shoot">2</float>
+      <int hash="life">48</int>
+      <float hash="min_speed">2.0</float>
+      <float hash="max_speed">2.0</float>
       <int hash="cnt">1</int>
       <float hash="spd">1</float>
       <float hash="flicker_scale_min">1</float>
