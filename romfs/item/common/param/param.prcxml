@@ -153,7 +153,9 @@
     <hash40 index="147">dummy</hash40>
     <hash40 index="148">dummy</hash40>
     <hash40 index="149">dummy</hash40>
-    <hash40 index="150">dummy</hash40>
+    <struct index="150">
+      <hash40 hash="hit_kind">item_hit_kind_fly</hash40>
+    </struct>
     <hash40 index="151">dummy</hash40>
     <hash40 index="152">dummy</hash40>
     <hash40 index="153">dummy</hash40>
@@ -449,7 +451,9 @@
     <hash40 index="427">dummy</hash40>
     <hash40 index="428">dummy</hash40>
     <hash40 index="429">dummy</hash40>
-    <hash40 index="430">dummy</hash40>
+    <struct index="430">
+      <float hash="hitsize">6</float>
+    </struct>
     <hash40 index="431">dummy</hash40>
   </list>
 </struct>
