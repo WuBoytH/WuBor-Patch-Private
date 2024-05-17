@@ -39,8 +39,8 @@ for yml in motionYamls:
 if "build" in os.listdir('..'):
   shutil.rmtree('../build')
 os.makedirs('../build/ultimate/')
-shutil.copytree("../build_lists", "../build/ultimate/mods/The WuBor Patch", dirs_exist_ok=True)
-shutil.copytree("../romfs", "../build/ultimate/mods/The WuBor Patch", dirs_exist_ok=True)
+shutil.copytree("../build_lists", "../build/ultimate/mods/wubor", dirs_exist_ok=True)
+shutil.copytree("../romfs", "../build/ultimate/mods/wubor", dirs_exist_ok=True)
 
 
 # zip each folder in the staging dir
