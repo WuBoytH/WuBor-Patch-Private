@@ -86,6 +86,7 @@
     <struct index="0">
       <int hash="rslash_hold_frame">44</int>
       <float hash="rslash_air_spd_x_mul">1</float>
+      <int hash="rslash_landing_frame">24</int>
     </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>

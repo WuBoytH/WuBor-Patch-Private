@@ -35,6 +35,7 @@
   <list hash="param_special_hi">
     <struct index="0">
       <int hash="special_hi_move_cliff_check">100</int>
+      <float hash="special_hi_landing_frame">24</float>
     </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
