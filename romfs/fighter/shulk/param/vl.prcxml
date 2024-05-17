@@ -42,6 +42,15 @@
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
   </list>
+  <list hash="param_special_hi">
+    <struct index="0">
+      <int hash="special_hi_landing_frame">24</int>
+      <int hash="add_hit_landing_frame">24</int>
+    </struct>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+  </list>
   <list hash="param_special_lw">
     <struct index="0">
       <float hash="counter_time_mul">1</float>
