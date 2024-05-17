@@ -14,6 +14,7 @@
   <int hash="guard_off_cancel_frame">5</int>
   <int hash="guard_off_enable_shield_frame">6</int>
   <int hash="shield_just_frame">3</int>
+  <float hash="0x2cacbf2a63">0</float>
   <float hash="0x2373146726">1</float>
   <float hash="hit_stop_delay_auto_mul">3</float>
   <float hash="hit_stop_squat_mul">1</float>
