@@ -235,6 +235,8 @@
         "fighter/mariod/motion/body/c00/motion_list.bin",
         "fighter/mariod/motion/body/c00/c05attackairn.nuanmb",
         "fighter/marth/motion/body/c00/motion_list.bin",
+        "fighter/marth/motion/body/c00/c00attack11.nuanmb",
+        "fighter/marth/motion/body/c00/c00attack12.nuanmb",
         "fighter/master/motion/body/c00/motion_list.bin",
         "fighter/master/motion/body/c01/motion_list.bin",
         "fighter/metaknight/motion/body/c00/motion_list.bin",
@@ -374,6 +376,8 @@
         "fighter/simon/motion/body/c00/c05attackairlw.nuanmb",
         "fighter/simon/motion/body/c00/c05landingairlw.nuanmb",
         "fighter/snake/motion/body/c00/motion_list.bin",
+        "fighter/snake/motion/body/c00/c05attackairn.nuanmb",
+        "fighter/snake/motion/body/c00/c05attackairlw.nuanmb",
         "fighter/sonic/motion/body/c00/motion_list.bin",
         "fighter/sonic/motion/body/c00/e00catchattack.nuanmb",
         "fighter/sonic/motion/body/c00/e01throwf.nuanmb",
@@ -1501,8 +1505,6 @@
             "fighter/lucario/motion/body/c00/d00specialnshoot2.nuanmb",
             "fighter/lucario/motion/body/c00/d00specialairnhold2.nuanmb",
             "fighter/lucario/motion/body/c00/d00specialairnshoot2.nuanmb",
-            "fighter/lucario/motion/body/c00/d01specials2.nuanmb",
-            "fighter/lucario/motion/body/c00/d01specialairs2.nuanmb",
             "fighter/lucario/motion/body/c00/d01specialsthrow2.nuanmb",
             "fighter/lucario/motion/body/c00/d01specialairsthrow.nuanmb",
             "fighter/lucario/motion/body/c00/d01specialairsthrow2.nuanmb",
@@ -1518,8 +1520,6 @@
             "fighter/lucario/motion/body/c01/d00specialnshoot2.nuanmb",
             "fighter/lucario/motion/body/c01/d00specialairnhold2.nuanmb",
             "fighter/lucario/motion/body/c01/d00specialairnshoot2.nuanmb",
-            "fighter/lucario/motion/body/c01/d01specials2.nuanmb",
-            "fighter/lucario/motion/body/c01/d01specialairs2.nuanmb",
             "fighter/lucario/motion/body/c01/d01specialsthrow2.nuanmb",
             "fighter/lucario/motion/body/c01/d01specialairsthrow.nuanmb",
             "fighter/lucario/motion/body/c01/d01specialairsthrow2.nuanmb",
@@ -1535,8 +1535,6 @@
             "fighter/lucario/motion/body/c02/d00specialnshoot2.nuanmb",
             "fighter/lucario/motion/body/c02/d00specialairnhold2.nuanmb",
             "fighter/lucario/motion/body/c02/d00specialairnshoot2.nuanmb",
-            "fighter/lucario/motion/body/c02/d01specials2.nuanmb",
-            "fighter/lucario/motion/body/c02/d01specialairs2.nuanmb",
             "fighter/lucario/motion/body/c02/d01specialsthrow2.nuanmb",
             "fighter/lucario/motion/body/c02/d01specialairsthrow.nuanmb",
             "fighter/lucario/motion/body/c02/d01specialairsthrow2.nuanmb",
@@ -1552,8 +1550,6 @@
             "fighter/lucario/motion/body/c03/d00specialnshoot2.nuanmb",
             "fighter/lucario/motion/body/c03/d00specialairnhold2.nuanmb",
             "fighter/lucario/motion/body/c03/d00specialairnshoot2.nuanmb",
-            "fighter/lucario/motion/body/c03/d01specials2.nuanmb",
-            "fighter/lucario/motion/body/c03/d01specialairs2.nuanmb",
             "fighter/lucario/motion/body/c03/d01specialsthrow2.nuanmb",
             "fighter/lucario/motion/body/c03/d01specialairsthrow.nuanmb",
             "fighter/lucario/motion/body/c03/d01specialairsthrow2.nuanmb",
@@ -1569,8 +1565,6 @@
             "fighter/lucario/motion/body/c04/d00specialnshoot2.nuanmb",
             "fighter/lucario/motion/body/c04/d00specialairnhold2.nuanmb",
             "fighter/lucario/motion/body/c04/d00specialairnshoot2.nuanmb",
-            "fighter/lucario/motion/body/c04/d01specials2.nuanmb",
-            "fighter/lucario/motion/body/c04/d01specialairs2.nuanmb",
             "fighter/lucario/motion/body/c04/d01specialsthrow2.nuanmb",
             "fighter/lucario/motion/body/c04/d01specialairsthrow.nuanmb",
             "fighter/lucario/motion/body/c04/d01specialairsthrow2.nuanmb",
@@ -1586,8 +1580,6 @@
             "fighter/lucario/motion/body/c05/d00specialnshoot2.nuanmb",
             "fighter/lucario/motion/body/c05/d00specialairnhold2.nuanmb",
             "fighter/lucario/motion/body/c05/d00specialairnshoot2.nuanmb",
-            "fighter/lucario/motion/body/c05/d01specials2.nuanmb",
-            "fighter/lucario/motion/body/c05/d01specialairs2.nuanmb",
             "fighter/lucario/motion/body/c05/d01specialsthrow2.nuanmb",
             "fighter/lucario/motion/body/c05/d01specialairsthrow.nuanmb",
             "fighter/lucario/motion/body/c05/d01specialairsthrow2.nuanmb",
@@ -1603,8 +1595,6 @@
             "fighter/lucario/motion/body/c06/d00specialnshoot2.nuanmb",
             "fighter/lucario/motion/body/c06/d00specialairnhold2.nuanmb",
             "fighter/lucario/motion/body/c06/d00specialairnshoot2.nuanmb",
-            "fighter/lucario/motion/body/c06/d01specials2.nuanmb",
-            "fighter/lucario/motion/body/c06/d01specialairs2.nuanmb",
             "fighter/lucario/motion/body/c06/d01specialsthrow2.nuanmb",
             "fighter/lucario/motion/body/c06/d01specialairsthrow.nuanmb",
             "fighter/lucario/motion/body/c06/d01specialairsthrow2.nuanmb",
@@ -1620,8 +1610,6 @@
             "fighter/lucario/motion/body/c07/d00specialnshoot2.nuanmb",
             "fighter/lucario/motion/body/c07/d00specialairnhold2.nuanmb",
             "fighter/lucario/motion/body/c07/d00specialairnshoot2.nuanmb",
-            "fighter/lucario/motion/body/c07/d01specials2.nuanmb",
-            "fighter/lucario/motion/body/c07/d01specialairs2.nuanmb",
             "fighter/lucario/motion/body/c07/d01specialsthrow2.nuanmb",
             "fighter/lucario/motion/body/c07/d01specialairsthrow.nuanmb",
             "fighter/lucario/motion/body/c07/d01specialairsthrow2.nuanmb",
@@ -2273,6 +2261,30 @@
             "fighter/simon/motion/whip/c07/c02attacklw3.nuanmb",
             "fighter/simon/motion/whip/c07/c05attackairlw.nuanmb",
             "fighter/simon/motion/whip/c07/c05landingairlw.nuanmb"
+        ],
+        "fighter/snake/c00": [
+            "fighter/snake/motion/body/c00/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c01": [
+            "fighter/snake/motion/body/c01/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c02": [
+            "fighter/snake/motion/body/c02/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c03": [
+            "fighter/snake/motion/body/c03/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c04": [
+            "fighter/snake/motion/body/c04/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c05": [
+            "fighter/snake/motion/body/c05/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c06": [
+            "fighter/snake/motion/body/c06/c05attackairlw2.nuanmb"
+        ],
+        "fighter/snake/c07": [
+            "fighter/snake/motion/body/c07/c05attackairlw2.nuanmb"
         ],
         "fighter/szerosuit/c00": [
             "fighter/szerosuit/motion/body/c00/d02specialhi2.nuanmb",
