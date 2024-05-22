@@ -80,7 +80,7 @@
       <int hash="jump_squat_frame">4</int>
       <float hash="jump_speed_x_max">1.7</float>
       <float hash="mini_jump_y">17.25</float>
-      <float hash="jump_aerial_y">40.5</float>
+      <float hash="jump_aerial_y">38</float>
       <float hash="air_speed_x_stable">1.25</float>
       <float hash="air_brake_x">0.007</float>
       <float hash="air_accel_y">0.135</float>
