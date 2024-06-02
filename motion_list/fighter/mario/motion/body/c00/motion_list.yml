@@ -2221,36 +2221,6 @@ list:
       xlu_end: 0
       cancel_frame: 28
       no_stop_intp: false
-  attack_s4_hi:
-    game_script: game_attacks4hi
-    flags:
-      turn: false
-      loop: false
-      move: true
-      fix_trans: false
-      fix_rot: false
-      fix_scale: false
-      unk_40: false
-      unk_80: true
-      unk_100: false
-      unk_200: false
-      unk_400: false
-      unk_800: false
-      unk_1000: false
-      unk_2000: false
-    blend_frames: 0
-    animations:
-      - name: c03attacks4hi.nuanmb
-        unk: 0
-    scripts:
-      - expression_attacks4hi
-      - sound_attacks4hi
-      - effect_attacks4hi
-    extra:
-      xlu_start: 0
-      xlu_end: 0
-      cancel_frame: 48
-      no_stop_intp: false
   attack_s4_s:
     game_script: game_attacks4
     flags:
@@ -2280,37 +2250,7 @@ list:
       xlu_start: 0
       xlu_end: 0
       cancel_frame: 48
-      no_stop_intp: false
-  attack_s4_lw:
-    game_script: game_attacks4lw
-    flags:
-      turn: false
-      loop: false
-      move: true
-      fix_trans: false
-      fix_rot: false
-      fix_scale: false
-      unk_40: false
-      unk_80: true
-      unk_100: false
-      unk_200: false
-      unk_400: false
-      unk_800: false
-      unk_1000: false
-      unk_2000: false
-    blend_frames: 0
-    animations:
-      - name: c03attacks4lw.nuanmb
-        unk: 0
-    scripts:
-      - expression_attacks4lw
-      - sound_attacks4lw
-      - effect_attacks4lw
-    extra:
-      xlu_start: 0
-      xlu_end: 0
-      cancel_frame: 48
-      no_stop_intp: false
+      no_stop_intp: true
   attack_s4_hold:
     game_script: game_attacks4charge
     flags:
