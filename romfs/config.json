@@ -215,8 +215,6 @@
         "fighter/mario/model/mantle/c00/def_mantle_001_prm.nutexb",
         "fighter/mario/motion/body/c00/motion_list.bin",
         "fighter/mario/motion/body/c00/c03attacks4s.nuanmb",
-        "fighter/mario/motion/body/c00/c03attacks4hi.nuanmb",
-        "fighter/mario/motion/body/c00/c03attacks4lw.nuanmb",
         "fighter/mario/motion/body/c00/c03attacks4charge.nuanmb",
         "fighter/mario/motion/body/c00/c05attackairf.nuanmb",
         "fighter/mario/motion/body/c00/c05attackairlw.nuanmb",
@@ -230,6 +228,7 @@
         "fighter/mario/motion/body/c00/d03speciallwlight.nuanmb",
         "fighter/mario/motion/body/c00/d03specialairlwlight.nuanmb",
         "fighter/mario/motion/body/c00/d03specialairlwheavy.nuanmb",
+        "fighter/mario/motion/mantle/c00/flip.prc",
         "fighter/mario/motion/mantle/c00/motion_list.bin",
         "fighter/mario/motion/mantle/c00/update.prc",
         "fighter/mariod/motion/body/c00/motion_list.bin",
@@ -502,24 +501,6 @@
             "fighter/gamewatch/model/normal_weapon/c05/model.numdlb",
             "fighter/gamewatch/model/normal_weapon/c06/model.numdlb",
             "fighter/gamewatch/model/normal_weapon/c07/model.numdlb"
-        ],
-        "fighter/mario/motion/mantle/c00/c05attackairf.nuanmb": [
-            "fighter/mario/motion/mantle/c01/c05attackairf.nuanmb",
-            "fighter/mario/motion/mantle/c02/c05attackairf.nuanmb",
-            "fighter/mario/motion/mantle/c03/c05attackairf.nuanmb",
-            "fighter/mario/motion/mantle/c04/c05attackairf.nuanmb",
-            "fighter/mario/motion/mantle/c05/c05attackairf.nuanmb",
-            "fighter/mario/motion/mantle/c06/c05attackairf.nuanmb",
-            "fighter/mario/motion/mantle/c07/c05attackairf.nuanmb"
-        ],
-        "fighter/mario/motion/mantle/c00/c05landingairf.nuanmb": [
-            "fighter/mario/motion/mantle/c01/c05landingairf.nuanmb",
-            "fighter/mario/motion/mantle/c02/c05landingairf.nuanmb",
-            "fighter/mario/motion/mantle/c03/c05landingairf.nuanmb",
-            "fighter/mario/motion/mantle/c04/c05landingairf.nuanmb",
-            "fighter/mario/motion/mantle/c05/c05landingairf.nuanmb",
-            "fighter/mario/motion/mantle/c06/c05landingairf.nuanmb",
-            "fighter/mario/motion/mantle/c07/c05landingairf.nuanmb"
         ],
         "fighter/metaknight/motion/body/c00/c00attack11.nuanmb": [
             "fighter/metaknight/motion/body/c01/c00attack11.nuanmb",
@@ -1624,34 +1605,50 @@
             "fighter/lucario/motion/body/c07/d03specialairlwcancel.nuanmb"
         ],
         "fighter/mario/c00": [
+            "fighter/mario/motion/mantle/c00/c03attacks4s.nuanmb",
+            "fighter/mario/motion/mantle/c00/c03attacks4charge.nuanmb",
             "fighter/mario/motion/mantle/c00/c05attackairf.nuanmb",
             "fighter/mario/motion/mantle/c00/c05landingairf.nuanmb"
         ],
         "fighter/mario/c01": [
+            "fighter/mario/motion/mantle/c01/c03attacks4s.nuanmb",
+            "fighter/mario/motion/mantle/c01/c03attacks4charge.nuanmb",
             "fighter/mario/motion/mantle/c01/c05attackairf.nuanmb",
             "fighter/mario/motion/mantle/c01/c05landingairf.nuanmb"
         ],
         "fighter/mario/c02": [
+            "fighter/mario/motion/mantle/c02/c03attacks4s.nuanmb",
+            "fighter/mario/motion/mantle/c02/c03attacks4charge.nuanmb",
             "fighter/mario/motion/mantle/c02/c05attackairf.nuanmb",
             "fighter/mario/motion/mantle/c02/c05landingairf.nuanmb"
         ],
         "fighter/mario/c03": [
+            "fighter/mario/motion/mantle/c03/c03attacks4s.nuanmb",
+            "fighter/mario/motion/mantle/c03/c03attacks4charge.nuanmb",
             "fighter/mario/motion/mantle/c03/c05attackairf.nuanmb",
             "fighter/mario/motion/mantle/c03/c05landingairf.nuanmb"
         ],
         "fighter/mario/c04": [
+            "fighter/mario/motion/mantle/c04/c03attacks4s.nuanmb",
+            "fighter/mario/motion/mantle/c04/c03attacks4charge.nuanmb",
             "fighter/mario/motion/mantle/c04/c05attackairf.nuanmb",
             "fighter/mario/motion/mantle/c04/c05landingairf.nuanmb"
         ],
         "fighter/mario/c05": [
+            "fighter/mario/motion/mantle/c05/c03attacks4s.nuanmb",
+            "fighter/mario/motion/mantle/c05/c03attacks4charge.nuanmb",
             "fighter/mario/motion/mantle/c05/c05attackairf.nuanmb",
             "fighter/mario/motion/mantle/c05/c05landingairf.nuanmb"
         ],
         "fighter/mario/c06": [
+            "fighter/mario/motion/mantle/c06/c03attacks4s.nuanmb",
+            "fighter/mario/motion/mantle/c06/c03attacks4charge.nuanmb",
             "fighter/mario/motion/mantle/c06/c05attackairf.nuanmb",
             "fighter/mario/motion/mantle/c06/c05landingairf.nuanmb"
         ],
         "fighter/mario/c07": [
+            "fighter/mario/motion/mantle/c07/c03attacks4s.nuanmb",
+            "fighter/mario/motion/mantle/c07/c03attacks4charge.nuanmb",
             "fighter/mario/motion/mantle/c07/c05attackairf.nuanmb",
             "fighter/mario/motion/mantle/c07/c05landingairf.nuanmb"
         ],
