@@ -2182,6 +2182,38 @@
             "fighter/ryu/motion/body/c07/d00specialairn2.nuanmb",
             "fighter/ryu/motion/body/c07/d00specialn2.nuanmb"
         ],
+        "fighter/ryu/kirbycopy/c00/bodymotion": [
+            "fighter/kirby/motion/ryubody/c00/ryud00specialairn2.nuanmb",
+            "fighter/kirby/motion/ryubody/c00/ryud00specialn2.nuanmb"
+        ],
+        "fighter/ryu/kirbycopy/c01/bodymotion": [
+            "fighter/kirby/motion/ryubody/c00/ryud00specialairn2.nuanmb",
+            "fighter/kirby/motion/ryubody/c00/ryud00specialn2.nuanmb"
+        ],
+        "fighter/ryu/kirbycopy/c02/bodymotion": [
+            "fighter/kirby/motion/ryubody/c00/ryud00specialairn2.nuanmb",
+            "fighter/kirby/motion/ryubody/c00/ryud00specialn2.nuanmb"
+        ],
+        "fighter/ryu/kirbycopy/c03/bodymotion": [
+            "fighter/kirby/motion/ryubody/c00/ryud00specialairn2.nuanmb",
+            "fighter/kirby/motion/ryubody/c00/ryud00specialn2.nuanmb"
+        ],
+        "fighter/ryu/kirbycopy/c04/bodymotion": [
+            "fighter/kirby/motion/ryubody/c00/ryud00specialairn2.nuanmb",
+            "fighter/kirby/motion/ryubody/c00/ryud00specialn2.nuanmb"
+        ],
+        "fighter/ryu/kirbycopy/c05/bodymotion": [
+            "fighter/kirby/motion/ryubody/c00/ryud00specialairn2.nuanmb",
+            "fighter/kirby/motion/ryubody/c00/ryud00specialn2.nuanmb"
+        ],
+        "fighter/ryu/kirbycopy/c06/bodymotion": [
+            "fighter/kirby/motion/ryubody/c00/ryud00specialairn2.nuanmb",
+            "fighter/kirby/motion/ryubody/c00/ryud00specialn2.nuanmb"
+        ],
+        "fighter/ryu/kirbycopy/c07/bodymotion": [
+            "fighter/kirby/motion/ryubody/c00/ryud00specialairn2.nuanmb",
+            "fighter/kirby/motion/ryubody/c00/ryud00specialn2.nuanmb"
+        ],
         "fighter/shulk/cmn/effect": [
             "effect/fighter/shulk/trail/tex_shulk_swordgreen1.nutexb",
             "effect/fighter/shulk/trail/tex_shulk_swordgreen2.nutexb",
