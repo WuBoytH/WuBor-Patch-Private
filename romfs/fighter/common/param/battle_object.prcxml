@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <struct>
   <int hash="damage_fly_speed_up_max_mag">4</int>
+  <int hash="just_shield_hitstop_frame_add">18</int>
+  <int hash="0x28492c704c">18</int>
+  <int hash="0x323a6f8f63">7</int>
+  <int hash="0x2bef82b907">7</int>
+  <int hash="just_shield_hitstop_frame_max">18</int>
   <float hash="fly_roll_rate">0</float>
   <list hash="0x1af80fd893">
     <float index="0">1</float>
