@@ -33,9 +33,17 @@
     </struct>
   </list>
   <struct hash="param_private">
-    <float hash="landing_attack_air_frame_n2">14</float>
-    <float hash="landing_attack_air_frame_n3">15</float>
-    <float hash="landing_attack_air_frame_f2">17</float>
-    <float hash="landing_attack_air_frame_f3">18</float>
+    <float hash="landing_attack_air_frame_n2">12</float>
+    <float hash="landing_attack_air_frame_n3">13</float>
+    <float hash="landing_attack_air_frame_f2">15</float>
+    <float hash="landing_attack_air_frame_f3">16</float>
   </struct>
+  <list hash="param_special_hi">
+    <struct index="0">
+      <int hash="landing_frame">28</int>
+    </struct>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
+  </list>
 </struct>

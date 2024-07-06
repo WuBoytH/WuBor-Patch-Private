@@ -4139,7 +4139,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 61
+      cancel_frame: 41
       no_stop_intp: false
   special_hi_landing_l:
     game_script: game_specialhilandingl
@@ -4169,7 +4169,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 61
+      cancel_frame: 41
       no_stop_intp: false
   special_hi_hit:
     game_script: game_specialhihit

@@ -28,6 +28,7 @@
       <float hash="max_speed_x">1.155</float>
       <float hash="dec_speed_x">0.04</float>
       <float hash="fly_initial_speed_x">1</float>
+      <float hash="landing_frame">20</float>
     </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>

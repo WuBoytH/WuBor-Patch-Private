@@ -16,11 +16,12 @@
     <hash40 index="8">dummy</hash40>
     <hash40 index="9">dummy</hash40>
     <hash40 index="10">dummy</hash40>
-    <struct index="11">dummy</struct>
-    <struct index="12">dummy</struct>
+    <hash40 index="11">dummy</hash40>
+    <hash40 index="12">dummy</hash40>
     <struct index="13">
       <hash40 hash="status">hit_status_off</hash40>
     </struct>
+  </list>
   <list hash="cliff_hang_data">
     <struct index="0">
       <float hash="p1_x">12</float>
@@ -34,5 +35,14 @@
       <float hash="p2_x">-11</float>
       <float hash="p2_y">8.5</float>
     </struct>
+  </list>
+  <list hash="param_special_hi">
+    <struct index="0">
+      <int hash="move_cliff_check">100</int>
+      <float hash="landing_frame">24</float>
+    </struct>
+    <hash40 index="1">dummy</hash40>
+    <hash40 index="2">dummy</hash40>
+    <hash40 index="3">dummy</hash40>
   </list>
 </struct>
