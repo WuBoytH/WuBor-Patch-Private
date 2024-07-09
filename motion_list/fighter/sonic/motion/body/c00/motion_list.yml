@@ -3961,6 +3961,96 @@ list:
       xlu_end: 0
       cancel_frame: 30
       no_stop_intp: false
+  special_air_lw_2_start:
+    game_script: game_specialairlw2start
+    flags:
+      turn: false
+      loop: false
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d03specialairlw2start.nuanmb
+        unk: 0
+    scripts:
+      - expression_specialairlw2start
+      - sound_specialairlw2start
+      - effect_specialairlw2start
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 0
+      no_stop_intp: false
+  special_air_lw_2_loop:
+    game_script: game_specialairlw2loop
+    flags:
+      turn: false
+      loop: true
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d03specialairlw2loop.nuanmb
+        unk: 0
+    scripts:
+      - expression_specialairlw2loop
+      - sound_specialairlw2loop
+      - effect_specialairlw2loop
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 0
+      no_stop_intp: false
+  special_air_lw_2_bound:
+    game_script: game_specialairlw2bound
+    flags:
+      turn: false
+      loop: false
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: d03specialairlw2bound.nuanmb
+        unk: 0
+    scripts:
+      - expression_specialairlw2bound
+      - sound_specialairlw2bound
+      - effect_specialairlw2bound
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 30
+      no_stop_intp: false
   final_start:
     game_script: game_finalstart
     flags:
