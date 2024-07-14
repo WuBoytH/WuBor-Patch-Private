@@ -34,9 +34,10 @@
   </list>
   <list hash="param_special_hi">
     <struct index="0">
-      <float hash="special_hi_jump_speed_y">5.2</float>
+      <float hash="special_hi_jump_speed_y">4.9</float>
       <float hash="special_hi_jump_accel_y">-0.5</float>
       <float hash="special_hi_start_squat_y">5</float>
+      <float hash="special_hi_start_squat_frame">5</float>
     </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
