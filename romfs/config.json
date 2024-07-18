@@ -1398,6 +1398,70 @@
         "fighter/ganon/c07": [
             "fighter/ganon/motion/body/c07/c02attacklw32.nuanmb"
         ],
+        "fighter/jack/c00": [
+            "fighter/jack/motion/body/c00/d05specialscatch.nuanmb",
+            "fighter/jack/motion/body/c00/d05specialscatchjump.nuanmb",
+            "fighter/jack/motion/body/c00/d05specialsgirlcatch.nuanmb",
+            "fighter/jack/motion/body/c00/d05specialsgirlcatchjump.nuanmb",
+            "fighter/jack/motion/body/c00/d05specialsdxcatch.nuanmb",
+            "fighter/jack/motion/body/c00/d05specialsdxcatchjump.nuanmb"
+        ],
+        "fighter/jack/c01": [
+            "fighter/jack/motion/body/c01/d05specialscatch.nuanmb",
+            "fighter/jack/motion/body/c01/d05specialscatchjump.nuanmb",
+            "fighter/jack/motion/body/c01/d05specialsgirlcatch.nuanmb",
+            "fighter/jack/motion/body/c01/d05specialsgirlcatchjump.nuanmb",
+            "fighter/jack/motion/body/c01/d05specialsdxcatch.nuanmb",
+            "fighter/jack/motion/body/c01/d05specialsdxcatchjump.nuanmb"
+        ],
+        "fighter/jack/c02": [
+            "fighter/jack/motion/body/c02/d05specialscatch.nuanmb",
+            "fighter/jack/motion/body/c02/d05specialscatchjump.nuanmb",
+            "fighter/jack/motion/body/c02/d05specialsgirlcatch.nuanmb",
+            "fighter/jack/motion/body/c02/d05specialsgirlcatchjump.nuanmb",
+            "fighter/jack/motion/body/c02/d05specialsdxcatch.nuanmb",
+            "fighter/jack/motion/body/c02/d05specialsdxcatchjump.nuanmb"
+        ],
+        "fighter/jack/c03": [
+            "fighter/jack/motion/body/c03/d05specialscatch.nuanmb",
+            "fighter/jack/motion/body/c03/d05specialscatchjump.nuanmb",
+            "fighter/jack/motion/body/c03/d05specialsgirlcatch.nuanmb",
+            "fighter/jack/motion/body/c03/d05specialsgirlcatchjump.nuanmb",
+            "fighter/jack/motion/body/c03/d05specialsdxcatch.nuanmb",
+            "fighter/jack/motion/body/c03/d05specialsdxcatchjump.nuanmb"
+        ],
+        "fighter/jack/c04": [
+            "fighter/jack/motion/body/c04/d05specialscatch.nuanmb",
+            "fighter/jack/motion/body/c04/d05specialscatchjump.nuanmb",
+            "fighter/jack/motion/body/c04/d05specialsgirlcatch.nuanmb",
+            "fighter/jack/motion/body/c04/d05specialsgirlcatchjump.nuanmb",
+            "fighter/jack/motion/body/c04/d05specialsdxcatch.nuanmb",
+            "fighter/jack/motion/body/c04/d05specialsdxcatchjump.nuanmb"
+        ],
+        "fighter/jack/c05": [
+            "fighter/jack/motion/body/c05/d05specialscatch.nuanmb",
+            "fighter/jack/motion/body/c05/d05specialscatchjump.nuanmb",
+            "fighter/jack/motion/body/c05/d05specialsgirlcatch.nuanmb",
+            "fighter/jack/motion/body/c05/d05specialsgirlcatchjump.nuanmb",
+            "fighter/jack/motion/body/c05/d05specialsdxcatch.nuanmb",
+            "fighter/jack/motion/body/c05/d05specialsdxcatchjump.nuanmb"
+        ],
+        "fighter/jack/c06": [
+            "fighter/jack/motion/body/c06/d05specialscatch.nuanmb",
+            "fighter/jack/motion/body/c06/d05specialscatchjump.nuanmb",
+            "fighter/jack/motion/body/c06/d05specialsgirlcatch.nuanmb",
+            "fighter/jack/motion/body/c06/d05specialsgirlcatchjump.nuanmb",
+            "fighter/jack/motion/body/c06/d05specialsdxcatch.nuanmb",
+            "fighter/jack/motion/body/c06/d05specialsdxcatchjump.nuanmb"
+        ],
+        "fighter/jack/c07": [
+            "fighter/jack/motion/body/c07/d05specialscatch.nuanmb",
+            "fighter/jack/motion/body/c07/d05specialscatchjump.nuanmb",
+            "fighter/jack/motion/body/c07/d05specialsgirlcatch.nuanmb",
+            "fighter/jack/motion/body/c07/d05specialsgirlcatchjump.nuanmb",
+            "fighter/jack/motion/body/c07/d05specialsdxcatch.nuanmb",
+            "fighter/jack/motion/body/c07/d05specialsdxcatchjump.nuanmb"
+        ],
         "fighter/ken/c00": [
             "fighter/ken/motion/body/c00/c01attacks3s2.nuanmb",
             "fighter/ken/motion/body/c00/d01specialairs2end.nuanmb",
