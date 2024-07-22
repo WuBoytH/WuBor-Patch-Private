@@ -721,6 +721,36 @@ list:
       xlu_end: 0
       cancel_frame: 0
       no_stop_intp: false
+  jump_mini:
+    game_script: game_jumpmini
+    flags:
+      turn: false
+      loop: false
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: a03jumpmini.nuanmb
+        unk: 0
+    scripts:
+      - expression_jumpmini
+      - sound_jumpmini
+      - effect_jumpmini
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 0
+      no_stop_intp: false
   jump_f_mini:
     game_script: game_jumpfrontmini
     flags:
@@ -740,7 +770,7 @@ list:
       unk_2000: false
     blend_frames: 0
     animations:
-      - name: a03jumpf.nuanmb
+      - name: a03jumpminif.nuanmb
         unk: 0
     scripts:
       - expression_jumpfrontmini
@@ -770,7 +800,7 @@ list:
       unk_2000: false
     blend_frames: 0
     animations:
-      - name: a03jumpb.nuanmb
+      - name: a03jumpminib.nuanmb
         unk: 0
     scripts:
       - expression_jumpbackmini
