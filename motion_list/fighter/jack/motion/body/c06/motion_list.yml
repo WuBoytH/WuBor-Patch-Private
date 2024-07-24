@@ -3747,7 +3747,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 42
+      cancel_frame: 47
       no_stop_intp: false
   special_s1_catch:
     game_script: game_specials1catch
@@ -3768,7 +3768,7 @@ list:
       unk_2000: false
     blend_frames: 0
     animations:
-      - name: e00catchattack.nuanmb
+      - name: d01specials1catch.nuanmb
         unk: 0
     scripts:
       - expression_specials1catch
@@ -3807,7 +3807,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 0
+      cancel_frame: 10
       no_stop_intp: false
   special_s2:
     game_script: game_specials2
