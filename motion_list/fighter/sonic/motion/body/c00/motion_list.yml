@@ -1441,6 +1441,96 @@ list:
       xlu_end: 0
       cancel_frame: 7
       no_stop_intp: false
+  look_up:
+    game_script: game_lookup
+    flags:
+      turn: false
+      loop: false
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: a05lookup.nuanmb
+        unk: 0
+    scripts:
+      - expression_lookup
+      - sound_lookup
+      - effect_lookup
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 7
+      no_stop_intp: false
+  look_up_wait:
+    game_script: game_lookupwait1
+    flags:
+      turn: false
+      loop: true
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: false
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 6
+    animations:
+      - name: a05lookupwait.nuanmb
+        unk: 0
+    scripts:
+      - expression_lookupwait1
+      - sound_lookupwait1
+      - effect_lookupwait1
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 0
+      no_stop_intp: false
+  look_up_rv:
+    game_script: game_lookuprv
+    flags:
+      turn: false
+      loop: false
+      move: false
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: true
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: a05lookuprv.nuanmb
+        unk: 0
+    scripts:
+      - expression_lookuprv
+      - sound_lookuprv
+      - effect_lookuprv
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 7
+      no_stop_intp: false
   landing_light:
     game_script: game_landinglight
     flags:
