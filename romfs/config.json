@@ -2379,6 +2379,7 @@
             "fighter/sonic/motion/body/c00/d03specialairlw2start.nuanmb",
             "fighter/sonic/motion/body/c00/d03specialairlw2loop.nuanmb",
             "fighter/sonic/motion/body/c00/d03specialairlw2bound.nuanmb",
+            "fighter/sonic/motion/body/c00/d05trickn.nuanmb",
             "fighter/sonic/motion/body/c00/d05trickhi.nuanmb",
             "fighter/sonic/motion/body/c00/d05trickf.nuanmb",
             "fighter/sonic/motion/body/c00/d05trickb.nuanmb"
@@ -2397,6 +2398,7 @@
             "fighter/sonic/motion/body/c01/d03specialairlw2start.nuanmb",
             "fighter/sonic/motion/body/c01/d03specialairlw2loop.nuanmb",
             "fighter/sonic/motion/body/c01/d03specialairlw2bound.nuanmb",
+            "fighter/sonic/motion/body/c01/d05trickn.nuanmb",
             "fighter/sonic/motion/body/c01/d05trickhi.nuanmb",
             "fighter/sonic/motion/body/c01/d05trickf.nuanmb",
             "fighter/sonic/motion/body/c01/d05trickb.nuanmb"
@@ -2415,6 +2417,7 @@
             "fighter/sonic/motion/body/c02/d03specialairlw2start.nuanmb",
             "fighter/sonic/motion/body/c02/d03specialairlw2loop.nuanmb",
             "fighter/sonic/motion/body/c02/d03specialairlw2bound.nuanmb",
+            "fighter/sonic/motion/body/c02/d05trickn.nuanmb",
             "fighter/sonic/motion/body/c02/d05trickhi.nuanmb",
             "fighter/sonic/motion/body/c02/d05trickf.nuanmb",
             "fighter/sonic/motion/body/c02/d05trickb.nuanmb"
@@ -2433,6 +2436,7 @@
             "fighter/sonic/motion/body/c03/d03specialairlw2start.nuanmb",
             "fighter/sonic/motion/body/c03/d03specialairlw2loop.nuanmb",
             "fighter/sonic/motion/body/c03/d03specialairlw2bound.nuanmb",
+            "fighter/sonic/motion/body/c03/d05trickn.nuanmb",
             "fighter/sonic/motion/body/c03/d05trickhi.nuanmb",
             "fighter/sonic/motion/body/c03/d05trickf.nuanmb",
             "fighter/sonic/motion/body/c03/d05trickb.nuanmb"
@@ -2451,6 +2455,7 @@
             "fighter/sonic/motion/body/c04/d03specialairlw2start.nuanmb",
             "fighter/sonic/motion/body/c04/d03specialairlw2loop.nuanmb",
             "fighter/sonic/motion/body/c04/d03specialairlw2bound.nuanmb",
+            "fighter/sonic/motion/body/c04/d05trickn.nuanmb",
             "fighter/sonic/motion/body/c04/d05trickhi.nuanmb",
             "fighter/sonic/motion/body/c04/d05trickf.nuanmb",
             "fighter/sonic/motion/body/c04/d05trickb.nuanmb"
@@ -2469,6 +2474,7 @@
             "fighter/sonic/motion/body/c05/d03specialairlw2start.nuanmb",
             "fighter/sonic/motion/body/c05/d03specialairlw2loop.nuanmb",
             "fighter/sonic/motion/body/c05/d03specialairlw2bound.nuanmb",
+            "fighter/sonic/motion/body/c05/d05trickn.nuanmb",
             "fighter/sonic/motion/body/c05/d05trickhi.nuanmb",
             "fighter/sonic/motion/body/c05/d05trickf.nuanmb",
             "fighter/sonic/motion/body/c05/d05trickb.nuanmb"
@@ -2487,6 +2493,7 @@
             "fighter/sonic/motion/body/c06/d03specialairlw2start.nuanmb",
             "fighter/sonic/motion/body/c06/d03specialairlw2loop.nuanmb",
             "fighter/sonic/motion/body/c06/d03specialairlw2bound.nuanmb",
+            "fighter/sonic/motion/body/c06/d05trickn.nuanmb",
             "fighter/sonic/motion/body/c06/d05trickhi.nuanmb",
             "fighter/sonic/motion/body/c06/d05trickf.nuanmb",
             "fighter/sonic/motion/body/c06/d05trickb.nuanmb"
@@ -2505,6 +2512,7 @@
             "fighter/sonic/motion/body/c07/d03specialairlw2start.nuanmb",
             "fighter/sonic/motion/body/c07/d03specialairlw2loop.nuanmb",
             "fighter/sonic/motion/body/c07/d03specialairlw2bound.nuanmb",
+            "fighter/sonic/motion/body/c07/d05trickn.nuanmb",
             "fighter/sonic/motion/body/c07/d05trickhi.nuanmb",
             "fighter/sonic/motion/body/c07/d05trickf.nuanmb",
             "fighter/sonic/motion/body/c07/d05trickb.nuanmb"
