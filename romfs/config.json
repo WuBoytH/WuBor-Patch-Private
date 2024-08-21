@@ -465,6 +465,15 @@
             "fighter/demon/motion/body/c06/c05landingairlw.nuanmb",
             "fighter/demon/motion/body/c07/c05landingairlw.nuanmb"
         ],
+        "fighter/demon/motion/body/c00/c08attackstep32.nuanmb": [
+            "fighter/demon/motion/body/c01/c08attackstep32.nuanmb",
+            "fighter/demon/motion/body/c02/c08attackstep32.nuanmb",
+            "fighter/demon/motion/body/c03/c08attackstep32.nuanmb",
+            "fighter/demon/motion/body/c04/c08attackstep32.nuanmb",
+            "fighter/demon/motion/body/c05/c08attackstep32.nuanmb",
+            "fighter/demon/motion/body/c06/c08attackstep32.nuanmb",
+            "fighter/demon/motion/body/c07/c08attackstep32.nuanmb"
+        ],
         "fighter/demon/motion/body/c00/j01appealhilloop.nuanmb": [
             "fighter/demon/motion/body/c01/j01appealhilloop.nuanmb",
             "fighter/demon/motion/body/c02/j01appealhilloop.nuanmb",
@@ -1156,34 +1165,43 @@
             "fighter/cloud/motion/body/c07/j01appealsloop.nuanmb"
         ],
         "fighter/demon/c00": [
+            "fighter/demon/motion/body/c00/c08attackstep32.nuanmb",
+            "fighter/demon/motion/body/c00/j01appealhilloop.nuanmb",
             "fighter/demon/motion/body/c00/j01appealhilloop.nuanmb",
             "fighter/demon/motion/body/c00/j01appealhirloop.nuanmb"
         ],
         "fighter/demon/c01": [
+            "fighter/demon/motion/body/c01/c08attackstep32.nuanmb",
             "fighter/demon/motion/body/c01/j01appealhilloop.nuanmb",
             "fighter/demon/motion/body/c01/j01appealhirloop.nuanmb"
         ],
         "fighter/demon/c02": [
+            "fighter/demon/motion/body/c02/c08attackstep32.nuanmb",
             "fighter/demon/motion/body/c02/j01appealhilloop.nuanmb",
             "fighter/demon/motion/body/c02/j01appealhirloop.nuanmb"
         ],
         "fighter/demon/c03": [
+            "fighter/demon/motion/body/c03/c08attackstep32.nuanmb",
             "fighter/demon/motion/body/c03/j01appealhilloop.nuanmb",
             "fighter/demon/motion/body/c03/j01appealhirloop.nuanmb"
         ],
         "fighter/demon/c04": [
+            "fighter/demon/motion/body/c04/c08attackstep32.nuanmb",
             "fighter/demon/motion/body/c04/j01appealhilloop.nuanmb",
             "fighter/demon/motion/body/c04/j01appealhirloop.nuanmb"
         ],
         "fighter/demon/c05": [
+            "fighter/demon/motion/body/c05/c08attackstep32.nuanmb",
             "fighter/demon/motion/body/c05/j01appealhilloop.nuanmb",
             "fighter/demon/motion/body/c05/j01appealhirloop.nuanmb"
         ],
         "fighter/demon/c06": [
+            "fighter/demon/motion/body/c06/c08attackstep32.nuanmb",
             "fighter/demon/motion/body/c06/j01appealhilloop.nuanmb",
             "fighter/demon/motion/body/c06/j01appealhirloop.nuanmb"
         ],
         "fighter/demon/c07": [
+            "fighter/demon/motion/body/c07/c08attackstep32.nuanmb",
             "fighter/demon/motion/body/c07/j01appealhilloop.nuanmb",
             "fighter/demon/motion/body/c07/j01appealhirloop.nuanmb"
         ],

@@ -3931,6 +3931,66 @@ list:
       xlu_end: 9
       cancel_frame: 66
       no_stop_intp: false
+  attack_step_2s_h:
+    game_script: game_attackstep2sh
+    flags:
+      turn: false
+      loop: false
+      move: true
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: false
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: c08attackstep32.nuanmb
+        unk: 0
+    scripts:
+      - expression_attackstep2sh
+      - sound_attackstep2sh
+      - effect_attackstep2sh
+    extra:
+      xlu_start: 3
+      xlu_end: 9
+      cancel_frame: 0
+      no_stop_intp: false
+  attack_step_2s_s:
+    game_script: game_attackstep2ss
+    flags:
+      turn: false
+      loop: false
+      move: true
+      fix_trans: false
+      fix_rot: false
+      fix_scale: false
+      unk_40: false
+      unk_80: false
+      unk_100: false
+      unk_200: false
+      unk_400: false
+      unk_800: false
+      unk_1000: false
+      unk_2000: false
+    blend_frames: 0
+    animations:
+      - name: c08attackstep.nuanmb
+        unk: 0
+    scripts:
+      - expression_attackstep2ss
+      - sound_attackstep2ss
+      - effect_attackstep2ss
+    extra:
+      xlu_start: 0
+      xlu_end: 0
+      cancel_frame: 0
+      no_stop_intp: false
   attack_rage_drive:
     game_script: game_attackragedrive
     flags:
