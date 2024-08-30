@@ -39,6 +39,7 @@
   <int hash="cliff_wait_air_xlu_max_frame">30</int>
   <int hash="cliff_wait_damage_xlu_max_frame">30</int>
   <int hash="cliff_wait_xlu_min_frame">11</int>
+  <int hash="air_lasso_cliff_wait_frame">12</int>
   <int hash="passive_trigger_frame">20</int>
   <float hash="passive_fb_cont_value">0.7</float>
   <float hash="damage_fly_correction_max">12.0321</float>
