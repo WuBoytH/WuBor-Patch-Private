@@ -3450,7 +3450,7 @@ list:
       xlu_start: 0
       xlu_end: 0
       cancel_frame: 0
-      no_stop_intp: false
+      no_stop_intp: true
   special_hi_command:
     game_script: game_specialhicommand
     flags:
@@ -3480,7 +3480,7 @@ list:
       xlu_start: 5
       xlu_end: 17
       cancel_frame: 0
-      no_stop_intp: false
+      no_stop_intp: true
   special_hi_fall:
     game_script: game_specialhifall
     flags:
@@ -3570,7 +3570,7 @@ list:
       xlu_start: 0
       xlu_end: 0
       cancel_frame: 0
-      no_stop_intp: false
+      no_stop_intp: true
   special_air_hi_command:
     game_script: game_specialairhicommand
     flags:
@@ -3600,7 +3600,7 @@ list:
       xlu_start: 5
       xlu_end: 12
       cancel_frame: 0
-      no_stop_intp: false
+      no_stop_intp: true
   special_air_hi_end:
     game_script: game_specialairhiend
     flags:
