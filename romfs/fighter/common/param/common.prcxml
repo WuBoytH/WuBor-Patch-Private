@@ -10,9 +10,10 @@
   <float hash="squat_damage_reaction_mul">1</float>
   <float hash="shield_max">72</float>
   <float hash="shield_scale_min">1</float>
-  <float hash="shield_dec1">0.12</float>
+  <float hash="shield_dec1">0.18</float>
   <float hash="shield_recovery1">0.08</float>
-  <float hash="shield_stiff_mul_attack_air">0.75</float>
+  <float hash="shield_setoff_mul_fighter_shot">1</float>
+  <float hash="shield_stiff_mul_attack_air">1</float>
   <int hash="guard_off_cancel_frame">5</int>
   <int hash="guard_off_enable_shield_frame">6</int>
   <int hash="guard_off_disable_shield_recovery">5</int>
