@@ -37,6 +37,7 @@
     <float hash="rebel_gauge_add">0</float>
     <int hash="doyle_frame">900</int>
     <float hash="rebel_gauge_keep_ratio">0</float>
+    <int hash="summon_dispatch_xlu_frame">0</int>
     <float hash="rebel_gauge_add_handi_mul">0</float>
   </struct>
   <list hash="rebel_gauge_damage_rate">

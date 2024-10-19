@@ -34,9 +34,9 @@
   <list hash="param_wave">
     <struct index="0">
       <int hash="lifetime_ground_w">104</int>
-      <int hash="lifetime_ground_s">75</int>
+      <int hash="lifetime_ground_s">20</int>
       <float hash="speed_ground_w">0.9</float>
-      <float hash="speed_ground_s">1.5</float>
+      <float hash="speed_ground_s">0.4</float>
     </struct>
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>

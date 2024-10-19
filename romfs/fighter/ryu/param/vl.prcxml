@@ -68,4 +68,10 @@
     <hash40 index="2">dummy</hash40>
     <hash40 index="3">dummy</hash40>
   </list>
+  <list hash="param_shinkuhadoken">
+    <struct index="0">
+      <int hash="life">80</int>
+      <float hash="spd">1.1</float>
+    </struct>
+  </list>
 </struct>
