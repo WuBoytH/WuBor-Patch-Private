@@ -2496,7 +2496,7 @@ list:
     flags:
       turn: false
       loop: false
-      move: false
+      move: true
       fix_trans: false
       fix_rot: false
       fix_scale: false
@@ -2519,14 +2519,14 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 20
+      cancel_frame: 0
       no_stop_intp: true
   attack_lw32:
     game_script: game_attacklw32
     flags:
       turn: false
       loop: false
-      move: false
+      move: true
       fix_trans: false
       fix_rot: false
       fix_scale: false
@@ -2549,7 +2549,7 @@ list:
     extra:
       xlu_start: 0
       xlu_end: 0
-      cancel_frame: 23
+      cancel_frame: 40
       no_stop_intp: true
   attack_s4_s:
     game_script: game_attacks4
